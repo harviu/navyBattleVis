@@ -2,6 +2,7 @@ import urllib.request
 import re
 import json
 
+
 def readRawListFile(fileName):
     p = re.compile(r'(/ship_spec\.php\?ship_id=\w+).*?(United States|Japan)')
     with open(fileName, 'r',encoding='iso-8859-1') as listFile:
