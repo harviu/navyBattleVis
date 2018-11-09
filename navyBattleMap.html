@@ -1,17 +1,46 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
+<head>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+crossorigin="anonymous" />
 <style>
 path {
   stroke: white;
   stroke-width: 0.25px;
   fill: grey;
 }
+#BattleMap {
+	margin-top: 40px;
+	margin-left: 40px;
+	}
+#Map {
+	float: left;
+    }
+#MapButtons {
+	display: inline-block;
+	margin-left: 40px;
+	}
 </style>
+</head>
 <body>
+<div id="BattleMap" width="1500" height="500">
+	    <div id="Map" width="1000" height="500"></div>
+		<div id="MapButtons" width="300">
+		 <br /><br /><br /><br />
+		 <p><ins>Select Battle Ships</ins></p>
+		 <button onclick="myFunction()" type="button" class="btn btn-primary">Battle Ship</button>
+		 <br /><br />
+		 <button onclick="myFunction()" type="button" class="btn btn-primary">Navy Ship</button>
+		 <br /><br />
+		 <button onclick="myFunction()" type="button" class="btn btn-primary">Mini Ship</button>
+		</div>
+	  </div>
+	  
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="http://d3js.org/topojson.v0.min.js"></script>
 <script>
-var width = 960,
+var width = 1000,
     height = 500;
 
 var projection = d3.geoMercator()
@@ -28,7 +57,7 @@ var zoom = d3.zoom()
     .extent([[0, 0], [width, height]])
     .on("zoom", zoomed);
 
-var svg = d3.select("body").append("svg")
+var svg = d3.select("#Map").append("svg")
             .attr("width", width)
             .attr("height", height)
 			.call(zoom);
@@ -36,7 +65,7 @@ var svg = d3.select("body").append("svg")
 var g = svg.append("g");
            
 
-// load and display the World
+// load and display the Pacific Theatre
 d3.json("world-110m2.json", function(error, topology) {
      g.selectAll("path")
       .data(topojson.object(topology, topology.objects.countries).geometries)
