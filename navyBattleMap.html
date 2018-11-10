@@ -98,14 +98,14 @@ d3.json("ships.json",shipsData);
 
 function shipsData(error, data){
  battleships = []
- data.forEach(function(d){if(d["Ship Class"].search("Battleship") != -1)
-                           battleships.push(d.name)});
+ data.forEach(function(d,i){if(d["Ship Class"].search("Battleship") != -1)
+                           battleships.push({ key: i, value: d.name});});
  carriers = []
- data.forEach(function(d){if(d["Ship Class"].search("Carrier") != -1)
-                           carriers.push(d.name)});
+ data.forEach(function(d,i){if(d["Ship Class"].search("Carrier") != -1)
+                           carriers.push({ key: i, value: d.name})});
  cruisers = []
- data.forEach(function(d){if(d["Ship Class"].search("Cruiser") != -1)
-                           cruisers.push(d.name)});
+ data.forEach(function(d,i){if(d["Ship Class"].search("Cruiser") != -1)
+                           cruisers.push({ key: i, value: d.name})});
 
  var selector_bs = d3.select("#BattleSelect")
                   .append("select")
@@ -113,27 +113,26 @@ function shipsData(error, data){
 		              .selectAll("option")
 	              	.data(battleships)
                   .enter().append("option")
-                  .text(function(d) {return d; });
-                  //.attr("value", function (d, i) { return i;});
+                  .text(function(d) {return d.value; })
+                  .attr("value", function (d) { return d.key;});
  var selector_car = d3.select("#CarrierSelect")
                   .append("select")
                   .attr("id", "shipselector")
 		              .selectAll("option")
 	              	.data(carriers)
                   .enter().append("option")
-                  .text(function(d) {return d; });
-                  //.attr("value", function (d, i) { return i;});
+                  .text(function(d) {return d.value; })
+                  .attr("value", function (d) { return d.key;});
  var selector_cru = d3.select("#CruiserSelect")
                   .append("select")
                   .attr("id", "shipselector")
 		              .selectAll("option")
 	              	.data(cruisers)
                   .enter().append("option")
-                  .text(function(d) {return d; });
-                  //.attr("value", function (d, i) { return i;});
+                  .text(function(d) {return d.value; })
+                  .attr("value", function (d) { return d.key;});
 }
 
 </script>
-<script src="drawShips.js"></script>
 </body>
 </html>
