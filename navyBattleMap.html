@@ -10,40 +10,48 @@ path {
   stroke-width: 0.25px;
   fill: grey;
 }
-/* #BattleMap {
+#BattleMap {
 	margin-top: 40px;
 	margin-left: 40px;
-	} */
-/* #Map {
-	float: bottom;
-    }  */
-#MapButtons {
-	display: inline-block;
+	}
+#Map {
+	float: left;
+    }
+#ShipInfo {
 	margin-left: 40px;
 	}
-  #timeSlider {
-    width: 800px;
-  }
+#ShipOptions {
+  position: relative;
+  top: 40px;
+  left: 40px;
+}
+#BattleSelect, #CarrierSelect, #CruiserSelect{
+  float: left;
+}
 </style>
 </head>
 <body>
 <div id="BattleMap" width="1500" height="500">
-    <div id="Map"></div>
-    <input type="range" id = "timeSlider">
+    <div id="Map" width="800" height="400"></div>
+    <div id="ShipInfo" width="400" height="400"></div>
 </div>
-
-<div id="MapButtons">
-  <p><ins>Select Ship Type</ins></p>
-  <button onclick="myFunction()" type="button" class="btn btn-primary">Battle Ship</button>
-  <button onclick="myFunction()" type="button" class="btn btn-primary">Navy Ship</button>
-  <button onclick="myFunction()" type="button" class="btn btn-primary">Mini Ship</button>
- </div>
+<div id="ShipOptions" width="1500" height="100">
+    <div id="BattleSelect">
+        <p><ins>Select Battle Ships:</ins></p>
+    </div>
+    <div id="CarrierSelect" style="margin-left: 40px;">
+        <p><ins>Select Carriers:</ins></p>
+    </div>
+    <div id="CruiserSelect" style="margin-left: 40px;">
+        <p><ins>Select Cruisers:</ins></p>
+    </div>
+</div>
 	  
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="http://d3js.org/topojson.v0.min.js"></script>
 <script>
 width = 800;
-height = 500;
+height = 400;
 
 var projection = d3.geoMercator()
     .center([0, 25 ])
@@ -62,7 +70,7 @@ var zoom = d3.zoom()
 var svg = d3.select("#Map").append("svg")
             .attr("width", width)
             .attr("height", height)
-			.call(zoom);
+			      .call(zoom);
 
 
 var g = svg.append("g");
@@ -78,10 +86,51 @@ d3.json("world-110m2.json", function(error, topology) {
 });
 
 
-
-
 function zoomed() {
   g.attr("transform", d3.event.transform);
+}
+
+var svg_chart = d3.select("#ShipInfo").append("svg")
+                  .attr("width",400)
+			            .attr("height",400);
+
+d3.json("ships.json",shipsData);
+
+function shipsData(error, data){
+ battleships = []
+ data.forEach(function(d){if(d["Ship Class"].search("Battleship") != -1)
+                           battleships.push(d.name)});
+ carriers = []
+ data.forEach(function(d){if(d["Ship Class"].search("Carrier") != -1)
+                           carriers.push(d.name)});
+ cruisers = []
+ data.forEach(function(d){if(d["Ship Class"].search("Cruiser") != -1)
+                           cruisers.push(d.name)});
+
+ var selector_bs = d3.select("#BattleSelect")
+                  .append("select")
+                  .attr("id", "shipselector")
+		              .selectAll("option")
+	              	.data(battleships)
+                  .enter().append("option")
+                  .text(function(d) {return d; });
+                  //.attr("value", function (d, i) { return i;});
+ var selector_car = d3.select("#CarrierSelect")
+                  .append("select")
+                  .attr("id", "shipselector")
+		              .selectAll("option")
+	              	.data(carriers)
+                  .enter().append("option")
+                  .text(function(d) {return d; });
+                  //.attr("value", function (d, i) { return i;});
+ var selector_cru = d3.select("#CruiserSelect")
+                  .append("select")
+                  .attr("id", "shipselector")
+		              .selectAll("option")
+	              	.data(cruisers)
+                  .enter().append("option")
+                  .text(function(d) {return d; });
+                  //.attr("value", function (d, i) { return i;});
 }
 
 </script>
