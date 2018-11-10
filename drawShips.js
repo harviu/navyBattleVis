@@ -1,4 +1,3 @@
-
 latestTime = new Date(1945,7,15);
 earliestTime = new Date(1941,11,7);
 timeRange = Math.round((latestTime-earliestTime)/60/60/1000/24);
@@ -17,26 +16,42 @@ axis.append("svg")
     .style('width',1200)
     .style('height',20)
 
-var projection = d3.geoMercator()
-.center([0, 25 ])
-.scale(250)
-.rotate([-180,0]);
 
-var path = d3.geoPath()
-.projection(projection);
-
-
+mapSvg = d3.select("#Map").select('svg');
 
 d3.json("ships.json", function(error, data) {
+    let geo=[];
     for (ship of data){
+        coordinates =[];
+        
         for (event of ship.events){
-            tempDate = new Date(event.date);
-            if (tempDate>latestTime) latestTime = tempDate;
-            if (tempDate<earliestTime) earliestTime = tempDate;
+            let coord = event.geometry.split(',');
+            co =[];
+            co[0] = parseFloat(coord[1]);
+            co[1] = parseFloat(coord[0]);
+            coordinates.push(co);
         }
+        geo.push(coordinates);
     }
-    console.log(latestTime);
-    console.log(earliestTime);
+    console.log(geo);
+    
+    let shipsGroup = mapSvg.append('g');
+
+    for (let i in geo){
+        let ship = shipsGroup.append("g");
+        ship.selectAll("*")
+            .data(geo[i]).enter().append("circle")
+            .attr("cx", function (d) {
+                // if (projection(d)[0]==NaN){
+                    console.log(d);
+                    
+                // }
+                return projection(d)[0]; 
+            })
+            .attr("cy", function (d) { return projection(d)[1]; })
+            .attr("r", "2px")
+            .attr("fill", "red")
+    }
     
 });
 

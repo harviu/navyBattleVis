@@ -52,7 +52,7 @@ def main():
 
         info['events'] = []
         p3 = re.compile(r'''\["<div style='min-width: 180px; min-height: 50px;'>.*?\]''')
-        p4 = re.compile(r', -?\d+.*?(?=, \d*])')
+        p4 = re.compile(r', -?\d+(\.\d+)?, -?\d+(\.\d+)?(?=, -?\d*])')
         for location in p3.finditer(text):
             temp = p2.findall(location[0])
             geo = p4.search(location[0])[0][2:]
