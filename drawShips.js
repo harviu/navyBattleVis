@@ -9,14 +9,13 @@ currentTime = earliestTime;
 
 let timeScaler = d3.scaleTime()
     .domain([earliestTime,latestTime])
-    .range([0, 800]);
+    .range([0, 1200]);
 let timeSliderAxis= d3.axisBottom(timeScaler);
 axis = d3.select("#Axis");
 axis.append("svg")
     .call(timeSliderAxis.tickFormat(d3.timeFormat("%Y-%m")))
-    .style('width',820)
-    .style('height',30)
-
+    .style('width',1200)
+    .style('height',20)
 
 var projection = d3.geoMercator()
 .center([0, 25 ])

@@ -28,14 +28,18 @@ path {
 #BattleSelect, #CarrierSelect, #CruiserSelect{
   float: left;
 }
+#timeSlider{
+    width: 1200px;
+}
 </style>
 </head>
 <body>
-<div id="BattleMap" width="1500" height="500">
-    <div id="Map" width="800" height="400"></div>
+<div id="BattleMap" width="1500" height="600">
+    <div id="Map" width="800" height="500"></div>
+    <div id="ShipInfo" width="400" height="500"></div>
+    
     <input type="range" id = "timeSlider" onchange="setTime(this.value)">
     <div id = "Axis"></div>
-    <div id="ShipInfo" width="400" height="400"></div>
 </div>
 <div id="ShipOptions" width="1500" height="100">
     <div id="BattleSelect">
@@ -55,7 +59,7 @@ path {
 
 
 width = 800;
-height = 400;
+height = 500;
 
 var projection = d3.geoMercator()
     .center([0, 25 ])
@@ -96,7 +100,7 @@ function zoomed() {
 
 var svg_chart = d3.select("#ShipInfo").append("svg")
                   .attr("width",400)
-			            .attr("height",400);
+			      .attr("height",500);
 
 d3.json("ships.json",shipsData);
 
@@ -138,5 +142,6 @@ function shipsData(error, data){
 }
 
 </script>
+<script src ="drawShips.js"></script>
 </body>
 </html>
