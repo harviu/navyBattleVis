@@ -10,10 +10,10 @@ path {
   stroke-width: 0.25px;
   fill: grey;
 }
-/* #BattleMap {
+#BattleMap {
 	margin-top: 40px;
 	margin-left: 40px;
-	} */
+	}
 /* #Map {
 	float: bottom;
     }  */
@@ -29,7 +29,8 @@ path {
 <body>
 <div id="BattleMap" width="1500" height="500">
     <div id="Map"></div>
-    <input type="range" id = "timeSlider">
+    <input type="range" id = "timeSlider" onchange="setTime(this.value)">
+    <div id = "Axis"></div>
 </div>
 
 <div id="MapButtons">
@@ -42,7 +43,6 @@ path {
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="http://d3js.org/topojson.v0.min.js"></script>
 <script>
-let timeSliderAxis= d3.axisBottom(d3.scaleLinear().domain([min,max]).range([0,num*40]));
 
 
 width = 800;
