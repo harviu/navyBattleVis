@@ -10,32 +10,34 @@ path {
   stroke-width: 0.25px;
   fill: grey;
 }
-#BattleMap {
+/* #BattleMap {
 	margin-top: 40px;
 	margin-left: 40px;
-	}
-#Map {
-	float: left;
-    }
+	} */
+/* #Map {
+	float: bottom;
+    }  */
 #MapButtons {
 	display: inline-block;
 	margin-left: 40px;
 	}
+  #timeSlider {
+    width: 800px;
+  }
 </style>
 </head>
 <body>
 <div id="BattleMap" width="1500" height="500">
-	    <div id="Map"></div>
-		<div id="MapButtons" width="300">
-		 <br /><br /><br /><br />
-		 <p><ins>Select Battle Ships</ins></p>
-		 <button onclick="myFunction()" type="button" class="btn btn-primary">Battle Ship</button>
-		 <br /><br />
-		 <button onclick="myFunction()" type="button" class="btn btn-primary">Navy Ship</button>
-		 <br /><br />
-		 <button onclick="myFunction()" type="button" class="btn btn-primary">Mini Ship</button>
-		</div>
-	  </div>
+    <div id="Map"></div>
+    <input type="range" id = "timeSlider">
+</div>
+
+<div id="MapButtons">
+  <p><ins>Select Ship Type</ins></p>
+  <button onclick="myFunction()" type="button" class="btn btn-primary">Battle Ship</button>
+  <button onclick="myFunction()" type="button" class="btn btn-primary">Navy Ship</button>
+  <button onclick="myFunction()" type="button" class="btn btn-primary">Mini Ship</button>
+ </div>
 	  
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="http://d3js.org/topojson.v0.min.js"></script>
