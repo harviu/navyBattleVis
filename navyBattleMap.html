@@ -10,23 +10,68 @@ path {
   stroke-width: 0.25px;
   fill: grey;
 }
-#BattleMap {
+.BattleMap {
 	margin-top: 40px;
 	margin-left: 40px;
 	}
-#Map {
+.Map {
 	float: left;
     }
-#ShipInfo {
+.ShipInfo {
 	margin-left: 40px;
 	}
-#ShipOptions {
+.ShipOptions {
   position: relative;
   top: 40px;
   left: 40px;
 }
-#BattleSelect, #CarrierSelect, #CruiserSelect{
+.BattleSelect, .CarrierSelect, .CruiserSelect{
   float: left;
+  width: 200px;
+}
+.selectBox_BS, .selectBox_CAR, .selectBox_CRU {
+  position: relative;
+}
+.selectBox_BS select {
+  width: 100%;
+  font-weight: bold;
+}
+.selectBox_CAR select {
+  width: 100%;
+  font-weight: bold;
+}
+.selectBox_CRU select {
+  width: 100%;
+  font-weight: bold;
+}
+.overSelect_BS, .overSelect_CAR, .overSelect_CRU {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+#checkboxes_BS, #checkboxes_CAR, #checkboxes_CRU {
+  display: none;
+  border: 1px #dadada solid;
+}
+#checkboxes_BS label {
+  display: block;
+}
+#checkboxes_BS label:hover {
+  background-color: #1e90ff;
+}
+#checkboxes_CAR label {
+  display: block;
+}
+#checkboxes_CAR label:hover {
+  background-color: #1e90ff;
+}
+#checkboxes_CRU label {
+  display: block;
+}
+#checkboxes_CRU label:hover {
+  background-color: #1e90ff;
 }
 #timeSlider{
     width: 1200px;
@@ -34,22 +79,43 @@ path {
 </style>
 </head>
 <body>
-<div id="BattleMap" width="1500" height="600">
-    <div id="Map" width="800" height="500"></div>
-    <div id="ShipInfo" width="400" height="500"></div>
+<div class="BattleMap" width="1500" height="600">
+    <div class="Map" width="800" height="500"></div>
+    <div class="ShipInfo" width="400" height="500"></div>
     
     <input type="range" id = "timeSlider" onchange="setTime(this.value)">
     <div id = "Axis"></div>
 </div>
-<div id="ShipOptions" width="1500" height="100">
-    <div id="BattleSelect">
-        <p><ins>Select Battle Ships:</ins></p>
+<div class="ShipOptions" width="1500" height="100">
+    <div class="BattleSelect">
+        <div class="selectBox_BS" onclick="showCheckboxes_BS()">
+            <select>
+                <option>Select any Battle Ships</option>
+            </select>
+        <div class="overSelect_BS"></div>
+        </div>
+        <div id="checkboxes_BS">
+        </div>
     </div>
-    <div id="CarrierSelect" style="margin-left: 40px;">
-        <p><ins>Select Carriers:</ins></p>
+    <div class="CarrierSelect" style="margin-left: 40px;">
+        <div class="selectBox_CAR" onclick="showCheckboxes_CAR()">
+            <select>
+                <option>Select any Carriers</option>
+            </select>
+        <div class="overSelect_CAR"></div>
+        </div>
+        <div id="checkboxes_CAR">
+        </div>
     </div>
-    <div id="CruiserSelect" style="margin-left: 40px;">
-        <p><ins>Select Cruisers:</ins></p>
+    <div class="CruiserSelect" style="margin-left: 40px;">
+        <div class="selectBox_CRU" onclick="showCheckboxes_CRU()">
+            <select>
+                <option>Select any Cruisers</option>
+            </select>
+        <div class="overSelect_CRU"></div>
+        </div>
+        <div id="checkboxes_CRU">
+        </div>
     </div>
 </div>
 	  
@@ -57,9 +123,43 @@ path {
 <script src="http://d3js.org/topojson.v0.min.js"></script>
 <script>
 
-
 width = 800;
 height = 500;
+
+var expanded = false;
+
+function showCheckboxes_BS() {
+  var checkboxes = document.getElementById("checkboxes_BS");
+  if (!expanded) {
+    checkboxes.style.display = "block";
+    expanded = true;
+  } else {
+    checkboxes.style.display = "none";
+    expanded = false;
+  }
+}
+
+function showCheckboxes_CAR() {
+  var checkboxes = document.getElementById("checkboxes_CAR");
+  if (!expanded) {
+    checkboxes.style.display = "block";
+    expanded = true;
+  } else {
+    checkboxes.style.display = "none";
+    expanded = false;
+  }
+}
+
+function showCheckboxes_CRU() {
+  var checkboxes = document.getElementById("checkboxes_CRU");
+  if (!expanded) {
+    checkboxes.style.display = "block";
+    expanded = true;
+  } else {
+    checkboxes.style.display = "none";
+    expanded = false;
+  }
+}
 
 var projection = d3.geoMercator()
     .center([0, 25 ])
@@ -75,7 +175,7 @@ var zoom = d3.zoom()
     .extent([[0, 0], [width, height]])
     .on("zoom", zoomed);
 
-var svg = d3.select("#Map").append("svg")
+var svg = d3.select(".Map").append("svg")
             .attr("width", width)
             .attr("height", height)
 			      .call(zoom);
@@ -98,7 +198,7 @@ function zoomed() {
   g.attr("transform", d3.event.transform);
 }
 
-var svg_chart = d3.select("#ShipInfo").append("svg")
+var svg_chart = d3.select(".ShipInfo").append("svg")
                   .attr("width",400)
 			      .attr("height",500);
 
@@ -106,39 +206,38 @@ d3.json("ships.json",shipsData);
 
 function shipsData(error, data){
  battleships = []
- data.forEach(function(d,i){if(d["Ship Class"].search("Battleship") != -1)
+ data.forEach(function(d,i){if(d["Ship Class"].search("Battleship") != -1 || d["Ship Class"].search("Large Cruiser") != -1)
                            battleships.push({ key: i, value: d.name});});
  carriers = []
  data.forEach(function(d,i){if(d["Ship Class"].search("Carrier") != -1)
                            carriers.push({ key: i, value: d.name})});
  cruisers = []
- data.forEach(function(d,i){if(d["Ship Class"].search("Cruiser") != -1)
+ data.forEach(function(d,i){if(d["Ship Class"].search("Cruiser") != -1 && d["Ship Class"].search("Large Cruiser") == -1)
                            cruisers.push({ key: i, value: d.name})});
 
- var selector_bs = d3.select("#BattleSelect")
-                  .append("select")
-                  .attr("id", "shipselector")
-		              .selectAll("option")
-	              	.data(battleships)
-                  .enter().append("option")
-                  .text(function(d) {return d.value; })
-                  .attr("value", function (d) { return d.key;});
- var selector_car = d3.select("#CarrierSelect")
-                  .append("select")
-                  .attr("id", "shipselector")
-		              .selectAll("option")
-	              	.data(carriers)
-                  .enter().append("option")
-                  .text(function(d) {return d.value; })
-                  .attr("value", function (d) { return d.key;});
- var selector_cru = d3.select("#CruiserSelect")
-                  .append("select")
-                  .attr("id", "shipselector")
-		              .selectAll("option")
-	              	.data(cruisers)
-                  .enter().append("option")
-                  .text(function(d) {return d.value; })
-                  .attr("value", function (d) { return d.key;});
+ var selector_bs = d3.select("#checkboxes_BS")
+                     .selectAll("label")
+                     .data(battleships)
+                     .enter().append("label")
+                     .attr("for", function (d) { return d.key;})
+		             .text(function(d) {return d.value+" "; })
+                     .append("input").attr("type","checkbox").attr("id", function (d) { return d.key;});
+
+ var selector_car = d3.select("#checkboxes_CAR")
+                     .selectAll("label")
+                     .data(carriers)
+                     .enter().append("label")
+                     .attr("for", function (d) { return d.key;})
+		             .text(function(d) {return d.value+" "; })
+                     .append("input").attr("type","checkbox").attr("id", function (d) { return d.key;});
+
+ var selector_cru = d3.select("#checkboxes_CRU")
+                     .selectAll("label")
+                     .data(cruisers)
+                     .enter().append("label")
+                     .attr("for", function (d) { return d.key;})
+		             .text(function(d) {return d.value+" "; })
+                     .append("input").attr("type","checkbox").attr("id", function (d) { return d.key;});
 }
 
 </script>
