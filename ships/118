@@ -1,10 +1,10 @@
 <html>
 
 <head>
-<title>Escort Carrier USS Casablanca | World War II Database</title>
+<title>Light Cruiser USS Atlanta | World War II Database</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="description" content="Escort Carrier USS Casablanca | World War II Database">
-<meta name="keywords" content="ww2db, world war, ww2, military, history, Escort Carrier USS Casablanca | World War II Database">
+<meta name="description" content="Light Cruiser USS Atlanta | World War II Database">
+<meta name="keywords" content="ww2db, world war, ww2, military, history, Light Cruiser USS Atlanta | World War II Database">
 <meta name="ROBOTS" content="INDEX, FOLLOW">
 <meta name="REVISIT-AFTER" CONTENT="15 days">
 <META NAME="COPYRIGHT" CONTENT="Copyright © 2004-2018 Lava Development, LLC., all rights reserved">
@@ -23,25 +23,25 @@
 
 <link rel="alternate" type="application/rss+xml" title="WW2DB RSS Feed" href="https://ww2db.com/feedgen.php?feed=articles&f=RSS2.0" />
 
-<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=A297' />
-<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=297' />
+<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=C289' />
+<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=289' />
 
 <meta property="fb:app_id" content="103484127961" />
 <meta name="p:domain_verify" content="794c2d433a01b5d35554ba972a179eff"/>
 
-	<link rel="image_src" type="image/jpeg" href="http://ww2db.com/images/ship_casablanca1.jpg" />
+	<link rel="image_src" type="image/jpeg" href="http://ww2db.com/images/ship_atlanta1.jpg" />
 	<meta property="og:site_name" content="WW2DB" />
-	<meta property="og:title" content="Escort Carrier USS Casablanca" />
-	<meta property="og:description" content="Escort Carrier USS Casablanca" />
+	<meta property="og:title" content="Light Cruiser USS Atlanta" />
+	<meta property="og:description" content="Light Cruiser USS Atlanta" />
 	<meta property="og:type" content="article" />
-	<meta property="og:url" content="https://ww2db.com/ship_spec.php?ship_id=A297" />
-		<meta property="og:image" content="http://ww2db.com/images/ship_casablanca1.jpg" />
+	<meta property="og:url" content="https://ww2db.com/ship_spec.php?ship_id=C289" />
+		<meta property="og:image" content="http://ww2db.com/images/ship_atlanta1.jpg" />
 
 	<meta name='twitter:card' content='summary'>
 	<meta name='twitter:site' content='@ww2db'>
-	<meta name='twitter:title' content='Escort Carrier USS Casablanca'>
-	<meta name='twitter:description' content='Escort Carrier USS Casablanca'>
-	<meta name='twitter:image' content='http://ww2db.com/images/ship_casablanca1.jpg'>
+	<meta name='twitter:title' content='Light Cruiser USS Atlanta'>
+	<meta name='twitter:description' content='Light Cruiser USS Atlanta'>
+	<meta name='twitter:image' content='http://ww2db.com/images/ship_atlanta1.jpg'>
 				
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.5/css/jquery.dataTables.css">
 <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
@@ -77,7 +77,7 @@ table.dataTable tbody td, table.dataTable thead td {
 		</td></tr>
 		</table>
 		<div class="bannerflash">
-		<div style="background-image:url('/images/banner915_1.jpg'); height: 120px; min-height: 120px; width: 915px; min-width: 915px;">&nbsp;</div>		</div>
+		<div style="background-image:url('/images/banner915_5.jpg'); height: 120px; min-height: 120px; width: 915px; min-width: 915px;">&nbsp;</div>		</div>
 	</div>
 	<div id='nav' align='right'>
 		<ul id='navlist'>
@@ -86,15 +86,15 @@ table.dataTable tbody td, table.dataTable thead td {
 
 <div id="content">
 	<div itemscope itemtype="http://schema.org/Article" class="maincol">
-		<meta itemprop="url" content="<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=A297' />
-<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=297' />
+		<meta itemprop="url" content="<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=C289' />
+<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=289' />
 " />
-		<meta itemprop="description" content="Escort Carrier USS Casablanca" />
+		<meta itemprop="description" content="Light Cruiser USS Atlanta" />
 		<div id="breadcrumb"><ul class="horizontalList">
 				<li class="horizontalList"> <a href="index.php">Home</a></li>
 				<li class="horizontalList"> &#187; <a href="equip.php">Equipment</a></li>
-				<li class="horizontalList"> &#187; <a href="ship.php">Ships</a></li><li class="horizontalList"> &#187; <a href="ship.php?list=A">Carriers</a></li><li class="horizontalList"> &#187; Casablanca</li></ul></div>
-<div style='display: inline; float: right;'><image itemprop='image' class='filephoto' alt='Casablanca file photo [2228]' title='Casablanca file photo [2228]' src='/images/ship_casablanca1.jpg' /><script>
+				<li class="horizontalList"> &#187; <a href="ship.php">Ships</a></li><li class="horizontalList"> &#187; <a href="ship.php?list=C">Cruisers</a></li><li class="horizontalList"> &#187; Atlanta</li></ul></div>
+<div style='display: inline; float: right;'><image itemprop='image' class='filephoto' alt='Atlanta file photo [1142]' title='Atlanta file photo [1142]' src='/images/ship_atlanta1.jpg' /><script>
 		function resizeText(className, percent) {
 			var elements = document.getElementsByClassName(className);
 			for (var i = 0; i < elements.length; ++i) {
@@ -107,9 +107,63 @@ table.dataTable tbody td, table.dataTable thead td {
 				}
 			}
 		}
-		</script><br /><img src="/images/icon_font_small.jpg" onclick="resizeText('maincol', -10)" title="Decrease font size" /><img src="/images/icon_font_medium.jpg" onclick="resizeText('maincol', null)" title="Reset font size" /><img src="/images/icon_font_large.jpg" onclick="resizeText('maincol', 10)" title="Increase font size" /></div><div style='margin: 8px 0px 8px 0px;'><h2 itemprop='name' class='articleHeader'>USS Casablanca</h2></div><table class="table_noborder"><tr><td class="table_noborder">Country</td><td class="table_noborder"><a href='/country/united%20states'>United States</a></td></tr><tr><td class="table_noborder">Ship Class</td><td class="table_noborder">Casablanca-class Escort Carrier</td></tr><tr><td class="table_noborder">Builder</td><td class="table_noborder">Kaiser Shipbuliding Company, Vancouver, WA</td></tr><tr><td class="table_noborder">Laid Down</td><td class="table_noborder">3 Nov 1942</td></tr><tr><td class="table_noborder">Launched</td><td class="table_noborder">5 Apr 1943</td></tr><tr><td class="table_noborder">Commissioned</td><td class="table_noborder">8 Jul 1943</td></tr><tr><td class="table_noborder">Decommissioned</td><td class="table_noborder">10 Jun 1946</td></tr><tr><td class="table_noborder">Displacement</td><td class="table_noborder">7800 tons standard</td></tr><tr><td class="table_noborder">Length</td><td class="table_noborder">512 feet</td></tr><tr><td class="table_noborder">Beam</td><td class="table_noborder">65 feet</td></tr><tr><td class="table_noborder">Draft</td><td class="table_noborder">22 feet</td></tr><tr><td class="table_noborder">Speed</td><td class="table_noborder">20 knots</td></tr><tr><td class="table_noborder">Crew</td><td class="table_noborder">860</td></tr><tr><td class="table_noborder">Armament</td><td class="table_noborder">1x5in</td></tr><tr><td class="table_noborder">Extreme Width</td><td class="table_noborder">108ft</td></tr><tr><td class="table_noborder">Aircraft</td><td class="table_noborder">28</td></tr></table><p><small>Contributor: <a href='/person_bio.php?person_id=179'><span itemprop='author' itemscope itemtype='http://schema.org/Person'><span itemprop='name'>C. Peter Chen</span></span></a></small></p><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>The carrier Casablanca was originally named Ameer, then was renamed Alazon Bay.  On 3 Apr 1943, two days before launch, she was renamed Casablanca for the Moroccan city invaded during the first days of the American entrance into the North Africa campaign.  She was officially commissioned into the United States Navy on 8 Jul 1943, sponsored by Eleanor Roosevelt, wife of the President.  Casablanca joined the Pacific Fleet immediately, performing as a training ship for escort carrier crews until Aug 1944.  On 24 Aug, she transported men, aircraft, and aviation fuel to Manus.  She resumed training duties upon her return to Puget Sound on 8 Oct.  She underwent repairs between 22 Jan and 13 Mar 1945 in San Diego, then delivered men and aircraft to Guam.  Upon unloading in Guam, she continued to sail west to assume her new duty as a transport between Samar, Manus, and Palau.</p>
-<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>After the war, Casablanca supported the effort to redeploy men across the Pacific, including bringing men back home to the United States.  Her last ferrying mission ended in Yokohama on 16 Jan 1946, and was decommissioned in Jun 1946.  She was sold for scraps on 23 Apr 1947.</p>
-<small><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span><i>Source: Wikipedia.</i></p></small><p><b>USS Casablanca Operational Timeline</b></p><table border='0' cellspacing='0'><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/07/08/1943' alt='See all events on 8 Jul 1943' title='See all events on 8 Jul 1943' class='noStyle'>8 Jul 1943</a>&nbsp;</td><td>Casablanca was commissioned into service.</td></tr><tr bgcolor=''><td valign='top' align='right' nowrap><a href='/event/today/06/10/1946' alt='See all events on 10 Jun 1946' title='See all events on 10 Jun 1946' class='noStyle'>10 Jun 1946</a>&nbsp;</td><td>Casablanca was decommissioned from service.</td></tr></table><br /><p><b>Photographs</b></p><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href="/image.php?image_id=2229"><img src="/images/imagemagick/tmb_ship_casablanca2.jpg" border='0' alt='Liberty section personnel aboard LCM returning to USS Casablanca from Rara Island, off Pitylieu Island, Manus, Admiralty Islands, 19 Apr 1945'></a></td></tr></table><br /><br /><br /><br />
+		</script><br /><img src="/images/icon_font_small.jpg" onclick="resizeText('maincol', -10)" title="Decrease font size" /><img src="/images/icon_font_medium.jpg" onclick="resizeText('maincol', null)" title="Reset font size" /><img src="/images/icon_font_large.jpg" onclick="resizeText('maincol', 10)" title="Increase font size" /></div><div style='margin: 8px 0px 8px 0px;'><h2 itemprop='name' class='articleHeader'>USS Atlanta</h2></div><table class="table_noborder"><tr><td class="table_noborder">Country</td><td class="table_noborder"><a href='/country/united%20states'>United States</a></td></tr><tr><td class="table_noborder">Ship Class</td><td class="table_noborder">Atlanta-class Light Cruiser</td></tr><tr><td class="table_noborder">Builder</td><td class="table_noborder">Federal Shipbuilding and Drydock Company, Kearny, New Jersey, United States</td></tr><tr><td class="table_noborder">Laid Down</td><td class="table_noborder">22 Apr 1940</td></tr><tr><td class="table_noborder">Launched</td><td class="table_noborder">6 Sep 1941</td></tr><tr><td class="table_noborder">Commissioned</td><td class="table_noborder">24 Dec 1941</td></tr><tr><td class="table_noborder">Sunk</td><td class="table_noborder">13 Nov 1942</td></tr><tr><td class="table_noborder">Length</td><td class="table_noborder">541 feet</td></tr><tr><td class="table_noborder">Beam</td><td class="table_noborder">52 feet</td></tr><tr><td class="table_noborder">Draft</td><td class="table_noborder">20 feet</td></tr><tr><td class="table_noborder">Speed</td><td class="table_noborder">33 knots</td></tr><tr><td class="table_noborder">Crew</td><td class="table_noborder">673</td></tr><tr><td class="table_noborder">Armament</td><td class="table_noborder">16x5in, 9x1.1in, 8x21in torpedo tubes</td></tr></table><p><small>Contributor: <a href='/person_bio.php?person_id=179'><span itemprop='author' itemscope itemtype='http://schema.org/Person'><span itemprop='name'>C. Peter Chen</span></span></a></small></p><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Atlanta was the lead ship of her class of light cruisers.  She had her shakedown training in the Chesapeake Bay off Maryland and then Casco Bay off Maine.  After post-shakedown repairs at the New York Navy Yard, she sailed for Panama Canal Zone on 5 Apr 1942 and made her way to Pearl Harbor on 23 Apr.  After some anti-aircraft practice, she sailed for Nouméa, New Caledonia with a destroyer, an oiler, and a transport on 10 May.  She then joined Task Force 16 and returned to Pearl Harbor in preparation for suspected Japanese offensive in the Midway region.  During the ensuing Battle of Midway she screened carrier Hornet.  After the battle she remained in Hawaii area for repairs, anti-aircraft and shore gunnery practice, and other non-combat duties until 15 Jul 1942 when she sailed for South Pacific.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>During the Guadalcanal Campaign, Atlanta joined Task Force 61 and screened carriers as they launched aerial bombardments against Guadalcanal before the invasion.  She remained in the area in the same anti-aircraft role, credited in this period with shooting down several Japanese aircraft.  Her executive officer Commander Campbell Emery wrote later "[t]he ship functioned as designed in all respects and can be considered an efficient unit" when describing the experience during this time.  On 28 Oct, Rear Admiral Norman Scott broke his flag aboard Atlanta, and the ship became the flagship of Task Force 64.2.  With Scott onboard she bombarded Japanese position on Guadalcanal and escorted transports in the nearby waters.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>On 12 Nov, Atlanta and other ships under the command of Rear Admiral Daniel Callahan were struck by 25 Japanese bombers as they guarded transports and cargo ships in their escape from a suspected Japanese attack.  The aerial assault was fought off, but it was followed several hours later by a surface engagement against two Japanese battleships and a full compliment of cruisers and destroyers.  The ensuing First Naval Battle of Guadalcanal was a great melee, one of the most ferocious naval engagements in the entire war.  At 0150, Japanese search lights were switched on Atlanta, and she became the first target of Japanese guns.  As Japanese guns exploded all around the ship, Rear Admiral Scott was killed on the flag bridge, along with many of his senior staff officers.  After one or two torpedo hits, Atlanta was dead in the water within minutes of the start of battle.  She remained afloat until after day break.  At about 1400, Captain Samuel Jenkins noted that all efforts to save the ship were becoming useless, and ordered the ship's abandonment.  After evacuation, she was sunk by demolition charges at 2015 on 13 Nov 1942 three miles west of Lunga Point in northern Guadalcanal.</p>
+<small><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span><i>Sources: the Struggle for Guadalcanal, Wikipedia.</i></p></small>
+				<link rel='stylesheet' href='https://unpkg.com/leaflet@1.3.1/dist/leaflet.css'
+				   integrity='sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=='
+				   crossorigin=''/>
+				<script src='https://unpkg.com/leaflet@1.3.1/dist/leaflet.js'
+				   integrity='sha512-/Nsx9X4HebavoBvEBuyp3I7od5tA0UzAxs+j83KgC8PU0kgB4XiK4Lfe4y4cgBtaRJQEIFCW+oC506aPT2L1zw=='
+				   crossorigin=''></script>
+					<script src='https://unpkg.com/leaflet.markercluster@1.3.0/dist/leaflet.markercluster.js'></script>
+					<link href='https://unpkg.com/leaflet.markercluster@1.3.0/dist/MarkerCluster.css' rel='stylesheet' />
+					<link href='https://unpkg.com/leaflet.markercluster@1.3.0/dist/MarkerCluster.Default.css' rel='stylesheet' />
+				
+				<style>
+				.mapClass {
+					height: 400px; 
+				}
+				.infowindowSubTitle {
+					font-weight: bold;
+					margin-top: 10px;
+					margin-bottom: 10px;
+				}
+				</style>
+				
+				<p id='interactiveMapLabel'><b>Light Cruiser USS Atlanta Interactive Map</b></p>
+				<div id='mapid' class='mapClass'></div>
+				<script>
+				var mymap = L.map('mapid').setView([40.700000000, -73.970000000], 13);
+			
+					L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.{ext}', {
+						attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+						subdomains: 'abcd',
+						minZoom: 0,
+						maxZoom: 18,
+						ext: 'png'
+					}).addTo(mymap);
+				
+				var rawDataArray = [  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Brooklyn, New York, United States</h2><div class='infowindowSubTitle'>24 Dec 1941</div><a href='/image.php?image_id=1150'><img src='/images/imagemagick/tmb_ship_atlanta9.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 40.700000000, -73.970000000, 1]];
+				var pointsArray = [];
+			
+					var markers = L.markerClusterGroup({ maxClusterRadius: 50 });
+					for (var i = 0; i < rawDataArray.length; i++) {
+						var a = rawDataArray[i];
+						var title = a[0];
+						var fill_color = '#FF0033';
+						var marker = L.marker(new L.LatLng(a[1], a[2]), { title: title, color: fill_color });
+						marker.bindPopup(L.popup({maxHeight:200}).setContent(title));
+						markers.addLayer(marker);
+						pointsArray.push(marker);
+					}
+					mymap.addLayer(markers);
+				
+				var group = new L.featureGroup(pointsArray);
+				mymap.fitBounds(group.getBounds());
+				</script>
+			<p><b>USS Atlanta Operational Timeline</b></p><table border='0' cellspacing='0'><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/12/24/1941' alt='See all events on 24 Dec 1941' title='See all events on 24 Dec 1941' class='noStyle'>24 Dec 1941</a>&nbsp;</td><td>Atlanta was commissioned into service.</td></tr></table><br /><p><b>Photographs</b></p><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=289'><img src="/images/imagemagick/tmb_ship_atlanta10.jpg" border='0' alt='Atlanta christened by author Margaret Mitchell during her launching ceremony, Kearny, NJ, 6 Sep 1941'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=289'><img src="/images/imagemagick/tmb_ship_atlanta8.jpg" border='0' alt='Atlanta slid down the building ways at her launching ceremony, Kearny, NJ, 6 Sep 1941'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=289'><img src="/images/imagemagick/tmb_ship_atlanta2.jpg" border='0' alt='Atlanta underway during her trials, Nov 1941, photo 1 of 2'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=289'><img src="/images/imagemagick/tmb_ship_atlanta4.jpg" border='0' alt='Atlanta underway during her trials, Nov 1941, photo 2 of 2'></a></td></tr></table><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=289'>See all 10 photographs of Light Cruiser USS Atlanta</a><br /><br /><br /><br />
 				<center><table border='0' cellpadding='0' cellspacing='0' width='100%'>
 				<tr><td valign='top' width='382'><p>Did you enjoy this article?  Please consider supporting us on <a href='https://www.patreon.com/ww2db' rel='nofollow' target='_patreon' onclick='javascript: ga("send","pageview","/outgoing/www.patreon.com/ww2db/");'>Patreon</a>.  Even $1 per month will go a long way!  Thank you.</p>
 		<table border='0' cellpadding='0' cellspacing='0'>
@@ -117,19 +171,19 @@ table.dataTable tbody td, table.dataTable thead td {
 			<td colspan='9'>Share this article with your friends:<br /><br /></td>
 		</tr>
 		<tr>
-			<td><a title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=A297' target='_facebook' rel='nofollow'><img src='/images/icon_facebook.gif' border='0'></a></td><td>&nbsp;</td><td><a id='facebook' title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=A297' target='_facebook'>Facebook</a></td>
-			<td><a title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A297&title=Escort Carrier USS Casablanca' target='_reddit' rel='nofollow'><img src='/images/icon_reddit.gif' border='0'></a></td><td>&nbsp;</td><td><a id='reddit' title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A297&title=Escort Carrier USS Casablanca' target='_reddit'>Reddit</a></td>
+			<td><a title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=C289' target='_facebook' rel='nofollow'><img src='/images/icon_facebook.gif' border='0'></a></td><td>&nbsp;</td><td><a id='facebook' title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=C289' target='_facebook'>Facebook</a></td>
+			<td><a title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C289&title=Light Cruiser USS Atlanta' target='_reddit' rel='nofollow'><img src='/images/icon_reddit.gif' border='0'></a></td><td>&nbsp;</td><td><a id='reddit' title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C289&title=Light Cruiser USS Atlanta' target='_reddit'>Reddit</a></td>
 		</tr>
 		<tr>
-			<td><a title='Tweet this page' href='http://twitter.com/home/?status=Escort+Carrier+USS+Casablanca+https://ww2db.com:443/ship_spec.php?ship_id=A297' target='_twitter' rel='nofollow'><img src='/images/icon_twitter.gif' border='0'></a></td><td>&nbsp;</td><td><a id='twitter' title='Tweet this page' href='http://twitter.com/home/?status=Escort+Carrier+USS+Casablanca+https://ww2db.com:443/ship_spec.php?ship_id=A297' target='_twitter'>Twitter</a></td>
-			<td><a title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A297&title=Escort Carrier USS Casablanca' target='_digg' rel='nofollow'><img src='/images/icon_digg.gif' border='0'></a></td><td>&nbsp;</td><td><a id='digg' title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A297&title=Escort Carrier USS Casablanca' target='_digg'>Digg</a></td>
+			<td><a title='Tweet this page' href='http://twitter.com/home/?status=Light+Cruiser+USS+Atlanta+https://ww2db.com:443/ship_spec.php?ship_id=C289' target='_twitter' rel='nofollow'><img src='/images/icon_twitter.gif' border='0'></a></td><td>&nbsp;</td><td><a id='twitter' title='Tweet this page' href='http://twitter.com/home/?status=Light+Cruiser+USS+Atlanta+https://ww2db.com:443/ship_spec.php?ship_id=C289' target='_twitter'>Twitter</a></td>
+			<td><a title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C289&title=Light Cruiser USS Atlanta' target='_digg' rel='nofollow'><img src='/images/icon_digg.gif' border='0'></a></td><td>&nbsp;</td><td><a id='digg' title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C289&title=Light Cruiser USS Atlanta' target='_digg'>Digg</a></td>
 		</tr>
 		<tr>
-			<td><a title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=A297' target='_googleplus' rel='nofollow'><img src='/images/icon_googleplus2.png' border='0'></a></td><td>&nbsp;</td><td><a id='googleplus' title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=A297' target='_googleplus'>Google+</a></td>
-			<td><a title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=A297&title=Escort Carrier USS Casablanca' target='_delicious' rel='nofollow'><img src='/images/icon_delicious.gif' border='0'></a></td><td>&nbsp;</td><td><a id='delicious' title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=A297&title=Escort Carrier USS Casablanca' target='_delicious'>Delicious</a></td>
+			<td><a title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=C289' target='_googleplus' rel='nofollow'><img src='/images/icon_googleplus2.png' border='0'></a></td><td>&nbsp;</td><td><a id='googleplus' title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=C289' target='_googleplus'>Google+</a></td>
+			<td><a title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=C289&title=Light Cruiser USS Atlanta' target='_delicious' rel='nofollow'><img src='/images/icon_delicious.gif' border='0'></a></td><td>&nbsp;</td><td><a id='delicious' title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=C289&title=Light Cruiser USS Atlanta' target='_delicious'>Delicious</a></td>
 		</tr>
 		<tr>
-			<td><a title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A297&title=Escort Carrier USS Casablanca' target='_stumbleupon' rel='nofollow'><img src='/images/icon_stumbleupon.gif' border='0'></a></td><td>&nbsp;</td><td><a id='stumbleupon' title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A297&title=Escort Carrier USS Casablanca' target='_stumbleupon'>StumbleUpon</a></td>
+			<td><a title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C289&title=Light Cruiser USS Atlanta' target='_stumbleupon' rel='nofollow'><img src='/images/icon_stumbleupon.gif' border='0'></a></td><td>&nbsp;</td><td><a id='stumbleupon' title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C289&title=Light Cruiser USS Atlanta' target='_stumbleupon'>StumbleUpon</a></td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -147,6 +201,16 @@ table.dataTable tbody td, table.dataTable thead td {
 		</script>
 	</td></tr></table></center><br /><br /><br />
 
+<style>.commentItem { display: none; border: 1px solid #b0b0b0; padding: 10px; margin-bottom: 10px; }</style><p><b>Visitor Submitted Comments</b></p><p id='showAllCommand' style='display: none;'><a href='javascript:showAllComments();'>Show older comments</a></p><div id='commentItem1' class='commentItem' style='background-color: #f0f0f0'>1. <span style='font-style: italic;'>Anonymous</span> says:<br /><small>28 Jun 2007 06:43:39 PM</small><br /><br />Does anyone know when the Atlanta had her hull painted?</div><div id='commentItem2' class='commentItem' style='background-color: '>2. <span style='font-style: italic;'>CL51</span> says:<br /><small>9 Jan 2008 10:55:40 AM</small><br /><br />I have tried to determine that myself and it seems to be July 1 and 2nd when she was drydocked for scraping and repainting of her hull. Check out my web site at www.ussatlanta.com and click on the History link.</div><div id='commentItem3' class='commentItem' style='background-color: #f0f0f0'>3. <span style='font-style: italic;'>James J. Rotschafer</span> says:<br /><small>22 Nov 2010 11:55:38 AM</small><br /><br />My Granddad went down with the Atlanta, Im still searching for Action reports from her, any help would be apreittiated, Email me @ BB_22minnesota@live.com</div><div id='commentItem4' class='commentItem' style='background-color: '>4. <span style='font-style: italic;'>Shorty</span> says:<br /><small>9 Apr 2014 05:41:39 PM</small><br /><br />I was aboard the Atlanta as a Radarman during modification and Operation Sailor Hat. Best duty I ever had. </div><div id='commentItem5' class='commentItem' style='background-color: #f0f0f0'>5. <span style='font-style: italic;'>Anonymous</span> says:<br /><small>4 Oct 2014 06:30:26 PM</small><br /><br />James Rotschafer, Captain Jenkins' diary is on fold3.com about the sinking. </div><div id='commentItem6' class='commentItem' style='background-color: '>6. <span style='font-style: italic;'>Anonymous</span> says:<br /><small>10 Feb 2016 05:06:58 PM</small><br /><br />Where is the Atlanta CL-104 don't see it listed where</div><small><p>All visitor submitted comments are opinions of those making the submissions and do not reflect views of WW2DB.</p></small>	<script>
+			$("#showAllCommand").show();
+			$("#commentItem6").show();
+				$("#commentItem5").show();
+				$("#commentItem4").show();
+			function showAllComments() {
+		$(".commentItem").show();
+		$("#showAllCommand").remove();
+	}
+	</script>
 	<form method="post" action="/comments_action.php">
 	<div style="background-color: #f0f0f0; border: 1px solid #b0b0b0; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
 	<p><b>Posting Your Comments on this Topic</b></p>
@@ -166,16 +230,16 @@ table.dataTable tbody td, table.dataTable thead td {
 	<tr><td valign="top">Your Comments</td><td><textarea name="comment" cols="30" rows="6"></textarea></td></tr>
 	<tr><td valign="top">Security Code</td>
 		<td valign="top">
-			<div style="background-image:url('/images/captcha/captcha2.jpg'); height: 40px; min-height: 40px; width: 100px; min-width: 100px;">&nbsp;</div>			<br />
+			<div style="background-image:url('/images/captcha/captcha14.jpg'); height: 40px; min-height: 40px; width: 100px; min-width: 100px;">&nbsp;</div>			<br />
 			<input type="text" name="captcha" style="margin-bottom: 2px;">
 		</td>
 	</tr>
 	<tr>
 		<td>&nbsp;</td>
 		<td valign="top"><input type="hidden" name="foreigntype" value="S">
-		<input type="hidden" name="foreigntype_id" value="297">
-		<input type="hidden" name="url" value="/ship_spec.php?ship_id=A297">
-		<input type="hidden" name="c" value="79"> 		<input type="submit" value="Submit"></td>
+		<input type="hidden" name="foreigntype_id" value="289">
+		<input type="hidden" name="url" value="/ship_spec.php?ship_id=C289">
+		<input type="hidden" name="c" value="91"> 		<input type="submit" value="Submit"></td>
 	</tr>
 	</table>
 	</center>
@@ -196,7 +260,7 @@ table.dataTable tbody td, table.dataTable thead td {
 </form>
 <script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=searchbox_004186240537787039759%3Aptfrvampo3a"></script>
 </ul>
-<div class='sidehidden_m'><div class="sidetop">News</div><ul><li> &#187; <a href="/news.php?news_id=206">Finland to probe role of Waffen-SS volunteers</a> (31 May 2018)</li><li> &#187; <a href="/news.php?news_id=205">Your patronage is needed for WW2DB</a> (17 May 2018)</li><li> &#187; <a href="/news.php?news_id=204">Your help is needed to transcribe WW2 documents</a> (17 May 2018)</li><li> &#187; <a href="/news.php?news_id=203">Japanese National Archives released names of Unit 731 members</a> (17 Apr 2018)</li><li> &#187; <a href="/news.php?news_id=202">Wreck of USS Helena found</a> (12 Apr 2018)</li><li> &#187; <a href="/news.php">See all news</a></li></ul><br /></div><div class='sidehidden_m'><div class='sidetop'>Escort Carrier USS Casablanca Photo Gallery</div><center><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href="/image.php?image_id=2229"><img src="/images/imagemagick/tmb_ship_casablanca2.jpg" border='0' alt='Liberty section personnel aboard LCM returning to USS Casablanca from Rara Island, off Pitylieu Island, Manus, Admiralty Islands, 19 Apr 1945'></a></td></tr></table></center></div><br /><br />		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<div class="sidetop">More on USS Atlanta</div><i>Personnel:</i><br>&raquo;&nbsp;<a href=person_bio.php?person_id=209>Jenkins, Samuel</a><br>&raquo;&nbsp;<a href=person_bio.php?person_id=206>Scott, Norman</a><br><br><i>Event(s) Participated:</i><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=9>Guadalcanal Campaign</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=54>Preparations for Invasion of Japan</a><br><br /><div class='sidehidden_m'><div class='sidetop'>Light Cruiser USS Atlanta Photo Gallery</div><center><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=289'><img src="/images/imagemagick/tmb_ship_atlanta10.jpg" border='0' alt='Atlanta christened by author Margaret Mitchell during her launching ceremony, Kearny, NJ, 6 Sep 1941'></a></td></tr></table></center><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=289'>See all 10 photographs of Light Cruiser USS Atlanta</a></div><br /><br />		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		<!-- WW2DB Xcol Links 160x90 -->
 		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:90px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="5126713011"></ins>
 		<script>
@@ -205,10 +269,10 @@ table.dataTable tbody td, table.dataTable thead td {
 		<br /><br />
 	<div class="sidehidden_m">
 	<div class="sidetop">Current Site Statistics</div>
-	<ul><li> &#187; <a class='noStyle' href='/person.php'>1,039 biographies</a></li><li> &#187; <a class='noStyle' href='/event/'>326 events</a></li><li> &#187; <a class='noStyle' href='/event/timeline/'>35,502 timeline entries</a></li><li> &#187; <a class='noStyle' href='/ship.php'>726 ships</a></li><li> &#187; <a class='noStyle' href='/aircraft.php'>329 aircraft models</a></li><li> &#187; <a class='noStyle' href='/vehicle.php'>184 vehicle models</a></li><li> &#187; <a class='noStyle' href='/weapon.php'>339 weapon models</a></li><li> &#187; <a class='noStyle' href='/doc.php'>102 historical documents</a></li><li> &#187; <a class='noStyle' href='/facility/'>175 facilities</a></li><li> &#187; <a class='noStyle' href='/book/'>457 book reviews</a></li><li> &#187; <a class='noStyle' href='/photo.php'>24,916 photos</a></li><li> &#187; <a class='noStyle' href='/reference/map/'>287 maps</a></li></ul>	<br />
+	<ul><li> &#187; <a class='noStyle' href='/person.php'>1,040 biographies</a></li><li> &#187; <a class='noStyle' href='/event/'>326 events</a></li><li> &#187; <a class='noStyle' href='/event/timeline/'>35,554 timeline entries</a></li><li> &#187; <a class='noStyle' href='/ship.php'>726 ships</a></li><li> &#187; <a class='noStyle' href='/aircraft.php'>329 aircraft models</a></li><li> &#187; <a class='noStyle' href='/vehicle.php'>184 vehicle models</a></li><li> &#187; <a class='noStyle' href='/weapon.php'>340 weapon models</a></li><li> &#187; <a class='noStyle' href='/doc.php'>102 historical documents</a></li><li> &#187; <a class='noStyle' href='/facility/'>175 facilities</a></li><li> &#187; <a class='noStyle' href='/book/'>457 book reviews</a></li><li> &#187; <a class='noStyle' href='/photo.php'>24,934 photos</a></li><li> &#187; <a class='noStyle' href='/reference/map/'>287 maps</a></li></ul>	<br />
 </div>
 
-<div class='sidehidden_m'><div class='sidetop'>Famous WW2 Quote</div>"No bastard ever won a war by dying for his country. You win the war by making the other poor dumb bastard die for his country!"<br><br>George Patton, 31 May 1944</div><br /><br />				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<div class='sidehidden_m'><div class='sidetop'>Famous WW2 Quote</div>"We no longer demand anything, we want war."<br><br>Joachim von Ribbentrop, German Foreign Minister, Aug 1939</div><br /><br />				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		<!-- WW2DB Xcol Vertical Banner 160x600 -->
 		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="6471754899"></ins>
 		<script>
@@ -232,7 +296,7 @@ table.dataTable tbody td, table.dataTable thead td {
 		<li> &#187; <a href="/feed.php">Syndication</a></li>
 		<li> &#187; <a href="/termsofuse.php" rel="nofollow">Terms of Use & Disclosures</a></li>
 		<li> &#187; <a href="/">World War II Database Home</a></li>
-		<li> &#187; <a href='http://m.ww2db.com/ship_spec.php?ship_id=A297'>Mobile View</a></li>
+		<li> &#187; <a href='http://m.ww2db.com/ship_spec.php?ship_id=C289'>Mobile View</a></li>
 		</ul>		
 	</div>
 	<div style="float: left; padding: 0 5 0 5px; width: 282px; text-align: left;">

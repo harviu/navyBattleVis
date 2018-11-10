@@ -1,10 +1,10 @@
 <html>
 
 <head>
-<title>Escort Carrier USS Ommaney Bay | World War II Database</title>
+<title>Light Cruiser Kuma | World War II Database</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="description" content="Escort Carrier USS Ommaney Bay | World War II Database">
-<meta name="keywords" content="ww2db, world war, ww2, military, history, Escort Carrier USS Ommaney Bay | World War II Database">
+<meta name="description" content="Light Cruiser Kuma | World War II Database">
+<meta name="keywords" content="ww2db, world war, ww2, military, history, Light Cruiser Kuma | World War II Database">
 <meta name="ROBOTS" content="INDEX, FOLLOW">
 <meta name="REVISIT-AFTER" CONTENT="15 days">
 <META NAME="COPYRIGHT" CONTENT="Copyright © 2004-2018 Lava Development, LLC., all rights reserved">
@@ -23,23 +23,25 @@
 
 <link rel="alternate" type="application/rss+xml" title="WW2DB RSS Feed" href="https://ww2db.com/feedgen.php?feed=articles&f=RSS2.0" />
 
-<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=A177' />
-<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=177' />
+<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=C68' />
+<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=68' />
 
 <meta property="fb:app_id" content="103484127961" />
 <meta name="p:domain_verify" content="794c2d433a01b5d35554ba972a179eff"/>
 
+	<link rel="image_src" type="image/jpeg" href="http://ww2db.com/images/ship_kuma1.jpg" />
 	<meta property="og:site_name" content="WW2DB" />
-	<meta property="og:title" content="Escort Carrier USS Ommaney Bay" />
-	<meta property="og:description" content="Escort Carrier USS Ommaney Bay" />
+	<meta property="og:title" content="Light Cruiser Kuma" />
+	<meta property="og:description" content="Light Cruiser Kuma" />
 	<meta property="og:type" content="article" />
-	<meta property="og:url" content="https://ww2db.com/ship_spec.php?ship_id=A177" />
-	
+	<meta property="og:url" content="https://ww2db.com/ship_spec.php?ship_id=C68" />
+		<meta property="og:image" content="http://ww2db.com/images/ship_kuma1.jpg" />
+
 	<meta name='twitter:card' content='summary'>
 	<meta name='twitter:site' content='@ww2db'>
-	<meta name='twitter:title' content='Escort Carrier USS Ommaney Bay'>
-	<meta name='twitter:description' content='Escort Carrier USS Ommaney Bay'>
-	<meta name='twitter:image' content=''>
+	<meta name='twitter:title' content='Light Cruiser Kuma'>
+	<meta name='twitter:description' content='Light Cruiser Kuma'>
+	<meta name='twitter:image' content='http://ww2db.com/images/ship_kuma1.jpg'>
 				
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.5/css/jquery.dataTables.css">
 <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
@@ -75,7 +77,7 @@ table.dataTable tbody td, table.dataTable thead td {
 		</td></tr>
 		</table>
 		<div class="bannerflash">
-		<div style="background-image:url('/images/banner915_3.jpg'); height: 120px; min-height: 120px; width: 915px; min-width: 915px;">&nbsp;</div>		</div>
+		<div style="background-image:url('/images/banner915_5.jpg'); height: 120px; min-height: 120px; width: 915px; min-width: 915px;">&nbsp;</div>		</div>
 	</div>
 	<div id='nav' align='right'>
 		<ul id='navlist'>
@@ -84,20 +86,15 @@ table.dataTable tbody td, table.dataTable thead td {
 
 <div id="content">
 	<div itemscope itemtype="http://schema.org/Article" class="maincol">
-		<meta itemprop="url" content="<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=A177' />
-<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=177' />
+		<meta itemprop="url" content="<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=C68' />
+<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=68' />
 " />
-		<meta itemprop="description" content="Escort Carrier USS Ommaney Bay" />
+		<meta itemprop="description" content="Light Cruiser Kuma" />
 		<div id="breadcrumb"><ul class="horizontalList">
 				<li class="horizontalList"> <a href="index.php">Home</a></li>
 				<li class="horizontalList"> &#187; <a href="equip.php">Equipment</a></li>
-				<li class="horizontalList"> &#187; <a href="ship.php">Ships</a></li><li class="horizontalList"> &#187; <a href="ship.php?list=A">Carriers</a></li><li class="horizontalList"> &#187; Ommaney Bay</li></ul></div>
-<div style='display: inline; float: right;'><script async src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
-			<!-- WW2DB Top of Content 250x250 -->
-			<ins class='adsbygoogle' style='display:inline-block;width:250px;height:250px' data-ad-client='ca-pub-8359788307919731' data-ad-slot='1430818127'></ins>
-			<script>
-			(adsbygoogle = window.adsbygoogle || []).push({});
-			</script><script>
+				<li class="horizontalList"> &#187; <a href="ship.php">Ships</a></li><li class="horizontalList"> &#187; <a href="ship.php?list=C">Cruisers</a></li><li class="horizontalList"> &#187; Kuma</li></ul></div>
+<div style='display: inline; float: right;'><image itemprop='image' class='filephoto' alt='Kuma file photo [7591]' title='Kuma file photo [7591]' src='/images/ship_kuma1.jpg' /><script>
 		function resizeText(className, percent) {
 			var elements = document.getElementsByClassName(className);
 			for (var i = 0; i < elements.length; ++i) {
@@ -110,9 +107,11 @@ table.dataTable tbody td, table.dataTable thead td {
 				}
 			}
 		}
-		</script><br /><img src="/images/icon_font_small.jpg" onclick="resizeText('maincol', -10)" title="Decrease font size" /><img src="/images/icon_font_medium.jpg" onclick="resizeText('maincol', null)" title="Reset font size" /><img src="/images/icon_font_large.jpg" onclick="resizeText('maincol', 10)" title="Increase font size" /></div><div style='margin: 8px 0px 8px 0px;'><h2 itemprop='name' class='articleHeader'>USS Ommaney Bay</h2></div><table class="table_noborder"><tr><td class="table_noborder">Country</td><td class="table_noborder"><a href='/country/united%20states'>United States</a></td></tr><tr><td class="table_noborder">Ship Class</td><td class="table_noborder">Casablanca-class Escort Carrier</td></tr><tr><td class="table_noborder">Builder</td><td class="table_noborder">Kaiser Shipbuilding Co., Inc., Vancouver, WA</td></tr><tr><td class="table_noborder">Laid Down</td><td class="table_noborder">6 Oct 1943</td></tr><tr><td class="table_noborder">Launched</td><td class="table_noborder">29 Dec 1943</td></tr><tr><td class="table_noborder">Commissioned</td><td class="table_noborder">11 Feb 1944</td></tr><tr><td class="table_noborder">Sunk</td><td class="table_noborder">4 Jan 1945</td></tr><tr><td class="table_noborder">Displacement</td><td class="table_noborder">7800 tons standard</td></tr><tr><td class="table_noborder">Length</td><td class="table_noborder">512 feet</td></tr><tr><td class="table_noborder">Beam</td><td class="table_noborder">65 feet</td></tr><tr><td class="table_noborder">Draft</td><td class="table_noborder">22 feet</td></tr><tr><td class="table_noborder">Machinery</td><td class="table_noborder">2 Skinner uniflow engines with two screws</td></tr><tr><td class="table_noborder">Power Output</td><td class="table_noborder">9000 SHP</td></tr><tr><td class="table_noborder">Speed</td><td class="table_noborder">19 knots</td></tr><tr><td class="table_noborder">Crew</td><td class="table_noborder">860</td></tr><tr><td class="table_noborder">Armament</td><td class="table_noborder">1x5-in Anti-aircraft, 8x40mm, 20x20mm</td></tr><tr><td class="table_noborder">Aircraft</td><td class="table_noborder">28</td></tr></table><p><small>Contributor: <a href='/person_bio.php?person_id=179'><span itemprop='author' itemscope itemtype='http://schema.org/Person'><span itemprop='name'>C. Peter Chen</span></span></a></small></p><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Named for a bay in Alaska, Ommaney Bay was commissioned in Feb 1944 with Captain Howard L. Young in command.  She was fitted out at Astoria, Oregon, and conducted her shakedown cruise in Puget Sound.  In Mar 1944, she sailed with supplies and aircraft on board for Brisbane, Australia.  She did not have her carrier qualification landings and other drills until she returned from Australia at the end of Apr.  She received her air group in Jun and sailed for combat mission in the Pacific in Aug.  In Oct, she was stationed off Peleliu and Anguar Islands and provided air cover for the invasion forces ashore.  Her next mission took her to the Philippines, supporting the invasion of Leyte.  During the Battle off Samar on 25 Oct, her aircraft attacked the attacking Japanese fleet, assisting in the sinking of one Japanese cruiser.  In Dec, she operated in Mindanao and Sulu Seas in the Philippines to continue her support of the Philippines campaign.  On 19 Dec, she returned to port in preparation of the American landing in Lingayen Gulf on Luzon.</p>
-<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>On 3 Jan 1945, while in Surigao Strait, Ommaney Bay was struck by a suicide aircraft with two bombs on her starboard side.  One of the bombs tore through the flight deck and detonated in the middle of fueled aircraft; the other detonated near the fire main on the second deck.  Power was lost quickly, and communications broke down.  Without water pressure in the forward half of the ship, fires burned uncontrollably.  Nearby ships attempted to assist in the firefighting, but the intense heat and the ammunition being set off made it impossible.  With fire spreading near the torpedo storage (which did detonate later), the captain gave his abandon ship order.  After the completion of the evacuation, destroyer Burns launched a torpedo, scuttling the ship.  93 of Ommaney Bay's crew and 2 from an assisting destroyer were lost.</p>
-<small><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span><i>Source: Wikipedia.</i></p></small><p><b>USS Ommaney Bay Operational Timeline</b></p><table border='0' cellspacing='0'><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/02/11/1944' alt='See all events on 11 Feb 1944' title='See all events on 11 Feb 1944' class='noStyle'>11 Feb 1944</a>&nbsp;</td><td>Ommaney Bay was commissioned into service.</td></tr><tr bgcolor=''><td valign='top' align='right' nowrap><a href='/event/today/01/04/1945' alt='See all events on 4 Jan 1945' title='See all events on 4 Jan 1945' class='noStyle'>4 Jan 1945</a>&nbsp;</td><td>In the Philippine Islands, Japanese aircraft attacked the American invasion fleet bound for Luzon; USS Ommaney Bay was seriously damaged by a special attack and was scuttled.</td></tr></table><br /><br /><br /><br />
+		</script><br /><img src="/images/icon_font_small.jpg" onclick="resizeText('maincol', -10)" title="Decrease font size" /><img src="/images/icon_font_medium.jpg" onclick="resizeText('maincol', null)" title="Reset font size" /><img src="/images/icon_font_large.jpg" onclick="resizeText('maincol', 10)" title="Increase font size" /></div><div style='margin: 8px 0px 8px 0px;'><h2 itemprop='name' class='articleHeader'>Kuma</h2></div><table class="table_noborder"><tr><td class="table_noborder">Country</td><td class="table_noborder"><a href='/country/japan'>Japan</a></td></tr><tr><td class="table_noborder">Ship Class</td><td class="table_noborder"><a href='ship_spec.php?ship_id=484'>Kuma-class Light Cruiser</a></td></tr><tr><td class="table_noborder">Builder</td><td class="table_noborder"><a href='/facility/Sasebo_Naval_Arsenal/'>Sasebo Naval Arsenal</a></td></tr><tr><td class="table_noborder">Laid Down</td><td class="table_noborder">29 Aug 1918</td></tr><tr><td class="table_noborder">Launched</td><td class="table_noborder">14 Jul 1919</td></tr><tr><td class="table_noborder">Commissioned</td><td class="table_noborder">31 Aug 1920</td></tr><tr><td class="table_noborder">Sunk</td><td class="table_noborder">10 Jan 1944</td></tr><tr><td class="table_noborder">Displacement</td><td class="table_noborder">5100 tons standard; 5500 tons full</td></tr><tr><td class="table_noborder">Length</td><td class="table_noborder">532 feet</td></tr><tr><td class="table_noborder">Beam</td><td class="table_noborder">46 feet</td></tr><tr><td class="table_noborder">Draft</td><td class="table_noborder">15 feet</td></tr><tr><td class="table_noborder">Machinery</td><td class="table_noborder">12 Kampon boilers, Gihon geared turbines, 4 shafts</td></tr><tr><td class="table_noborder">Power Output</td><td class="table_noborder">90000 SHP</td></tr><tr><td class="table_noborder">Speed</td><td class="table_noborder">36 knots</td></tr><tr><td class="table_noborder">Range</td><td class="table_noborder">5,000nm at 14 knots</td></tr><tr><td class="table_noborder">Crew</td><td class="table_noborder">439</td></tr><tr><td class="table_noborder">Armament</td><td class="table_noborder">7x140mm guns, 2x80mm guns, 4x2x533mm torpedo tubes, 48 mines</td></tr><tr><td class="table_noborder">Armor</td><td class="table_noborder">64mm belt, 29mm deck</td></tr><tr><td class="table_noborder">Aircraft</td><td class="table_noborder">1 floatplane (pre-1943)</td></tr><tr><td class="table_noborder">Catapult</td><td class="table_noborder">1 (pre-1943)</td></tr></table><p><small>Contributor: <a href='/person_bio.php?person_id=183'><span itemprop='author' itemscope itemtype='http://schema.org/Person'><span itemprop='name'></span></span></a></small></p><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Light cruiser Kuma saw action shortly after her commissioning as she was sent to support the landing of Japanese troops in Siberia during Japan's Siberian Intervention against the Communists during the Russian Civil War.  Subsequently based at Port Arthur, China (now Lüshunkou), she patrolled Chinese coastal areas between the Kwantung Leased Territory and Tsingtao, China.  After the start of the Second Sino-Japanese War in 1937, she began patrolling further down the Chinese coast.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>On 10 Apr 1941, Kuma was assigned to Vice Admiral Ibo Takahashi's Cruiser Division 16 of the Japanese 3rd Fleet.  With that unit, she supported the invasion of the Philippine Islands in Dec 1941.  Between 10 and 11 Dec, she covered landings at Aparri and Vigan at Luzon, Philippine Islands; at the latter location, she was attacked unsuccessfully by five United States Army Air Forces B-17 Flying Fortress bombers.  On 22 Dec, she supported the landings at Lingayen Gulf, Luzon.  On 3 Jan 1942, she was re-assigned to Vice Admiral Rokuzo Sugiyama's Third Southern Expeditionary Fleet and patrolled the Philippine waters until 27 Feb.  In Mar, she covered the invasion of the southern Philippine Islands, shelling Cebu harbor on 1 Mar and covering the Zamboanga, Mindanao landing two days later.  A Special Naval Landing Forces (SNLF) unit based aboard Kuma rescued about 80 Japanese nationals who had been interned.  On 9 Apr, Kuma and the torpedo boat Kiji were attacked by US torpedo boats PT-34 and PT-41; Kuma was hit in the bow by one of eight Mark 18 Torpedoes fired, but the torpedo failed to detonate.  On 10 Apr, she covered Cebu landings.  On 16 Apr, she covered Panay landings.  On 6 May, she covered the final assault on the island of Corregidor, the last American strong point in the Philippine Islands.  She remained in Philippine waters for patrols until 12 Aug 1942.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>After a refit at Kure Naval Arsenal, Japan in Sep, Kuma returned to Manila, Luzon, Philippine Islands on 20 Sep.  She was assigned to Vice Admiral Shiro Takasu's Second Southern Expeditionary Fleet.  She picked up troops of the 38th Infantry Division and delivered them to Rabaul, New Britain, Solomon Islands on 10 Oct.  She patrolled off Makassar, Celebes between Dec 1942 and April 1943, running several transport missions to Rabaul and New Guinea during that time.  Between Apr and May 1943, she was refitted at the Seletar Naval Base, Singapore.  She patrolled Dutch East Indies waters between May and Jun.  On 23 Jun, her group was attacked by 17 American B-24 Liberator bombers of the 319th Squadron, 90th Bomb Group, US 5th Air Force; she suffered only minor damage from near misses.  On the next day, she became the flagship of Cruiser Division 16 as the flag was transferred from Kinu; she led patrols in the Dutch East Indies until 23 Oct.  Between 1 Nov and 12 Nov, she received additional anti-aircraft weapons at Singapore.  She patrolled the Dutch East Indies and the eastern Indian Ocean until 9 Jan 1944.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>On 11 Jan 1944, Kuma was sighted by British Royal Navy submarine HMS Tally-Ho off Penang, Malaya.  At about 10 miles northwest of Penang, Tally-Ho fired seven torpedoes at Kuma at 1,900 yards; two of them hit her on the starboard side, starting a fire as the depth charges onboard were ignited.  She sank by the stern, killing 138 as she went down.</p>
+<small><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span><i>Source: Wikipedia.</i></p></small><p><b>Kuma Operational Timeline</b></p><table border='0' cellspacing='0'><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/08/31/1920' alt='See all events on 31 Aug 1920' title='See all events on 31 Aug 1920' class='noStyle'>31 Aug 1920</a>&nbsp;</td><td>Kuma was commissioned into service.</td></tr><tr bgcolor=''><td valign='top' align='right' nowrap><a href='/event/today/02/02/1938' alt='See all events on 2 Feb 1938' title='See all events on 2 Feb 1938' class='noStyle'>2 Feb 1938</a>&nbsp;</td><td>Troops of Japanese No. 1 Yokosuka Special Naval Landing Force, 284 men, landed at Yantai, Shandong Province, China, supported by light cruiser Kuma (flagship of the operation).  No. 5 Sasebo Special Naval Landing Force and No. 6 Sasebo Special Naval Landing Force would soon arrive to reinforce No. 1 Yokosuka Special Naval Landing Force, which met unexpected resistance.</td></tr><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/04/09/1942' alt='See all events on 9 Apr 1942' title='See all events on 9 Apr 1942' class='noStyle'>9 Apr 1942</a>&nbsp;</td><td>Before dawn, Kuma was attacked by US motor torpedo boats PT-34 and PT-41 in the Cebu Strait between Cebu and Bohol in the Philippine Islands but sustained no damage; the only torpedo that hit Kuma failed to detonate.  PT-34 would be found and destroyed by aircraft after daybreak, killing 2.</td></tr></table><br /><p><b>Photographs</b></p><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href="/image.php?image_id=7592"><img src="/images/imagemagick/tmb_ship_kuma2.jpg" border='0' alt='Light cruiser Kuma on patrol off Tsingtao, China, 1930'></a></td></tr></table><br /><br /><br /><br />
 				<center><table border='0' cellpadding='0' cellspacing='0' width='100%'>
 				<tr><td valign='top' width='382'><p>Did you enjoy this article?  Please consider supporting us on <a href='https://www.patreon.com/ww2db' rel='nofollow' target='_patreon' onclick='javascript: ga("send","pageview","/outgoing/www.patreon.com/ww2db/");'>Patreon</a>.  Even $1 per month will go a long way!  Thank you.</p>
 		<table border='0' cellpadding='0' cellspacing='0'>
@@ -120,19 +119,19 @@ table.dataTable tbody td, table.dataTable thead td {
 			<td colspan='9'>Share this article with your friends:<br /><br /></td>
 		</tr>
 		<tr>
-			<td><a title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=A177' target='_facebook' rel='nofollow'><img src='/images/icon_facebook.gif' border='0'></a></td><td>&nbsp;</td><td><a id='facebook' title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=A177' target='_facebook'>Facebook</a></td>
-			<td><a title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A177&title=Escort Carrier USS Ommaney Bay' target='_reddit' rel='nofollow'><img src='/images/icon_reddit.gif' border='0'></a></td><td>&nbsp;</td><td><a id='reddit' title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A177&title=Escort Carrier USS Ommaney Bay' target='_reddit'>Reddit</a></td>
+			<td><a title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=C68' target='_facebook' rel='nofollow'><img src='/images/icon_facebook.gif' border='0'></a></td><td>&nbsp;</td><td><a id='facebook' title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=C68' target='_facebook'>Facebook</a></td>
+			<td><a title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C68&title=Light Cruiser Kuma' target='_reddit' rel='nofollow'><img src='/images/icon_reddit.gif' border='0'></a></td><td>&nbsp;</td><td><a id='reddit' title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C68&title=Light Cruiser Kuma' target='_reddit'>Reddit</a></td>
 		</tr>
 		<tr>
-			<td><a title='Tweet this page' href='http://twitter.com/home/?status=Escort+Carrier+USS+Ommaney+Bay+https://ww2db.com:443/ship_spec.php?ship_id=A177' target='_twitter' rel='nofollow'><img src='/images/icon_twitter.gif' border='0'></a></td><td>&nbsp;</td><td><a id='twitter' title='Tweet this page' href='http://twitter.com/home/?status=Escort+Carrier+USS+Ommaney+Bay+https://ww2db.com:443/ship_spec.php?ship_id=A177' target='_twitter'>Twitter</a></td>
-			<td><a title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A177&title=Escort Carrier USS Ommaney Bay' target='_digg' rel='nofollow'><img src='/images/icon_digg.gif' border='0'></a></td><td>&nbsp;</td><td><a id='digg' title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A177&title=Escort Carrier USS Ommaney Bay' target='_digg'>Digg</a></td>
+			<td><a title='Tweet this page' href='http://twitter.com/home/?status=Light+Cruiser+Kuma+https://ww2db.com:443/ship_spec.php?ship_id=C68' target='_twitter' rel='nofollow'><img src='/images/icon_twitter.gif' border='0'></a></td><td>&nbsp;</td><td><a id='twitter' title='Tweet this page' href='http://twitter.com/home/?status=Light+Cruiser+Kuma+https://ww2db.com:443/ship_spec.php?ship_id=C68' target='_twitter'>Twitter</a></td>
+			<td><a title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C68&title=Light Cruiser Kuma' target='_digg' rel='nofollow'><img src='/images/icon_digg.gif' border='0'></a></td><td>&nbsp;</td><td><a id='digg' title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C68&title=Light Cruiser Kuma' target='_digg'>Digg</a></td>
 		</tr>
 		<tr>
-			<td><a title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=A177' target='_googleplus' rel='nofollow'><img src='/images/icon_googleplus2.png' border='0'></a></td><td>&nbsp;</td><td><a id='googleplus' title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=A177' target='_googleplus'>Google+</a></td>
-			<td><a title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=A177&title=Escort Carrier USS Ommaney Bay' target='_delicious' rel='nofollow'><img src='/images/icon_delicious.gif' border='0'></a></td><td>&nbsp;</td><td><a id='delicious' title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=A177&title=Escort Carrier USS Ommaney Bay' target='_delicious'>Delicious</a></td>
+			<td><a title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=C68' target='_googleplus' rel='nofollow'><img src='/images/icon_googleplus2.png' border='0'></a></td><td>&nbsp;</td><td><a id='googleplus' title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=C68' target='_googleplus'>Google+</a></td>
+			<td><a title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=C68&title=Light Cruiser Kuma' target='_delicious' rel='nofollow'><img src='/images/icon_delicious.gif' border='0'></a></td><td>&nbsp;</td><td><a id='delicious' title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=C68&title=Light Cruiser Kuma' target='_delicious'>Delicious</a></td>
 		</tr>
 		<tr>
-			<td><a title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A177&title=Escort Carrier USS Ommaney Bay' target='_stumbleupon' rel='nofollow'><img src='/images/icon_stumbleupon.gif' border='0'></a></td><td>&nbsp;</td><td><a id='stumbleupon' title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A177&title=Escort Carrier USS Ommaney Bay' target='_stumbleupon'>StumbleUpon</a></td>
+			<td><a title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C68&title=Light Cruiser Kuma' target='_stumbleupon' rel='nofollow'><img src='/images/icon_stumbleupon.gif' border='0'></a></td><td>&nbsp;</td><td><a id='stumbleupon' title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C68&title=Light Cruiser Kuma' target='_stumbleupon'>StumbleUpon</a></td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -169,16 +168,16 @@ table.dataTable tbody td, table.dataTable thead td {
 	<tr><td valign="top">Your Comments</td><td><textarea name="comment" cols="30" rows="6"></textarea></td></tr>
 	<tr><td valign="top">Security Code</td>
 		<td valign="top">
-			<div style="background-image:url('/images/captcha/captcha8.jpg'); height: 40px; min-height: 40px; width: 100px; min-width: 100px;">&nbsp;</div>			<br />
+			<div style="background-image:url('/images/captcha/captcha3.jpg'); height: 40px; min-height: 40px; width: 100px; min-width: 100px;">&nbsp;</div>			<br />
 			<input type="text" name="captcha" style="margin-bottom: 2px;">
 		</td>
 	</tr>
 	<tr>
 		<td>&nbsp;</td>
 		<td valign="top"><input type="hidden" name="foreigntype" value="S">
-		<input type="hidden" name="foreigntype_id" value="177">
-		<input type="hidden" name="url" value="/ship_spec.php?ship_id=A177">
-		<input type="hidden" name="c" value="85"> 		<input type="submit" value="Submit"></td>
+		<input type="hidden" name="foreigntype_id" value="68">
+		<input type="hidden" name="url" value="/ship_spec.php?ship_id=C68">
+		<input type="hidden" name="c" value="80"> 		<input type="submit" value="Submit"></td>
 	</tr>
 	</table>
 	</center>
@@ -199,14 +198,7 @@ table.dataTable tbody td, table.dataTable thead td {
 </form>
 <script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=searchbox_004186240537787039759%3Aptfrvampo3a"></script>
 </ul>
-<div class="sidetop">More on USS Ommaney Bay</div><i>Event(s) Participated:</i><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=77>Palau Islands and Ulithi Islands Campaigns</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=5>Philippines Campaign, Phase 1, the Leyte Campaign</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=27>Philippines Campaign, Phase 2</a><br><br />	<div class="sidehidden_m">
-		<div class="sidetop">Random Photograph</div>
-		<center>
-			<div style="background-image: url('/images/imagemagick/tmb_ship_takao3.jpg'); background-repeat: no-repeat; width: 150px; min-width: 150px;"><a href='/image.php?image_id=2922'><img src='/images/icon_transparent.gif' border='0' width='150' height='100' /><br /></a></div>
-			<a href='/image.php?image_id=2922'>Recognition drawing for cruisers Takao and Atago (post-1938 configuration) published by US Navy Office of Naval Intelligence</a><br />
-			</center>		<br /><br />
-	</div>
-		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<div class="sidetop">More on Kuma</div><i>Personnel:</i><br>&raquo;&nbsp;<a href=person_bio.php?person_id=506>Daigo, Tadashige</a><br><br><i>Event(s) Participated:</i><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=46>Invasion of the Philippine Islands</a><br><br /><i>Partner Sites Content:</i><br />&raquo;&nbsp;<a href='http://www.combinedfleet.com/kuma_t.htm' target='_combinedfleet' onclick="javascript: pageTracker._trackPageview('/outgoing/www.combinedfleet.com/kuma_t.htm');">Kuma Tabular Record of Movement</a><br /><div class='sidehidden_m'><div class='sidetop'>Light Cruiser Kuma Photo Gallery</div><center><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href="/image.php?image_id=7592"><img src="/images/imagemagick/tmb_ship_kuma2.jpg" border='0' alt='Light cruiser Kuma on patrol off Tsingtao, China, 1930'></a></td></tr></table></center></div><br /><br />		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		<!-- WW2DB Xcol Links 160x90 -->
 		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:90px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="5126713011"></ins>
 		<script>
@@ -215,10 +207,10 @@ table.dataTable tbody td, table.dataTable thead td {
 		<br /><br />
 	<div class="sidehidden_m">
 	<div class="sidetop">Current Site Statistics</div>
-	<ul><li> &#187; <a class='noStyle' href='/person.php'>1,039 biographies</a></li><li> &#187; <a class='noStyle' href='/event/'>326 events</a></li><li> &#187; <a class='noStyle' href='/event/timeline/'>35,502 timeline entries</a></li><li> &#187; <a class='noStyle' href='/ship.php'>726 ships</a></li><li> &#187; <a class='noStyle' href='/aircraft.php'>329 aircraft models</a></li><li> &#187; <a class='noStyle' href='/vehicle.php'>184 vehicle models</a></li><li> &#187; <a class='noStyle' href='/weapon.php'>339 weapon models</a></li><li> &#187; <a class='noStyle' href='/doc.php'>102 historical documents</a></li><li> &#187; <a class='noStyle' href='/facility/'>175 facilities</a></li><li> &#187; <a class='noStyle' href='/book/'>457 book reviews</a></li><li> &#187; <a class='noStyle' href='/photo.php'>24,916 photos</a></li><li> &#187; <a class='noStyle' href='/reference/map/'>287 maps</a></li></ul>	<br />
+	<ul><li> &#187; <a class='noStyle' href='/person.php'>1,040 biographies</a></li><li> &#187; <a class='noStyle' href='/event/'>326 events</a></li><li> &#187; <a class='noStyle' href='/event/timeline/'>35,554 timeline entries</a></li><li> &#187; <a class='noStyle' href='/ship.php'>726 ships</a></li><li> &#187; <a class='noStyle' href='/aircraft.php'>329 aircraft models</a></li><li> &#187; <a class='noStyle' href='/vehicle.php'>184 vehicle models</a></li><li> &#187; <a class='noStyle' href='/weapon.php'>340 weapon models</a></li><li> &#187; <a class='noStyle' href='/doc.php'>102 historical documents</a></li><li> &#187; <a class='noStyle' href='/facility/'>175 facilities</a></li><li> &#187; <a class='noStyle' href='/book/'>457 book reviews</a></li><li> &#187; <a class='noStyle' href='/photo.php'>24,934 photos</a></li><li> &#187; <a class='noStyle' href='/reference/map/'>287 maps</a></li></ul>	<br />
 </div>
 
-<div class='sidehidden_m'><div class='sidetop'>Famous WW2 Quote</div>"All right, they're on our left, they're on our right, they're in front of us, they're behind us... they can't get away this time."<br><br>Lt. Gen. Lewis B. "Chesty" Puller, at Guadalcanal</div><br /><br />				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<div class='sidehidden_m'><div class='sidetop'>Famous WW2 Quote</div>"The raising of that flag on Suribachi means a Marine Corps for the next 500 years."<br><br>James Forrestal, Secretary of the Navy, 23 Feb 1945</div><br /><br />				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		<!-- WW2DB Xcol Vertical Banner 160x600 -->
 		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="6471754899"></ins>
 		<script>
@@ -242,7 +234,7 @@ table.dataTable tbody td, table.dataTable thead td {
 		<li> &#187; <a href="/feed.php">Syndication</a></li>
 		<li> &#187; <a href="/termsofuse.php" rel="nofollow">Terms of Use & Disclosures</a></li>
 		<li> &#187; <a href="/">World War II Database Home</a></li>
-		<li> &#187; <a href='http://m.ww2db.com/ship_spec.php?ship_id=A177'>Mobile View</a></li>
+		<li> &#187; <a href='http://m.ww2db.com/ship_spec.php?ship_id=C68'>Mobile View</a></li>
 		</ul>		
 	</div>
 	<div style="float: left; padding: 0 5 0 5px; width: 282px; text-align: left;">

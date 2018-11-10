@@ -1,10 +1,10 @@
 <html>
 
 <head>
-<title>Escort Carrier USS Makin Island (CVE-93) | World War II Database</title>
+<title>Light Cruiser Kashii | World War II Database</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="description" content="Escort Carrier USS Makin Island (CVE-93) | World War II Database">
-<meta name="keywords" content="ww2db, world war, ww2, military, history, Escort Carrier USS Makin Island (CVE-93) | World War II Database">
+<meta name="description" content="Light Cruiser Kashii | World War II Database">
+<meta name="keywords" content="ww2db, world war, ww2, military, history, Light Cruiser Kashii | World War II Database">
 <meta name="ROBOTS" content="INDEX, FOLLOW">
 <meta name="REVISIT-AFTER" CONTENT="15 days">
 <META NAME="COPYRIGHT" CONTENT="Copyright © 2004-2018 Lava Development, LLC., all rights reserved">
@@ -23,25 +23,25 @@
 
 <link rel="alternate" type="application/rss+xml" title="WW2DB RSS Feed" href="https://ww2db.com/feedgen.php?feed=articles&f=RSS2.0" />
 
-<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=A776' />
-<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=776' />
+<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=C57' />
+<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=57' />
 
 <meta property="fb:app_id" content="103484127961" />
 <meta name="p:domain_verify" content="794c2d433a01b5d35554ba972a179eff"/>
 
-	<link rel="image_src" type="image/jpeg" href="http://ww2db.com/images/ship_makinisland1.jpg" />
+	<link rel="image_src" type="image/jpeg" href="http://ww2db.com/images/ship_kashii1.jpg" />
 	<meta property="og:site_name" content="WW2DB" />
-	<meta property="og:title" content="Escort Carrier USS Makin Island (CVE-93)" />
-	<meta property="og:description" content="Escort Carrier USS Makin Island (CVE-93)" />
+	<meta property="og:title" content="Light Cruiser Kashii" />
+	<meta property="og:description" content="Light Cruiser Kashii" />
 	<meta property="og:type" content="article" />
-	<meta property="og:url" content="https://ww2db.com/ship_spec.php?ship_id=A776" />
-		<meta property="og:image" content="http://ww2db.com/images/ship_makinisland1.jpg" />
+	<meta property="og:url" content="https://ww2db.com/ship_spec.php?ship_id=C57" />
+		<meta property="og:image" content="http://ww2db.com/images/ship_kashii1.jpg" />
 
 	<meta name='twitter:card' content='summary'>
 	<meta name='twitter:site' content='@ww2db'>
-	<meta name='twitter:title' content='Escort Carrier USS Makin Island (CVE-93)'>
-	<meta name='twitter:description' content='Escort Carrier USS Makin Island (CVE-93)'>
-	<meta name='twitter:image' content='http://ww2db.com/images/ship_makinisland1.jpg'>
+	<meta name='twitter:title' content='Light Cruiser Kashii'>
+	<meta name='twitter:description' content='Light Cruiser Kashii'>
+	<meta name='twitter:image' content='http://ww2db.com/images/ship_kashii1.jpg'>
 				
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.5/css/jquery.dataTables.css">
 <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
@@ -77,7 +77,7 @@ table.dataTable tbody td, table.dataTable thead td {
 		</td></tr>
 		</table>
 		<div class="bannerflash">
-		<div style="background-image:url('/images/banner915_1.jpg'); height: 120px; min-height: 120px; width: 915px; min-width: 915px;">&nbsp;</div>		</div>
+		<div style="background-image:url('/images/banner915_2.jpg'); height: 120px; min-height: 120px; width: 915px; min-width: 915px;">&nbsp;</div>		</div>
 	</div>
 	<div id='nav' align='right'>
 		<ul id='navlist'>
@@ -86,15 +86,15 @@ table.dataTable tbody td, table.dataTable thead td {
 
 <div id="content">
 	<div itemscope itemtype="http://schema.org/Article" class="maincol">
-		<meta itemprop="url" content="<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=A776' />
-<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=776' />
+		<meta itemprop="url" content="<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=C57' />
+<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=57' />
 " />
-		<meta itemprop="description" content="Escort Carrier USS Makin Island (CVE-93)" />
+		<meta itemprop="description" content="Light Cruiser Kashii" />
 		<div id="breadcrumb"><ul class="horizontalList">
 				<li class="horizontalList"> <a href="index.php">Home</a></li>
 				<li class="horizontalList"> &#187; <a href="equip.php">Equipment</a></li>
-				<li class="horizontalList"> &#187; <a href="ship.php">Ships</a></li><li class="horizontalList"> &#187; <a href="ship.php?list=A">Carriers</a></li><li class="horizontalList"> &#187; Makin Island</li></ul></div>
-<div style='display: inline; float: right;'><image itemprop='image' class='filephoto' alt='USS Makin Island file photo [12845]' title='USS Makin Island file photo [12845]' src='/images/ship_makinisland1.jpg' /><script>
+				<li class="horizontalList"> &#187; <a href="ship.php">Ships</a></li><li class="horizontalList"> &#187; <a href="ship.php?list=C">Cruisers</a></li><li class="horizontalList"> &#187; Kashii</li></ul></div>
+<div style='display: inline; float: right;'><image itemprop='image' class='filephoto' alt='Kashii file photo [13244]' title='Kashii file photo [13244]' src='/images/ship_kashii1.jpg' /><script>
 		function resizeText(className, percent) {
 			var elements = document.getElementsByClassName(className);
 			for (var i = 0; i < elements.length; ++i) {
@@ -107,39 +107,8 @@ table.dataTable tbody td, table.dataTable thead td {
 				}
 			}
 		}
-		</script><br /><img src="/images/icon_font_small.jpg" onclick="resizeText('maincol', -10)" title="Decrease font size" /><img src="/images/icon_font_medium.jpg" onclick="resizeText('maincol', null)" title="Reset font size" /><img src="/images/icon_font_large.jpg" onclick="resizeText('maincol', 10)" title="Increase font size" /></div><div style='margin: 8px 0px 8px 0px;'><h2 itemprop='name' class='articleHeader'>USS Makin Island</h2></div><table class="table_noborder"><tr><td class="table_noborder">Country</td><td class="table_noborder"><a href='/country/united%20states'>United States</a></td></tr><tr><td class="table_noborder">Ship Class</td><td class="table_noborder">Casablanca-class Escort Carrier</td></tr><tr><td class='table_noborder'>Hull Number</td><td class='table_noborder'>CVE-93</td></tr><tr><td class="table_noborder">Builder</td><td class="table_noborder">Kaiser Shipbuilding, Vancouver, Washington, United States</td></tr><tr><td class="table_noborder">Laid Down</td><td class="table_noborder">12 Jan 1944</td></tr><tr><td class="table_noborder">Launched</td><td class="table_noborder">5 Apr 1944</td></tr><tr><td class="table_noborder">Commissioned</td><td class="table_noborder">9 May 1944</td></tr><tr><td class="table_noborder">Decommissioned</td><td class="table_noborder">19 Apr 1946</td></tr><tr><td class="table_noborder">Displacement</td><td class="table_noborder">7800 tons standard; 10400 tons full</td></tr><tr><td class="table_noborder">Length</td><td class="table_noborder">512 feet</td></tr><tr><td class="table_noborder">Beam</td><td class="table_noborder">65 feet</td></tr><tr><td class="table_noborder">Draft</td><td class="table_noborder">22 feet</td></tr><tr><td class="table_noborder">Machinery</td><td class="table_noborder">Two Skinner, Uniflow engines with two screws</td></tr><tr><td class="table_noborder">Power Output</td><td class="table_noborder">9000 SHP</td></tr><tr><td class="table_noborder">Speed</td><td class="table_noborder">19 knots</td></tr><tr><td class="table_noborder">Crew</td><td class="table_noborder">860</td></tr><tr><td class="table_noborder">Armament</td><td class="table_noborder">1x5in anti-aircraft gun, 16x40mm guns</td></tr><tr><td class="table_noborder">Aircraft</td><td class="table_noborder">17 FM-2 Wildcat fighters, 8 TBM-3 Avenger torpedo bombers</td></tr></table><p><small>Contributor: <a href='/person_bio.php?person_id=455'><span itemprop='author' itemscope itemtype='http://schema.org/Person'><span itemprop='name'>David Stubblebine</span></span></a></small></p><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>The United States Navy's naming convention for escort carriers was to use names of sounds and bays of the United States, although many Casablanca-class escort carriers followed the convention for fleet carriers and were named for significant US naval engagements.  USS Makin Island sort of had a foot in both camps; during her planning stages, the intention was that she would be named USS Woodcliff Bay (CVE-93) but she was renamed Makin Island on 17 December 1943 to commemorate "Carlson's Raiders" daring first ever submarine launched USMC commando style raid on Makin Island in the Gilbert Islands a year earlier.</p>
-
-<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>USS Makin Island was the 39th Casablanca-class escort carrier and was commissioned 9 May 1944 at Astoria, Oregon with Commander William B. Whaley in command.  A short time later, Commander Whaley's promotion to Captain became effective.</p>
-
-<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Following an abbreviated west coast shakedown cruise and one trip to and from the Marshall Islands ferrying aircraft, Makin Island returned to San Diego, California, United States.  On 10 October 1944, Rear Admiral Calvin T. Durgin broke his Flag aboard Makin Island and began building an Escort Carrier Task Unit that included Makin Island, Lunga Point, Bismarck Sea, Salamaua, and escorts.  The Task Unit made training sorties out of San Diego before sailing for Ulithi via Pearl Harbor and Eniwetok, arriving 5 November 1944.</p>
-
-<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Makin Island and Rear Admiral Durgin's Task Unit spent November protecting convoys in transit to the Leyte invasion beachhead, encountering no enemy resistance.  They then sailed to Manus in the Admiralty Islands to prepare for the forthcoming invasion of the Philippine island of Luzon.  Makin Island crossed the equator on 26 November 1944 and the ensuing Crossing the Line ceremonies initiated over 800 pollywog officers and crew.  Even Rear Admiral Durgin, Captain Whaley, and Composite Squadron 84's commanding officer, Commander Rogers, submitted themselves to the Mystic Rites of the Deep and emerged as Worthy Shellbacks.</p>
-
-<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Makin Island left Manus 27 December 1944 to join the invasion force sailing for Lingayen Gulf on western Luzon.  The Battle Group was subjected to fierce, almost continuous enemy air attack during the passage to the assault beaches but Makin Island suffered no damage.  She spent eleven days off the beachhead flying air support for the amphibious operation and then sailed for Ulithi.</p>
-
-<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Rear Admiral Durgin flew his flag off Makin Island once more, this time in command of a thirty-six ship Carrier Task Group for the invasion of Iwo Jima.  During her three weeks off Iwo Jima, her planes made almost continuous combat sorties, primarily in the close ground support role.  Air operations included recovering planes from other carriers that had been damaged while the aircraft were aloft.  This included landing five F6F Hellcat fighters from Saratoga after she had been hit by five <i>kamikaze</i> planes within three minutes.</p>
-
-<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>After replenishing at Ulithi, Makin Island sailed for the Okinawa campaign, again as flagship.  After just over a month of air sorties in support of the landings on Okinawa, Makin Island’s air squadron, Composite Squadron 84, was replaced with Composite Squadron 91.</p>
-
-<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>All together, Makin Island remained on station off Okinawa for 77 days, flying constant fire support, supply, and reconnaissance missions for the ground forces.  Relieved 1 June 1945, the carrier sailed for Guam in the Mariana Islands.</p>
-
-<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>The layover in Guam allowed for many needed repairs and some wholesale personnel changes.  Captain Whaley was relieved and Captain Ira E. Hobbs assumed command.  The pilots of Composite Squadron 91 were also relieved and Composite Squadron 41 reported aboard.</p>
-
-<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Makin Island sailed again to provide air cover for ships conducting minesweeping and raiding operations in the East China Sea.  With war's end, she proceeded to Wakanoura Wan, in southern Honshu, Japan for occupation duty where her planes flew air cover for the evacuation of Allied prisoners of war.  She sailed for San Francisco 18 October 1945, returning to Shanghai in November 1945 to return troops to the United States as part of Operation Magic Carpet.</p>
-
-<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Makin Island was decommissioned 19 April 1946 at Puget Sound, stricken from the Navy list 11 July 1946, and sold on 1 January 1947.</p>
-
-<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Makin Island received five battle stars and a Navy Unit Commendation for her service in World War II.</p>
-
-<small><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span><i>Sources:<br />
-Dictionary of American Naval Fighting Ships<br />
-War History of USS Makin Island<br />
-Naval Historical Society<br />
-Navsource<br />
-Navysite.de<br />
-ussmakinisland.org<br />
-Andy York<br />
-</i></p></small>
+		</script><br /><img src="/images/icon_font_small.jpg" onclick="resizeText('maincol', -10)" title="Decrease font size" /><img src="/images/icon_font_medium.jpg" onclick="resizeText('maincol', null)" title="Reset font size" /><img src="/images/icon_font_large.jpg" onclick="resizeText('maincol', 10)" title="Increase font size" /></div><div style='margin: 8px 0px 8px 0px;'><h2 itemprop='name' class='articleHeader'>Kashii</h2></div><table class="table_noborder"><tr><td class="table_noborder">Country</td><td class="table_noborder"><a href='/country/japan'>Japan</a></td></tr><tr><td class="table_noborder">Ship Class</td><td class="table_noborder"><a href='ship_spec.php?ship_id=475'>Katori-class Light Cruiser</a></td></tr><tr><td class="table_noborder">Builder</td><td class="table_noborder">Mitsubishi Heavy Industries shipyard, Yokohama</td></tr><tr><td class="table_noborder">Launched</td><td class="table_noborder">14 Feb 1941</td></tr><tr><td class="table_noborder">Commissioned</td><td class="table_noborder">15 Jul 1941</td></tr><tr><td class="table_noborder">Sunk</td><td class="table_noborder">12 Jan 1945</td></tr><tr><td class="table_noborder">Displacement</td><td class="table_noborder">6280 tons standard</td></tr><tr><td class="table_noborder">Length</td><td class="table_noborder">426 feet</td></tr><tr><td class="table_noborder">Beam</td><td class="table_noborder">52 feet</td></tr><tr><td class="table_noborder">Draft</td><td class="table_noborder">19 feet</td></tr><tr><td class="table_noborder">Speed</td><td class="table_noborder">18 knots</td></tr><tr><td class="table_noborder">Crew</td><td class="table_noborder">640</td></tr><tr><td class="table_noborder">Armament</td><td class="table_noborder">4x140mm, 2x127mm, 30x25mm anti-aircraft, 8x13mm anti-aircraft, 4x24in torpedo tubes</td></tr></table><p><small>Contributor: <a href='/person_bio.php?person_id=179'><span itemprop='author' itemscope itemtype='http://schema.org/Person'><span itemprop='name'>C. Peter Chen</span></span></a></small></p><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Like other Katori-class cruisers, Kashii was originally laid down as a training vessel, but the war necessitated them to enter action.  Named after a shrine on the Hakuta Bay in Japan, she was commissioned in Jul 1941 with Captain Sanji Iwabuchi in command.  As a part of the Southern Expeditionary Fleet, she served briefly as Vice Admiral Jisaburo Ozawa's flagship off Indochina and southern China in Nov 1941.  At 1000 on 8 Dec 1941, she served off Malaya, assisting the landing of troops in Siam who would eventually march into Malaya at the start of the Pacific War.  On 13 Dec, she joined light cruiser Sendai and covered transports bringing more troops into Malaya.  On 3 Jan 1942, she rescued survivors from the troop transport Meiko Maru as the transport caught fire accidentally, exploded, and sank.  On 16 Feb 1942, she escorted transports landing troops on the island of Sumatra; a month later, after participating in several convoy missions, she returned to northern Sumatra to provide cover for further landings at Kutaradja and Sabang.  On 19 Mar 1942, Kashii became the flagship of the No. 2 Escort Unit, which landed the Japanese 56th Infantry Division at Rangoon, Burma on 25 Mar 1942.  She was detached on 4 Apr and returned to Singapore, once again becoming Ozawa's flagship.  In Sep 1942, a fake second funnel was installed to throw off enemy identification.  From the start of the Pacific War until early 1944, she participation in many transport and patrol duties all across the South Pacific.  In Feb 1944, she returned to Etajima and began to perform training duties as she was originally intended to serve at the time she was laid down.  However, as the Allied forces slowly inched toward Japan, by May 1944 she was set out to sea again, this time as Rear Admiral Mitsuharu Matsuyama's flagship, charged with anti-submarine and escort missions.  By that time, however, American blockade of Japanese waters were so effective that the presence of Kashii and other escorts affected little on American submarines' efforts to sink Japanese transports.  On 12 Jan 1945, Allied forces struck Indochina, where Kashii was located at that time.  Between 1100 and 1700 that day, SB2C Helldiver dive bombers and TBF Avenger torpedo bombers attacked the convoy in which Kashii was a member of.  Kashii was attacked at 1408, hit by a torpedo and two bombs.  The hits set off her depth charges, and the cruiser sank quickly.  Only 19 out of her complement of 640 survived.</p>
+<small><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span><i>Source: Imperial Japanese Navy Page.</i></p></small>
 				<link rel='stylesheet' href='https://unpkg.com/leaflet@1.3.1/dist/leaflet.css'
 				   integrity='sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=='
 				   crossorigin=''/>
@@ -161,10 +130,10 @@ Andy York<br />
 				}
 				</style>
 				
-				<p id='interactiveMapLabel'><b>Escort Carrier USS Makin Island (CVE-93) Interactive Map</b></p>
+				<p id='interactiveMapLabel'><b>Light Cruiser Kashii Interactive Map</b></p>
 				<div id='mapid' class='mapClass'></div>
 				<script>
-				var mymap = L.map('mapid').setView([26.224809000, 127.322402000], 13);
+				var mymap = L.map('mapid').setView([14.326233000, 109.252460000], 13);
 			
 					L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.{ext}', {
 						attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
@@ -174,7 +143,8 @@ Andy York<br />
 						ext: 'png'
 					}).addTo(mymap);
 				
-				var rawDataArray = [  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Kerama Retto, Ryukyu Islands, Japan</h2><div class='infowindowSubTitle'>31 Mar 1945</div><a href='/image.php?image_id=12846'><img src='/images/imagemagick/tmb_ship_makinisland3.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 26.224809000, 127.322402000, 1]];
+				var rawDataArray = [  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Qui Nhon, Annam, French Indochina</h2><div class='infowindowSubTitle'>12 Jan 1945</div>Kashii, sailing in convoy off Indochina, was sunk by American SB2C Helldiver dive bombers and TBF Avenger torpedo bombers.  Only 19 out of her complement of 640 survived.<br /><a href='/image.php?image_id=21708'><img src='/images/imagemagick/tmb_53e6f83c56cab.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 13.794827000, 109.383152000, 2],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Qui Nhon, Annam, French Indochina</h2><div class='infowindowSubTitle'>12 Jan 1945</div><a href='/image.php?image_id=21709'><img src='/images/imagemagick/tmb_53e6f8c106e6d.jpg' style='width: 50px; margin-right: 3px;' /></a><br /><a href='/image.php?image_id=21710'><img src='/images/imagemagick/tmb_53e6f941f374b.jpg' style='width: 50px; margin-right: 3px;' /></a><br /><a href='/image.php?image_id=21711'><img src='/images/imagemagick/tmb_53e6f9ddeda3e.jpg' style='width: 50px; margin-right: 3px;' /></a><br /><a href='/image.php?image_id=21712'><img src='/images/imagemagick/tmb_53e6fa4a2c21c.jpg' style='width: 50px; margin-right: 3px;' /></a><br /><a href='/image.php?image_id=21713'><img src='/images/imagemagick/tmb_53e6fac76c586.jpg' style='width: 50px; margin-right: 3px;' /></a><br /><a href='/image.php?image_id=21714'><img src='/images/imagemagick/tmb_53e6fb4ab8ba5.jpg' style='width: 50px; margin-right: 3px;' /></a><br /><a href='/image.php?image_id=21715'><img src='/images/imagemagick/tmb_53e6fbc6296be.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 14.326233000, 109.252460000, 7]];
 				var pointsArray = [];
 			
 					var markers = L.markerClusterGroup({ maxClusterRadius: 50 });
@@ -192,7 +162,7 @@ Andy York<br />
 				var group = new L.featureGroup(pointsArray);
 				mymap.fitBounds(group.getBounds());
 				</script>
-			<p><b>USS Makin Island Operational Timeline</b></p><table border='0' cellspacing='0'><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/12/07/1943' alt='See all events on 7 Dec 1943' title='See all events on 7 Dec 1943' class='noStyle'>7 Dec 1943</a>&nbsp;</td><td>The planned escort carrier Woodcliff Bay was renamed Makin Island.</td></tr><tr bgcolor=''><td valign='top' align='right' nowrap><a href='/event/today/01/12/1944' alt='See all events on 12 Jan 1944' title='See all events on 12 Jan 1944' class='noStyle'>12 Jan 1944</a>&nbsp;</td><td>The keel of escort carrier Makin Island was laid down.</td></tr><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/04/05/1944' alt='See all events on 5 Apr 1944' title='See all events on 5 Apr 1944' class='noStyle'>5 Apr 1944</a>&nbsp;</td><td>Escort carrier Makin Island was launched.</td></tr><tr bgcolor=''><td valign='top' align='right' nowrap><a href='/event/today/05/09/1944' alt='See all events on 9 May 1944' title='See all events on 9 May 1944' class='noStyle'>9 May 1944</a>&nbsp;</td><td>USS Makin Island was commissioned into service at Astoria, Oregon, United States with Commander William B. Whaley in command.</td></tr><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/10/10/1944' alt='See all events on 10 Oct 1944' title='See all events on 10 Oct 1944' class='noStyle'>10 Oct 1944</a>&nbsp;</td><td>USS Makin Island became the flagship of Rear Admiral Calvin T. Durgin of an escort carrier task unit.</td></tr><tr bgcolor=''><td valign='top' align='right' nowrap><a href='/event/today/11/05/1944' alt='See all events on 5 Nov 1944' title='See all events on 5 Nov 1944' class='noStyle'>5 Nov 1944</a>&nbsp;</td><td>USS Makin Island arrived at Eniwetok, Marshall Islands.</td></tr><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/11/26/1944' alt='See all events on 26 Nov 1944' title='See all events on 26 Nov 1944' class='noStyle'>26 Nov 1944</a>&nbsp;</td><td>USS Makin crossed the Equator.  In the line cross ceremony, 800 pollywogs, including Rear Admiral Calvin Durgin and Captain William Whaley, were hazed and initiated by shellbacks who had previously crossed the line.</td></tr><tr bgcolor=''><td valign='top' align='right' nowrap><a href='/event/today/12/27/1944' alt='See all events on 27 Dec 1944' title='See all events on 27 Dec 1944' class='noStyle'>27 Dec 1944</a>&nbsp;</td><td>USS Makin Island departed Manus, Admiralty Islands.</td></tr><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/06/01/1945' alt='See all events on 1 Jun 1945' title='See all events on 1 Jun 1945' class='noStyle'>1 Jun 1945</a>&nbsp;</td><td>USS Makin Island departed Okinawa, Japan area for Guam, Mariana Islands.</td></tr><tr bgcolor=''><td valign='top' align='right' nowrap><a href='/event/today/10/18/1945' alt='See all events on 18 Oct 1945' title='See all events on 18 Oct 1945' class='noStyle'>18 Oct 1945</a>&nbsp;</td><td>USS Makin Island departed Japan for San Francisco, California, United States.</td></tr><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/04/19/1946' alt='See all events on 19 Apr 1946' title='See all events on 19 Apr 1946' class='noStyle'>19 Apr 1946</a>&nbsp;</td><td>USS Makin Island was decommissioned from service at Puget Sound Naval Shipyard in Washington, United States.</td></tr><tr bgcolor=''><td valign='top' align='right' nowrap><a href='/event/today/07/11/1946' alt='See all events on 11 Jul 1946' title='See all events on 11 Jul 1946' class='noStyle'>11 Jul 1946</a>&nbsp;</td><td>Escort carrier Makin Island was stricken from the US Naval Register.</td></tr><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/01/01/1947' alt='See all events on 1 Jan 1947' title='See all events on 1 Jan 1947' class='noStyle'>1 Jan 1947</a>&nbsp;</td><td>Escort carrier Makin Island was sold for scrap.</td></tr></table><br /><p><b>Photographs</b></p><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=776'><img src="/images/imagemagick/tmb_ship_makinisland10.jpg" border='0' alt='Aerial view of USS Makin Island off Leyte, Philippine Islands, 18 Nov 1944; note lowered forward elevator and FM-2 Wildcat aircraft on the flight deck'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=776'><img src="/images/imagemagick/tmb_air_wildcat44.jpg" border='0' alt='Crew of USS Makin Island attempted to pull an upended FM-2 Wildcat from the flight deck's edge, circa 1944-1945'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=776'><img src="/images/imagemagick/tmb_air_wildcat42.jpg" border='0' alt='FM-2 Wildcat landing on USS Makin Island, circa 1944-1945'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=776'><img src="/images/imagemagick/tmb_ship_makinisland8.jpg" border='0' alt='Crew members of USS Makin Island at their battle stations with inflatable belts and flash proof clothing, late 1944-mid 1945'></a></td></tr></table><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=776'>See all 19 photographs of Escort Carrier USS Makin Island (CVE-93)</a><br /><br /><br /><br />
+			<p><b>Kashii Operational Timeline</b></p><table border='0' cellspacing='0'><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/07/15/1941' alt='See all events on 15 Jul 1941' title='See all events on 15 Jul 1941' class='noStyle'>15 Jul 1941</a>&nbsp;</td><td>Kashii was commissioned into service.</td></tr><tr bgcolor=''><td valign='top' align='right' nowrap><a href='/event/today/07/21/1944' alt='See all events on 21 Jul 1944' title='See all events on 21 Jul 1944' class='noStyle'>21 Jul 1944</a>&nbsp;</td><td>Kashii arrived at Manila, Philippine Islands.</td></tr><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/01/12/1945' alt='See all events on 12 Jan 1945' title='See all events on 12 Jan 1945' class='noStyle'>12 Jan 1945</a>&nbsp;</td><td>Kashii, sailing in convoy off Indochina, was sunk by American SB2C Helldiver dive bombers and TBF Avenger torpedo bombers.  Only 19 out of her complement of 640 survived.</td></tr></table><br /><p><b>Photographs</b></p><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=57'><img src="/images/imagemagick/tmb_ship_kashii2.jpg" border='0' alt='Light cruiser Kashii, July 15, 1941'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=57'><img src="/images/imagemagick/tmb_53e6f8c106e6d.jpg" border='0' alt='Aerial torpedo from United States carrier aircraft hits the stern of Japanese cruiser Kashii off the coast of French Indochina (Vietnam) north of Qui Nhon, Jan 12, 1945. Photo 2 of 8'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=57'><img src="/images/imagemagick/tmb_53e6f941f374b.jpg" border='0' alt='Japanese cruiser Kashii settling by the stern after being hit by an aerial torpedo from United States carrier aircraft off the coast of French Indochina (Vietnam) north of Qui Nhon, Jan 12, 1945. Photo 3 of 8'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=57'><img src="/images/imagemagick/tmb_53e6f9ddeda3e.jpg" border='0' alt='Japanese cruiser Kashii sinking by the stern after being attacked by United States carrier aircraft off the coast of French Indochina (Vietnam) north of Qui Nhon, Jan 12, 1945. Photo 4 of 8'></a></td></tr></table><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=57'>See all 9 photographs of Light Cruiser Kashii</a><br /><br /><br /><br />
 				<center><table border='0' cellpadding='0' cellspacing='0' width='100%'>
 				<tr><td valign='top' width='382'><p>Did you enjoy this article?  Please consider supporting us on <a href='https://www.patreon.com/ww2db' rel='nofollow' target='_patreon' onclick='javascript: ga("send","pageview","/outgoing/www.patreon.com/ww2db/");'>Patreon</a>.  Even $1 per month will go a long way!  Thank you.</p>
 		<table border='0' cellpadding='0' cellspacing='0'>
@@ -200,19 +170,19 @@ Andy York<br />
 			<td colspan='9'>Share this article with your friends:<br /><br /></td>
 		</tr>
 		<tr>
-			<td><a title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=A776' target='_facebook' rel='nofollow'><img src='/images/icon_facebook.gif' border='0'></a></td><td>&nbsp;</td><td><a id='facebook' title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=A776' target='_facebook'>Facebook</a></td>
-			<td><a title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A776&title=Escort Carrier USS Makin Island (CVE-93)' target='_reddit' rel='nofollow'><img src='/images/icon_reddit.gif' border='0'></a></td><td>&nbsp;</td><td><a id='reddit' title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A776&title=Escort Carrier USS Makin Island (CVE-93)' target='_reddit'>Reddit</a></td>
+			<td><a title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=C57' target='_facebook' rel='nofollow'><img src='/images/icon_facebook.gif' border='0'></a></td><td>&nbsp;</td><td><a id='facebook' title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=C57' target='_facebook'>Facebook</a></td>
+			<td><a title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C57&title=Light Cruiser Kashii' target='_reddit' rel='nofollow'><img src='/images/icon_reddit.gif' border='0'></a></td><td>&nbsp;</td><td><a id='reddit' title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C57&title=Light Cruiser Kashii' target='_reddit'>Reddit</a></td>
 		</tr>
 		<tr>
-			<td><a title='Tweet this page' href='http://twitter.com/home/?status=Escort+Carrier+USS+Makin+Island+(CVE-93)+https://ww2db.com:443/ship_spec.php?ship_id=A776' target='_twitter' rel='nofollow'><img src='/images/icon_twitter.gif' border='0'></a></td><td>&nbsp;</td><td><a id='twitter' title='Tweet this page' href='http://twitter.com/home/?status=Escort+Carrier+USS+Makin+Island+(CVE-93)+https://ww2db.com:443/ship_spec.php?ship_id=A776' target='_twitter'>Twitter</a></td>
-			<td><a title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A776&title=Escort Carrier USS Makin Island (CVE-93)' target='_digg' rel='nofollow'><img src='/images/icon_digg.gif' border='0'></a></td><td>&nbsp;</td><td><a id='digg' title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A776&title=Escort Carrier USS Makin Island (CVE-93)' target='_digg'>Digg</a></td>
+			<td><a title='Tweet this page' href='http://twitter.com/home/?status=Light+Cruiser+Kashii+https://ww2db.com:443/ship_spec.php?ship_id=C57' target='_twitter' rel='nofollow'><img src='/images/icon_twitter.gif' border='0'></a></td><td>&nbsp;</td><td><a id='twitter' title='Tweet this page' href='http://twitter.com/home/?status=Light+Cruiser+Kashii+https://ww2db.com:443/ship_spec.php?ship_id=C57' target='_twitter'>Twitter</a></td>
+			<td><a title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C57&title=Light Cruiser Kashii' target='_digg' rel='nofollow'><img src='/images/icon_digg.gif' border='0'></a></td><td>&nbsp;</td><td><a id='digg' title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C57&title=Light Cruiser Kashii' target='_digg'>Digg</a></td>
 		</tr>
 		<tr>
-			<td><a title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=A776' target='_googleplus' rel='nofollow'><img src='/images/icon_googleplus2.png' border='0'></a></td><td>&nbsp;</td><td><a id='googleplus' title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=A776' target='_googleplus'>Google+</a></td>
-			<td><a title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=A776&title=Escort Carrier USS Makin Island (CVE-93)' target='_delicious' rel='nofollow'><img src='/images/icon_delicious.gif' border='0'></a></td><td>&nbsp;</td><td><a id='delicious' title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=A776&title=Escort Carrier USS Makin Island (CVE-93)' target='_delicious'>Delicious</a></td>
+			<td><a title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=C57' target='_googleplus' rel='nofollow'><img src='/images/icon_googleplus2.png' border='0'></a></td><td>&nbsp;</td><td><a id='googleplus' title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=C57' target='_googleplus'>Google+</a></td>
+			<td><a title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=C57&title=Light Cruiser Kashii' target='_delicious' rel='nofollow'><img src='/images/icon_delicious.gif' border='0'></a></td><td>&nbsp;</td><td><a id='delicious' title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=C57&title=Light Cruiser Kashii' target='_delicious'>Delicious</a></td>
 		</tr>
 		<tr>
-			<td><a title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A776&title=Escort Carrier USS Makin Island (CVE-93)' target='_stumbleupon' rel='nofollow'><img src='/images/icon_stumbleupon.gif' border='0'></a></td><td>&nbsp;</td><td><a id='stumbleupon' title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A776&title=Escort Carrier USS Makin Island (CVE-93)' target='_stumbleupon'>StumbleUpon</a></td>
+			<td><a title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C57&title=Light Cruiser Kashii' target='_stumbleupon' rel='nofollow'><img src='/images/icon_stumbleupon.gif' border='0'></a></td><td>&nbsp;</td><td><a id='stumbleupon' title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C57&title=Light Cruiser Kashii' target='_stumbleupon'>StumbleUpon</a></td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -230,15 +200,6 @@ Andy York<br />
 		</script>
 	</td></tr></table></center><br /><br /><br />
 
-<style>.commentItem { display: none; border: 1px solid #b0b0b0; padding: 10px; margin-bottom: 10px; }</style><p><b>Visitor Submitted Comments</b></p><p id='showAllCommand' style='display: none;'><a href='javascript:showAllComments();'>Show older comments</a></p><div id='commentItem1' class='commentItem' style='background-color: #f0f0f0'>1. <span style='font-style: italic;'>Anonymous</span> says:<br /><small>7 Oct 2018 11:14:58 AM</small><br /><br />Our dad, M.F. Anderson, served on the CVE-93 Makin Island in 1945.</div><small><p>All visitor submitted comments are opinions of those making the submissions and do not reflect views of WW2DB.</p></small>	<script>
-			$("#commentItem1").show();
-				$("#commentItem0").show();
-				$("#commentItem-1").show();
-			function showAllComments() {
-		$(".commentItem").show();
-		$("#showAllCommand").remove();
-	}
-	</script>
 	<form method="post" action="/comments_action.php">
 	<div style="background-color: #f0f0f0; border: 1px solid #b0b0b0; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
 	<p><b>Posting Your Comments on this Topic</b></p>
@@ -258,16 +219,16 @@ Andy York<br />
 	<tr><td valign="top">Your Comments</td><td><textarea name="comment" cols="30" rows="6"></textarea></td></tr>
 	<tr><td valign="top">Security Code</td>
 		<td valign="top">
-			<div style="background-image:url('/images/captcha/captcha1.jpg'); height: 40px; min-height: 40px; width: 100px; min-width: 100px;">&nbsp;</div>			<br />
+			<div style="background-image:url('/images/captcha/captcha19.jpg'); height: 40px; min-height: 40px; width: 100px; min-width: 100px;">&nbsp;</div>			<br />
 			<input type="text" name="captcha" style="margin-bottom: 2px;">
 		</td>
 	</tr>
 	<tr>
 		<td>&nbsp;</td>
 		<td valign="top"><input type="hidden" name="foreigntype" value="S">
-		<input type="hidden" name="foreigntype_id" value="776">
-		<input type="hidden" name="url" value="/ship_spec.php?ship_id=A776">
-		<input type="hidden" name="c" value="78"> 		<input type="submit" value="Submit"></td>
+		<input type="hidden" name="foreigntype_id" value="57">
+		<input type="hidden" name="url" value="/ship_spec.php?ship_id=C57">
+		<input type="hidden" name="c" value="96"> 		<input type="submit" value="Submit"></td>
 	</tr>
 	</table>
 	</center>
@@ -288,7 +249,7 @@ Andy York<br />
 </form>
 <script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=searchbox_004186240537787039759%3Aptfrvampo3a"></script>
 </ul>
-<div class="sidetop">More on USS Makin Island</div><i>Event(s) Participated:</i><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=5>Philippines Campaign, Phase 1, the Leyte Campaign</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=27>Philippines Campaign, Phase 2</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=12>Battle of Iwo Jima</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=15>Okinawa Campaign</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=54>Preparations for Invasion of Japan</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=13>Japan's Surrender</a><br><br /><div class='sidehidden_m'><div class='sidetop'>Escort Carrier USS Makin Island (CVE-93) Photo Gallery</div><center><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=776'><img src="/images/imagemagick/tmb_ship_makinisland10.jpg" border='0' alt='Aerial view of USS Makin Island off Leyte, Philippine Islands, 18 Nov 1944; note lowered forward elevator and FM-2 Wildcat aircraft on the flight deck'></a></td></tr></table></center><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=776'>See all 19 photographs of Escort Carrier USS Makin Island (CVE-93)</a></div><br /><br />		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<div class="sidetop">More on Kashii</div><i>Personnel:</i><br>&raquo;&nbsp;<a href=person_bio.php?person_id=40>Ozawa, Jisaburo</a><br><br><i>Event(s) Participated:</i><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=47>Invasion of Malaya and Singapore</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=323>Raid into the South China Sea</a><br><br /><i>Partner Sites Content:</i><br />&raquo;&nbsp;<a href='http://www.combinedfleet.com/kashii_t.htm' target='_combinedfleet' onclick="javascript: pageTracker._trackPageview('/outgoing/www.combinedfleet.com/kashii_t.htm');">Kashii Tabular Record of Movement</a><br /><div class='sidehidden_m'><div class='sidetop'>Light Cruiser Kashii Photo Gallery</div><center><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=57'><img src="/images/imagemagick/tmb_ship_kashii2.jpg" border='0' alt='Light cruiser Kashii, July 15, 1941'></a></td></tr></table></center><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=57'>See all 9 photographs of Light Cruiser Kashii</a></div><br /><br />		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		<!-- WW2DB Xcol Links 160x90 -->
 		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:90px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="5126713011"></ins>
 		<script>
@@ -297,10 +258,10 @@ Andy York<br />
 		<br /><br />
 	<div class="sidehidden_m">
 	<div class="sidetop">Current Site Statistics</div>
-	<ul><li> &#187; <a class='noStyle' href='/person.php'>1,039 biographies</a></li><li> &#187; <a class='noStyle' href='/event/'>326 events</a></li><li> &#187; <a class='noStyle' href='/event/timeline/'>35,502 timeline entries</a></li><li> &#187; <a class='noStyle' href='/ship.php'>726 ships</a></li><li> &#187; <a class='noStyle' href='/aircraft.php'>329 aircraft models</a></li><li> &#187; <a class='noStyle' href='/vehicle.php'>184 vehicle models</a></li><li> &#187; <a class='noStyle' href='/weapon.php'>339 weapon models</a></li><li> &#187; <a class='noStyle' href='/doc.php'>102 historical documents</a></li><li> &#187; <a class='noStyle' href='/facility/'>175 facilities</a></li><li> &#187; <a class='noStyle' href='/book/'>457 book reviews</a></li><li> &#187; <a class='noStyle' href='/photo.php'>24,916 photos</a></li><li> &#187; <a class='noStyle' href='/reference/map/'>287 maps</a></li></ul>	<br />
+	<ul><li> &#187; <a class='noStyle' href='/person.php'>1,040 biographies</a></li><li> &#187; <a class='noStyle' href='/event/'>326 events</a></li><li> &#187; <a class='noStyle' href='/event/timeline/'>35,554 timeline entries</a></li><li> &#187; <a class='noStyle' href='/ship.php'>726 ships</a></li><li> &#187; <a class='noStyle' href='/aircraft.php'>329 aircraft models</a></li><li> &#187; <a class='noStyle' href='/vehicle.php'>184 vehicle models</a></li><li> &#187; <a class='noStyle' href='/weapon.php'>340 weapon models</a></li><li> &#187; <a class='noStyle' href='/doc.php'>102 historical documents</a></li><li> &#187; <a class='noStyle' href='/facility/'>175 facilities</a></li><li> &#187; <a class='noStyle' href='/book/'>457 book reviews</a></li><li> &#187; <a class='noStyle' href='/photo.php'>24,934 photos</a></li><li> &#187; <a class='noStyle' href='/reference/map/'>287 maps</a></li></ul>	<br />
 </div>
 
-<div class='sidehidden_m'><div class='sidetop'>Famous WW2 Quote</div>"Since peace is now beyond hope, we can but fight to the end."<br><br>Chiang Kaishek, 31 Jul 1937</div><br /><br />				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<div class='sidehidden_m'><div class='sidetop'>Famous WW2 Quote</div>"An appeaser is one who feeds a crocodile, hoping it will eat him last."<br><br>Winston Churchill</div><br /><br />				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		<!-- WW2DB Xcol Vertical Banner 160x600 -->
 		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="6471754899"></ins>
 		<script>
@@ -324,7 +285,7 @@ Andy York<br />
 		<li> &#187; <a href="/feed.php">Syndication</a></li>
 		<li> &#187; <a href="/termsofuse.php" rel="nofollow">Terms of Use & Disclosures</a></li>
 		<li> &#187; <a href="/">World War II Database Home</a></li>
-		<li> &#187; <a href='http://m.ww2db.com/ship_spec.php?ship_id=A776'>Mobile View</a></li>
+		<li> &#187; <a href='http://m.ww2db.com/ship_spec.php?ship_id=C57'>Mobile View</a></li>
 		</ul>		
 	</div>
 	<div style="float: left; padding: 0 5 0 5px; width: 282px; text-align: left;">

@@ -1,10 +1,10 @@
 <html>
 
 <head>
-<title>Light Carrier Chiyoda | World War II Database</title>
+<title>Heavy Cruiser USS Baltimore (CA-68) | World War II Database</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="description" content="Light Carrier Chiyoda | World War II Database">
-<meta name="keywords" content="ww2db, world war, ww2, military, history, Light Carrier Chiyoda | World War II Database">
+<meta name="description" content="Heavy Cruiser USS Baltimore (CA-68) | World War II Database">
+<meta name="keywords" content="ww2db, world war, ww2, military, history, Heavy Cruiser USS Baltimore (CA-68) | World War II Database">
 <meta name="ROBOTS" content="INDEX, FOLLOW">
 <meta name="REVISIT-AFTER" CONTENT="15 days">
 <META NAME="COPYRIGHT" CONTENT="Copyright © 2004-2018 Lava Development, LLC., all rights reserved">
@@ -23,25 +23,25 @@
 
 <link rel="alternate" type="application/rss+xml" title="WW2DB RSS Feed" href="https://ww2db.com/feedgen.php?feed=articles&f=RSS2.0" />
 
-<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=A272' />
-<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=272' />
+<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=C165' />
+<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=165' />
 
 <meta property="fb:app_id" content="103484127961" />
 <meta name="p:domain_verify" content="794c2d433a01b5d35554ba972a179eff"/>
 
-	<link rel="image_src" type="image/jpeg" href="http://ww2db.com/images/ship_chiyoda1.jpg" />
+	<link rel="image_src" type="image/jpeg" href="http://ww2db.com/images/ship_baltimore1.jpg" />
 	<meta property="og:site_name" content="WW2DB" />
-	<meta property="og:title" content="Light Carrier Chiyoda" />
-	<meta property="og:description" content="Light Carrier Chiyoda" />
+	<meta property="og:title" content="Heavy Cruiser USS Baltimore (CA-68)" />
+	<meta property="og:description" content="Heavy Cruiser USS Baltimore (CA-68)" />
 	<meta property="og:type" content="article" />
-	<meta property="og:url" content="https://ww2db.com/ship_spec.php?ship_id=A272" />
-		<meta property="og:image" content="http://ww2db.com/images/ship_chiyoda1.jpg" />
+	<meta property="og:url" content="https://ww2db.com/ship_spec.php?ship_id=C165" />
+		<meta property="og:image" content="http://ww2db.com/images/ship_baltimore1.jpg" />
 
 	<meta name='twitter:card' content='summary'>
 	<meta name='twitter:site' content='@ww2db'>
-	<meta name='twitter:title' content='Light Carrier Chiyoda'>
-	<meta name='twitter:description' content='Light Carrier Chiyoda'>
-	<meta name='twitter:image' content='http://ww2db.com/images/ship_chiyoda1.jpg'>
+	<meta name='twitter:title' content='Heavy Cruiser USS Baltimore (CA-68)'>
+	<meta name='twitter:description' content='Heavy Cruiser USS Baltimore (CA-68)'>
+	<meta name='twitter:image' content='http://ww2db.com/images/ship_baltimore1.jpg'>
 				
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.5/css/jquery.dataTables.css">
 <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
@@ -77,7 +77,7 @@ table.dataTable tbody td, table.dataTable thead td {
 		</td></tr>
 		</table>
 		<div class="bannerflash">
-		<div style="background-image:url('/images/banner915_4.jpg'); height: 120px; min-height: 120px; width: 915px; min-width: 915px;">&nbsp;</div>		</div>
+		<div style="background-image:url('/images/banner915_3.jpg'); height: 120px; min-height: 120px; width: 915px; min-width: 915px;">&nbsp;</div>		</div>
 	</div>
 	<div id='nav' align='right'>
 		<ul id='navlist'>
@@ -86,15 +86,15 @@ table.dataTable tbody td, table.dataTable thead td {
 
 <div id="content">
 	<div itemscope itemtype="http://schema.org/Article" class="maincol">
-		<meta itemprop="url" content="<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=A272' />
-<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=272' />
+		<meta itemprop="url" content="<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=C165' />
+<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=165' />
 " />
-		<meta itemprop="description" content="Light Carrier Chiyoda" />
+		<meta itemprop="description" content="Heavy Cruiser USS Baltimore (CA-68)" />
 		<div id="breadcrumb"><ul class="horizontalList">
 				<li class="horizontalList"> <a href="index.php">Home</a></li>
 				<li class="horizontalList"> &#187; <a href="equip.php">Equipment</a></li>
-				<li class="horizontalList"> &#187; <a href="ship.php">Ships</a></li><li class="horizontalList"> &#187; <a href="ship.php?list=A">Carriers</a></li><li class="horizontalList"> &#187; Chiyoda</li></ul></div>
-<div style='display: inline; float: right;'><image itemprop='image' class='filephoto' alt='Chiyoda file photo [7571]' title='Chiyoda file photo [7571]' src='/images/ship_chiyoda1.jpg' /><script>
+				<li class="horizontalList"> &#187; <a href="ship.php">Ships</a></li><li class="horizontalList"> &#187; <a href="ship.php?list=C">Cruisers</a></li><li class="horizontalList"> &#187; Baltimore</li></ul></div>
+<div style='display: inline; float: right;'><image itemprop='image' class='filephoto' alt='Baltimore file photo [1167]' title='Baltimore file photo [1167]' src='/images/ship_baltimore1.jpg' /><script>
 		function resizeText(className, percent) {
 			var elements = document.getElementsByClassName(className);
 			for (var i = 0; i < elements.length; ++i) {
@@ -107,8 +107,63 @@ table.dataTable tbody td, table.dataTable thead td {
 				}
 			}
 		}
-		</script><br /><img src="/images/icon_font_small.jpg" onclick="resizeText('maincol', -10)" title="Decrease font size" /><img src="/images/icon_font_medium.jpg" onclick="resizeText('maincol', null)" title="Reset font size" /><img src="/images/icon_font_large.jpg" onclick="resizeText('maincol', 10)" title="Increase font size" /></div><div style='margin: 8px 0px 8px 0px;'><h2 itemprop='name' class='articleHeader'>Chiyoda</h2></div><table class="table_noborder"><tr><td class="table_noborder">Country</td><td class="table_noborder"><a href='/country/japan'>Japan</a></td></tr><tr><td class="table_noborder">Ship Class</td><td class="table_noborder"><a href='ship_spec.php?ship_id=805'>Chitose-class Light Carrier</a></td></tr><tr><td class="table_noborder">Laid Down</td><td class="table_noborder">26 Nov 1934</td></tr><tr><td class="table_noborder">Launched</td><td class="table_noborder">29 Nov 1936</td></tr><tr><td class="table_noborder">Commissioned</td><td class="table_noborder">25 Jul 1938</td></tr><tr><td class="table_noborder">Sunk</td><td class="table_noborder">25 Oct 1944</td></tr><tr><td class="table_noborder">Displacement</td><td class="table_noborder">11200 tons standard; 15300 tons full</td></tr><tr><td class="table_noborder">Length</td><td class="table_noborder">631 feet</td></tr><tr><td class="table_noborder">Beam</td><td class="table_noborder">68 feet</td></tr><tr><td class="table_noborder">Draft</td><td class="table_noborder">25 feet</td></tr><tr><td class="table_noborder">Machinery</td><td class="table_noborder">Two geared turbines, two steam turbines, two shafts</td></tr><tr><td class="table_noborder">Power Output</td><td class="table_noborder">56800 SHP</td></tr><tr><td class="table_noborder">Speed</td><td class="table_noborder">29 knots</td></tr><tr><td class="table_noborder">Range</td><td class="table_noborder">11,810nm at 18 knots</td></tr><tr><td class="table_noborder">Crew</td><td class="table_noborder">785</td></tr><tr><td class="table_noborder">Armament</td><td class="table_noborder">4x2x127mm guns, 10x3x25mm (after 1944 48x25mm) guns</td></tr><tr><td class="table_noborder">Recommissioned as Light Carrier</td><td class="table_noborder">21 Dec 1943</td></tr><tr><td class="table_noborder">Flight Deck</td><td class="table_noborder">180x23m</td></tr><tr><td class="table_noborder">Aircraft</td><td class="table_noborder">30</td></tr></table><p><small>Contributor: <a href='/person_bio.php?person_id=179'><span itemprop='author' itemscope itemtype='http://schema.org/Person'><span itemprop='name'>C. Peter Chen</span></span></a></small></p><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Carrier Chiyoda began as a seaplane carrier.  Between 15 Dec 1938 and 15 Nov 1939, she was commanded by Captain Tomeo Kaku.  On 30 Jun 1942, due to the loss of carriers at the Battle of Midway earlier that month, Japanese leadership decided that Chiyoda and her sister ship Chitose were to be converted to light carriers, which was done between Mar and Dec 1943.  At the Battle off Cape Engaño on 25 Oct 1944, at 1655 hours, she sank after being hit by many shells from American heavy cruiser USS Wichita's 8-inch guns.  She was lost with Captain Eiichiro Jyo and all hands, the only large vessel in WW2 to suffer such total loss.</p>
-<small><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span><i>Source: Wikipedia.</i></p></small><p><b>Chiyoda Operational Timeline</b></p><table border='0' cellspacing='0'><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/07/25/1938' alt='See all events on 25 Jul 1938' title='See all events on 25 Jul 1938' class='noStyle'>25 Jul 1938</a>&nbsp;</td><td>Chiyoda was commissioned into service.</td></tr></table><br /><p><b>Photographs</b></p><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href="/image.php?image_id=7572"><img src="/images/imagemagick/tmb_ship_chiyoda2.jpg" border='0' alt='Carrier Chiyoda at Tokyo Bay, Japan, 1 Dec 1943'></a></td><td><a href="/image.php?image_id=1558"><img src="/images/imagemagick/tmb_ship_kongo12.jpg" border='0' alt='Japanese Carrier Division Three's battleship Kongo and carrier Chiyoda under attack by American carrier aircraft of Task Force 38 during the Battle of the Philippine Sea, 20 Jun 1944'></a></td></tr></table><br /><br /><br /><br />
+		</script><br /><img src="/images/icon_font_small.jpg" onclick="resizeText('maincol', -10)" title="Decrease font size" /><img src="/images/icon_font_medium.jpg" onclick="resizeText('maincol', null)" title="Reset font size" /><img src="/images/icon_font_large.jpg" onclick="resizeText('maincol', 10)" title="Increase font size" /></div><div style='margin: 8px 0px 8px 0px;'><h2 itemprop='name' class='articleHeader'>USS Baltimore</h2></div><table class="table_noborder"><tr><td class="table_noborder">Country</td><td class="table_noborder"><a href='/country/united%20states'>United States</a></td></tr><tr><td class="table_noborder">Ship Class</td><td class="table_noborder">Baltimore-class Heavy Cruiser</td></tr><tr><td class='table_noborder'>Hull Number</td><td class='table_noborder'>CA-68</td></tr><tr><td class="table_noborder">Builder</td><td class="table_noborder">Bethlehem Steel Corporation, Fore River, Massachusetts, United States</td></tr><tr><td class="table_noborder">Laid Down</td><td class="table_noborder">26 May 1941</td></tr><tr><td class="table_noborder">Launched</td><td class="table_noborder">28 Jul 1942</td></tr><tr><td class="table_noborder">Commissioned</td><td class="table_noborder">15 Apr 1943</td></tr><tr><td class="table_noborder">Decommissioned</td><td class="table_noborder">8 Jul 1946</td></tr><tr><td class="table_noborder">Displacement</td><td class="table_noborder">13600 tons standard</td></tr><tr><td class="table_noborder">Length</td><td class="table_noborder">673 feet</td></tr><tr><td class="table_noborder">Beam</td><td class="table_noborder">71 feet</td></tr><tr><td class="table_noborder">Draft</td><td class="table_noborder">27 feet</td></tr><tr><td class="table_noborder">Machinery</td><td class="table_noborder">General Electric geared turbines with 4 screws</td></tr><tr><td class="table_noborder">Power Output</td><td class="table_noborder">120000 SHP</td></tr><tr><td class="table_noborder">Speed</td><td class="table_noborder">33 knots</td></tr><tr><td class="table_noborder">Crew</td><td class="table_noborder">1142</td></tr><tr><td class="table_noborder">Armament</td><td class="table_noborder">9x8-in, 12x5-in anti aircraft, 48x40mm, 24x20mm</td></tr><tr><td class="table_noborder">Armor</td><td class="table_noborder">6-in belt, 8-in turrets, 2.5-in deck, 6.5-in conning tower</td></tr><tr><td class="table_noborder">Aircraft</td><td class="table_noborder">4</td></tr></table><p><small>Contributor: <a href='/person_bio.php?person_id=179'><span itemprop='author' itemscope itemtype='http://schema.org/Person'><span itemprop='name'>C. Peter Chen</span></span></a></small></p><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>The lead ship of a class of fourteen heavy cruisers was sent to the Gilbert Islands in Nov 1943 as her first mission, providing naval gun support during the landing operations at Makin Atoll.  Assuming similar roles, Baltimore subsequent support operations at Kwajalein and Eniwetok, the Caroline Islands, Mariana Islands, Palau, New Guinea, and Marcus Island.  She briefly became President Franklin Roosevelt's personal ship in Jul and Aug 1944 when she ferried the American leader from continental United States to Hawaii for a meeting with Admiral Chester Nimitz and General Douglas MacArthur.  Late in 1944, she participated in bombardments in the Philippine Islands, Taiwan, and China, while directly supporting the landings on Iwo Jima and Okinawa.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>After WW2, Baltimore was briefly mothballed, but was recommissioned for the Korean War.  She was decommissioned in 1956, and sold for scrapping in May 1972.  Two hundred tons of armor plate removed from her was given to the Fermi National Accelerator Labratory.</p>
+<small><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span><i>Source: Naval Historical Center.</i></p></small>
+				<link rel='stylesheet' href='https://unpkg.com/leaflet@1.3.1/dist/leaflet.css'
+				   integrity='sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=='
+				   crossorigin=''/>
+				<script src='https://unpkg.com/leaflet@1.3.1/dist/leaflet.js'
+				   integrity='sha512-/Nsx9X4HebavoBvEBuyp3I7od5tA0UzAxs+j83KgC8PU0kgB4XiK4Lfe4y4cgBtaRJQEIFCW+oC506aPT2L1zw=='
+				   crossorigin=''></script>
+					<script src='https://unpkg.com/leaflet.markercluster@1.3.0/dist/leaflet.markercluster.js'></script>
+					<link href='https://unpkg.com/leaflet.markercluster@1.3.0/dist/MarkerCluster.css' rel='stylesheet' />
+					<link href='https://unpkg.com/leaflet.markercluster@1.3.0/dist/MarkerCluster.Default.css' rel='stylesheet' />
+				
+				<style>
+				.mapClass {
+					height: 400px; 
+				}
+				.infowindowSubTitle {
+					font-weight: bold;
+					margin-top: 10px;
+					margin-bottom: 10px;
+				}
+				</style>
+				
+				<p id='interactiveMapLabel'><b>Heavy Cruiser USS Baltimore (CA-68) Interactive Map</b></p>
+				<div id='mapid' class='mapClass'></div>
+				<script>
+				var mymap = L.map('mapid').setView([38.090000000, -122.263333000], 13);
+			
+					L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.{ext}', {
+						attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+						subdomains: 'abcd',
+						minZoom: 0,
+						maxZoom: 18,
+						ext: 'png'
+					}).addTo(mymap);
+				
+				var rawDataArray = [  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Pearl Harbor, Oahu, Hawaii</h2><div class='infowindowSubTitle'>26 Jul 1944</div><a href='/image.php?image_id=470'><img src='/images/imagemagick/tmb_battle_pacificconf2.jpg' style='width: 50px; margin-right: 3px;' /></a><br /><a href='/image.php?image_id=6564'><img src='/images/imagemagick/tmb_person_nimitz5.jpg' style='width: 50px; margin-right: 3px;' /></a><br /><a href='/image.php?image_id=24699'><img src='/images/imagemagick/tmb_55cbf3568cf78.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 21.354005000, -157.949900000, 3],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Vallejo, California, United States</h2><div class='infowindowSubTitle'>18 Oct 1944</div><a href='/image.php?image_id=1169'><img src='/images/imagemagick/tmb_ship_baltimore3.jpg' style='width: 50px; margin-right: 3px;' /></a><br /><div class='infowindowSubTitle'>21 Oct 1944</div><a href='/image.php?image_id=1170'><img src='/images/imagemagick/tmb_ship_baltimore4.jpg' style='width: 50px; margin-right: 3px;' /></a><br /><a href='/image.php?image_id=14581'><img src='/images/imagemagick/tmb_ship_baltimore5.jpg' style='width: 50px; margin-right: 3px;' /></a><br /><div class='infowindowSubTitle'>25 Oct 1944</div><a href='/image.php?image_id=14584'><img src='/images/imagemagick/tmb_ship_baltimore6.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 38.090000000, -122.263333000, 4]];
+				var pointsArray = [];
+			
+					var markers = L.markerClusterGroup({ maxClusterRadius: 50 });
+					for (var i = 0; i < rawDataArray.length; i++) {
+						var a = rawDataArray[i];
+						var title = a[0];
+						var fill_color = '#FF0033';
+						var marker = L.marker(new L.LatLng(a[1], a[2]), { title: title, color: fill_color });
+						marker.bindPopup(L.popup({maxHeight:200}).setContent(title));
+						markers.addLayer(marker);
+						pointsArray.push(marker);
+					}
+					mymap.addLayer(markers);
+				
+				var group = new L.featureGroup(pointsArray);
+				mymap.fitBounds(group.getBounds());
+				</script>
+			<p><b>USS Baltimore Operational Timeline</b></p><table border='0' cellspacing='0'><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/04/15/1943' alt='See all events on 15 Apr 1943' title='See all events on 15 Apr 1943' class='noStyle'>15 Apr 1943</a>&nbsp;</td><td>Baltimore was commissioned into service.</td></tr><tr bgcolor=''><td valign='top' align='right' nowrap><a href='/event/today/07/21/1944' alt='See all events on 21 Jul 1944' title='See all events on 21 Jul 1944' class='noStyle'>21 Jul 1944</a>&nbsp;</td><td>USS Baltimore depart San Diego, California, United States, with destroyer USS Fanning in escort and US President Franklin Roosevelt aboard, for Adak, Aleutian Islands.</td></tr><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/07/08/1946' alt='See all events on 8 Jul 1946' title='See all events on 8 Jul 1946' class='noStyle'>8 Jul 1946</a>&nbsp;</td><td>Baltimore was decommissioned from service.</td></tr></table><br /><p><b>Photographs</b></p><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=165'><img src="/images/imagemagick/tmb_ship_baltimore2.jpg" border='0' alt='Baltimore off Boston Navy Yard, 10 Sep 1943'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=165'><img src="/images/imagemagick/tmb_battle_pacificconf2.jpg" border='0' alt='MacArthur, Roosevelt, and Nimitz aboard USS Baltimore, Pearl Harbor, US Territory of Hawaii, 26 Jul 1944, photo 1 of 3'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=165'><img src="/images/imagemagick/tmb_person_nimitz5.jpg" border='0' alt='MacArthur, Roosevelt, and Nimitz aboard USS Baltimore, Pearl Harbor, US Territory of Hawaii, 26 Jul 1944, photo 2 of 3'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=165'><img src="/images/imagemagick/tmb_55cbf3568cf78.jpg" border='0' alt='MacArthur, Roosevelt, and Nimitz aboard USS Baltimore, Pearl Harbor, US Territory of Hawaii, 26 Jul 1944, photo 3 of 3'></a></td></tr></table><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=165'>See all 6 photographs of Heavy Cruiser USS Baltimore (CA-68)</a><br /><br /><br /><br />
 				<center><table border='0' cellpadding='0' cellspacing='0' width='100%'>
 				<tr><td valign='top' width='382'><p>Did you enjoy this article?  Please consider supporting us on <a href='https://www.patreon.com/ww2db' rel='nofollow' target='_patreon' onclick='javascript: ga("send","pageview","/outgoing/www.patreon.com/ww2db/");'>Patreon</a>.  Even $1 per month will go a long way!  Thank you.</p>
 		<table border='0' cellpadding='0' cellspacing='0'>
@@ -116,19 +171,19 @@ table.dataTable tbody td, table.dataTable thead td {
 			<td colspan='9'>Share this article with your friends:<br /><br /></td>
 		</tr>
 		<tr>
-			<td><a title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=A272' target='_facebook' rel='nofollow'><img src='/images/icon_facebook.gif' border='0'></a></td><td>&nbsp;</td><td><a id='facebook' title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=A272' target='_facebook'>Facebook</a></td>
-			<td><a title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A272&title=Light Carrier Chiyoda' target='_reddit' rel='nofollow'><img src='/images/icon_reddit.gif' border='0'></a></td><td>&nbsp;</td><td><a id='reddit' title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A272&title=Light Carrier Chiyoda' target='_reddit'>Reddit</a></td>
+			<td><a title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=C165' target='_facebook' rel='nofollow'><img src='/images/icon_facebook.gif' border='0'></a></td><td>&nbsp;</td><td><a id='facebook' title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=C165' target='_facebook'>Facebook</a></td>
+			<td><a title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C165&title=Heavy Cruiser USS Baltimore (CA-68)' target='_reddit' rel='nofollow'><img src='/images/icon_reddit.gif' border='0'></a></td><td>&nbsp;</td><td><a id='reddit' title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C165&title=Heavy Cruiser USS Baltimore (CA-68)' target='_reddit'>Reddit</a></td>
 		</tr>
 		<tr>
-			<td><a title='Tweet this page' href='http://twitter.com/home/?status=Light+Carrier+Chiyoda+https://ww2db.com:443/ship_spec.php?ship_id=A272' target='_twitter' rel='nofollow'><img src='/images/icon_twitter.gif' border='0'></a></td><td>&nbsp;</td><td><a id='twitter' title='Tweet this page' href='http://twitter.com/home/?status=Light+Carrier+Chiyoda+https://ww2db.com:443/ship_spec.php?ship_id=A272' target='_twitter'>Twitter</a></td>
-			<td><a title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A272&title=Light Carrier Chiyoda' target='_digg' rel='nofollow'><img src='/images/icon_digg.gif' border='0'></a></td><td>&nbsp;</td><td><a id='digg' title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A272&title=Light Carrier Chiyoda' target='_digg'>Digg</a></td>
+			<td><a title='Tweet this page' href='http://twitter.com/home/?status=Heavy+Cruiser+USS+Baltimore+(CA-68)+https://ww2db.com:443/ship_spec.php?ship_id=C165' target='_twitter' rel='nofollow'><img src='/images/icon_twitter.gif' border='0'></a></td><td>&nbsp;</td><td><a id='twitter' title='Tweet this page' href='http://twitter.com/home/?status=Heavy+Cruiser+USS+Baltimore+(CA-68)+https://ww2db.com:443/ship_spec.php?ship_id=C165' target='_twitter'>Twitter</a></td>
+			<td><a title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C165&title=Heavy Cruiser USS Baltimore (CA-68)' target='_digg' rel='nofollow'><img src='/images/icon_digg.gif' border='0'></a></td><td>&nbsp;</td><td><a id='digg' title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C165&title=Heavy Cruiser USS Baltimore (CA-68)' target='_digg'>Digg</a></td>
 		</tr>
 		<tr>
-			<td><a title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=A272' target='_googleplus' rel='nofollow'><img src='/images/icon_googleplus2.png' border='0'></a></td><td>&nbsp;</td><td><a id='googleplus' title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=A272' target='_googleplus'>Google+</a></td>
-			<td><a title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=A272&title=Light Carrier Chiyoda' target='_delicious' rel='nofollow'><img src='/images/icon_delicious.gif' border='0'></a></td><td>&nbsp;</td><td><a id='delicious' title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=A272&title=Light Carrier Chiyoda' target='_delicious'>Delicious</a></td>
+			<td><a title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=C165' target='_googleplus' rel='nofollow'><img src='/images/icon_googleplus2.png' border='0'></a></td><td>&nbsp;</td><td><a id='googleplus' title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=C165' target='_googleplus'>Google+</a></td>
+			<td><a title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=C165&title=Heavy Cruiser USS Baltimore (CA-68)' target='_delicious' rel='nofollow'><img src='/images/icon_delicious.gif' border='0'></a></td><td>&nbsp;</td><td><a id='delicious' title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=C165&title=Heavy Cruiser USS Baltimore (CA-68)' target='_delicious'>Delicious</a></td>
 		</tr>
 		<tr>
-			<td><a title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A272&title=Light Carrier Chiyoda' target='_stumbleupon' rel='nofollow'><img src='/images/icon_stumbleupon.gif' border='0'></a></td><td>&nbsp;</td><td><a id='stumbleupon' title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A272&title=Light Carrier Chiyoda' target='_stumbleupon'>StumbleUpon</a></td>
+			<td><a title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C165&title=Heavy Cruiser USS Baltimore (CA-68)' target='_stumbleupon' rel='nofollow'><img src='/images/icon_stumbleupon.gif' border='0'></a></td><td>&nbsp;</td><td><a id='stumbleupon' title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C165&title=Heavy Cruiser USS Baltimore (CA-68)' target='_stumbleupon'>StumbleUpon</a></td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -146,6 +201,31 @@ table.dataTable tbody td, table.dataTable thead td {
 		</script>
 	</td></tr></table></center><br /><br /><br />
 
+<style>.commentItem { display: none; border: 1px solid #b0b0b0; padding: 10px; margin-bottom: 10px; }</style><p><b>Visitor Submitted Comments</b></p><p id='showAllCommand' style='display: none;'><a href='javascript:showAllComments();'>Show older comments</a></p><div id='commentItem1' class='commentItem' style='background-color: #f0f0f0'>1. <span style='font-style: italic;'>Zita Lopez</span> says:<br /><small>17 Oct 2010 05:51:15 PM</small><br /><br />Not a comment on the article but would like to seek a person.  My grandfather with Lopez as his surname was in the USA army and came to Kiribati during WWII.  I have a photo of him.  I would be grateful if I can get some help from someone.
+
+Thank you and looking forward to hearing from someone</div><div id='commentItem2' class='commentItem' style='background-color: '>2. <span style='font-style: italic;'>Julian lorefice</span> says:<br /><small>5 May 2013 08:20:19 PM</small><br /><br />My grandfather Roger Deuel was aboard the Baltimore in WWII  and was a great man . I want anyone who may remember him from those time to know that he came back from the war like anyone else , rattled but strong . He made a good life for my mother and his wife and I miss him bery much !</div><div id='commentItem3' class='commentItem' style='background-color: #f0f0f0'>3. <span style='font-style: italic;'>jeffrey Malacane</span> says:<br /><small>7 Aug 2015 03:01:09 PM</small><br /><br />My step father served on the Baltimore from 43-45 and he still tells me many stories about his time on the Baltimore. I
+Thank Goodness he is till around! Is there anyone still out there who served during this time ? Or if you have any questions i could ask him for you.</div><div id='commentItem4' class='commentItem' style='background-color: '>4. <span style='font-style: italic;'>Brad</span> says:<br /><small>14 Aug 2015 02:00:23 PM</small><br /><br />Jeffery Malacane:
+
+My father, Carl Sprauer, was a gunner's mate on the Baltimore during WWII. I would love to know if your stepfather had any recollection at all of him. I was told his nickname was "squirrely" due to his slight build.
+
+My father died when I was 18  (I'm now 44) and I'm trying to piece together memories of him to pass on to my son, who is shipping out in December as a Navy Special Ops Diver.
+
+Thank you so much for you offer, and your time.
+
+Sincerely,
+Brad 
+</div><div id='commentItem5' class='commentItem' style='background-color: #f0f0f0'>5. <span style='font-style: italic;'>sue</span> says:<br /><small>18 Aug 2015 08:42:12 PM</small><br /><br />I was wondering how I can find out any information about my  father, Robert W Groat. I know only that he served on the Baltimore in some sort of clerical role. I believe he was on the ship between 1943-1945. </div><div id='commentItem6' class='commentItem' style='background-color: '>6. <span style='font-style: italic;'>Andrew Sturtevant </span> says:<br /><small>9 Apr 2016 02:32:55 PM</small><br /><br />My father Clark B Sturtevant served on the Baltimore I believe as a bosoms mate and was told was not even old enough to enlist. I think the last name was spelled wrong like Sturtyvant. Like to know any information at all concerning his time aboard ship. Can call 907-347-4123 . God bless you all and Thank You for your service. </div><div id='commentItem7' class='commentItem' style='background-color: #f0f0f0'>7. <span style='font-style: italic;'>Ken Bonnell</span> says:<br /><small>30 Aug 2016 10:38:26 AM</small><br /><br />Am looking for a Baltimore ship's patch.
+RMCS(SS) USN (Ret.)</div><div id='commentItem8' class='commentItem' style='background-color: '>8. <span style='font-style: italic;'>SAM pulsinelli </span> says:<br /><small>8 May 2017 03:42:33 AM</small><br /><br />My grandfather served on the Baltimore , we have the same name
+I was born a month before he died.any information could be helpful, feel free to reach out 774 386 1059 Sam</div><div id='commentItem9' class='commentItem' style='background-color: #f0f0f0'>9. <span style='font-style: italic;'>TOM POWERS</span> says:<br /><small>14 Sep 2017 03:48:40 AM</small><br /><br />My dad Tom Powers served aboard the Baltimore during ww2. 20MM gunner. </div><div id='commentItem10' class='commentItem' style='background-color: '>10. <span style='font-style: italic;'>Tom Powers</span> says:<br /><small>19 Sep 2017 09:02:00 AM</small><br /><br />603 254 3623 </div><div id='commentItem11' class='commentItem' style='background-color: #f0f0f0'>11. <span style='font-style: italic;'>John Butler</span> says:<br /><small>25 Mar 2018 02:02:27 PM</small><br /><br />My father inlaw served on the Baltimore and was there when the president was there, can you verify with a crew member list, Paul S Battista</div><div id='commentItem12' class='commentItem' style='background-color: '>12. <span style='font-style: italic;'>Yvonne Walker</span> says:<br /><small>28 Apr 2018 09:56:16 AM</small><br /><br />My Dad served as well on the Baltimore. I cannot find his name on the roster and seen only one picture with African American soldiers and that was the Crossing the Equator initiation, which my dad had the certificate from. He was a boxer but the only pictures i had seen were of white men boxing. My dad was managed by Jack Dempsy which i had the picture of the two of them together, but my mother who suffers from dementia cut ole Jack out of the picture so that leaves me with nothing :( I do have an old navy newspaper with a black and white action shot of my dad fighting. His fight name was Dittybag Walker) if anyone recollects would love to hear from you. He was a Gunners mate, Jesse Walker from Trafford Pennsylvania </div><div id='commentItem13' class='commentItem' style='background-color: #f0f0f0'>13. <span style='font-style: italic;'>Miss Daisy</span> says:<br /><small>19 Jun 2018 06:59:31 AM</small><br /><br />Yvonne Walker, is this your dad?<br /><br />http://griotmag.com/en/the-duces-boxer-the-unsung-story-of-leone-jacovacci-and-his-struggle-against-fascism-and-racism/<br /></div><div id='commentItem14' class='commentItem' style='background-color: '>14. <span style='font-style: italic;'>James Belt</span> says:<br /><small>16 Oct 2018 07:56:29 PM</small><br /><br />My dad was on the USS Baltimore he passed away when I was 2 I didn't get to know him very well was trying to find pictures of him when he served on the USS Baltimore he was on there when the president was on there his name was James Edward belt if anybody reads this and has any pictures of the crew with maybe him on it please contact me on my email thank you very much or if they have any pictures of the whole crew would be very appreciated</div><small><p>All visitor submitted comments are opinions of those making the submissions and do not reflect views of WW2DB.</p></small>	<script>
+			$("#showAllCommand").show();
+			$("#commentItem14").show();
+				$("#commentItem13").show();
+				$("#commentItem12").show();
+			function showAllComments() {
+		$(".commentItem").show();
+		$("#showAllCommand").remove();
+	}
+	</script>
 	<form method="post" action="/comments_action.php">
 	<div style="background-color: #f0f0f0; border: 1px solid #b0b0b0; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
 	<p><b>Posting Your Comments on this Topic</b></p>
@@ -165,16 +245,16 @@ table.dataTable tbody td, table.dataTable thead td {
 	<tr><td valign="top">Your Comments</td><td><textarea name="comment" cols="30" rows="6"></textarea></td></tr>
 	<tr><td valign="top">Security Code</td>
 		<td valign="top">
-			<div style="background-image:url('/images/captcha/captcha18.jpg'); height: 40px; min-height: 40px; width: 100px; min-width: 100px;">&nbsp;</div>			<br />
+			<div style="background-image:url('/images/captcha/captcha2.jpg'); height: 40px; min-height: 40px; width: 100px; min-width: 100px;">&nbsp;</div>			<br />
 			<input type="text" name="captcha" style="margin-bottom: 2px;">
 		</td>
 	</tr>
 	<tr>
 		<td>&nbsp;</td>
 		<td valign="top"><input type="hidden" name="foreigntype" value="S">
-		<input type="hidden" name="foreigntype_id" value="272">
-		<input type="hidden" name="url" value="/ship_spec.php?ship_id=A272">
-		<input type="hidden" name="c" value="95"> 		<input type="submit" value="Submit"></td>
+		<input type="hidden" name="foreigntype_id" value="165">
+		<input type="hidden" name="url" value="/ship_spec.php?ship_id=C165">
+		<input type="hidden" name="c" value="79"> 		<input type="submit" value="Submit"></td>
 	</tr>
 	</table>
 	</center>
@@ -195,7 +275,7 @@ table.dataTable tbody td, table.dataTable thead td {
 </form>
 <script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=searchbox_004186240537787039759%3Aptfrvampo3a"></script>
 </ul>
-<div class="sidetop">More on Chiyoda</div><i>Personnel:</i><br>&raquo;&nbsp;<a href=person_bio.php?person_id=163>Kaku, Tomeo</a><br>&raquo;&nbsp;<a href=person_bio.php?person_id=549>Kodaira, Yoshinao</a><br><br><i>Event(s) Participated:</i><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=177>Battle of Hainan</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=180>Winter Offensive</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=5>Philippines Campaign, Phase 1, the Leyte Campaign</a><br><br /><i>Partner Sites Content:</i><br />&raquo;&nbsp;<a href='http://www.combinedfleet.com/Chiyoda.htm' target='_combinedfleet' onclick="javascript: pageTracker._trackPageview('/outgoing/www.combinedfleet.com/Chiyoda.htm');">Chiyoda Tabular Record of Movement</a><br /><div class='sidehidden_m'><div class='sidetop'>Light Carrier Chiyoda Photo Gallery</div><center><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=272'><img src="/images/imagemagick/tmb_ship_chiyoda2.jpg" border='0' alt='Carrier Chiyoda at Tokyo Bay, Japan, 1 Dec 1943'></a></td></tr></table></center><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=272'>See all 2 photographs of Light Carrier Chiyoda</a></div><br /><br />		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<div class="sidetop">More on USS Baltimore</div><i>Event(s) Participated:</i><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=48>New Guinea-Papua Campaign, Phase 3</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=72>Gilbert Islands Campaign</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=14>Attack on Truk</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=10>Mariana Islands Campaign and the Great Turkey Shoot</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=75>Pacific Strategy Conference</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=27>Philippines Campaign, Phase 2</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=79>Typhoon Cobra</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=323>Raid into the South China Sea</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=12>Battle of Iwo Jima</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=15>Okinawa Campaign</a><br><br /><div class='sidehidden_m'><div class='sidetop'>Heavy Cruiser USS Baltimore (CA-68) Photo Gallery</div><center><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=165'><img src="/images/imagemagick/tmb_ship_baltimore2.jpg" border='0' alt='Baltimore off Boston Navy Yard, 10 Sep 1943'></a></td></tr></table></center><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=165'>See all 6 photographs of Heavy Cruiser USS Baltimore (CA-68)</a></div><br /><br />		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		<!-- WW2DB Xcol Links 160x90 -->
 		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:90px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="5126713011"></ins>
 		<script>
@@ -204,10 +284,10 @@ table.dataTable tbody td, table.dataTable thead td {
 		<br /><br />
 	<div class="sidehidden_m">
 	<div class="sidetop">Current Site Statistics</div>
-	<ul><li> &#187; <a class='noStyle' href='/person.php'>1,039 biographies</a></li><li> &#187; <a class='noStyle' href='/event/'>326 events</a></li><li> &#187; <a class='noStyle' href='/event/timeline/'>35,502 timeline entries</a></li><li> &#187; <a class='noStyle' href='/ship.php'>726 ships</a></li><li> &#187; <a class='noStyle' href='/aircraft.php'>329 aircraft models</a></li><li> &#187; <a class='noStyle' href='/vehicle.php'>184 vehicle models</a></li><li> &#187; <a class='noStyle' href='/weapon.php'>339 weapon models</a></li><li> &#187; <a class='noStyle' href='/doc.php'>102 historical documents</a></li><li> &#187; <a class='noStyle' href='/facility/'>175 facilities</a></li><li> &#187; <a class='noStyle' href='/book/'>457 book reviews</a></li><li> &#187; <a class='noStyle' href='/photo.php'>24,916 photos</a></li><li> &#187; <a class='noStyle' href='/reference/map/'>287 maps</a></li></ul>	<br />
+	<ul><li> &#187; <a class='noStyle' href='/person.php'>1,040 biographies</a></li><li> &#187; <a class='noStyle' href='/event/'>326 events</a></li><li> &#187; <a class='noStyle' href='/event/timeline/'>35,554 timeline entries</a></li><li> &#187; <a class='noStyle' href='/ship.php'>726 ships</a></li><li> &#187; <a class='noStyle' href='/aircraft.php'>329 aircraft models</a></li><li> &#187; <a class='noStyle' href='/vehicle.php'>184 vehicle models</a></li><li> &#187; <a class='noStyle' href='/weapon.php'>340 weapon models</a></li><li> &#187; <a class='noStyle' href='/doc.php'>102 historical documents</a></li><li> &#187; <a class='noStyle' href='/facility/'>175 facilities</a></li><li> &#187; <a class='noStyle' href='/book/'>457 book reviews</a></li><li> &#187; <a class='noStyle' href='/photo.php'>24,934 photos</a></li><li> &#187; <a class='noStyle' href='/reference/map/'>287 maps</a></li></ul>	<br />
 </div>
 
-<div class='sidehidden_m'><div class='sidetop'>Famous WW2 Quote</div>"Since peace is now beyond hope, we can but fight to the end."<br><br>Chiang Kaishek, 31 Jul 1937</div><br /><br />				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<div class='sidehidden_m'><div class='sidetop'>Famous WW2 Quote</div>"We no longer demand anything, we want war."<br><br>Joachim von Ribbentrop, German Foreign Minister, Aug 1939</div><br /><br />				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		<!-- WW2DB Xcol Vertical Banner 160x600 -->
 		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="6471754899"></ins>
 		<script>
@@ -231,7 +311,7 @@ table.dataTable tbody td, table.dataTable thead td {
 		<li> &#187; <a href="/feed.php">Syndication</a></li>
 		<li> &#187; <a href="/termsofuse.php" rel="nofollow">Terms of Use & Disclosures</a></li>
 		<li> &#187; <a href="/">World War II Database Home</a></li>
-		<li> &#187; <a href='http://m.ww2db.com/ship_spec.php?ship_id=A272'>Mobile View</a></li>
+		<li> &#187; <a href='http://m.ww2db.com/ship_spec.php?ship_id=C165'>Mobile View</a></li>
 		</ul>		
 	</div>
 	<div style="float: left; padding: 0 5 0 5px; width: 282px; text-align: left;">
@@ -264,7 +344,7 @@ table.dataTable tbody td, table.dataTable thead td {
 		<script>
 		(adsbygoogle = window.adsbygoogle || []).push({});
 		</script>
-	<br /><center>		<a href="http://amzn.to/2he65an" target="_amazon" rel="nofollow" onclick="javascript: ga('send','pageview','/outgoing/amzn.to/2he65an');"><img src="/images/ad_shattered_sword_728.jpg" /></a><br /><br />
+	<br /><center>		<a href="http://amzn.to/2jfeSrN" target="_amazon" rel="nofollow" onclick="javascript: ga('send','pageview','/outgoing/amzn.to/2jfeSrN');"><img src="/images/ad_frontlines_of_television_war_728.jpg" /></a><br /><br />
 		</center>
 <br /><br />
 

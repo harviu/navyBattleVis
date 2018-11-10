@@ -1,10 +1,10 @@
 <html>
 
 <head>
-<title>Escort Carrier USS Long Island | World War II Database</title>
+<title>Heavy Cruiser Kako | World War II Database</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="description" content="Escort Carrier USS Long Island | World War II Database">
-<meta name="keywords" content="ww2db, world war, ww2, military, history, Escort Carrier USS Long Island | World War II Database">
+<meta name="description" content="Heavy Cruiser Kako | World War II Database">
+<meta name="keywords" content="ww2db, world war, ww2, military, history, Heavy Cruiser Kako | World War II Database">
 <meta name="ROBOTS" content="INDEX, FOLLOW">
 <meta name="REVISIT-AFTER" CONTENT="15 days">
 <META NAME="COPYRIGHT" CONTENT="Copyright © 2004-2018 Lava Development, LLC., all rights reserved">
@@ -23,25 +23,25 @@
 
 <link rel="alternate" type="application/rss+xml" title="WW2DB RSS Feed" href="https://ww2db.com/feedgen.php?feed=articles&f=RSS2.0" />
 
-<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=A337' />
-<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=337' />
+<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=C47' />
+<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=47' />
 
 <meta property="fb:app_id" content="103484127961" />
 <meta name="p:domain_verify" content="794c2d433a01b5d35554ba972a179eff"/>
 
-	<link rel="image_src" type="image/jpeg" href="http://ww2db.com/images/ship_longisland1.jpg" />
+	<link rel="image_src" type="image/jpeg" href="http://ww2db.com/images/ship_kako1.jpg" />
 	<meta property="og:site_name" content="WW2DB" />
-	<meta property="og:title" content="Escort Carrier USS Long Island" />
-	<meta property="og:description" content="Escort Carrier USS Long Island" />
+	<meta property="og:title" content="Heavy Cruiser Kako" />
+	<meta property="og:description" content="Heavy Cruiser Kako" />
 	<meta property="og:type" content="article" />
-	<meta property="og:url" content="https://ww2db.com/ship_spec.php?ship_id=A337" />
-		<meta property="og:image" content="http://ww2db.com/images/ship_longisland1.jpg" />
+	<meta property="og:url" content="https://ww2db.com/ship_spec.php?ship_id=C47" />
+		<meta property="og:image" content="http://ww2db.com/images/ship_kako1.jpg" />
 
 	<meta name='twitter:card' content='summary'>
 	<meta name='twitter:site' content='@ww2db'>
-	<meta name='twitter:title' content='Escort Carrier USS Long Island'>
-	<meta name='twitter:description' content='Escort Carrier USS Long Island'>
-	<meta name='twitter:image' content='http://ww2db.com/images/ship_longisland1.jpg'>
+	<meta name='twitter:title' content='Heavy Cruiser Kako'>
+	<meta name='twitter:description' content='Heavy Cruiser Kako'>
+	<meta name='twitter:image' content='http://ww2db.com/images/ship_kako1.jpg'>
 				
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.5/css/jquery.dataTables.css">
 <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
@@ -77,7 +77,7 @@ table.dataTable tbody td, table.dataTable thead td {
 		</td></tr>
 		</table>
 		<div class="bannerflash">
-		<div style="background-image:url('/images/banner915_4.jpg'); height: 120px; min-height: 120px; width: 915px; min-width: 915px;">&nbsp;</div>		</div>
+		<div style="background-image:url('/images/banner915_3.jpg'); height: 120px; min-height: 120px; width: 915px; min-width: 915px;">&nbsp;</div>		</div>
 	</div>
 	<div id='nav' align='right'>
 		<ul id='navlist'>
@@ -86,15 +86,15 @@ table.dataTable tbody td, table.dataTable thead td {
 
 <div id="content">
 	<div itemscope itemtype="http://schema.org/Article" class="maincol">
-		<meta itemprop="url" content="<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=A337' />
-<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=337' />
+		<meta itemprop="url" content="<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=C47' />
+<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=47' />
 " />
-		<meta itemprop="description" content="Escort Carrier USS Long Island" />
+		<meta itemprop="description" content="Heavy Cruiser Kako" />
 		<div id="breadcrumb"><ul class="horizontalList">
 				<li class="horizontalList"> <a href="index.php">Home</a></li>
 				<li class="horizontalList"> &#187; <a href="equip.php">Equipment</a></li>
-				<li class="horizontalList"> &#187; <a href="ship.php">Ships</a></li><li class="horizontalList"> &#187; <a href="ship.php?list=A">Carriers</a></li><li class="horizontalList"> &#187; Long Island</li></ul></div>
-<div style='display: inline; float: right;'><image itemprop='image' class='filephoto' alt='Long Island file photo [3689]' title='Long Island file photo [3689]' src='/images/ship_longisland1.jpg' /><script>
+				<li class="horizontalList"> &#187; <a href="ship.php">Ships</a></li><li class="horizontalList"> &#187; <a href="ship.php?list=C">Cruisers</a></li><li class="horizontalList"> &#187; Kako</li></ul></div>
+<div style='display: inline; float: right;'><image itemprop='image' class='filephoto' alt='Kako file photo [1515]' title='Kako file photo [1515]' src='/images/ship_kako1.jpg' /><script>
 		function resizeText(className, percent) {
 			var elements = document.getElementsByClassName(className);
 			for (var i = 0; i < elements.length; ++i) {
@@ -107,8 +107,10 @@ table.dataTable tbody td, table.dataTable thead td {
 				}
 			}
 		}
-		</script><br /><img src="/images/icon_font_small.jpg" onclick="resizeText('maincol', -10)" title="Decrease font size" /><img src="/images/icon_font_medium.jpg" onclick="resizeText('maincol', null)" title="Reset font size" /><img src="/images/icon_font_large.jpg" onclick="resizeText('maincol', 10)" title="Increase font size" /></div><div style='margin: 8px 0px 8px 0px;'><h2 itemprop='name' class='articleHeader'>USS Long Island</h2></div><table class="table_noborder"><tr><td class="table_noborder">Country</td><td class="table_noborder"><a href='/country/united%20states'>United States</a></td></tr><tr><td class="table_noborder">Ship Class</td><td class="table_noborder">Long Island-class Escort Carrier</td></tr><tr><td class="table_noborder">Builder</td><td class="table_noborder">Sun Shipbuilding and Drydock Company, Chester, Pennsylvania, United States</td></tr><tr><td class="table_noborder">Laid Down</td><td class="table_noborder">7 Jul 1939</td></tr><tr><td class="table_noborder">Launched</td><td class="table_noborder">11 Jan 1940</td></tr><tr><td class="table_noborder">Commissioned</td><td class="table_noborder">2 Jun 1941</td></tr><tr><td class="table_noborder">Decommissioned</td><td class="table_noborder">26 Mar 1946</td></tr><tr><td class="table_noborder">Displacement</td><td class="table_noborder">13499 tons standard</td></tr><tr><td class="table_noborder">Length</td><td class="table_noborder">492 feet</td></tr><tr><td class="table_noborder">Beam</td><td class="table_noborder">70 feet</td></tr><tr><td class="table_noborder">Draft</td><td class="table_noborder">26 feet</td></tr><tr><td class="table_noborder">Speed</td><td class="table_noborder">17 knots</td></tr><tr><td class="table_noborder">Crew</td><td class="table_noborder">970</td></tr><tr><td class="table_noborder">Armament</td><td class="table_noborder">1x127mm, 2x77mm</td></tr><tr><td class="table_noborder">Aircraft</td><td class="table_noborder">21</td></tr></table><p><small>Contributor: <a href='/person_bio.php?person_id=179'><span itemprop='author' itemscope itemtype='http://schema.org/Person'><span itemprop='name'>C. Peter Chen</span></span></a></small></p><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Long Island was originally laid down as Mormacmail; her name was changed to Long Island on the day of her commissioning.  She was the first escort carrier of the United States Navy.  She had her shakedown cruise off Norfolk, Virginia, United States, meanwhile developing doctrine for escort carrier operations, particularly when used in convoys.  In Dec 1941, she escorted a convoy to Newfoundland, and then returned to Norfolk to qualify carrier pilots.  On 10 May 1942, she sailed for the Pacific Ocean, arriving at San Francisco on 5 Jun.  She sailed with four battleships to the Hawaii Islands area to provide air cover immediately after the Battle of Midway, and returned to the west coast of the United States to train carrier pilots by the end of that month.  On 17 Jul 1942, she returned to Pearl Harbor after a 9-day cruise from San Diego, then headed for the South Pacific.  On 13 Aug 1942, she launched aircraft for Henderson Field in Guadalcanal, then returned for New Hebrides.  Between 20 Sep 1942 and Jul 1943, she trained carrier pilots on the west coast of the United States.  For the most part of the remainder of the war, she transported aircraft and crews from the United States to various bases in the Pacific Ocean.  After the war, Long Island participated in Operation Magic Carpet to bring servicemen back home.  After her 1946 decommissioning at the Puget Sound Naval Shipyard, she was sold to Zidell Ship Dismantling Company, Portland, Oregon on 24 Apr 1947 for scrap, but before scrapping could take place, she was sold to the Canada-Europe Line on 12 Mar 1948 for conversion to merchant service.  She was renamed Nelly and served as an immigrant carrier between Europe and Canada.  In 1953, she was sold to the University of the Seven Seas and was converted to a school ship; she was renamed Seven Seas toward the end of that year.  In 1966, she was sold to the University of Rotterdam as a floating dormitory.  She was finally scrapped in 1977 in Belgium.</p>
-<small><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span><i>Source: Wikipedia.</i></p></small>
+		</script><br /><img src="/images/icon_font_small.jpg" onclick="resizeText('maincol', -10)" title="Decrease font size" /><img src="/images/icon_font_medium.jpg" onclick="resizeText('maincol', null)" title="Reset font size" /><img src="/images/icon_font_large.jpg" onclick="resizeText('maincol', 10)" title="Increase font size" /></div><div style='margin: 8px 0px 8px 0px;'><h2 itemprop='name' class='articleHeader'>Kako</h2></div><table class="table_noborder"><tr><td class="table_noborder">Country</td><td class="table_noborder"><a href='/country/japan'>Japan</a></td></tr><tr><td class="table_noborder">Ship Class</td><td class="table_noborder"><a href='ship_spec.php?ship_id=473'>Furutaka-class Heavy Cruiser</a></td></tr><tr><td class="table_noborder">Builder</td><td class="table_noborder">Kobe</td></tr><tr><td class="table_noborder">Launched</td><td class="table_noborder">10 Apr 1925</td></tr><tr><td class="table_noborder">Commissioned</td><td class="table_noborder">1 Jul 1926</td></tr><tr><td class="table_noborder">Sunk</td><td class="table_noborder">10 Aug 1942</td></tr><tr><td class="table_noborder">Displacement</td><td class="table_noborder">10507 tons standard</td></tr><tr><td class="table_noborder">Length</td><td class="table_noborder">595 feet</td></tr><tr><td class="table_noborder">Beam</td><td class="table_noborder">51 feet</td></tr><tr><td class="table_noborder">Draft</td><td class="table_noborder">18 feet</td></tr><tr><td class="table_noborder">Speed</td><td class="table_noborder">33 knots</td></tr><tr><td class="table_noborder">Crew</td><td class="table_noborder">625</td></tr></table><p><small>Contributor: <a href='/person_bio.php?person_id=179'><span itemprop='author' itemscope itemtype='http://schema.org/Person'><span itemprop='name'>C. Peter Chen</span></span></a></small></p><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Kako, a 7100-ton Furutaka class heavy cruiser built at Kobe, Japan, was commissioned in July 1926. Assigned to the Fifth Squadron (Sentai) from then until 1933, she served in Japanese and Chinese waters, participating in fleet maneuvers and combat operations in China. The cruiser was given a major refit in 1929-30, improving her machinery and slightly changing her appearance. Briefly operating with Sentai 6 in 1933, Kako was present for the naval review off Yokohama in late August. She went into guard ship status in November of that year and into reserve in 1934. In July 1936, she began an extensive reconstruction at Sasebo. </p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Kako returned to service in December 1937 almost completely transformed. Her original six 200mm single gun mounts had been replaced by three twin 203mm gun turrets. She now had new anti-aircraft machine guns and torpedo tubes, improved gunfire control equipment, different boilers, a wider hull and a generally altered appearance. Reassigned to Sentai 6, she operated in Japanese home waters and off China in the years leading up to the Pacific war. </p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>When Japan attacked U.S. and British positions in December 1941, Kako took part in the assaults on Guam and Wake. In March and April 1942, she supported operations against New Guinea, the northern Solomon Islands and the Admiralty Islands. In early May she covered landings at Tulagi, in the southern Solomons, and escorted the carrier Shoho and the Port Moresby invasion force during the Battle of the Coral Sea on 7-8 May. After being overhauled at Kure in May and June, Kako was sent to the vicinity of the northern Solomon Islands. When U.S. Marines invaded Guadalcanal and Tulagi on 7 August 1942, she was one of seven Japanese cruisers ordered south to intervene. In the 9 August night Battle of Savo Island, these ships inflicted a serious defeat on a joint U.S.-Australian task force. While steaming toward Kavieng, New Ireland, on 10 August 1942, Kako was torpedoed and sunk by the U.S. submarine S-44 (SS-155).</p>
+<small><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span><i>Source: Naval Historical Center</i></p></small>
 				<link rel='stylesheet' href='https://unpkg.com/leaflet@1.3.1/dist/leaflet.css'
 				   integrity='sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=='
 				   crossorigin=''/>
@@ -130,10 +132,10 @@ table.dataTable tbody td, table.dataTable thead td {
 				}
 				</style>
 				
-				<p id='interactiveMapLabel'><b>Escort Carrier USS Long Island Interactive Map</b></p>
+				<p id='interactiveMapLabel'><b>Heavy Cruiser Kako Interactive Map</b></p>
 				<div id='mapid' class='mapClass'></div>
 				<script>
-				var mymap = L.map('mapid').setView([37.775309000, -122.334253000], 13);
+				var mymap = L.map('mapid').setView([-2.466667000, 152.183333000], 13);
 			
 					L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.{ext}', {
 						attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
@@ -143,11 +145,7 @@ table.dataTable tbody td, table.dataTable thead td {
 						ext: 'png'
 					}).addTo(mymap);
 				
-				var rawDataArray = [  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Viti Levu, Fiji</h2><div class='infowindowSubTitle'>06 Mar 1943</div><a href='/image.php?image_id=2133'><img src='/images/imagemagick/tmb_air_wildcat27.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", -18.283333000, 177.066667000, 1],
-  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Fila, Efate, New Hebrides</h2><div class='infowindowSubTitle'>28 Aug 1942</div><a href='/image.php?image_id=2127'><img src='/images/imagemagick/tmb_air_wildcat24.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", -17.755639000, 168.300163000, 1],
-  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Pearl Harbor, Oahu, Hawaii</h2><div class='infowindowSubTitle'>01 Aug 1942</div><a href='/image.php?image_id=26770'><img src='/images/imagemagick/tmb_584b8dd70492e.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 21.365498000, -157.963879000, 1],
-  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>San Diego, California, United States</h2><div class='infowindowSubTitle'>02 Jun 1942</div><a href='/image.php?image_id=26572'><img src='/images/imagemagick/tmb_58030c32c9305.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 32.713424000, -117.189496000, 1],
-  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>San Francisco Bay, California, United States</h2><div class='infowindowSubTitle'>10 Jun 1944</div><a href='/image.php?image_id=26589'><img src='/images/imagemagick/tmb_58031c023a76c.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 37.775309000, -122.334253000, 1]];
+				var rawDataArray = [  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>New Ireland, Australian New Guinea</h2><div class='infowindowSubTitle'>10 Aug 1942</div>Japanese cruiser Kako was struck by three torpedoes from USS S-44 90 miles east of Kavieng, New Ireland at 0806 hours and sank at about 0815 hours; 34 were killed, 582 survived.<br /></div>", -2.466667000, 152.183333000, 1]];
 				var pointsArray = [];
 			
 					var markers = L.markerClusterGroup({ maxClusterRadius: 50 });
@@ -165,7 +163,7 @@ table.dataTable tbody td, table.dataTable thead td {
 				var group = new L.featureGroup(pointsArray);
 				mymap.fitBounds(group.getBounds());
 				</script>
-			<p><b>USS Long Island Operational Timeline</b></p><table border='0' cellspacing='0'><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/06/02/1941' alt='See all events on 2 Jun 1941' title='See all events on 2 Jun 1941' class='noStyle'>2 Jun 1941</a>&nbsp;</td><td>Long Island was commissioned into service.</td></tr><tr bgcolor=''><td valign='top' align='right' nowrap><a href='/event/today/07/17/1942' alt='See all events on 17 Jul 1942' title='See all events on 17 Jul 1942' class='noStyle'>17 Jul 1942</a>&nbsp;</td><td>USS Long Island resumed carrier pilot training operations.</td></tr><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/08/02/1942' alt='See all events on 2 Aug 1942' title='See all events on 2 Aug 1942' class='noStyle'>2 Aug 1942</a>&nbsp;</td><td>USS Long Island departed from Pearl Harbor, US Territory of Hawaii with aircraft for the Solomon Islands.</td></tr><tr bgcolor=''><td valign='top' align='right' nowrap><a href='/event/today/08/23/1942' alt='See all events on 23 Aug 1942' title='See all events on 23 Aug 1942' class='noStyle'>23 Aug 1942</a>&nbsp;</td><td>USS Long Island arrived at Efate, New Hebrides.</td></tr><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/03/26/1946' alt='See all events on 26 Mar 1946' title='See all events on 26 Mar 1946' class='noStyle'>26 Mar 1946</a>&nbsp;</td><td>Long Island was decommissioned from service.</td></tr></table><br /><p><b>Photographs</b></p><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=337'><img src="/images/imagemagick/tmb_ship_longisland2.jpg" border='0' alt='Long Island, probably off Norfolk, Virginia, United States, 10 Nov 1941; note seven SOC-3A and one F2A aircraft on deck'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=337'><img src="/images/imagemagick/tmb_air_soc19.jpg" border='0' alt='SOC-3A Seagull floatplane of US Navy Scouting Squadron 201 (VS-201) parked on the deck of escort carrier Long Island, 16 Dec 1941, photo 1 of 3'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=337'><img src="/images/imagemagick/tmb_air_soc20.jpg" border='0' alt='SOC-3A Seagull floatplane of US Navy Scouting Squadron 201 (VS-201) parked on the deck of escort carrier Long Island, 16 Dec 1941, photo 2 of 3'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=337'><img src="/images/imagemagick/tmb_air_soc21.jpg" border='0' alt='SOC-3A Seagull floatplane of US Navy Scouting Squadron 201 (VS-201) parked on the deck of escort carrier Long Island, 16 Dec 1941, photo 3 of 3'></a></td></tr></table><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=337'>See all 18 photographs of Escort Carrier USS Long Island</a><br /><br /><br /><br />
+			<p><b>Kako Operational Timeline</b></p><table border='0' cellspacing='0'><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/07/01/1926' alt='See all events on 1 Jul 1926' title='See all events on 1 Jul 1926' class='noStyle'>1 Jul 1926</a>&nbsp;</td><td>Kako was commissioned into service.</td></tr><tr bgcolor=''><td valign='top' align='right' nowrap><a href='/event/today/08/10/1942' alt='See all events on 10 Aug 1942' title='See all events on 10 Aug 1942' class='noStyle'>10 Aug 1942</a>&nbsp;</td><td>Japanese cruiser Kako was struck by three torpedoes from USS S-44 90 miles east of Kavieng, New Ireland at 0806 hours and sank at about 0815 hours; 34 were killed, 582 survived.</td></tr></table><br /><p><b>Photographs</b></p><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=47'><img src="/images/imagemagick/tmb_ship_kako3.jpg" border='0' alt='Kako as first completed in 1926, with short smokestacks'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=47'><img src="/images/imagemagick/tmb_ship_kako4.jpg" border='0' alt='Kako, circa 1926'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=47'><img src="/images/imagemagick/tmb_ship_kako2.jpg" border='0' alt='Kako during her trials period, Apr 1926'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=47'><img src="/images/imagemagick/tmb_ship_kako8.jpg" border='0' alt='Japanese cruiser Kako as depicted on a 1927 postcard, showing her 1926 configurations'></a></td></tr></table><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=47'>See all 10 photographs of Heavy Cruiser Kako</a><br /><br /><br /><br />
 				<center><table border='0' cellpadding='0' cellspacing='0' width='100%'>
 				<tr><td valign='top' width='382'><p>Did you enjoy this article?  Please consider supporting us on <a href='https://www.patreon.com/ww2db' rel='nofollow' target='_patreon' onclick='javascript: ga("send","pageview","/outgoing/www.patreon.com/ww2db/");'>Patreon</a>.  Even $1 per month will go a long way!  Thank you.</p>
 		<table border='0' cellpadding='0' cellspacing='0'>
@@ -173,19 +171,19 @@ table.dataTable tbody td, table.dataTable thead td {
 			<td colspan='9'>Share this article with your friends:<br /><br /></td>
 		</tr>
 		<tr>
-			<td><a title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=A337' target='_facebook' rel='nofollow'><img src='/images/icon_facebook.gif' border='0'></a></td><td>&nbsp;</td><td><a id='facebook' title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=A337' target='_facebook'>Facebook</a></td>
-			<td><a title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A337&title=Escort Carrier USS Long Island' target='_reddit' rel='nofollow'><img src='/images/icon_reddit.gif' border='0'></a></td><td>&nbsp;</td><td><a id='reddit' title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A337&title=Escort Carrier USS Long Island' target='_reddit'>Reddit</a></td>
+			<td><a title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=C47' target='_facebook' rel='nofollow'><img src='/images/icon_facebook.gif' border='0'></a></td><td>&nbsp;</td><td><a id='facebook' title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=C47' target='_facebook'>Facebook</a></td>
+			<td><a title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C47&title=Heavy Cruiser Kako' target='_reddit' rel='nofollow'><img src='/images/icon_reddit.gif' border='0'></a></td><td>&nbsp;</td><td><a id='reddit' title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C47&title=Heavy Cruiser Kako' target='_reddit'>Reddit</a></td>
 		</tr>
 		<tr>
-			<td><a title='Tweet this page' href='http://twitter.com/home/?status=Escort+Carrier+USS+Long+Island+https://ww2db.com:443/ship_spec.php?ship_id=A337' target='_twitter' rel='nofollow'><img src='/images/icon_twitter.gif' border='0'></a></td><td>&nbsp;</td><td><a id='twitter' title='Tweet this page' href='http://twitter.com/home/?status=Escort+Carrier+USS+Long+Island+https://ww2db.com:443/ship_spec.php?ship_id=A337' target='_twitter'>Twitter</a></td>
-			<td><a title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A337&title=Escort Carrier USS Long Island' target='_digg' rel='nofollow'><img src='/images/icon_digg.gif' border='0'></a></td><td>&nbsp;</td><td><a id='digg' title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A337&title=Escort Carrier USS Long Island' target='_digg'>Digg</a></td>
+			<td><a title='Tweet this page' href='http://twitter.com/home/?status=Heavy+Cruiser+Kako+https://ww2db.com:443/ship_spec.php?ship_id=C47' target='_twitter' rel='nofollow'><img src='/images/icon_twitter.gif' border='0'></a></td><td>&nbsp;</td><td><a id='twitter' title='Tweet this page' href='http://twitter.com/home/?status=Heavy+Cruiser+Kako+https://ww2db.com:443/ship_spec.php?ship_id=C47' target='_twitter'>Twitter</a></td>
+			<td><a title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C47&title=Heavy Cruiser Kako' target='_digg' rel='nofollow'><img src='/images/icon_digg.gif' border='0'></a></td><td>&nbsp;</td><td><a id='digg' title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C47&title=Heavy Cruiser Kako' target='_digg'>Digg</a></td>
 		</tr>
 		<tr>
-			<td><a title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=A337' target='_googleplus' rel='nofollow'><img src='/images/icon_googleplus2.png' border='0'></a></td><td>&nbsp;</td><td><a id='googleplus' title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=A337' target='_googleplus'>Google+</a></td>
-			<td><a title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=A337&title=Escort Carrier USS Long Island' target='_delicious' rel='nofollow'><img src='/images/icon_delicious.gif' border='0'></a></td><td>&nbsp;</td><td><a id='delicious' title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=A337&title=Escort Carrier USS Long Island' target='_delicious'>Delicious</a></td>
+			<td><a title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=C47' target='_googleplus' rel='nofollow'><img src='/images/icon_googleplus2.png' border='0'></a></td><td>&nbsp;</td><td><a id='googleplus' title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=C47' target='_googleplus'>Google+</a></td>
+			<td><a title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=C47&title=Heavy Cruiser Kako' target='_delicious' rel='nofollow'><img src='/images/icon_delicious.gif' border='0'></a></td><td>&nbsp;</td><td><a id='delicious' title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=C47&title=Heavy Cruiser Kako' target='_delicious'>Delicious</a></td>
 		</tr>
 		<tr>
-			<td><a title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A337&title=Escort Carrier USS Long Island' target='_stumbleupon' rel='nofollow'><img src='/images/icon_stumbleupon.gif' border='0'></a></td><td>&nbsp;</td><td><a id='stumbleupon' title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A337&title=Escort Carrier USS Long Island' target='_stumbleupon'>StumbleUpon</a></td>
+			<td><a title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C47&title=Heavy Cruiser Kako' target='_stumbleupon' rel='nofollow'><img src='/images/icon_stumbleupon.gif' border='0'></a></td><td>&nbsp;</td><td><a id='stumbleupon' title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C47&title=Heavy Cruiser Kako' target='_stumbleupon'>StumbleUpon</a></td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -222,16 +220,16 @@ table.dataTable tbody td, table.dataTable thead td {
 	<tr><td valign="top">Your Comments</td><td><textarea name="comment" cols="30" rows="6"></textarea></td></tr>
 	<tr><td valign="top">Security Code</td>
 		<td valign="top">
-			<div style="background-image:url('/images/captcha/captcha1.jpg'); height: 40px; min-height: 40px; width: 100px; min-width: 100px;">&nbsp;</div>			<br />
+			<div style="background-image:url('/images/captcha/captcha4.jpg'); height: 40px; min-height: 40px; width: 100px; min-width: 100px;">&nbsp;</div>			<br />
 			<input type="text" name="captcha" style="margin-bottom: 2px;">
 		</td>
 	</tr>
 	<tr>
 		<td>&nbsp;</td>
 		<td valign="top"><input type="hidden" name="foreigntype" value="S">
-		<input type="hidden" name="foreigntype_id" value="337">
-		<input type="hidden" name="url" value="/ship_spec.php?ship_id=A337">
-		<input type="hidden" name="c" value="78"> 		<input type="submit" value="Submit"></td>
+		<input type="hidden" name="foreigntype_id" value="47">
+		<input type="hidden" name="url" value="/ship_spec.php?ship_id=C47">
+		<input type="hidden" name="c" value="81"> 		<input type="submit" value="Submit"></td>
 	</tr>
 	</table>
 	</center>
@@ -252,7 +250,7 @@ table.dataTable tbody td, table.dataTable thead td {
 </form>
 <script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=searchbox_004186240537787039759%3Aptfrvampo3a"></script>
 </ul>
-<div class='sidehidden_m'><div class="sidetop">News</div><ul><li> &#187; <a href="/news.php?news_id=206">Finland to probe role of Waffen-SS volunteers</a> (31 May 2018)</li><li> &#187; <a href="/news.php?news_id=205">Your patronage is needed for WW2DB</a> (17 May 2018)</li><li> &#187; <a href="/news.php?news_id=204">Your help is needed to transcribe WW2 documents</a> (17 May 2018)</li><li> &#187; <a href="/news.php?news_id=203">Japanese National Archives released names of Unit 731 members</a> (17 Apr 2018)</li><li> &#187; <a href="/news.php?news_id=202">Wreck of USS Helena found</a> (12 Apr 2018)</li><li> &#187; <a href="/news.php">See all news</a></li></ul><br /></div><div class='sidehidden_m'><div class='sidetop'>Escort Carrier USS Long Island Photo Gallery</div><center><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=337'><img src="/images/imagemagick/tmb_ship_longisland2.jpg" border='0' alt='Long Island, probably off Norfolk, Virginia, United States, 10 Nov 1941; note seven SOC-3A and one F2A aircraft on deck'></a></td></tr></table></center><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=337'>See all 18 photographs of Escort Carrier USS Long Island</a></div><br /><br />		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<div class="sidetop">More on Kako</div><i>Personnel:</i><br>&raquo;&nbsp;<a href=person_bio.php?person_id=13>Kondo, Nobutake</a><br><br><i>Event(s) Participated:</i><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=16>Battle of Coral Sea</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=9>Guadalcanal Campaign</a><br><br /><i>Partner Sites Content:</i><br />&raquo;&nbsp;<a href='http://www.combinedfleet.com/kako_t.htm' target='_combinedfleet' onclick="javascript: pageTracker._trackPageview('/outgoing/www.combinedfleet.com/kako_t.htm');">Kako Tabular Record of Movement</a><br /><div class='sidehidden_m'><div class='sidetop'>Heavy Cruiser Kako Photo Gallery</div><center><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=47'><img src="/images/imagemagick/tmb_ship_kako3.jpg" border='0' alt='Kako as first completed in 1926, with short smokestacks'></a></td></tr></table></center><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=47'>See all 10 photographs of Heavy Cruiser Kako</a></div><br /><br />		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		<!-- WW2DB Xcol Links 160x90 -->
 		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:90px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="5126713011"></ins>
 		<script>
@@ -261,10 +259,10 @@ table.dataTable tbody td, table.dataTable thead td {
 		<br /><br />
 	<div class="sidehidden_m">
 	<div class="sidetop">Current Site Statistics</div>
-	<ul><li> &#187; <a class='noStyle' href='/person.php'>1,039 biographies</a></li><li> &#187; <a class='noStyle' href='/event/'>326 events</a></li><li> &#187; <a class='noStyle' href='/event/timeline/'>35,502 timeline entries</a></li><li> &#187; <a class='noStyle' href='/ship.php'>726 ships</a></li><li> &#187; <a class='noStyle' href='/aircraft.php'>329 aircraft models</a></li><li> &#187; <a class='noStyle' href='/vehicle.php'>184 vehicle models</a></li><li> &#187; <a class='noStyle' href='/weapon.php'>339 weapon models</a></li><li> &#187; <a class='noStyle' href='/doc.php'>102 historical documents</a></li><li> &#187; <a class='noStyle' href='/facility/'>175 facilities</a></li><li> &#187; <a class='noStyle' href='/book/'>457 book reviews</a></li><li> &#187; <a class='noStyle' href='/photo.php'>24,916 photos</a></li><li> &#187; <a class='noStyle' href='/reference/map/'>287 maps</a></li></ul>	<br />
+	<ul><li> &#187; <a class='noStyle' href='/person.php'>1,040 biographies</a></li><li> &#187; <a class='noStyle' href='/event/'>326 events</a></li><li> &#187; <a class='noStyle' href='/event/timeline/'>35,554 timeline entries</a></li><li> &#187; <a class='noStyle' href='/ship.php'>726 ships</a></li><li> &#187; <a class='noStyle' href='/aircraft.php'>329 aircraft models</a></li><li> &#187; <a class='noStyle' href='/vehicle.php'>184 vehicle models</a></li><li> &#187; <a class='noStyle' href='/weapon.php'>340 weapon models</a></li><li> &#187; <a class='noStyle' href='/doc.php'>102 historical documents</a></li><li> &#187; <a class='noStyle' href='/facility/'>175 facilities</a></li><li> &#187; <a class='noStyle' href='/book/'>457 book reviews</a></li><li> &#187; <a class='noStyle' href='/photo.php'>24,934 photos</a></li><li> &#187; <a class='noStyle' href='/reference/map/'>287 maps</a></li></ul>	<br />
 </div>
 
-<div class='sidehidden_m'><div class='sidetop'>Famous WW2 Quote</div>"Goddam it, you'll never get the Purple Heart hiding in a foxhole! Follow me!"<br><br>Captain Henry P. Jim Crowe, Guadalcanal, 13 Jan 1943</div><br /><br />				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<div class='sidehidden_m'><div class='sidetop'>Famous WW2 Quote</div>"All that silly talk about the advance of science and such leaves me cold.  Give me peace and a retarded science."<br><br>Thomas Dodd, late 1945</div><br /><br />				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		<!-- WW2DB Xcol Vertical Banner 160x600 -->
 		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="6471754899"></ins>
 		<script>
@@ -288,7 +286,7 @@ table.dataTable tbody td, table.dataTable thead td {
 		<li> &#187; <a href="/feed.php">Syndication</a></li>
 		<li> &#187; <a href="/termsofuse.php" rel="nofollow">Terms of Use & Disclosures</a></li>
 		<li> &#187; <a href="/">World War II Database Home</a></li>
-		<li> &#187; <a href='http://m.ww2db.com/ship_spec.php?ship_id=A337'>Mobile View</a></li>
+		<li> &#187; <a href='http://m.ww2db.com/ship_spec.php?ship_id=C47'>Mobile View</a></li>
 		</ul>		
 	</div>
 	<div style="float: left; padding: 0 5 0 5px; width: 282px; text-align: left;">
@@ -321,7 +319,7 @@ table.dataTable tbody td, table.dataTable thead td {
 		<script>
 		(adsbygoogle = window.adsbygoogle || []).push({});
 		</script>
-	<br /><center>		<a href="http://amzn.to/2grNvNh" target="_amazon" rel="nofollow" onclick="javascript: ga('send','pageview','/outgoing/amzn.to/2grNvNh');"><img src="/images/ad_auto_after_ausch_728.jpg" /></a><br /><br />
+	<br /><center>		<a href="http://amzn.to/2he65an" target="_amazon" rel="nofollow" onclick="javascript: ga('send','pageview','/outgoing/amzn.to/2he65an');"><img src="/images/ad_shattered_sword_728.jpg" /></a><br /><br />
 		</center>
 <br /><br />
 

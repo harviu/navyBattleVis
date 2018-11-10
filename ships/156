@@ -1,10 +1,10 @@
 <html>
 
 <head>
-<title>Aircraft Carrier USS Ranger | World War II Database</title>
+<title>Heavy Cruiser Maya | World War II Database</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="description" content="Aircraft Carrier USS Ranger | World War II Database">
-<meta name="keywords" content="ww2db, world war, ww2, military, history, Aircraft Carrier USS Ranger | World War II Database">
+<meta name="description" content="Heavy Cruiser Maya | World War II Database">
+<meta name="keywords" content="ww2db, world war, ww2, military, history, Heavy Cruiser Maya | World War II Database">
 <meta name="ROBOTS" content="INDEX, FOLLOW">
 <meta name="REVISIT-AFTER" CONTENT="15 days">
 <META NAME="COPYRIGHT" CONTENT="Copyright © 2004-2018 Lava Development, LLC., all rights reserved">
@@ -23,23 +23,25 @@
 
 <link rel="alternate" type="application/rss+xml" title="WW2DB RSS Feed" href="https://ww2db.com/feedgen.php?feed=articles&f=RSS2.0" />
 
-<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=A547' />
-<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=547' />
+<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=C44' />
+<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=44' />
 
 <meta property="fb:app_id" content="103484127961" />
 <meta name="p:domain_verify" content="794c2d433a01b5d35554ba972a179eff"/>
 
+	<link rel="image_src" type="image/jpeg" href="http://ww2db.com/images/ship_maya1.jpg" />
 	<meta property="og:site_name" content="WW2DB" />
-	<meta property="og:title" content="Aircraft Carrier USS Ranger" />
-	<meta property="og:description" content="Aircraft Carrier USS Ranger" />
+	<meta property="og:title" content="Heavy Cruiser Maya" />
+	<meta property="og:description" content="Heavy Cruiser Maya" />
 	<meta property="og:type" content="article" />
-	<meta property="og:url" content="https://ww2db.com/ship_spec.php?ship_id=A547" />
-	
+	<meta property="og:url" content="https://ww2db.com/ship_spec.php?ship_id=C44" />
+		<meta property="og:image" content="http://ww2db.com/images/ship_maya1.jpg" />
+
 	<meta name='twitter:card' content='summary'>
 	<meta name='twitter:site' content='@ww2db'>
-	<meta name='twitter:title' content='Aircraft Carrier USS Ranger'>
-	<meta name='twitter:description' content='Aircraft Carrier USS Ranger'>
-	<meta name='twitter:image' content=''>
+	<meta name='twitter:title' content='Heavy Cruiser Maya'>
+	<meta name='twitter:description' content='Heavy Cruiser Maya'>
+	<meta name='twitter:image' content='http://ww2db.com/images/ship_maya1.jpg'>
 				
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.5/css/jquery.dataTables.css">
 <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
@@ -84,20 +86,15 @@ table.dataTable tbody td, table.dataTable thead td {
 
 <div id="content">
 	<div itemscope itemtype="http://schema.org/Article" class="maincol">
-		<meta itemprop="url" content="<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=A547' />
-<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=547' />
+		<meta itemprop="url" content="<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=C44' />
+<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=44' />
 " />
-		<meta itemprop="description" content="Aircraft Carrier USS Ranger" />
+		<meta itemprop="description" content="Heavy Cruiser Maya" />
 		<div id="breadcrumb"><ul class="horizontalList">
 				<li class="horizontalList"> <a href="index.php">Home</a></li>
 				<li class="horizontalList"> &#187; <a href="equip.php">Equipment</a></li>
-				<li class="horizontalList"> &#187; <a href="ship.php">Ships</a></li><li class="horizontalList"> &#187; <a href="ship.php?list=A">Carriers</a></li><li class="horizontalList"> &#187; Ranger</li></ul></div>
-<div style='display: inline; float: right;'><script async src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
-			<!-- WW2DB Top of Content 250x250 -->
-			<ins class='adsbygoogle' style='display:inline-block;width:250px;height:250px' data-ad-client='ca-pub-8359788307919731' data-ad-slot='1430818127'></ins>
-			<script>
-			(adsbygoogle = window.adsbygoogle || []).push({});
-			</script><script>
+				<li class="horizontalList"> &#187; <a href="ship.php">Ships</a></li><li class="horizontalList"> &#187; <a href="ship.php?list=C">Cruisers</a></li><li class="horizontalList"> &#187; Maya</li></ul></div>
+<div style='display: inline; float: right;'><image itemprop='image' class='filephoto' alt='Maya file photo [2034]' title='Maya file photo [2034]' src='/images/ship_maya1.jpg' /><script>
 		function resizeText(className, percent) {
 			var elements = document.getElementsByClassName(className);
 			for (var i = 0; i < elements.length; ++i) {
@@ -110,68 +107,8 @@ table.dataTable tbody td, table.dataTable thead td {
 				}
 			}
 		}
-		</script><br /><img src="/images/icon_font_small.jpg" onclick="resizeText('maincol', -10)" title="Decrease font size" /><img src="/images/icon_font_medium.jpg" onclick="resizeText('maincol', null)" title="Reset font size" /><img src="/images/icon_font_large.jpg" onclick="resizeText('maincol', 10)" title="Increase font size" /></div><div style='margin: 8px 0px 8px 0px;'><h2 itemprop='name' class='articleHeader'>USS Ranger</h2></div><table class="table_noborder"><tr><td class="table_noborder">Country</td><td class="table_noborder"><a href='/country/united%20states'>United States</a></td></tr><tr><td class="table_noborder">Ship Class</td><td class="table_noborder">Ranger-class Aircraft Carrier</td></tr></table><p><small>Contributor: <a href='/person_bio.php?person_id=183'><span itemprop='author' itemscope itemtype='http://schema.org/Person'><span itemprop='name'></span></span></a></small></p><p>This article has been removed for review and updates, please check back again soon!</p>
-				<link rel='stylesheet' href='https://unpkg.com/leaflet@1.3.1/dist/leaflet.css'
-				   integrity='sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=='
-				   crossorigin=''/>
-				<script src='https://unpkg.com/leaflet@1.3.1/dist/leaflet.js'
-				   integrity='sha512-/Nsx9X4HebavoBvEBuyp3I7od5tA0UzAxs+j83KgC8PU0kgB4XiK4Lfe4y4cgBtaRJQEIFCW+oC506aPT2L1zw=='
-				   crossorigin=''></script>
-					<script src='https://unpkg.com/leaflet.markercluster@1.3.0/dist/leaflet.markercluster.js'></script>
-					<link href='https://unpkg.com/leaflet.markercluster@1.3.0/dist/MarkerCluster.css' rel='stylesheet' />
-					<link href='https://unpkg.com/leaflet.markercluster@1.3.0/dist/MarkerCluster.Default.css' rel='stylesheet' />
-				
-				<style>
-				.mapClass {
-					height: 400px; 
-				}
-				.infowindowSubTitle {
-					font-weight: bold;
-					margin-top: 10px;
-					margin-bottom: 10px;
-				}
-				</style>
-				
-				<p id='interactiveMapLabel'><b>Aircraft Carrier USS Ranger Interactive Map</b></p>
-				<div id='mapid' class='mapClass'></div>
-				<script>
-				var mymap = L.map('mapid').setView([59.609167000, -151.347500000], 13);
-			
-					L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.{ext}', {
-						attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-						subdomains: 'abcd',
-						minZoom: 0,
-						maxZoom: 18,
-						ext: 'png'
-					}).addTo(mymap);
-				
-				var rawDataArray = [  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Panama Canal Zone</h2><div class='infowindowSubTitle'>1936</div><a href='/image.php?image_id=18465'><img src='/images/imagemagick/tmb_ship_lexington44.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 8.856496000, -79.519166000, 1],
-  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Pedro Miguel Locks, Panama Canal Zone</h2><div class='infowindowSubTitle'>07 Apr 1935</div><a href='/image.php?image_id=18009'><img src='/images/imagemagick/tmb_51046cf86140c.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 9.023430556, -79.619572200, 1],
-  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Gatún, Panama Canal Zone</h2><div class='infowindowSubTitle'>12 Oct 1945</div><a href='/image.php?image_id=24607'><img src='/images/imagemagick/tmb_55c4592b5a03e.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 9.279771000, -79.922306000, 1],
-  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Honolulu, Oahu, Hawaii</h2><div class='infowindowSubTitle'>08 Apr 1936</div><a href='/image.php?image_id=18474'><img src='/images/imagemagick/tmb_ship_lexington52.jpg' style='width: 50px; margin-right: 3px;' /></a><br /><div class='infowindowSubTitle'>08 Apr 1938</div><a href='/image.php?image_id=18460'><img src='/images/imagemagick/tmb_ship_lexington39.jpg' style='width: 50px; margin-right: 3px;' /></a><br /><a href='/image.php?image_id=24594'><img src='/images/imagemagick/tmb_55c4520d18024.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 21.259432000, -157.834896000, 3],
-  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Pearl Harbor, Oahu, Hawaii</h2><div class='infowindowSubTitle'>05 Sep 1944</div><a href='/image.php?image_id=20155'><img src='/images/imagemagick/tmb_5282a7845f6df.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 21.363889000, -157.960278000, 1],
-  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Atlantic Ocean</h2><div class='infowindowSubTitle'>02 Mar 1943</div><a href='/image.php?image_id=24596'><img src='/images/imagemagick/tmb_55c453eedfef4.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 26.673333000, -45.727500000, 1],
-  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Atlantic Ocean</h2><div class='infowindowSubTitle'>27 Oct 1942</div><a href='/image.php?image_id=24597'><img src='/images/imagemagick/tmb_55c4547d348dd.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 36.200000000, -54.983333000, 1],
-  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Chesapeake Bay, Virginia, United States</h2><div class='infowindowSubTitle'>18 Aug 1942</div><a href='/image.php?image_id=25132'><img src='/images/imagemagick/tmb_563b021a82f80.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 37.007887000, -76.202293000, 1],
-  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Homer, Alaska</h2><div class='infowindowSubTitle'>Jul 1936</div><a href='/image.php?image_id=24593'><img src='/images/imagemagick/tmb_55c45168b5dd1.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 59.609167000, -151.347500000, 1]];
-				var pointsArray = [];
-			
-					var markers = L.markerClusterGroup({ maxClusterRadius: 50 });
-					for (var i = 0; i < rawDataArray.length; i++) {
-						var a = rawDataArray[i];
-						var title = a[0];
-						var fill_color = '#FF0033';
-						var marker = L.marker(new L.LatLng(a[1], a[2]), { title: title, color: fill_color });
-						marker.bindPopup(L.popup({maxHeight:200}).setContent(title));
-						markers.addLayer(marker);
-						pointsArray.push(marker);
-					}
-					mymap.addLayer(markers);
-				
-				var group = new L.featureGroup(pointsArray);
-				mymap.fitBounds(group.getBounds());
-				</script>
-			<p><b>USS Ranger Operational Timeline</b></p><table border='0' cellspacing='0'><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/06/04/1934' alt='See all events on 4 Jun 1934' title='See all events on 4 Jun 1934' class='noStyle'>4 Jun 1934</a>&nbsp;</td><td>America's fourth aircraft carrier, USS Ranger, was commissioned at Norfolk, Virginia, United States under the command of Captain A. L. Bristol. Although smaller than the USS Lexington and USS Saratoga, Ranger was the first US carrier to be designed and built as such from the keel up.  Ranger which cost $20,000,000 to build incorporated many design features that led to the more functional vessels of World War II.</td></tr><tr bgcolor=''><td valign='top' align='right' nowrap><a href='/event/today/07/19/1942' alt='See all events on 19 Jul 1942' title='See all events on 19 Jul 1942' class='noStyle'>19 Jul 1942</a>&nbsp;</td><td>Off Accra, British West Africa (now Ghana), USS Ranger launched 72 P-40F fighters for transfer to nearby airfields; they were destined to reinforce the 10th Air Force in India.</td></tr><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/01/19/1943' alt='See all events on 19 Jan 1943' title='See all events on 19 Jan 1943' class='noStyle'>19 Jan 1943</a>&nbsp;</td><td>USS Ranger launched USAAF P-40 aircraft off Accra, Gold Coast to reinforce Allied forces fighting in North Africa.</td></tr><tr bgcolor=''><td valign='top' align='right' nowrap><a href='/event/today/10/04/1943' alt='See all events on 4 Oct 1943' title='See all events on 4 Oct 1943' class='noStyle'>4 Oct 1943</a>&nbsp;</td><td>The American aircraft carrier, USS Ranger, despatched her air group to attack German shipping at Bodø, Norway.  The Ranger's Dauntless and Avenger aircraft sank or damaged ten ships for the loss of five aircraft.  This action would be the only carrier strike to be conducted by the US Navy in Northern European waters.</td></tr></table><br /><p><b>Photographs</b></p><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=547'><img src="/images/imagemagick/tmb_ship_ranger2.jpg" border='0' alt='Launching of carrier Ranger, Newport News, Virginia, United States, 25 Feb 1933'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=547'><img src="/images/imagemagick/tmb_51046cf86140c.jpg" border='0' alt='USS Ranger transiting the Pedro Miguel Locks of the Panama Canal, Apr 7 1935.'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=547'><img src="/images/imagemagick/tmb_ship_lexington44.jpg" border='0' alt='USS Lexington (left), USS Ranger (center), USS Langley (lower center), USS Saratoga (right), and other warships at anchor off Panama, 1936'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=547'><img src="/images/imagemagick/tmb_ship_lexington52.jpg" border='0' alt='USS Ranger (foreground), USS Lexington (center), and USS Saratoga (background) at anchor off Honolulu, US Territory of Hawaii, 8 Apr 1936'></a></td></tr></table><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=547'>See all 26 photographs of Aircraft Carrier USS Ranger</a><br /><br /><br /><br />
+		</script><br /><img src="/images/icon_font_small.jpg" onclick="resizeText('maincol', -10)" title="Decrease font size" /><img src="/images/icon_font_medium.jpg" onclick="resizeText('maincol', null)" title="Reset font size" /><img src="/images/icon_font_large.jpg" onclick="resizeText('maincol', 10)" title="Increase font size" /></div><div style='margin: 8px 0px 8px 0px;'><h2 itemprop='name' class='articleHeader'>Maya</h2></div><table class="table_noborder"><tr><td class="table_noborder">Country</td><td class="table_noborder"><a href='/country/japan'>Japan</a></td></tr><tr><td class="table_noborder">Ship Class</td><td class="table_noborder"><a href='ship_spec.php?ship_id=471'>Takao-class Heavy Cruiser</a></td></tr><tr><td class="table_noborder">Builder</td><td class="table_noborder">Kawasaki Shipyard, Kobe, Japan</td></tr><tr><td class="table_noborder">Laid Down</td><td class="table_noborder">4 Dec 1925</td></tr><tr><td class="table_noborder">Launched</td><td class="table_noborder">8 Nov 1930</td></tr><tr><td class="table_noborder">Commissioned</td><td class="table_noborder">30 Jun 1932</td></tr><tr><td class="table_noborder">Sunk</td><td class="table_noborder">23 Oct 1944</td></tr><tr><td class="table_noborder">Displacement</td><td class="table_noborder">9850 tons standard; 15490 tons full</td></tr><tr><td class="table_noborder">Length</td><td class="table_noborder">668 feet</td></tr><tr><td class="table_noborder">Beam</td><td class="table_noborder">68 feet</td></tr><tr><td class="table_noborder">Draft</td><td class="table_noborder">20 feet</td></tr><tr><td class="table_noborder">Power Output</td><td class="table_noborder">130000 SHP</td></tr><tr><td class="table_noborder">Speed</td><td class="table_noborder">34 knots</td></tr><tr><td class="table_noborder">Range</td><td class="table_noborder">8,000nm at 14 knots</td></tr><tr><td class="table_noborder">Crew</td><td class="table_noborder">921</td></tr><tr><td class="table_noborder">Armament</td><td class="table_noborder">8x203mm guns, 12x120mm guns, 100x25mm AA guns, 8x torpedo tubes</td></tr><tr><td class="table_noborder">Aircraft</td><td class="table_noborder">3</td></tr></table><p><small>Contributor: <a href='/person_bio.php?person_id=183'><span itemprop='author' itemscope itemtype='http://schema.org/Person'><span itemprop='name'></span></span></a></small></p><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Maya was one of the heavily-armored and heavily armed Takao-class heavy cruisers.  Captain Jisaburo Ozawa, later WW2-era vice admiral, was her captain between 15 Nov 1934 and 28 Oct 1935.  At the start of the Pacific War, she supported the invasion of the Philippine Islands.  Between Jan and Mar 1942, she supported the invasion of the Dutch East Indies.  On 3 Mar 1942, she was present at the sinking of the American gunboat Asheville south of the island of Java.  In Apr 1942, she search for the carriers that launched the Doolittle Raiders, but did not succeed.  In Jun 1942, she supported in the invasion of the Aleutian Islands in the North Pacific Ocean.  In Aug 1942, she was sent to the Solomon Islands, and participated in the Battle of the Eastern Solomons between 23 and 25 Aug 1942.  On 14 Nov 1942, she was attacked by submarine USS Flying Fish with six torpedoes, though all six missed.  Later, she was attacked by a SBD Dauntless dive bomber of US Navy VB-10 squadron which crashed into Maya, igniting 120-millimeter shells, killing 37.  She returned to Yokosuka, Japan for repairs and refit in 1943.  Upon completion, she was assigned to the Northern Fleet to run supply missions to the Kurile Islands and the Aleutian Islands.  On 26 Mar 1943, she participated in the Battle of the Komandorski Islands, receiving some damage that sent her back to Yokosuka.  In Aug 1943, she was the flagship of the Fifth Fleet charged with evacuating the Japanese garrison at Attu in the Aleutian Islands.  In Sep 1943, she began transport missions between Truk and Rabaul.  In Nov, she was attacked by SBD Dauntless dive bombers from carrier USS Saratoga, receiving a bomb hit on the aircraft deck which started a major fire, killing 70.  She received temporary repairs at Rabaul, and returned to Yokosuka for repairs at the end of 1943.  Between Dec 1943 and Apr 1944, she had her No. 3 turret and various armament were removed to make space for 13 Type 96 triple-mount 25-millimeter anti-aircraft guns, 6 twin 127-millimeter dual purpose guns, 4 quadruple Type 92 torpedo mounts for Type 93 Long Lance torpedoes, and a Type 22 surface search radar.  She served in the Philippine Islands area between Apr and Jun 1944, and then participated in the Battle of the Philippine Sea, in which she received damage by near misses.  While being repaired, she received 18 single-mount Type 96 25-millimeter anti-aircraft guns to combat the increasingly menacing American air power.  On 23 Oct, she was among the ships ambushed at Palawan Passage.  Torpedoed by USS Dace at about 0550 hours, she received four hits on the port side, one in the forward chain locker, one opposite No. 1 turret, one in the No. 7 boiler room, and the last one in the aft engine room.  Secondary explosions disabled her by 0600 hours, and she sink five minutes later to port.  336 men died in the sinking including commanding officer Captain Ranje Oe, and 769 were rescued by destroyer Akishimo.  Some of the survivors were delivered to battleship Musashi, which sank the following day, and 143 of Maya's men were lost with Musashi.</p>
+<small><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span><i>Source: Wikipedia.</i></p></small><p><b>Maya Operational Timeline</b></p><table border='0' cellspacing='0'><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/06/30/1932' alt='See all events on 30 Jun 1932' title='See all events on 30 Jun 1932' class='noStyle'>30 Jun 1932</a>&nbsp;</td><td>Maya was commissioned into service.</td></tr><tr bgcolor=''><td valign='top' align='right' nowrap><a href='/event/today/03/02/1942' alt='See all events on 2 Mar 1942' title='See all events on 2 Mar 1942' class='noStyle'>2 Mar 1942</a>&nbsp;</td><td>Japanese cruiser Maya, destroyer Arashi, and destroyer Nowaki sank British destroyer HMS Stronghold in the Indian Ocean at 1900 hours, killing 75.</td></tr><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/11/05/1943' alt='See all events on 5 Nov 1943' title='See all events on 5 Nov 1943' class='noStyle'>5 Nov 1943</a>&nbsp;</td><td>During the US raid on Rabaul, New Britain, Maya was damaged by a hit on the port side scout plane deck, resulting in a fire that would raise the total death toll to 70 when all battle damage came under control.</td></tr></table><br /><p><b>Photographs</b></p><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href="/image.php?image_id=10843"><img src="/images/imagemagick/tmb_ship_maya4.jpg" border='0' alt='Japanese heavy cruiser Maya as seen on a 1930s postcard'></a></td><td><a href="/image.php?image_id=10841"><img src="/images/imagemagick/tmb_ship_maya3.jpg" border='0' alt='Japanese heavy cruiser Maya, early 1930s'></a></td><td><a href="/image.php?image_id=2035"><img src="/images/imagemagick/tmb_ship_maya2.jpg" border='0' alt='Maya at rest, Jun 1943'></a></td><td><a href="/image.php?image_id=10844"><img src="/images/imagemagick/tmb_ship_maya5.jpg" border='0' alt='Japanese heavy cruiser Maya on a training run off Tawi Tawi, Philippine Islands, May 1944'></a></td></tr></table><br /><br /><br /><br />
 				<center><table border='0' cellpadding='0' cellspacing='0' width='100%'>
 				<tr><td valign='top' width='382'><p>Did you enjoy this article?  Please consider supporting us on <a href='https://www.patreon.com/ww2db' rel='nofollow' target='_patreon' onclick='javascript: ga("send","pageview","/outgoing/www.patreon.com/ww2db/");'>Patreon</a>.  Even $1 per month will go a long way!  Thank you.</p>
 		<table border='0' cellpadding='0' cellspacing='0'>
@@ -179,19 +116,19 @@ table.dataTable tbody td, table.dataTable thead td {
 			<td colspan='9'>Share this article with your friends:<br /><br /></td>
 		</tr>
 		<tr>
-			<td><a title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=A547' target='_facebook' rel='nofollow'><img src='/images/icon_facebook.gif' border='0'></a></td><td>&nbsp;</td><td><a id='facebook' title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=A547' target='_facebook'>Facebook</a></td>
-			<td><a title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A547&title=Aircraft Carrier USS Ranger' target='_reddit' rel='nofollow'><img src='/images/icon_reddit.gif' border='0'></a></td><td>&nbsp;</td><td><a id='reddit' title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A547&title=Aircraft Carrier USS Ranger' target='_reddit'>Reddit</a></td>
+			<td><a title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=C44' target='_facebook' rel='nofollow'><img src='/images/icon_facebook.gif' border='0'></a></td><td>&nbsp;</td><td><a id='facebook' title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=C44' target='_facebook'>Facebook</a></td>
+			<td><a title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C44&title=Heavy Cruiser Maya' target='_reddit' rel='nofollow'><img src='/images/icon_reddit.gif' border='0'></a></td><td>&nbsp;</td><td><a id='reddit' title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C44&title=Heavy Cruiser Maya' target='_reddit'>Reddit</a></td>
 		</tr>
 		<tr>
-			<td><a title='Tweet this page' href='http://twitter.com/home/?status=Aircraft+Carrier+USS+Ranger+https://ww2db.com:443/ship_spec.php?ship_id=A547' target='_twitter' rel='nofollow'><img src='/images/icon_twitter.gif' border='0'></a></td><td>&nbsp;</td><td><a id='twitter' title='Tweet this page' href='http://twitter.com/home/?status=Aircraft+Carrier+USS+Ranger+https://ww2db.com:443/ship_spec.php?ship_id=A547' target='_twitter'>Twitter</a></td>
-			<td><a title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A547&title=Aircraft Carrier USS Ranger' target='_digg' rel='nofollow'><img src='/images/icon_digg.gif' border='0'></a></td><td>&nbsp;</td><td><a id='digg' title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A547&title=Aircraft Carrier USS Ranger' target='_digg'>Digg</a></td>
+			<td><a title='Tweet this page' href='http://twitter.com/home/?status=Heavy+Cruiser+Maya+https://ww2db.com:443/ship_spec.php?ship_id=C44' target='_twitter' rel='nofollow'><img src='/images/icon_twitter.gif' border='0'></a></td><td>&nbsp;</td><td><a id='twitter' title='Tweet this page' href='http://twitter.com/home/?status=Heavy+Cruiser+Maya+https://ww2db.com:443/ship_spec.php?ship_id=C44' target='_twitter'>Twitter</a></td>
+			<td><a title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C44&title=Heavy Cruiser Maya' target='_digg' rel='nofollow'><img src='/images/icon_digg.gif' border='0'></a></td><td>&nbsp;</td><td><a id='digg' title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C44&title=Heavy Cruiser Maya' target='_digg'>Digg</a></td>
 		</tr>
 		<tr>
-			<td><a title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=A547' target='_googleplus' rel='nofollow'><img src='/images/icon_googleplus2.png' border='0'></a></td><td>&nbsp;</td><td><a id='googleplus' title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=A547' target='_googleplus'>Google+</a></td>
-			<td><a title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=A547&title=Aircraft Carrier USS Ranger' target='_delicious' rel='nofollow'><img src='/images/icon_delicious.gif' border='0'></a></td><td>&nbsp;</td><td><a id='delicious' title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=A547&title=Aircraft Carrier USS Ranger' target='_delicious'>Delicious</a></td>
+			<td><a title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=C44' target='_googleplus' rel='nofollow'><img src='/images/icon_googleplus2.png' border='0'></a></td><td>&nbsp;</td><td><a id='googleplus' title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=C44' target='_googleplus'>Google+</a></td>
+			<td><a title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=C44&title=Heavy Cruiser Maya' target='_delicious' rel='nofollow'><img src='/images/icon_delicious.gif' border='0'></a></td><td>&nbsp;</td><td><a id='delicious' title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=C44&title=Heavy Cruiser Maya' target='_delicious'>Delicious</a></td>
 		</tr>
 		<tr>
-			<td><a title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A547&title=Aircraft Carrier USS Ranger' target='_stumbleupon' rel='nofollow'><img src='/images/icon_stumbleupon.gif' border='0'></a></td><td>&nbsp;</td><td><a id='stumbleupon' title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A547&title=Aircraft Carrier USS Ranger' target='_stumbleupon'>StumbleUpon</a></td>
+			<td><a title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C44&title=Heavy Cruiser Maya' target='_stumbleupon' rel='nofollow'><img src='/images/icon_stumbleupon.gif' border='0'></a></td><td>&nbsp;</td><td><a id='stumbleupon' title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C44&title=Heavy Cruiser Maya' target='_stumbleupon'>StumbleUpon</a></td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -209,6 +146,15 @@ table.dataTable tbody td, table.dataTable thead td {
 		</script>
 	</td></tr></table></center><br /><br /><br />
 
+<style>.commentItem { display: none; border: 1px solid #b0b0b0; padding: 10px; margin-bottom: 10px; }</style><p><b>Visitor Submitted Comments</b></p><p id='showAllCommand' style='display: none;'><a href='javascript:showAllComments();'>Show older comments</a></p><div id='commentItem1' class='commentItem' style='background-color: #f0f0f0'>1. <span style='font-style: italic;'>TheMadPenguin</span> says:<br /><small>21 Jan 2018 07:12:41 PM</small><br /><br />"13350 tons standard; 9850 tons full"<br />Unless you're packing LOTS of helium, these numbers are wackbirds.</div><div id='commentItem2' class='commentItem' style='background-color: '>2. <span style='font-style: italic;'><img src='/images/icon_check.png' height='11' alt='Commenter identity confirmed' title='Commenter identity confirmed' />&nbsp;C. Peter Chen</span> says:<br /><small>23 Jan 2018 07:26:04 AM</small><br /><br />TheMadPenguin: The two numbers were entered into the incorrect database fields.  This has been corrected.</div><small><p>All visitor submitted comments are opinions of those making the submissions and do not reflect views of WW2DB.</p></small>	<script>
+			$("#commentItem2").show();
+				$("#commentItem1").show();
+				$("#commentItem0").show();
+			function showAllComments() {
+		$(".commentItem").show();
+		$("#showAllCommand").remove();
+	}
+	</script>
 	<form method="post" action="/comments_action.php">
 	<div style="background-color: #f0f0f0; border: 1px solid #b0b0b0; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
 	<p><b>Posting Your Comments on this Topic</b></p>
@@ -228,16 +174,16 @@ table.dataTable tbody td, table.dataTable thead td {
 	<tr><td valign="top">Your Comments</td><td><textarea name="comment" cols="30" rows="6"></textarea></td></tr>
 	<tr><td valign="top">Security Code</td>
 		<td valign="top">
-			<div style="background-image:url('/images/captcha/captcha8.jpg'); height: 40px; min-height: 40px; width: 100px; min-width: 100px;">&nbsp;</div>			<br />
+			<div style="background-image:url('/images/captcha/captcha17.jpg'); height: 40px; min-height: 40px; width: 100px; min-width: 100px;">&nbsp;</div>			<br />
 			<input type="text" name="captcha" style="margin-bottom: 2px;">
 		</td>
 	</tr>
 	<tr>
 		<td>&nbsp;</td>
 		<td valign="top"><input type="hidden" name="foreigntype" value="S">
-		<input type="hidden" name="foreigntype_id" value="547">
-		<input type="hidden" name="url" value="/ship_spec.php?ship_id=A547">
-		<input type="hidden" name="c" value="85"> 		<input type="submit" value="Submit"></td>
+		<input type="hidden" name="foreigntype_id" value="44">
+		<input type="hidden" name="url" value="/ship_spec.php?ship_id=C44">
+		<input type="hidden" name="c" value="94"> 		<input type="submit" value="Submit"></td>
 	</tr>
 	</table>
 	</center>
@@ -258,7 +204,7 @@ table.dataTable tbody td, table.dataTable thead td {
 </form>
 <script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=searchbox_004186240537787039759%3Aptfrvampo3a"></script>
 </ul>
-<div class="sidetop">More on USS Ranger</div><i>Event(s) Participated:</i><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=100>Operation Torch</a><br><br /><div class='sidehidden_m'><div class='sidetop'>Aircraft Carrier USS Ranger Photo Gallery</div><center><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=547'><img src="/images/imagemagick/tmb_ship_ranger2.jpg" border='0' alt='Launching of carrier Ranger, Newport News, Virginia, United States, 25 Feb 1933'></a></td></tr></table></center><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=547'>See all 26 photographs of Aircraft Carrier USS Ranger</a></div><br /><br />		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<div class="sidetop">More on Maya</div><i>Personnel:</i><br>&raquo;&nbsp;<a href=person_bio.php?person_id=40>Ozawa, Jisaburo</a><br><br><i>Event(s) Participated:</i><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=46>Invasion of the Philippine Islands</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=23>Dutch East Indies Campaign, Java</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=6>Battle of Midway and the Aleutian Islands</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=8>Solomon Islands Campaign</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=20>Aleutian Islands Campaign</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=10>Mariana Islands Campaign and the Great Turkey Shoot</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=5>Philippines Campaign, Phase 1, the Leyte Campaign</a><br><br /><i>Document(s):</i><br />&raquo;&nbsp;<a href=doc.php?q=138>Interrogation Nav 82, Captain Tsuneo Shiki</a><br /><br /><i>Partner Sites Content:</i><br />&raquo;&nbsp;<a href='http://www.combinedfleet.com/maya_t.htm' target='_combinedfleet' onclick="javascript: pageTracker._trackPageview('/outgoing/www.combinedfleet.com/maya_t.htm');">Maya Tabular Record of Movement</a><br /><div class='sidehidden_m'><div class='sidetop'>Heavy Cruiser Maya Photo Gallery</div><center><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=44'><img src="/images/imagemagick/tmb_ship_maya4.jpg" border='0' alt='Japanese heavy cruiser Maya as seen on a 1930s postcard'></a></td></tr></table></center><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=44'>See all 4 photographs of Heavy Cruiser Maya</a></div><br /><br />		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		<!-- WW2DB Xcol Links 160x90 -->
 		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:90px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="5126713011"></ins>
 		<script>
@@ -267,10 +213,10 @@ table.dataTable tbody td, table.dataTable thead td {
 		<br /><br />
 	<div class="sidehidden_m">
 	<div class="sidetop">Current Site Statistics</div>
-	<ul><li> &#187; <a class='noStyle' href='/person.php'>1,039 biographies</a></li><li> &#187; <a class='noStyle' href='/event/'>326 events</a></li><li> &#187; <a class='noStyle' href='/event/timeline/'>35,502 timeline entries</a></li><li> &#187; <a class='noStyle' href='/ship.php'>726 ships</a></li><li> &#187; <a class='noStyle' href='/aircraft.php'>329 aircraft models</a></li><li> &#187; <a class='noStyle' href='/vehicle.php'>184 vehicle models</a></li><li> &#187; <a class='noStyle' href='/weapon.php'>339 weapon models</a></li><li> &#187; <a class='noStyle' href='/doc.php'>102 historical documents</a></li><li> &#187; <a class='noStyle' href='/facility/'>175 facilities</a></li><li> &#187; <a class='noStyle' href='/book/'>457 book reviews</a></li><li> &#187; <a class='noStyle' href='/photo.php'>24,916 photos</a></li><li> &#187; <a class='noStyle' href='/reference/map/'>287 maps</a></li></ul>	<br />
+	<ul><li> &#187; <a class='noStyle' href='/person.php'>1,040 biographies</a></li><li> &#187; <a class='noStyle' href='/event/'>326 events</a></li><li> &#187; <a class='noStyle' href='/event/timeline/'>35,554 timeline entries</a></li><li> &#187; <a class='noStyle' href='/ship.php'>726 ships</a></li><li> &#187; <a class='noStyle' href='/aircraft.php'>329 aircraft models</a></li><li> &#187; <a class='noStyle' href='/vehicle.php'>184 vehicle models</a></li><li> &#187; <a class='noStyle' href='/weapon.php'>340 weapon models</a></li><li> &#187; <a class='noStyle' href='/doc.php'>102 historical documents</a></li><li> &#187; <a class='noStyle' href='/facility/'>175 facilities</a></li><li> &#187; <a class='noStyle' href='/book/'>457 book reviews</a></li><li> &#187; <a class='noStyle' href='/photo.php'>24,934 photos</a></li><li> &#187; <a class='noStyle' href='/reference/map/'>287 maps</a></li></ul>	<br />
 </div>
 
-<div class='sidehidden_m'><div class='sidetop'>Famous WW2 Quote</div>"Among the men who fought on Iwo Jima, uncommon valor was a common virtue."<br><br>Fleet Admiral Chester W. Nimitz, 16 Mar 1945</div><br /><br />				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<div class='sidehidden_m'><div class='sidetop'>Famous WW2 Quote</div>"With Germany arming at breakneck speed, England lost in a pacifist dream, France corrupt and torn by dissension, America remote and indifferent... do you not tremble for your children?"<br><br>Winston Churchill, 1935</div><br /><br />				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		<!-- WW2DB Xcol Vertical Banner 160x600 -->
 		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="6471754899"></ins>
 		<script>
@@ -294,7 +240,7 @@ table.dataTable tbody td, table.dataTable thead td {
 		<li> &#187; <a href="/feed.php">Syndication</a></li>
 		<li> &#187; <a href="/termsofuse.php" rel="nofollow">Terms of Use & Disclosures</a></li>
 		<li> &#187; <a href="/">World War II Database Home</a></li>
-		<li> &#187; <a href='http://m.ww2db.com/ship_spec.php?ship_id=A547'>Mobile View</a></li>
+		<li> &#187; <a href='http://m.ww2db.com/ship_spec.php?ship_id=C44'>Mobile View</a></li>
 		</ul>		
 	</div>
 	<div style="float: left; padding: 0 5 0 5px; width: 282px; text-align: left;">
@@ -327,7 +273,7 @@ table.dataTable tbody td, table.dataTable thead td {
 		<script>
 		(adsbygoogle = window.adsbygoogle || []).push({});
 		</script>
-	<br /><center>		<a href="http://amzn.to/2he65an" target="_amazon" rel="nofollow" onclick="javascript: ga('send','pageview','/outgoing/amzn.to/2he65an');"><img src="/images/ad_shattered_sword_728.jpg" /></a><br /><br />
+	<br /><center>		<a href="http://amzn.to/2jfeSrN" target="_amazon" rel="nofollow" onclick="javascript: ga('send','pageview','/outgoing/amzn.to/2jfeSrN');"><img src="/images/ad_frontlines_of_television_war_728.jpg" /></a><br /><br />
 		</center>
 <br /><br />
 

@@ -1,10 +1,10 @@
 <html>
 
 <head>
-<title>Escort Carrier USS Anzio (CVE-57) | World War II Database</title>
+<title>Heavy Cruiser Aoba | World War II Database</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="description" content="Escort Carrier USS Anzio (CVE-57) | World War II Database">
-<meta name="keywords" content="ww2db, world war, ww2, military, history, Escort Carrier USS Anzio (CVE-57) | World War II Database">
+<meta name="description" content="Heavy Cruiser Aoba | World War II Database">
+<meta name="keywords" content="ww2db, world war, ww2, military, history, Heavy Cruiser Aoba | World War II Database">
 <meta name="ROBOTS" content="INDEX, FOLLOW">
 <meta name="REVISIT-AFTER" CONTENT="15 days">
 <META NAME="COPYRIGHT" CONTENT="Copyright © 2004-2018 Lava Development, LLC., all rights reserved">
@@ -23,25 +23,25 @@
 
 <link rel="alternate" type="application/rss+xml" title="WW2DB RSS Feed" href="https://ww2db.com/feedgen.php?feed=articles&f=RSS2.0" />
 
-<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=A279' />
-<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=279' />
+<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=C48' />
+<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=48' />
 
 <meta property="fb:app_id" content="103484127961" />
 <meta name="p:domain_verify" content="794c2d433a01b5d35554ba972a179eff"/>
 
-	<link rel="image_src" type="image/jpeg" href="http://ww2db.com/images/ship_anzio1.jpg" />
+	<link rel="image_src" type="image/jpeg" href="http://ww2db.com/images/ship_aoba1.jpg" />
 	<meta property="og:site_name" content="WW2DB" />
-	<meta property="og:title" content="Escort Carrier USS Anzio (CVE-57)" />
-	<meta property="og:description" content="Escort Carrier USS Anzio (CVE-57)" />
+	<meta property="og:title" content="Heavy Cruiser Aoba" />
+	<meta property="og:description" content="Heavy Cruiser Aoba" />
 	<meta property="og:type" content="article" />
-	<meta property="og:url" content="https://ww2db.com/ship_spec.php?ship_id=A279" />
-		<meta property="og:image" content="http://ww2db.com/images/ship_anzio1.jpg" />
+	<meta property="og:url" content="https://ww2db.com/ship_spec.php?ship_id=C48" />
+		<meta property="og:image" content="http://ww2db.com/images/ship_aoba1.jpg" />
 
 	<meta name='twitter:card' content='summary'>
 	<meta name='twitter:site' content='@ww2db'>
-	<meta name='twitter:title' content='Escort Carrier USS Anzio (CVE-57)'>
-	<meta name='twitter:description' content='Escort Carrier USS Anzio (CVE-57)'>
-	<meta name='twitter:image' content='http://ww2db.com/images/ship_anzio1.jpg'>
+	<meta name='twitter:title' content='Heavy Cruiser Aoba'>
+	<meta name='twitter:description' content='Heavy Cruiser Aoba'>
+	<meta name='twitter:image' content='http://ww2db.com/images/ship_aoba1.jpg'>
 				
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.5/css/jquery.dataTables.css">
 <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
@@ -77,7 +77,7 @@ table.dataTable tbody td, table.dataTable thead td {
 		</td></tr>
 		</table>
 		<div class="bannerflash">
-		<div style="background-image:url('/images/banner915_2.jpg'); height: 120px; min-height: 120px; width: 915px; min-width: 915px;">&nbsp;</div>		</div>
+		<div style="background-image:url('/images/banner915_1.jpg'); height: 120px; min-height: 120px; width: 915px; min-width: 915px;">&nbsp;</div>		</div>
 	</div>
 	<div id='nav' align='right'>
 		<ul id='navlist'>
@@ -86,15 +86,15 @@ table.dataTable tbody td, table.dataTable thead td {
 
 <div id="content">
 	<div itemscope itemtype="http://schema.org/Article" class="maincol">
-		<meta itemprop="url" content="<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=A279' />
-<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=279' />
+		<meta itemprop="url" content="<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=C48' />
+<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=48' />
 " />
-		<meta itemprop="description" content="Escort Carrier USS Anzio (CVE-57)" />
+		<meta itemprop="description" content="Heavy Cruiser Aoba" />
 		<div id="breadcrumb"><ul class="horizontalList">
 				<li class="horizontalList"> <a href="index.php">Home</a></li>
 				<li class="horizontalList"> &#187; <a href="equip.php">Equipment</a></li>
-				<li class="horizontalList"> &#187; <a href="ship.php">Ships</a></li><li class="horizontalList"> &#187; <a href="ship.php?list=A">Carriers</a></li><li class="horizontalList"> &#187; Anzio</li></ul></div>
-<div style='display: inline; float: right;'><image itemprop='image' class='filephoto' alt='USS Anzio file photo [24528]' title='USS Anzio file photo [24528]' src='/images/ship_anzio1.jpg' /><script>
+				<li class="horizontalList"> &#187; <a href="ship.php">Ships</a></li><li class="horizontalList"> &#187; <a href="ship.php?list=C">Cruisers</a></li><li class="horizontalList"> &#187; Aoba</li></ul></div>
+<div style='display: inline; float: right;'><image itemprop='image' class='filephoto' alt='Cruiser Aoba file photo [1099]' title='Cruiser Aoba file photo [1099]' src='/images/ship_aoba1.jpg' /><script>
 		function resizeText(className, percent) {
 			var elements = document.getElementsByClassName(className);
 			for (var i = 0; i < elements.length; ++i) {
@@ -107,7 +107,12 @@ table.dataTable tbody td, table.dataTable thead td {
 				}
 			}
 		}
-		</script><br /><img src="/images/icon_font_small.jpg" onclick="resizeText('maincol', -10)" title="Decrease font size" /><img src="/images/icon_font_medium.jpg" onclick="resizeText('maincol', null)" title="Reset font size" /><img src="/images/icon_font_large.jpg" onclick="resizeText('maincol', 10)" title="Increase font size" /></div><div style='margin: 8px 0px 8px 0px;'><h2 itemprop='name' class='articleHeader'>USS Anzio</h2></div><table class="table_noborder"><tr><td class="table_noborder">Country</td><td class="table_noborder"><a href='/country/united%20states'>United States</a></td></tr><tr><td class="table_noborder">Ship Class</td><td class="table_noborder">Casablanca-class Escort Carrier</td></tr><tr><td class='table_noborder'>Hull Number</td><td class='table_noborder'>CVE-57</td></tr><tr><td class="table_noborder">Builder</td><td class="table_noborder">Kaiser Shipbuilding Co., Inc., Vancouver, WA</td></tr><tr><td class="table_noborder">Laid Down</td><td class="table_noborder">12 Dec 1942</td></tr><tr><td class="table_noborder">Launched</td><td class="table_noborder">1 May 1943</td></tr><tr><td class="table_noborder">Commissioned</td><td class="table_noborder">27 Aug 1943</td></tr><tr><td class="table_noborder">Decommissioned</td><td class="table_noborder">5 Aug 1946</td></tr><tr><td class="table_noborder">Displacement</td><td class="table_noborder">7800 tons standard</td></tr><tr><td class="table_noborder">Length</td><td class="table_noborder">512 feet</td></tr><tr><td class="table_noborder">Beam</td><td class="table_noborder">65 feet</td></tr><tr><td class="table_noborder">Draft</td><td class="table_noborder">22 feet</td></tr><tr><td class="table_noborder">Speed</td><td class="table_noborder">19 knots</td></tr><tr><td class="table_noborder">Crew</td><td class="table_noborder">860</td></tr><tr><td class="table_noborder">Armament</td><td class="table_noborder">1x5-in Anti-aircraft, 16x40mm, 20x20mm</td></tr><tr><td class="table_noborder">Aircraft</td><td class="table_noborder">28</td></tr></table><p><small>Contributor: <a href='/person_bio.php?person_id=183'><span itemprop='author' itemscope itemtype='http://schema.org/Person'><span itemprop='name'></span></span></a></small></p><p>This article has been removed for review and updates, please check back again soon!</p>
+		</script><br /><img src="/images/icon_font_small.jpg" onclick="resizeText('maincol', -10)" title="Decrease font size" /><img src="/images/icon_font_medium.jpg" onclick="resizeText('maincol', null)" title="Reset font size" /><img src="/images/icon_font_large.jpg" onclick="resizeText('maincol', 10)" title="Increase font size" /></div><div style='margin: 8px 0px 8px 0px;'><h2 itemprop='name' class='articleHeader'>Aoba</h2></div><table class="table_noborder"><tr><td class="table_noborder">Country</td><td class="table_noborder"><a href='/country/japan'>Japan</a></td></tr><tr><td class="table_noborder">Ship Class</td><td class="table_noborder"><a href='ship_spec.php?ship_id=473'>Furutaka-class Heavy Cruiser</a></td></tr><tr><td class="table_noborder">Launched</td><td class="table_noborder">25 Sep 1926</td></tr><tr><td class="table_noborder">Commissioned</td><td class="table_noborder">1 Sep 1927</td></tr><tr><td class="table_noborder">Sunk</td><td class="table_noborder">28 Jul 1945</td></tr><tr><td class="table_noborder">Displacement</td><td class="table_noborder">10822 tons standard</td></tr><tr><td class="table_noborder">Length</td><td class="table_noborder">595 feet</td></tr><tr><td class="table_noborder">Beam</td><td class="table_noborder">57 feet</td></tr><tr><td class="table_noborder">Draft</td><td class="table_noborder">18 feet</td></tr><tr><td class="table_noborder">Speed</td><td class="table_noborder">33 knots</td></tr><tr><td class="table_noborder">Crew</td><td class="table_noborder">625</td></tr></table><p><small>Contributor: <a href='/person_bio.php?person_id=179'><span itemprop='author' itemscope itemtype='http://schema.org/Person'><span itemprop='name'>C. Peter Chen</span></span></a></small></p><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Aoba, first of a class of two 8300-ton heavy cruisers, was built at Nagasaki, Japan. Commissioned in September 1927, she was assigned to Fifth Squadron (Sentai) until 1933 and thereafter to the Sixth and Seventh Squadrons, serving as their flagship during much of her career. In addition to participation in the Japanese Navy's operational exercises, she frequently served in Chinese waters in the late 1920s and the 1930s during that nation's ordeals with domestic violence and foreign intervention.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>The cruiser was modernized at Sasebo between 1938 and 1940, receiving new torpedo tubes, an enhanced anti-aircraft gun battery, improved gunfire controls and better aircraft handling facilities. Her bridge structure was rebuilt and bulges added to her hull to compensate for the associated weight increases and improve her stability. After recommissioning in October 1940, Aoba served with the Sixth Squadron during its pre-World War II operations in Japanese, Chinese and central Pacific waters. Soon after war began in December 1941, she took part in the capture of Guam and Wake. In May 1942 she participated in the Battle of the Coral Sea.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>During the Guadalcanal campaign that began in August 1942, Aoba was heavily engaged with Allied sea and air forces, participating in the the 9 August Battle of Savo Island and the Battle of Cape Esperance on 13 October. She was seriously damaged by U.S. warship gunfire in the latter action, which took the lives of nearly eighty of those on board, including the Sixth Squadron's commander, Rear Admiral Aritomo Goto.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>After repairs, Aoba returned to the south Pacific war zone in February 1943, only to be hit by air attack on 3 April. The badly damaged ship was out of action until December 1943, when she was assigned to the East Indies area. Kept busy for the next ten months carrying supplies and maintaining readiness for offensive operations, she was en route to participate in the Battle of Leyte Gulf on 23 October 1944 when the U.S. submarine Bream (SS-243) hit her amidships with a torpedo. Though further damaged by bombs in October, Aoba was able to reach Japan in mid-December.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Aoba remained at or near Kure, Japan for the rest of the Pacific War, being used only as a floating anti-aircraft battery. In attacks by U.S. carrier planes and Air Force bombers on 24 and 28 July 1945, she was hit several times and sunk in shallow water. Her wreck was scrapped in 1946-47.</p>
+<small><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span><i>Source: Naval Historical Center</i></p></small>
 				<link rel='stylesheet' href='https://unpkg.com/leaflet@1.3.1/dist/leaflet.css'
 				   integrity='sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=='
 				   crossorigin=''/>
@@ -129,10 +134,10 @@ table.dataTable tbody td, table.dataTable thead td {
 				}
 				</style>
 				
-				<p id='interactiveMapLabel'><b>Escort Carrier USS Anzio (CVE-57) Interactive Map</b></p>
+				<p id='interactiveMapLabel'><b>Heavy Cruiser Aoba Interactive Map</b></p>
 				<div id='mapid' class='mapClass'></div>
 				<script>
-				var mymap = L.map('mapid').setView([39.894436000, -75.182027000], 13);
+				var mymap = L.map('mapid').setView([34.233333000, 132.500000000], 13);
 			
 					L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.{ext}', {
 						attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
@@ -142,10 +147,7 @@ table.dataTable tbody td, table.dataTable thead td {
 						ext: 'png'
 					}).addTo(mymap);
 				
-				var rawDataArray = [  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Shanghai, China</h2><div class='infowindowSubTitle'>01 Dec 1945</div><a href='/image.php?image_id=24615'><img src='/images/imagemagick/tmb_ship_anzio37.jpg' style='width: 50px; margin-right: 3px;' /></a><br /><a href='/image.php?image_id=24616'><img src='/images/imagemagick/tmb_ship_anzio38.jpg' style='width: 50px; margin-right: 3px;' /></a><br /><div class='infowindowSubTitle'>Dec 1945</div><a href='/image.php?image_id=24617'><img src='/images/imagemagick/tmb_ship_anzio39.jpg' style='width: 50px; margin-right: 3px;' /></a><br /><a href='/image.php?image_id=24618'><img src='/images/imagemagick/tmb_ship_anzio40.jpg' style='width: 50px; margin-right: 3px;' /></a><br /><a href='/image.php?image_id=24619'><img src='/images/imagemagick/tmb_ship_anzio41.jpg' style='width: 50px; margin-right: 3px;' /></a><br /><a href='/image.php?image_id=24620'><img src='/images/imagemagick/tmb_ship_anzio42.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 31.388811000, -238.484689, 6],
-  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Portsmouth, Virginia, United States</h2><div class='infowindowSubTitle'>29 Aug 1945</div><a href='/image.php?image_id=24677'><img src='/images/imagemagick/tmb_ship_anzio73.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 36.815278000, -76.297222, 1],
-  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>San Francisco, California, United States</h2><div class='infowindowSubTitle'>23 Oct 1945</div><a href='/image.php?image_id=24614'><img src='/images/imagemagick/tmb_ship_anzio36.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 37.708333000, -122.280278, 1],
-  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Philadelphia, Pennsylvania, United States</h2><div class='infowindowSubTitle'>19 May 1955</div><a href='/image.php?image_id=24678'><img src='/images/imagemagick/tmb_ship_anzio74.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 39.894436000, -75.182027, 1]];
+				var rawDataArray = [  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Kure, Hiroshima, Japan</h2><div class='infowindowSubTitle'>28 Jul 1945</div>Aoba, serving as a floating anti-aircraft battery at Kure in Japan, was attacked and sunk in shallow water.<br /><a href='/image.php?image_id=18188'><img src='/images/imagemagick/tmb_ship_aoba14.jpg' style='width: 50px; margin-right: 3px;' /></a><br /><div class='infowindowSubTitle'>09 Oct 1945</div><a href='/image.php?image_id=18186'><img src='/images/imagemagick/tmb_ship_aoba12.jpg' style='width: 50px; margin-right: 3px;' /></a><br /><div class='infowindowSubTitle'>28 Nov 1946</div><a href='/image.php?image_id=19504'><img src='/images/imagemagick/tmb_ship_aoba15.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 34.233333000, 132.500000000, 4]];
 				var pointsArray = [];
 			
 					var markers = L.markerClusterGroup({ maxClusterRadius: 50 });
@@ -163,7 +165,7 @@ table.dataTable tbody td, table.dataTable thead td {
 				var group = new L.featureGroup(pointsArray);
 				mymap.fitBounds(group.getBounds());
 				</script>
-			<p><b>USS Anzio Operational Timeline</b></p><table border='0' cellspacing='0'><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/08/27/1943' alt='See all events on 27 Aug 1943' title='See all events on 27 Aug 1943' class='noStyle'>27 Aug 1943</a>&nbsp;</td><td>Anzio was commissioned into service.</td></tr><tr bgcolor=''><td valign='top' align='right' nowrap><a href='/event/today/08/05/1946' alt='See all events on 5 Aug 1946' title='See all events on 5 Aug 1946' class='noStyle'>5 Aug 1946</a>&nbsp;</td><td>Anzio was decommissioned from service.</td></tr></table><br /><p><b>Photographs</b></p><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=279'><img src="/images/imagemagick/tmb_ship_anzio4.jpg" border='0' alt='Bow view of USS Coral Sea, Sep 1943'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=279'><img src="/images/imagemagick/tmb_ship_anzio6.jpg" border='0' alt='Stern view of USS Coral Sea, Sep 1943'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=279'><img src="/images/imagemagick/tmb_ship_anzio9.jpg" border='0' alt='USS Coral Sea underway, Sep 1943'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=279'><img src="/images/imagemagick/tmb_ship_anzio5.jpg" border='0' alt='USS Coral Sea underway, Sep 1943'></a></td></tr></table><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=279'>See all 74 photographs of Escort Carrier USS Anzio (CVE-57)</a><br /><br /><br /><br />
+			<p><b>Aoba Operational Timeline</b></p><table border='0' cellspacing='0'><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/09/25/1926' alt='See all events on 25 Sep 1926' title='See all events on 25 Sep 1926' class='noStyle'>25 Sep 1926</a>&nbsp;</td><td>Aoba was launched at Nagasaki, Japan.</td></tr><tr bgcolor=''><td valign='top' align='right' nowrap><a href='/event/today/09/01/1927' alt='See all events on 1 Sep 1927' title='See all events on 1 Sep 1927' class='noStyle'>1 Sep 1927</a>&nbsp;</td><td>Aoba was commissioned into service.</td></tr><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/07/28/1945' alt='See all events on 28 Jul 1945' title='See all events on 28 Jul 1945' class='noStyle'>28 Jul 1945</a>&nbsp;</td><td>Aoba, serving as a floating anti-aircraft battery at Kure in Japan, was attacked and sunk in shallow water.</td></tr></table><br /><p><b>Photographs</b></p><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=48'><img src="/images/imagemagick/tmb_ship_aoba3.jpg" border='0' alt='Aoba near Nagasaki, 1927, intelligence photo, 1 of 2'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=48'><img src="/images/imagemagick/tmb_ship_aoba4.jpg" border='0' alt='Aoba near Nagasaki, 1927, intelligence photo, 2 of 2'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=48'><img src="/images/imagemagick/tmb_ship_aoba6.jpg" border='0' alt='Cruiser Aoba soon after completion, circa 1927-1929'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=48'><img src="/images/imagemagick/tmb_ship_aoba7.jpg" border='0' alt='Cruiser Aoba underway as depicted on a postcard, circa 1927-1929'></a></td></tr></table><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=48'>See all 17 photographs of Heavy Cruiser Aoba</a><br /><br /><br /><br />
 				<center><table border='0' cellpadding='0' cellspacing='0' width='100%'>
 				<tr><td valign='top' width='382'><p>Did you enjoy this article?  Please consider supporting us on <a href='https://www.patreon.com/ww2db' rel='nofollow' target='_patreon' onclick='javascript: ga("send","pageview","/outgoing/www.patreon.com/ww2db/");'>Patreon</a>.  Even $1 per month will go a long way!  Thank you.</p>
 		<table border='0' cellpadding='0' cellspacing='0'>
@@ -171,19 +173,19 @@ table.dataTable tbody td, table.dataTable thead td {
 			<td colspan='9'>Share this article with your friends:<br /><br /></td>
 		</tr>
 		<tr>
-			<td><a title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=A279' target='_facebook' rel='nofollow'><img src='/images/icon_facebook.gif' border='0'></a></td><td>&nbsp;</td><td><a id='facebook' title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=A279' target='_facebook'>Facebook</a></td>
-			<td><a title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A279&title=Escort Carrier USS Anzio (CVE-57)' target='_reddit' rel='nofollow'><img src='/images/icon_reddit.gif' border='0'></a></td><td>&nbsp;</td><td><a id='reddit' title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A279&title=Escort Carrier USS Anzio (CVE-57)' target='_reddit'>Reddit</a></td>
+			<td><a title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=C48' target='_facebook' rel='nofollow'><img src='/images/icon_facebook.gif' border='0'></a></td><td>&nbsp;</td><td><a id='facebook' title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=C48' target='_facebook'>Facebook</a></td>
+			<td><a title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C48&title=Heavy Cruiser Aoba' target='_reddit' rel='nofollow'><img src='/images/icon_reddit.gif' border='0'></a></td><td>&nbsp;</td><td><a id='reddit' title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C48&title=Heavy Cruiser Aoba' target='_reddit'>Reddit</a></td>
 		</tr>
 		<tr>
-			<td><a title='Tweet this page' href='http://twitter.com/home/?status=Escort+Carrier+USS+Anzio+(CVE-57)+https://ww2db.com:443/ship_spec.php?ship_id=A279' target='_twitter' rel='nofollow'><img src='/images/icon_twitter.gif' border='0'></a></td><td>&nbsp;</td><td><a id='twitter' title='Tweet this page' href='http://twitter.com/home/?status=Escort+Carrier+USS+Anzio+(CVE-57)+https://ww2db.com:443/ship_spec.php?ship_id=A279' target='_twitter'>Twitter</a></td>
-			<td><a title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A279&title=Escort Carrier USS Anzio (CVE-57)' target='_digg' rel='nofollow'><img src='/images/icon_digg.gif' border='0'></a></td><td>&nbsp;</td><td><a id='digg' title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A279&title=Escort Carrier USS Anzio (CVE-57)' target='_digg'>Digg</a></td>
+			<td><a title='Tweet this page' href='http://twitter.com/home/?status=Heavy+Cruiser+Aoba+https://ww2db.com:443/ship_spec.php?ship_id=C48' target='_twitter' rel='nofollow'><img src='/images/icon_twitter.gif' border='0'></a></td><td>&nbsp;</td><td><a id='twitter' title='Tweet this page' href='http://twitter.com/home/?status=Heavy+Cruiser+Aoba+https://ww2db.com:443/ship_spec.php?ship_id=C48' target='_twitter'>Twitter</a></td>
+			<td><a title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C48&title=Heavy Cruiser Aoba' target='_digg' rel='nofollow'><img src='/images/icon_digg.gif' border='0'></a></td><td>&nbsp;</td><td><a id='digg' title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C48&title=Heavy Cruiser Aoba' target='_digg'>Digg</a></td>
 		</tr>
 		<tr>
-			<td><a title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=A279' target='_googleplus' rel='nofollow'><img src='/images/icon_googleplus2.png' border='0'></a></td><td>&nbsp;</td><td><a id='googleplus' title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=A279' target='_googleplus'>Google+</a></td>
-			<td><a title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=A279&title=Escort Carrier USS Anzio (CVE-57)' target='_delicious' rel='nofollow'><img src='/images/icon_delicious.gif' border='0'></a></td><td>&nbsp;</td><td><a id='delicious' title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=A279&title=Escort Carrier USS Anzio (CVE-57)' target='_delicious'>Delicious</a></td>
+			<td><a title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=C48' target='_googleplus' rel='nofollow'><img src='/images/icon_googleplus2.png' border='0'></a></td><td>&nbsp;</td><td><a id='googleplus' title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=C48' target='_googleplus'>Google+</a></td>
+			<td><a title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=C48&title=Heavy Cruiser Aoba' target='_delicious' rel='nofollow'><img src='/images/icon_delicious.gif' border='0'></a></td><td>&nbsp;</td><td><a id='delicious' title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=C48&title=Heavy Cruiser Aoba' target='_delicious'>Delicious</a></td>
 		</tr>
 		<tr>
-			<td><a title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A279&title=Escort Carrier USS Anzio (CVE-57)' target='_stumbleupon' rel='nofollow'><img src='/images/icon_stumbleupon.gif' border='0'></a></td><td>&nbsp;</td><td><a id='stumbleupon' title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A279&title=Escort Carrier USS Anzio (CVE-57)' target='_stumbleupon'>StumbleUpon</a></td>
+			<td><a title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C48&title=Heavy Cruiser Aoba' target='_stumbleupon' rel='nofollow'><img src='/images/icon_stumbleupon.gif' border='0'></a></td><td>&nbsp;</td><td><a id='stumbleupon' title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C48&title=Heavy Cruiser Aoba' target='_stumbleupon'>StumbleUpon</a></td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -201,7 +203,7 @@ table.dataTable tbody td, table.dataTable thead td {
 		</script>
 	</td></tr></table></center><br /><br /><br />
 
-<style>.commentItem { display: none; border: 1px solid #b0b0b0; padding: 10px; margin-bottom: 10px; }</style><p><b>Visitor Submitted Comments</b></p><p id='showAllCommand' style='display: none;'><a href='javascript:showAllComments();'>Show older comments</a></p><div id='commentItem1' class='commentItem' style='background-color: #f0f0f0'>1. <span style='font-style: italic;'>Dennis McFann</span> says:<br /><small>24 Feb 2006 05:19:47 PM</small><br /><br />Thanks for passing on the info on this carrier :-)</div><div id='commentItem2' class='commentItem' style='background-color: '>2. <span style='font-style: italic;'>Cecil C. Noennich</span> says:<br /><small>24 Feb 2006 06:17:32 PM</small><br /><br />Im happy to know there are people out there that are interested in our Ship. I will be happy to have your site as a link to my site</div><small><p>All visitor submitted comments are opinions of those making the submissions and do not reflect views of WW2DB.</p></small>	<script>
+<style>.commentItem { display: none; border: 1px solid #b0b0b0; padding: 10px; margin-bottom: 10px; }</style><p><b>Visitor Submitted Comments</b></p><p id='showAllCommand' style='display: none;'><a href='javascript:showAllComments();'>Show older comments</a></p><div id='commentItem1' class='commentItem' style='background-color: #f0f0f0'>1. <span style='font-style: italic;'>Keith Brown</span> says:<br /><small>23 Jul 2014 06:41:16 AM</small><br /><br />Your sinking date on heavy cruiser Aoba differs from the bio.  The bio lists her sunk between 24 and 28 August 1945, and the other area lists her sunk 28 July 1942</div><div id='commentItem2' class='commentItem' style='background-color: '>2. <span style='font-style: italic;'><img src='/images/icon_check.png' height='11' alt='Commenter identity confirmed' title='Commenter identity confirmed' />&nbsp;C. Peter Chen</span> says:<br /><small>23 Jul 2014 07:18:14 AM</small><br /><br />Keith, thank you very much for pointing out the date discrepancy.  It has been fixed now.</div><small><p>All visitor submitted comments are opinions of those making the submissions and do not reflect views of WW2DB.</p></small>	<script>
 			$("#commentItem2").show();
 				$("#commentItem1").show();
 				$("#commentItem0").show();
@@ -229,16 +231,16 @@ table.dataTable tbody td, table.dataTable thead td {
 	<tr><td valign="top">Your Comments</td><td><textarea name="comment" cols="30" rows="6"></textarea></td></tr>
 	<tr><td valign="top">Security Code</td>
 		<td valign="top">
-			<div style="background-image:url('/images/captcha/captcha5.jpg'); height: 40px; min-height: 40px; width: 100px; min-width: 100px;">&nbsp;</div>			<br />
+			<div style="background-image:url('/images/captcha/captcha17.jpg'); height: 40px; min-height: 40px; width: 100px; min-width: 100px;">&nbsp;</div>			<br />
 			<input type="text" name="captcha" style="margin-bottom: 2px;">
 		</td>
 	</tr>
 	<tr>
 		<td>&nbsp;</td>
 		<td valign="top"><input type="hidden" name="foreigntype" value="S">
-		<input type="hidden" name="foreigntype_id" value="279">
-		<input type="hidden" name="url" value="/ship_spec.php?ship_id=A279">
-		<input type="hidden" name="c" value="82"> 		<input type="submit" value="Submit"></td>
+		<input type="hidden" name="foreigntype_id" value="48">
+		<input type="hidden" name="url" value="/ship_spec.php?ship_id=C48">
+		<input type="hidden" name="c" value="94"> 		<input type="submit" value="Submit"></td>
 	</tr>
 	</table>
 	</center>
@@ -259,7 +261,7 @@ table.dataTable tbody td, table.dataTable thead td {
 </form>
 <script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=searchbox_004186240537787039759%3Aptfrvampo3a"></script>
 </ul>
-<div class="sidetop">More on USS Anzio</div><i>Event(s) Participated:</i><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=73>Marshall Islands Campaign</a><br><br /><div class='sidehidden_m'><div class='sidetop'>Escort Carrier USS Anzio (CVE-57) Photo Gallery</div><center><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=279'><img src="/images/imagemagick/tmb_ship_anzio4.jpg" border='0' alt='Bow view of USS Coral Sea, Sep 1943'></a></td></tr></table></center><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=279'>See all 74 photographs of Escort Carrier USS Anzio (CVE-57)</a></div><br /><br />		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<div class="sidetop">More on Aoba</div><i>Personnel:</i><br>&raquo;&nbsp;<a href=person_bio.php?person_id=580>Koga, Mineichi</a><br><br><i>Event(s) Participated:</i><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=56>Invasion of Guam</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=23>Dutch East Indies Campaign, Java</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=9>Guadalcanal Campaign</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=54>Preparations for Invasion of Japan</a><br><br /><i>Partner Sites Content:</i><br />&raquo;&nbsp;<a href='http://www.combinedfleet.com/aoba_t.htm' target='_combinedfleet' onclick="javascript: pageTracker._trackPageview('/outgoing/www.combinedfleet.com/aoba_t.htm');">Aoba Tabular Record of Movement</a><br /><div class='sidehidden_m'><div class='sidetop'>Heavy Cruiser Aoba Photo Gallery</div><center><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=48'><img src="/images/imagemagick/tmb_ship_aoba3.jpg" border='0' alt='Aoba near Nagasaki, 1927, intelligence photo, 1 of 2'></a></td></tr></table></center><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=48'>See all 17 photographs of Heavy Cruiser Aoba</a></div><br /><br />		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		<!-- WW2DB Xcol Links 160x90 -->
 		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:90px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="5126713011"></ins>
 		<script>
@@ -268,10 +270,10 @@ table.dataTable tbody td, table.dataTable thead td {
 		<br /><br />
 	<div class="sidehidden_m">
 	<div class="sidetop">Current Site Statistics</div>
-	<ul><li> &#187; <a class='noStyle' href='/person.php'>1,039 biographies</a></li><li> &#187; <a class='noStyle' href='/event/'>326 events</a></li><li> &#187; <a class='noStyle' href='/event/timeline/'>35,502 timeline entries</a></li><li> &#187; <a class='noStyle' href='/ship.php'>726 ships</a></li><li> &#187; <a class='noStyle' href='/aircraft.php'>329 aircraft models</a></li><li> &#187; <a class='noStyle' href='/vehicle.php'>184 vehicle models</a></li><li> &#187; <a class='noStyle' href='/weapon.php'>339 weapon models</a></li><li> &#187; <a class='noStyle' href='/doc.php'>102 historical documents</a></li><li> &#187; <a class='noStyle' href='/facility/'>175 facilities</a></li><li> &#187; <a class='noStyle' href='/book/'>457 book reviews</a></li><li> &#187; <a class='noStyle' href='/photo.php'>24,916 photos</a></li><li> &#187; <a class='noStyle' href='/reference/map/'>287 maps</a></li></ul>	<br />
+	<ul><li> &#187; <a class='noStyle' href='/person.php'>1,040 biographies</a></li><li> &#187; <a class='noStyle' href='/event/'>326 events</a></li><li> &#187; <a class='noStyle' href='/event/timeline/'>35,554 timeline entries</a></li><li> &#187; <a class='noStyle' href='/ship.php'>726 ships</a></li><li> &#187; <a class='noStyle' href='/aircraft.php'>329 aircraft models</a></li><li> &#187; <a class='noStyle' href='/vehicle.php'>184 vehicle models</a></li><li> &#187; <a class='noStyle' href='/weapon.php'>340 weapon models</a></li><li> &#187; <a class='noStyle' href='/doc.php'>102 historical documents</a></li><li> &#187; <a class='noStyle' href='/facility/'>175 facilities</a></li><li> &#187; <a class='noStyle' href='/book/'>457 book reviews</a></li><li> &#187; <a class='noStyle' href='/photo.php'>24,934 photos</a></li><li> &#187; <a class='noStyle' href='/reference/map/'>287 maps</a></li></ul>	<br />
 </div>
 
-<div class='sidehidden_m'><div class='sidetop'>Famous WW2 Quote</div>"All right, they're on our left, they're on our right, they're in front of us, they're behind us... they can't get away this time."<br><br>Lt. Gen. Lewis B. "Chesty" Puller, at Guadalcanal</div><br /><br />				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<div class='sidehidden_m'><div class='sidetop'>Famous WW2 Quote</div>"Goddam it, you'll never get the Purple Heart hiding in a foxhole! Follow me!"<br><br>Captain Henry P. Jim Crowe, Guadalcanal, 13 Jan 1943</div><br /><br />				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		<!-- WW2DB Xcol Vertical Banner 160x600 -->
 		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="6471754899"></ins>
 		<script>
@@ -295,7 +297,7 @@ table.dataTable tbody td, table.dataTable thead td {
 		<li> &#187; <a href="/feed.php">Syndication</a></li>
 		<li> &#187; <a href="/termsofuse.php" rel="nofollow">Terms of Use & Disclosures</a></li>
 		<li> &#187; <a href="/">World War II Database Home</a></li>
-		<li> &#187; <a href='http://m.ww2db.com/ship_spec.php?ship_id=A279'>Mobile View</a></li>
+		<li> &#187; <a href='http://m.ww2db.com/ship_spec.php?ship_id=C48'>Mobile View</a></li>
 		</ul>		
 	</div>
 	<div style="float: left; padding: 0 5 0 5px; width: 282px; text-align: left;">

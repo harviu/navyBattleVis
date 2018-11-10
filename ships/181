@@ -1,10 +1,10 @@
 <html>
 
 <head>
-<title>Light Carrier Zuiho | World War II Database</title>
+<title>Light Cruiser Sakawa | World War II Database</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="description" content="Light Carrier Zuiho | World War II Database">
-<meta name="keywords" content="ww2db, world war, ww2, military, history, Light Carrier Zuiho | World War II Database">
+<meta name="description" content="Light Cruiser Sakawa | World War II Database">
+<meta name="keywords" content="ww2db, world war, ww2, military, history, Light Cruiser Sakawa | World War II Database">
 <meta name="ROBOTS" content="INDEX, FOLLOW">
 <meta name="REVISIT-AFTER" CONTENT="15 days">
 <META NAME="COPYRIGHT" CONTENT="Copyright © 2004-2018 Lava Development, LLC., all rights reserved">
@@ -23,25 +23,25 @@
 
 <link rel="alternate" type="application/rss+xml" title="WW2DB RSS Feed" href="https://ww2db.com/feedgen.php?feed=articles&f=RSS2.0" />
 
-<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=A306' />
-<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=306' />
+<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=C54' />
+<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=54' />
 
 <meta property="fb:app_id" content="103484127961" />
 <meta name="p:domain_verify" content="794c2d433a01b5d35554ba972a179eff"/>
 
-	<link rel="image_src" type="image/jpeg" href="http://ww2db.com/images/ship_zuiho1.jpg" />
+	<link rel="image_src" type="image/jpeg" href="http://ww2db.com/images/ship_sakawa1.jpg" />
 	<meta property="og:site_name" content="WW2DB" />
-	<meta property="og:title" content="Light Carrier Zuiho" />
-	<meta property="og:description" content="Light Carrier Zuiho" />
+	<meta property="og:title" content="Light Cruiser Sakawa" />
+	<meta property="og:description" content="Light Cruiser Sakawa" />
 	<meta property="og:type" content="article" />
-	<meta property="og:url" content="https://ww2db.com/ship_spec.php?ship_id=A306" />
-		<meta property="og:image" content="http://ww2db.com/images/ship_zuiho1.jpg" />
+	<meta property="og:url" content="https://ww2db.com/ship_spec.php?ship_id=C54" />
+		<meta property="og:image" content="http://ww2db.com/images/ship_sakawa1.jpg" />
 
 	<meta name='twitter:card' content='summary'>
 	<meta name='twitter:site' content='@ww2db'>
-	<meta name='twitter:title' content='Light Carrier Zuiho'>
-	<meta name='twitter:description' content='Light Carrier Zuiho'>
-	<meta name='twitter:image' content='http://ww2db.com/images/ship_zuiho1.jpg'>
+	<meta name='twitter:title' content='Light Cruiser Sakawa'>
+	<meta name='twitter:description' content='Light Cruiser Sakawa'>
+	<meta name='twitter:image' content='http://ww2db.com/images/ship_sakawa1.jpg'>
 				
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.5/css/jquery.dataTables.css">
 <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
@@ -77,7 +77,7 @@ table.dataTable tbody td, table.dataTable thead td {
 		</td></tr>
 		</table>
 		<div class="bannerflash">
-		<div style="background-image:url('/images/banner915_3.jpg'); height: 120px; min-height: 120px; width: 915px; min-width: 915px;">&nbsp;</div>		</div>
+		<div style="background-image:url('/images/banner915_5.jpg'); height: 120px; min-height: 120px; width: 915px; min-width: 915px;">&nbsp;</div>		</div>
 	</div>
 	<div id='nav' align='right'>
 		<ul id='navlist'>
@@ -86,15 +86,15 @@ table.dataTable tbody td, table.dataTable thead td {
 
 <div id="content">
 	<div itemscope itemtype="http://schema.org/Article" class="maincol">
-		<meta itemprop="url" content="<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=A306' />
-<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=306' />
+		<meta itemprop="url" content="<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=C54' />
+<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=54' />
 " />
-		<meta itemprop="description" content="Light Carrier Zuiho" />
+		<meta itemprop="description" content="Light Cruiser Sakawa" />
 		<div id="breadcrumb"><ul class="horizontalList">
 				<li class="horizontalList"> <a href="index.php">Home</a></li>
 				<li class="horizontalList"> &#187; <a href="equip.php">Equipment</a></li>
-				<li class="horizontalList"> &#187; <a href="ship.php">Ships</a></li><li class="horizontalList"> &#187; <a href="ship.php?list=A">Carriers</a></li><li class="horizontalList"> &#187; Zuiho</li></ul></div>
-<div style='display: inline; float: right;'><image itemprop='image' class='filephoto' alt='Zuiho file photo [5701]' title='Zuiho file photo [5701]' src='/images/ship_zuiho1.jpg' /><script>
+				<li class="horizontalList"> &#187; <a href="ship.php">Ships</a></li><li class="horizontalList"> &#187; <a href="ship.php?list=C">Cruisers</a></li><li class="horizontalList"> &#187; Sakawa</li></ul></div>
+<div style='display: inline; float: right;'><image itemprop='image' class='filephoto' alt='Sakawa file photo [8343]' title='Sakawa file photo [8343]' src='/images/ship_sakawa1.jpg' /><script>
 		function resizeText(className, percent) {
 			var elements = document.getElementsByClassName(className);
 			for (var i = 0; i < elements.length; ++i) {
@@ -107,8 +107,8 @@ table.dataTable tbody td, table.dataTable thead td {
 				}
 			}
 		}
-		</script><br /><img src="/images/icon_font_small.jpg" onclick="resizeText('maincol', -10)" title="Decrease font size" /><img src="/images/icon_font_medium.jpg" onclick="resizeText('maincol', null)" title="Reset font size" /><img src="/images/icon_font_large.jpg" onclick="resizeText('maincol', 10)" title="Increase font size" /></div><div style='margin: 8px 0px 8px 0px;'><h2 itemprop='name' class='articleHeader'>Zuiho</h2></div><table class="table_noborder"><tr><td class="table_noborder">Country</td><td class="table_noborder"><a href='/country/japan'>Japan</a></td></tr><tr><td class="table_noborder">Ship Class</td><td class="table_noborder"><a href='ship_spec.php?ship_id=804'>Zuiho-class Light Carrier</a></td></tr><tr><td class="table_noborder">Builder</td><td class="table_noborder"><a href='/facility/Yokosuka_Naval_Arsenal/'>Yokosuka Naval Arsenal</a></td></tr><tr><td class="table_noborder">Laid Down</td><td class="table_noborder">20 Jun 1935</td></tr><tr><td class="table_noborder">Launched</td><td class="table_noborder">19 Jun 1936</td></tr><tr><td class="table_noborder">Commissioned</td><td class="table_noborder">27 Dec 1940</td></tr><tr><td class="table_noborder">Sunk</td><td class="table_noborder">25 Oct 1944</td></tr><tr><td class="table_noborder">Displacement</td><td class="table_noborder">11262 tons standard; 13950 tons full</td></tr><tr><td class="table_noborder">Length</td><td class="table_noborder">712 feet</td></tr><tr><td class="table_noborder">Beam</td><td class="table_noborder">76 feet</td></tr><tr><td class="table_noborder">Draft</td><td class="table_noborder">22 feet</td></tr><tr><td class="table_noborder">Machinery</td><td class="table_noborder">Geared turbines, two shafts</td></tr><tr><td class="table_noborder">Power Output</td><td class="table_noborder">52000 SHP</td></tr><tr><td class="table_noborder">Speed</td><td class="table_noborder">28 knots</td></tr><tr><td class="table_noborder">Crew</td><td class="table_noborder">785</td></tr><tr><td class="table_noborder">Armament</td><td class="table_noborder">8x100mm (pre-1934), 4x100mm (post-1934), 56,x25mm anti-aircraft</td></tr><tr><td class="table_noborder">Aircraft</td><td class="table_noborder">24-30</td></tr></table><p><small>Contributor: <a href='/person_bio.php?person_id=179'><span itemprop='author' itemscope itemtype='http://schema.org/Person'><span itemprop='name'>C. Peter Chen</span></span></a></small></p><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>When Zuiho and her sister ship Shoho were laid down, they were of a flexible design that could eventually be completed as a light carrier, an oil tanker, or a submarine tender.  She was originally launched in 1934 as the oil tanker Takasaki, but was converted to a light carrier in 1941.  She was assigned to Carrier Division 3 in Jan 1941 and participated in the Japanese southward expansion in the opening chapters of the Pacific War at the end of that year.  In Jun 1942, she carried 12 Zero fighters and 11 D3A dive bombers and sailed with the support fleet during the Midway operation, but did not engage in combat.  In Oct 1942, with Carrier Division 1, she participated in the Battle of Santa Cruz and suffered serious flight deck damage by carrier Enterprise's aircraft.  In early 1943, she supported the evacuation of Guadalcanal.  In Feb 1944, she participated in the Battle of the Philippine Sea.  In Oct 1944, during the Battle off Cape Engaño as a part of Jisaburo Ozawa's decoy fleet, the first wave of American attacks damaged her flight deck, but damage control crew quickly repaired the ship to working condition.  However, she was eventually sunk by subsequent waves of American attacks in the same battle.</p>
-<small><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span><i>Source: Wikipedia.</i></p></small><p><b>Zuiho Operational Timeline</b></p><table border='0' cellspacing='0'><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/12/27/1940' alt='See all events on 27 Dec 1940' title='See all events on 27 Dec 1940' class='noStyle'>27 Dec 1940</a>&nbsp;</td><td>Zuiho was commissioned into service.</td></tr></table><br /><p><b>Photographs</b></p><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href="/image.php?image_id=15893"><img src="/images/imagemagick/tmb_ship_zuiho3.jpg" border='0' alt='Carrier Zuiho at Yokosuka, Japan, 28 Dec 1940'></a></td><td><a href="/image.php?image_id=5702"><img src="/images/imagemagick/tmb_ship_zuiho2.jpg" border='0' alt='Carrier Zuiho damaged during Battle off Cape Engaño, 25 Oct 1944; note battleship camouflage; as seen on page 68 of US Navy War Photographs'></a></td></tr></table><br /><br /><br /><br />
+		</script><br /><img src="/images/icon_font_small.jpg" onclick="resizeText('maincol', -10)" title="Decrease font size" /><img src="/images/icon_font_medium.jpg" onclick="resizeText('maincol', null)" title="Reset font size" /><img src="/images/icon_font_large.jpg" onclick="resizeText('maincol', 10)" title="Increase font size" /></div><div style='margin: 8px 0px 8px 0px;'><h2 itemprop='name' class='articleHeader'>Sakawa</h2></div><table class="table_noborder"><tr><td class="table_noborder">Country</td><td class="table_noborder"><a href='/country/japan'>Japan</a></td></tr><tr><td class="table_noborder">Ship Class</td><td class="table_noborder"><a href='ship_spec.php?ship_id=474'>Agano-class Light Cruiser</a></td></tr><tr><td class="table_noborder">Laid Down</td><td class="table_noborder">21 Nov 1942</td></tr><tr><td class="table_noborder">Launched</td><td class="table_noborder">9 Apr 1944</td></tr><tr><td class="table_noborder">Commissioned</td><td class="table_noborder">30 Nov 1944</td></tr><tr><td class="table_noborder">Sunk</td><td class="table_noborder">2 Jul 1946</td></tr><tr><td class="table_noborder">Displacement</td><td class="table_noborder">6652 tons standard; 8534 tons full</td></tr><tr><td class="table_noborder">Length</td><td class="table_noborder">571 feet</td></tr><tr><td class="table_noborder">Beam</td><td class="table_noborder">49 feet</td></tr><tr><td class="table_noborder">Draft</td><td class="table_noborder">18 feet</td></tr><tr><td class="table_noborder">Machinery</td><td class="table_noborder">Four Gihon geared turbines, six Kampon boilers</td></tr><tr><td class="table_noborder">Power Output</td><td class="table_noborder">100000 SHP</td></tr><tr><td class="table_noborder">Speed</td><td class="table_noborder">35 knots</td></tr><tr><td class="table_noborder">Range</td><td class="table_noborder">6,300nm at 18 knots</td></tr><tr><td class="table_noborder">Crew</td><td class="table_noborder">438</td></tr><tr><td class="table_noborder">Armament</td><td class="table_noborder">3x150mm guns, 2x80mm guns, 2x25mm AA guns, 4x2x610mm torpedo tubes, 48 mines</td></tr><tr><td class="table_noborder">Armor</td><td class="table_noborder">60mm belt</td></tr><tr><td class="table_noborder">Aircraft</td><td class="table_noborder">2 floatplanes</td></tr><tr><td class="table_noborder">Catapult</td><td class="table_noborder">1</td></tr></table><p><small>Contributor: <a href='/person_bio.php?person_id=183'><span itemprop='author' itemscope itemtype='http://schema.org/Person'><span itemprop='name'></span></span></a></small></p><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Sakawa was assigned to the Combined Fleet in late 1944, and on 15 Jan 1945 she became the flagship of Destroyer Squadron 11.  On 1 Apr, she was assigned to Operation Ten Go for the defense of Okinawa, Japan along with her sister ship Yahagi, but there was no fuel available for Destroyer Squadron 11, thus she was spared what might had been her last cruise.  When the war ended in Sep, she was at Maizuru, having never participated in any combat action.  After the war, she was used to transport Japanese servicemen from various Pacific Islands back to Japan, including the evacuation of 1,339 men of the Japanese Army from small garrisons in the Palau Islands; she remained in this role until Feb 1946.  On 19 Mar 1946, she departed with an American crew from Yokosuka, Japan toward Eniwetok in the Marshall Islands.  En route, battleship Nagato broke down thus requiring Sakawa to tow her, but Sakawa soon ran out of fuel, and oil tanker Nickajack Trail had to be sent to deliver fuel, which then hit a reef in bad weather and was lost.  Nagato and Sakawa were finally towed to Eniwetok on 1 Apr.  At Eniwetok, five disgruntled US Navy sailors sabotaged the ship by pouring sand into oil and water pumps, smashing gauges, smashing tachometers, and cutting pressure steam lines; the five American sailors were brought up on charges for damaging Sakawa.  In May, after emergency repairs, she reached Bikini Atoll, where she was to participate in Operation Crossroads as a subject to atomic blasts.  On 1 Jul 1946, she was exposed to the "Able" explosion, destroying her superstructure and damaging her hull, and then she burned fiercely for the subsequent 24 hours.  On the next day, 2 Jul, tugboat USS Achowani attempted to tow Sakawa away to prevent sinking, but failed.  Achowani's sailors cut the tow cables to prevent being dragged down by the sinking cruiser.</p>
+<small><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span><i>Source: Wikipedia.</i></p></small><p><b>Sakawa Operational Timeline</b></p><table border='0' cellspacing='0'><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/11/30/1944' alt='See all events on 30 Nov 1944' title='See all events on 30 Nov 1944' class='noStyle'>30 Nov 1944</a>&nbsp;</td><td>Sakawa was commissioned into service.</td></tr></table><br /><p><b>Photographs</b></p><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href="/image.php?image_id=8344"><img src="/images/imagemagick/tmb_ship_sakawa2.jpg" border='0' alt='Cruiser Sakawa prior to commissioning, Sasebo, Japan, Nov 1944'></a></td></tr></table><br /><br /><br /><br />
 				<center><table border='0' cellpadding='0' cellspacing='0' width='100%'>
 				<tr><td valign='top' width='382'><p>Did you enjoy this article?  Please consider supporting us on <a href='https://www.patreon.com/ww2db' rel='nofollow' target='_patreon' onclick='javascript: ga("send","pageview","/outgoing/www.patreon.com/ww2db/");'>Patreon</a>.  Even $1 per month will go a long way!  Thank you.</p>
 		<table border='0' cellpadding='0' cellspacing='0'>
@@ -116,19 +116,19 @@ table.dataTable tbody td, table.dataTable thead td {
 			<td colspan='9'>Share this article with your friends:<br /><br /></td>
 		</tr>
 		<tr>
-			<td><a title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=A306' target='_facebook' rel='nofollow'><img src='/images/icon_facebook.gif' border='0'></a></td><td>&nbsp;</td><td><a id='facebook' title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=A306' target='_facebook'>Facebook</a></td>
-			<td><a title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A306&title=Light Carrier Zuiho' target='_reddit' rel='nofollow'><img src='/images/icon_reddit.gif' border='0'></a></td><td>&nbsp;</td><td><a id='reddit' title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A306&title=Light Carrier Zuiho' target='_reddit'>Reddit</a></td>
+			<td><a title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=C54' target='_facebook' rel='nofollow'><img src='/images/icon_facebook.gif' border='0'></a></td><td>&nbsp;</td><td><a id='facebook' title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=C54' target='_facebook'>Facebook</a></td>
+			<td><a title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C54&title=Light Cruiser Sakawa' target='_reddit' rel='nofollow'><img src='/images/icon_reddit.gif' border='0'></a></td><td>&nbsp;</td><td><a id='reddit' title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C54&title=Light Cruiser Sakawa' target='_reddit'>Reddit</a></td>
 		</tr>
 		<tr>
-			<td><a title='Tweet this page' href='http://twitter.com/home/?status=Light+Carrier+Zuiho+https://ww2db.com:443/ship_spec.php?ship_id=A306' target='_twitter' rel='nofollow'><img src='/images/icon_twitter.gif' border='0'></a></td><td>&nbsp;</td><td><a id='twitter' title='Tweet this page' href='http://twitter.com/home/?status=Light+Carrier+Zuiho+https://ww2db.com:443/ship_spec.php?ship_id=A306' target='_twitter'>Twitter</a></td>
-			<td><a title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A306&title=Light Carrier Zuiho' target='_digg' rel='nofollow'><img src='/images/icon_digg.gif' border='0'></a></td><td>&nbsp;</td><td><a id='digg' title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A306&title=Light Carrier Zuiho' target='_digg'>Digg</a></td>
+			<td><a title='Tweet this page' href='http://twitter.com/home/?status=Light+Cruiser+Sakawa+https://ww2db.com:443/ship_spec.php?ship_id=C54' target='_twitter' rel='nofollow'><img src='/images/icon_twitter.gif' border='0'></a></td><td>&nbsp;</td><td><a id='twitter' title='Tweet this page' href='http://twitter.com/home/?status=Light+Cruiser+Sakawa+https://ww2db.com:443/ship_spec.php?ship_id=C54' target='_twitter'>Twitter</a></td>
+			<td><a title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C54&title=Light Cruiser Sakawa' target='_digg' rel='nofollow'><img src='/images/icon_digg.gif' border='0'></a></td><td>&nbsp;</td><td><a id='digg' title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C54&title=Light Cruiser Sakawa' target='_digg'>Digg</a></td>
 		</tr>
 		<tr>
-			<td><a title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=A306' target='_googleplus' rel='nofollow'><img src='/images/icon_googleplus2.png' border='0'></a></td><td>&nbsp;</td><td><a id='googleplus' title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=A306' target='_googleplus'>Google+</a></td>
-			<td><a title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=A306&title=Light Carrier Zuiho' target='_delicious' rel='nofollow'><img src='/images/icon_delicious.gif' border='0'></a></td><td>&nbsp;</td><td><a id='delicious' title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=A306&title=Light Carrier Zuiho' target='_delicious'>Delicious</a></td>
+			<td><a title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=C54' target='_googleplus' rel='nofollow'><img src='/images/icon_googleplus2.png' border='0'></a></td><td>&nbsp;</td><td><a id='googleplus' title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=C54' target='_googleplus'>Google+</a></td>
+			<td><a title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=C54&title=Light Cruiser Sakawa' target='_delicious' rel='nofollow'><img src='/images/icon_delicious.gif' border='0'></a></td><td>&nbsp;</td><td><a id='delicious' title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=C54&title=Light Cruiser Sakawa' target='_delicious'>Delicious</a></td>
 		</tr>
 		<tr>
-			<td><a title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A306&title=Light Carrier Zuiho' target='_stumbleupon' rel='nofollow'><img src='/images/icon_stumbleupon.gif' border='0'></a></td><td>&nbsp;</td><td><a id='stumbleupon' title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A306&title=Light Carrier Zuiho' target='_stumbleupon'>StumbleUpon</a></td>
+			<td><a title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C54&title=Light Cruiser Sakawa' target='_stumbleupon' rel='nofollow'><img src='/images/icon_stumbleupon.gif' border='0'></a></td><td>&nbsp;</td><td><a id='stumbleupon' title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C54&title=Light Cruiser Sakawa' target='_stumbleupon'>StumbleUpon</a></td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -146,10 +146,7 @@ table.dataTable tbody td, table.dataTable thead td {
 		</script>
 	</td></tr></table></center><br /><br /><br />
 
-<style>.commentItem { display: none; border: 1px solid #b0b0b0; padding: 10px; margin-bottom: 10px; }</style><p><b>Visitor Submitted Comments</b></p><p id='showAllCommand' style='display: none;'><a href='javascript:showAllComments();'>Show older comments</a></p><div id='commentItem1' class='commentItem' style='background-color: #f0f0f0'>1. <span style='font-style: italic;'>Anonymous in Kanazawa</span> says:<br /><small>23 May 2011 10:20:01 PM</small><br /><br />Errata point out.
-Zuiho fitted with large caliber AA in 12.7cm (5") 2 x4 guns. Not 10 cm (4") AA guns.
-
-Only Jap. carriers fitted with 10 cm AA guns is Taiho.   </div><small><p>All visitor submitted comments are opinions of those making the submissions and do not reflect views of WW2DB.</p></small>	<script>
+<style>.commentItem { display: none; border: 1px solid #b0b0b0; padding: 10px; margin-bottom: 10px; }</style><p><b>Visitor Submitted Comments</b></p><p id='showAllCommand' style='display: none;'><a href='javascript:showAllComments();'>Show older comments</a></p><div id='commentItem1' class='commentItem' style='background-color: #f0f0f0'>1. <span style='font-style: italic;'>Mitsuo Fuchida</span> says:<br /><small>7 Nov 2011 12:51:04 PM</small><br /><br />well the agano class was not a great ship but remodeling it Oyodo class Carrier Hybrid,but the ships known as Hosho and Ryujo were weak Carriers so let there be this to you we attacked america to get more land so now you win we surrender no longer will we attack america ever again. P.S. keep an eye on russia</div><small><p>All visitor submitted comments are opinions of those making the submissions and do not reflect views of WW2DB.</p></small>	<script>
 			$("#commentItem1").show();
 				$("#commentItem0").show();
 				$("#commentItem-1").show();
@@ -177,16 +174,16 @@ Only Jap. carriers fitted with 10 cm AA guns is Taiho.   </div><small><p>All vis
 	<tr><td valign="top">Your Comments</td><td><textarea name="comment" cols="30" rows="6"></textarea></td></tr>
 	<tr><td valign="top">Security Code</td>
 		<td valign="top">
-			<div style="background-image:url('/images/captcha/captcha19.jpg'); height: 40px; min-height: 40px; width: 100px; min-width: 100px;">&nbsp;</div>			<br />
+			<div style="background-image:url('/images/captcha/captcha7.jpg'); height: 40px; min-height: 40px; width: 100px; min-width: 100px;">&nbsp;</div>			<br />
 			<input type="text" name="captcha" style="margin-bottom: 2px;">
 		</td>
 	</tr>
 	<tr>
 		<td>&nbsp;</td>
 		<td valign="top"><input type="hidden" name="foreigntype" value="S">
-		<input type="hidden" name="foreigntype_id" value="306">
-		<input type="hidden" name="url" value="/ship_spec.php?ship_id=A306">
-		<input type="hidden" name="c" value="96"> 		<input type="submit" value="Submit"></td>
+		<input type="hidden" name="foreigntype_id" value="54">
+		<input type="hidden" name="url" value="/ship_spec.php?ship_id=C54">
+		<input type="hidden" name="c" value="84"> 		<input type="submit" value="Submit"></td>
 	</tr>
 	</table>
 	</center>
@@ -207,7 +204,7 @@ Only Jap. carriers fitted with 10 cm AA guns is Taiho.   </div><small><p>All vis
 </form>
 <script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=searchbox_004186240537787039759%3Aptfrvampo3a"></script>
 </ul>
-<div class="sidetop">More on Zuiho</div><i>Personnel:</i><br>&raquo;&nbsp;<a href=person_bio.php?person_id=548>Minami, Yoshimi</a><br><br><i>Event(s) Participated:</i><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=46>Invasion of the Philippine Islands</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=6>Battle of Midway and the Aleutian Islands</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=8>Solomon Islands Campaign</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=10>Mariana Islands Campaign and the Great Turkey Shoot</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=5>Philippines Campaign, Phase 1, the Leyte Campaign</a><br><br /><i>Partner Sites Content:</i><br />&raquo;&nbsp;<a href='http://www.combinedfleet.com/Zuiho.htm' target='_combinedfleet' onclick="javascript: pageTracker._trackPageview('/outgoing/www.combinedfleet.com/Zuiho.htm');">Zuiho Tabular Record of Movement</a><br /><div class='sidehidden_m'><div class='sidetop'>Light Carrier Zuiho Photo Gallery</div><center><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=306'><img src="/images/imagemagick/tmb_ship_zuiho3.jpg" border='0' alt='Carrier Zuiho at Yokosuka, Japan, 28 Dec 1940'></a></td></tr></table></center><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=306'>See all 2 photographs of Light Carrier Zuiho</a></div><br /><br />		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<div class="sidetop">More on Sakawa</div><i>Partner Sites Content:</i><br />&raquo;&nbsp;<a href='http://www.combinedfleet.com/sakawa_t.htm' target='_combinedfleet' onclick="javascript: pageTracker._trackPageview('/outgoing/www.combinedfleet.com/sakawa_t.htm');">Sakawa Tabular Record of Movement</a><br /><div class='sidehidden_m'><div class='sidetop'>Light Cruiser Sakawa Photo Gallery</div><center><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href="/image.php?image_id=8344"><img src="/images/imagemagick/tmb_ship_sakawa2.jpg" border='0' alt='Cruiser Sakawa prior to commissioning, Sasebo, Japan, Nov 1944'></a></td></tr></table></center></div><br /><br />		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		<!-- WW2DB Xcol Links 160x90 -->
 		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:90px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="5126713011"></ins>
 		<script>
@@ -216,10 +213,10 @@ Only Jap. carriers fitted with 10 cm AA guns is Taiho.   </div><small><p>All vis
 		<br /><br />
 	<div class="sidehidden_m">
 	<div class="sidetop">Current Site Statistics</div>
-	<ul><li> &#187; <a class='noStyle' href='/person.php'>1,039 biographies</a></li><li> &#187; <a class='noStyle' href='/event/'>326 events</a></li><li> &#187; <a class='noStyle' href='/event/timeline/'>35,502 timeline entries</a></li><li> &#187; <a class='noStyle' href='/ship.php'>726 ships</a></li><li> &#187; <a class='noStyle' href='/aircraft.php'>329 aircraft models</a></li><li> &#187; <a class='noStyle' href='/vehicle.php'>184 vehicle models</a></li><li> &#187; <a class='noStyle' href='/weapon.php'>339 weapon models</a></li><li> &#187; <a class='noStyle' href='/doc.php'>102 historical documents</a></li><li> &#187; <a class='noStyle' href='/facility/'>175 facilities</a></li><li> &#187; <a class='noStyle' href='/book/'>457 book reviews</a></li><li> &#187; <a class='noStyle' href='/photo.php'>24,916 photos</a></li><li> &#187; <a class='noStyle' href='/reference/map/'>287 maps</a></li></ul>	<br />
+	<ul><li> &#187; <a class='noStyle' href='/person.php'>1,040 biographies</a></li><li> &#187; <a class='noStyle' href='/event/'>326 events</a></li><li> &#187; <a class='noStyle' href='/event/timeline/'>35,554 timeline entries</a></li><li> &#187; <a class='noStyle' href='/ship.php'>726 ships</a></li><li> &#187; <a class='noStyle' href='/aircraft.php'>329 aircraft models</a></li><li> &#187; <a class='noStyle' href='/vehicle.php'>184 vehicle models</a></li><li> &#187; <a class='noStyle' href='/weapon.php'>340 weapon models</a></li><li> &#187; <a class='noStyle' href='/doc.php'>102 historical documents</a></li><li> &#187; <a class='noStyle' href='/facility/'>175 facilities</a></li><li> &#187; <a class='noStyle' href='/book/'>457 book reviews</a></li><li> &#187; <a class='noStyle' href='/photo.php'>24,934 photos</a></li><li> &#187; <a class='noStyle' href='/reference/map/'>287 maps</a></li></ul>	<br />
 </div>
 
-<div class='sidehidden_m'><div class='sidetop'>Famous WW2 Quote</div>"All that silly talk about the advance of science and such leaves me cold.  Give me peace and a retarded science."<br><br>Thomas Dodd, late 1945</div><br /><br />				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<div class='sidehidden_m'><div class='sidetop'>Famous WW2 Quote</div>"You ask, what is our aim? I can answer in one word. It is victory.  Victory at all costs. Victory in spite of all terrors. Victory, however long and hard the road may be, for without victory there is no survival."<br><br>Winston Churchill</div><br /><br />				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		<!-- WW2DB Xcol Vertical Banner 160x600 -->
 		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="6471754899"></ins>
 		<script>
@@ -243,7 +240,7 @@ Only Jap. carriers fitted with 10 cm AA guns is Taiho.   </div><small><p>All vis
 		<li> &#187; <a href="/feed.php">Syndication</a></li>
 		<li> &#187; <a href="/termsofuse.php" rel="nofollow">Terms of Use & Disclosures</a></li>
 		<li> &#187; <a href="/">World War II Database Home</a></li>
-		<li> &#187; <a href='http://m.ww2db.com/ship_spec.php?ship_id=A306'>Mobile View</a></li>
+		<li> &#187; <a href='http://m.ww2db.com/ship_spec.php?ship_id=C54'>Mobile View</a></li>
 		</ul>		
 	</div>
 	<div style="float: left; padding: 0 5 0 5px; width: 282px; text-align: left;">
@@ -276,7 +273,7 @@ Only Jap. carriers fitted with 10 cm AA guns is Taiho.   </div><small><p>All vis
 		<script>
 		(adsbygoogle = window.adsbygoogle || []).push({});
 		</script>
-	<br /><center>		<a href="http://amzn.to/2he65an" target="_amazon" rel="nofollow" onclick="javascript: ga('send','pageview','/outgoing/amzn.to/2he65an');"><img src="/images/ad_shattered_sword_728.jpg" /></a><br /><br />
+	<br /><center>		<a href="http://amzn.to/2jfeSrN" target="_amazon" rel="nofollow" onclick="javascript: ga('send','pageview','/outgoing/amzn.to/2jfeSrN');"><img src="/images/ad_frontlines_of_television_war_728.jpg" /></a><br /><br />
 		</center>
 <br /><br />
 

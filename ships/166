@@ -1,10 +1,10 @@
 <html>
 
 <head>
-<title>Escort Carrier Shinyo | World War II Database</title>
+<title>Light Cruiser Nagara | World War II Database</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="description" content="Escort Carrier Shinyo | World War II Database">
-<meta name="keywords" content="ww2db, world war, ww2, military, history, Escort Carrier Shinyo | World War II Database">
+<meta name="description" content="Light Cruiser Nagara | World War II Database">
+<meta name="keywords" content="ww2db, world war, ww2, military, history, Light Cruiser Nagara | World War II Database">
 <meta name="ROBOTS" content="INDEX, FOLLOW">
 <meta name="REVISIT-AFTER" CONTENT="15 days">
 <META NAME="COPYRIGHT" CONTENT="Copyright © 2004-2018 Lava Development, LLC., all rights reserved">
@@ -23,25 +23,25 @@
 
 <link rel="alternate" type="application/rss+xml" title="WW2DB RSS Feed" href="https://ww2db.com/feedgen.php?feed=articles&f=RSS2.0" />
 
-<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=A273' />
-<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=273' />
+<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=C62' />
+<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=62' />
 
 <meta property="fb:app_id" content="103484127961" />
 <meta name="p:domain_verify" content="794c2d433a01b5d35554ba972a179eff"/>
 
-	<link rel="image_src" type="image/jpeg" href="http://ww2db.com/images/ship_shinyo1.jpg" />
+	<link rel="image_src" type="image/jpeg" href="http://ww2db.com/images/ship_nagara1.jpg" />
 	<meta property="og:site_name" content="WW2DB" />
-	<meta property="og:title" content="Escort Carrier Shinyo" />
-	<meta property="og:description" content="Escort Carrier Shinyo" />
+	<meta property="og:title" content="Light Cruiser Nagara" />
+	<meta property="og:description" content="Light Cruiser Nagara" />
 	<meta property="og:type" content="article" />
-	<meta property="og:url" content="https://ww2db.com/ship_spec.php?ship_id=A273" />
-		<meta property="og:image" content="http://ww2db.com/images/ship_shinyo1.jpg" />
+	<meta property="og:url" content="https://ww2db.com/ship_spec.php?ship_id=C62" />
+		<meta property="og:image" content="http://ww2db.com/images/ship_nagara1.jpg" />
 
 	<meta name='twitter:card' content='summary'>
 	<meta name='twitter:site' content='@ww2db'>
-	<meta name='twitter:title' content='Escort Carrier Shinyo'>
-	<meta name='twitter:description' content='Escort Carrier Shinyo'>
-	<meta name='twitter:image' content='http://ww2db.com/images/ship_shinyo1.jpg'>
+	<meta name='twitter:title' content='Light Cruiser Nagara'>
+	<meta name='twitter:description' content='Light Cruiser Nagara'>
+	<meta name='twitter:image' content='http://ww2db.com/images/ship_nagara1.jpg'>
 				
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.5/css/jquery.dataTables.css">
 <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
@@ -77,7 +77,7 @@ table.dataTable tbody td, table.dataTable thead td {
 		</td></tr>
 		</table>
 		<div class="bannerflash">
-		<div style="background-image:url('/images/banner915_4.jpg'); height: 120px; min-height: 120px; width: 915px; min-width: 915px;">&nbsp;</div>		</div>
+		<div style="background-image:url('/images/banner915_1.jpg'); height: 120px; min-height: 120px; width: 915px; min-width: 915px;">&nbsp;</div>		</div>
 	</div>
 	<div id='nav' align='right'>
 		<ul id='navlist'>
@@ -86,15 +86,15 @@ table.dataTable tbody td, table.dataTable thead td {
 
 <div id="content">
 	<div itemscope itemtype="http://schema.org/Article" class="maincol">
-		<meta itemprop="url" content="<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=A273' />
-<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=273' />
+		<meta itemprop="url" content="<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=C62' />
+<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=62' />
 " />
-		<meta itemprop="description" content="Escort Carrier Shinyo" />
+		<meta itemprop="description" content="Light Cruiser Nagara" />
 		<div id="breadcrumb"><ul class="horizontalList">
 				<li class="horizontalList"> <a href="index.php">Home</a></li>
 				<li class="horizontalList"> &#187; <a href="equip.php">Equipment</a></li>
-				<li class="horizontalList"> &#187; <a href="ship.php">Ships</a></li><li class="horizontalList"> &#187; <a href="ship.php?list=A">Carriers</a></li><li class="horizontalList"> &#187; Shinyo</li></ul></div>
-<div style='display: inline; float: right;'><image itemprop='image' class='filephoto' alt='Shinyo file photo [7573]' title='Shinyo file photo [7573]' src='/images/ship_shinyo1.jpg' /><script>
+				<li class="horizontalList"> &#187; <a href="ship.php">Ships</a></li><li class="horizontalList"> &#187; <a href="ship.php?list=C">Cruisers</a></li><li class="horizontalList"> &#187; Nagara</li></ul></div>
+<div style='display: inline; float: right;'><image itemprop='image' class='filephoto' alt='Nagara file photo [7832]' title='Nagara file photo [7832]' src='/images/ship_nagara1.jpg' /><script>
 		function resizeText(className, percent) {
 			var elements = document.getElementsByClassName(className);
 			for (var i = 0; i < elements.length; ++i) {
@@ -107,10 +107,61 @@ table.dataTable tbody td, table.dataTable thead td {
 				}
 			}
 		}
-		</script><br /><img src="/images/icon_font_small.jpg" onclick="resizeText('maincol', -10)" title="Decrease font size" /><img src="/images/icon_font_medium.jpg" onclick="resizeText('maincol', null)" title="Reset font size" /><img src="/images/icon_font_large.jpg" onclick="resizeText('maincol', 10)" title="Increase font size" /></div><div style='margin: 8px 0px 8px 0px;'><h2 itemprop='name' class='articleHeader'>Shinyo</h2></div><table class="table_noborder"><tr><td class="table_noborder">Country</td><td class="table_noborder"><a href='/country/japan'>Japan</a></td></tr><tr><td class="table_noborder">Ship Class</td><td class="table_noborder">Shinyo-class Escort Carrier</td></tr><tr><td class="table_noborder">Laid Down</td><td class="table_noborder">30 Apr 1935</td></tr><tr><td class="table_noborder">Commissioned</td><td class="table_noborder">15 Nov 1943</td></tr><tr><td class="table_noborder">Sunk</td><td class="table_noborder">17 Nov 1944</td></tr><tr><td class="table_noborder">Displacement</td><td class="table_noborder">17500 tons standard; 20586 tons full</td></tr><tr><td class="table_noborder">Length</td><td class="table_noborder">621 feet</td></tr><tr><td class="table_noborder">Beam</td><td class="table_noborder">84 feet</td></tr><tr><td class="table_noborder">Draft</td><td class="table_noborder">26 feet</td></tr><tr><td class="table_noborder">Machinery</td><td class="table_noborder">AEG steam turbines, two shafts</td></tr><tr><td class="table_noborder">Power Output</td><td class="table_noborder">26000 SHP</td></tr><tr><td class="table_noborder">Speed</td><td class="table_noborder">22 knots</td></tr><tr><td class="table_noborder">Crew</td><td class="table_noborder">942</td></tr><tr><td class="table_noborder">Armament</td><td class="table_noborder">8x5in dual purpose guns, 30x25mm (1943) or 50x25mm (1944) anti-aircraft guns</td></tr><tr><td class="table_noborder">Aircraft</td><td class="table_noborder">27 operational aircraft and 6 spare frames)</td></tr></table><p><small>Contributor: <a href='/person_bio.php?person_id=183'><span itemprop='author' itemscope itemtype='http://schema.org/Person'><span itemprop='name'></span></span></a></small></p><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>When the European War began in Sep 1939, the German ocean liner Scharnhorst owned by Norddeutscher Lloyd was at the port of Kobe, Japan; Scharnhorst was built at Bremen, Germany by Deutsche Schiff- und Maschinenbau AG in 1934.  Because the German Navy had no presence in the east to escort her home, Scharnhorst was trapped in Japan.  Her passengers aboard the ship eventually made it back to Germany via the Trans-Siberian Railway.</p>
-<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>In Jun 1942, Japan's carrier was seriously damaged after the Midway debacle.  At this point, the Japanese Navy had already offered to purchase Scharnhorst for military use, and at this point, as the deal had just been struck, it was decided that instead of a troop ship as originally thought, she was to be converted into an escort carrier.  The work began in Sep 1942 after she was towed into Kure Naval Shipyard, Japan.  Her construction used steel from the canceled 4th Yamato-class battleship hull.  She retained her original machinery, while external bulges were added to increase stability.  She was fitted with two elevators and a single hangar, giving her the capacity to operate 27 aircraft and to carry 6 spare aircraft frames.  She joined the Japanese Navy Grand Escort Command in Dec 1943 as the escort carrier Shinyo under the command of Captain Shizue Ishii.</p>
-<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>In Jul 1944, Shinyo began to escort convoys.  On 14 Nov, she departed from Imari Bay in Japan to escort Convoy HI-81 of transports carrying the Japanese Army 23rd Infantry Division.  The convoy was bound for Luzon in the Philippine Islands with a stopover at Taiwan.  Right before noon on 15 Nov, transport Akitsu Maru in the convoy was attacked by American submarine Queenfish and sank, and Shinyo's aircraft failed to find the attacker.  On 16 Nov, the convoy stopped off Korea to shake off any further submarine attacks; while at this location, Convoy MI-27 sailed close to HI-81, making the appearance of one very large convoy fleet.  On 17 Nov, HI-81 departed at 0800 hours, and was spotted by an American B-29 bomber at about 1215; Shinyo's aircraft failed to climb fast enough to intercept.  At 1815, transport Mayasan Maru was sunk by submarine USS Picuda with loss of over 3,000 lives.  At 2303, she was attacked by submarine USS Spadefish, which fired six torpedoes at her.  Four or fewer torpedoes struck her on the starboard side, igniting her aviation fuel tank.  Spadefish surfaced and attacked Shinyo with her gun, but by that time Shinyo was already a floating inferno.  She listed rapidly to starboard, settling aft.  She sank stern first in the Yellow Sea near the Korean island of Jeju; the exact sinking time is not known, but it was likely to be between 2330 and 0030 on 18 Nov.  Ships of MI-27 performed rescue on the next day, 18 Nov, and found that of the 1,160 onboard Shinyo at the time sinking, only somewhere between 130 to 200 men survived.  Captain Ishii was among those killed.</p>
-<small><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span><i>Sources: Nihon Kaigun, Wikipedia.</i></p></small><p><b>Shinyo Operational Timeline</b></p><table border='0' cellspacing='0'><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/11/15/1943' alt='See all events on 15 Nov 1943' title='See all events on 15 Nov 1943' class='noStyle'>15 Nov 1943</a>&nbsp;</td><td>Shinyo was commissioned into service.</td></tr></table><br /><p><b>Photographs</b></p><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href="/image.php?image_id=7574"><img src="/images/imagemagick/tmb_ship_shinyo2.jpg" border='0' alt='Carrier Shinyo, Nov 1943'></a></td></tr></table><br /><br /><br /><br />
+		</script><br /><img src="/images/icon_font_small.jpg" onclick="resizeText('maincol', -10)" title="Decrease font size" /><img src="/images/icon_font_medium.jpg" onclick="resizeText('maincol', null)" title="Reset font size" /><img src="/images/icon_font_large.jpg" onclick="resizeText('maincol', 10)" title="Increase font size" /></div><div style='margin: 8px 0px 8px 0px;'><h2 itemprop='name' class='articleHeader'>Nagara</h2></div><table class="table_noborder"><tr><td class="table_noborder">Country</td><td class="table_noborder"><a href='/country/japan'>Japan</a></td></tr><tr><td class="table_noborder">Ship Class</td><td class="table_noborder"><a href='ship_spec.php?ship_id=483'>Nagara-class Light Cruiser</a></td></tr><tr><td class="table_noborder">Builder</td><td class="table_noborder"><a href='/facility/Sasebo_Naval_Arsenal/'>Sasebo Naval Arsenal</a></td></tr><tr><td class="table_noborder">Laid Down</td><td class="table_noborder">9 Sep 1920</td></tr><tr><td class="table_noborder">Launched</td><td class="table_noborder">25 Apr 1922</td></tr><tr><td class="table_noborder">Commissioned</td><td class="table_noborder">21 Apr 1922</td></tr><tr><td class="table_noborder">Sunk</td><td class="table_noborder">7 Aug 1944</td></tr><tr><td class="table_noborder">Displacement</td><td class="table_noborder">5570 tons standard</td></tr><tr><td class="table_noborder">Length</td><td class="table_noborder">535 feet</td></tr><tr><td class="table_noborder">Beam</td><td class="table_noborder">48 feet</td></tr><tr><td class="table_noborder">Draft</td><td class="table_noborder">16 feet</td></tr><tr><td class="table_noborder">Speed</td><td class="table_noborder">36 knots</td></tr><tr><td class="table_noborder">Range</td><td class="table_noborder">5,000nm at 36 knots</td></tr><tr><td class="table_noborder">Crew</td><td class="table_noborder">438</td></tr><tr><td class="table_noborder">Armament</td><td class="table_noborder">6x140mm guns, 1x127mm high-angle gun, 2x3 + 6x2 + 14x1 25mm anti-aircraft guns, 2x4x610mm torpedo tubes, 48 mines</td></tr><tr><td class="table_noborder">Armor</td><td class="table_noborder">62mm belt, 30mm deck</td></tr><tr><td class="table_noborder">Aircraft</td><td class="table_noborder">1 floatplane (removed in 1944)</td></tr><tr><td class="table_noborder">Catapult</td><td class="table_noborder">1 (removed in 1944)</td></tr></table><p><small>Contributor: <a href='/person_bio.php?person_id=179'><span itemprop='author' itemscope itemtype='http://schema.org/Person'><span itemprop='name'>C. Peter Chen</span></span></a></small></p><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Light cruiser Nagara was the lead ship of her class of light cruisers.  Shortly after her commissioning in 1922, she was assigned to the Japanese naval base at Port Arthur (now Lushunkou), China, and was stationed there for parts of the 1920s and 1930s.  In 1937, she provided support for the Japanese ground forces during the Second Battle of Shanghai.  Between late 1937 and 1937, she patrolled in the Yangtze River in China.  In Feb 1939, she participated in the invasion of Hainan Island off southern China.  Between 30 Jan and 8 Apr 1941, she participated in the invasion of French Indochina.  Between 10 Jun and 9 Sep, she supported Japanese troops in southern China.  On 10 Sep, she was assigned to Cruiser Division 16 of the Third Fleet.  On 26 Nov 1941, she became the flagship of Rear Admiral Kyuji Kubo's Fourth Surprise Attack Unit.  At the time of the Pearl Harbor attack, she was at the Palau Islands.  Between 11 and 12 Dec, she covered the landings at Legaspi, Luzon, Philippine Islands.  Between 24 and 30 Dec, she covered landings in southeast Luzon.  In Jan 1942, she covered landings of the Sasebo No. 1 Special Naval Landing Force at Menado, Kema and Kendari in the Celebes.  On 25 Jan, while at Kendari, the destroyer Hatsuharu collided with Nagara, damaging the her hull, leading to Rear Admiral Kubo transferring his flag to destroyer Hatsushimo so that Nagara could sail to Davao, Mindanao, Philippine Islands for repairs.  She returned to the Celebes on 4 Feb, and Kudo moved his flag to Nagara again, and immediately set sail with the invasion force for Makassar, Celebes.  In the night of 6 Feb, the invasion force was spotted by American submarine Sculpin, which fired two Mark 14 torpedoes for Nagara; one of them missed and the other prematurely exploded.  On 17 Feb, she escorted transports which carried the 48th Infantry Division for the invasion of Bali and Java islands; during this invasion, she was spotted and fired upon by British submarine Truant, but all torpedoes fired at her missed.  On 10 Mar, the Third Fleet was disbanded and replaced by the Second Southern Expeditionary Fleet; Nagara remained in Cruiser Division 16, now under Rear Admiral Kenzaburo Hara.  On 29 Mar, she covered the invasion of Christmas Island; during this operation, American submarine Seawolf fired three torpedoes at her, and all of them missed.  On 2 Apr 1942, she departed for Maizuru, Japan for refitting.  Upon completion, she became the flagship of Rear Admiral Susumu Kimura's Destroyer Squadron 10.  During the Battle of Midway, she escorted the Carrier Striking Force; during the battle, she unsuccessfully attacked the American submarine Nautilus after the submarine attempted to torpedo battleship Kirishima, and later in the battle hosted Vice Admiral Chuichi Nagumo after the carrier Akagi was disabled.  She returned to Japan after the Midway actions on 13 Jun.  On 14 Jul 1942, she was transferred to Truk, Caroline Islands, arriving on 16 Aug.  On 25 Aug, she participated in the Battle of the Eastern Solomons.  On 25-26 Oct, she participated in the Battle of Santa Cruz.  On 9 Nov, her destroyer squadron set sail with 14,500 men, heavy weapons, and supplies to Guadalcanal, and the force was engaged in the First Naval Battle of Guadalcanal on 13 Nov, in which she took a 5-inch shell hit from cruiser San Francisco.  On 15 Nov, while sailing as screen for heavier ships which were tasked to bombard Henderson Field at Guadalcanal, the force was engaged in the Second Naval Battle of Guadalcanal.  On 20 Nov, she became Rear Admiral Takama's flagship for Destroyer Squadron 4.  In late 1942, she returned to Maizuru for a refit.  While conducting gunnery exercises off Saipan, Mariana Islands in early 1943, she sustained minor superstructure damage after an accidental shell explosion.  She returned to Truk on 25 Jan, and helped to evacuate Guadalcanal in early Feb.  In Jun 1943, she transported the Yokosuka No. 2 Special Naval Landing Force to Nauru Island.  In Jul 1943, while escorting carrier Junyo toward New Guinea, she detonated a naval mine laid by Australian PBY Catalina aircraft, and sustained minor damage at the bottom of her stern.  On 20 Jul, she became the flagship of Rear Admiral Shunji Isaki's Destroyer Squadron 2 of the Second Fleet; on 20 Aug, she was relieved of the duty and reassigned to the Eighth Fleet.  On 1 Nov, she became the flagship of the Fourth Fleet.  On 22 Nov, she was attacked by American dive bombers off of Truk, sustained damage, and was ordered to return to Maizuru in Jan 1944 for repairs.  She arrived at Maizuru on 26 Jan, and while being repaired, she had her No. 7 140-millimeter gun, fore and aft torpedo tubes, and catapult removed for additional  anti-aircraft weapons.  On 15 May 1944, she became the flagship of Destroyer Squadron 11 of the Combined Fleet.  In Jul, she received more anti-aircraft weapons at Yokosuka, Japan.  On 7 Aug, en route from Kagashima to Sasebo, Japan, she was sighted by American submarine Croaker, which hit her on the starboard side with one of the four torpedoes fired.  She sank by the stern with 348 lives, including Captain Giichiro Nakahara.</p>
+<small><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span><i>Source: Wikipedia.</i></p></small>
+				<link rel='stylesheet' href='https://unpkg.com/leaflet@1.3.1/dist/leaflet.css'
+				   integrity='sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=='
+				   crossorigin=''/>
+				<script src='https://unpkg.com/leaflet@1.3.1/dist/leaflet.js'
+				   integrity='sha512-/Nsx9X4HebavoBvEBuyp3I7od5tA0UzAxs+j83KgC8PU0kgB4XiK4Lfe4y4cgBtaRJQEIFCW+oC506aPT2L1zw=='
+				   crossorigin=''></script>
+					<script src='https://unpkg.com/leaflet.markercluster@1.3.0/dist/leaflet.markercluster.js'></script>
+					<link href='https://unpkg.com/leaflet.markercluster@1.3.0/dist/MarkerCluster.css' rel='stylesheet' />
+					<link href='https://unpkg.com/leaflet.markercluster@1.3.0/dist/MarkerCluster.Default.css' rel='stylesheet' />
+				
+				<style>
+				.mapClass {
+					height: 400px; 
+				}
+				.infowindowSubTitle {
+					font-weight: bold;
+					margin-top: 10px;
+					margin-bottom: 10px;
+				}
+				</style>
+				
+				<p id='interactiveMapLabel'><b>Light Cruiser Nagara Interactive Map</b></p>
+				<div id='mapid' class='mapClass'></div>
+				<script>
+				var mymap = L.map('mapid').setView([-9.186111000, 159.895000000], 13);
+			
+					L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.{ext}', {
+						attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+						subdomains: 'abcd',
+						minZoom: 0,
+						maxZoom: 18,
+						ext: 'png'
+					}).addTo(mymap);
+				
+				var rawDataArray = [  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Guadalcanal, British Western Pacific Territories</h2><div class='infowindowSubTitle'>14 Nov 1942</div><a href='/image.php?image_id=23505'><img src='/images/imagemagick/tmb_54e443b30cda3.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", -9.186111000, 159.895000000, 1]];
+				var pointsArray = [];
+			
+					var markers = L.markerClusterGroup({ maxClusterRadius: 50 });
+					for (var i = 0; i < rawDataArray.length; i++) {
+						var a = rawDataArray[i];
+						var title = a[0];
+						var fill_color = '#FF0033';
+						var marker = L.marker(new L.LatLng(a[1], a[2]), { title: title, color: fill_color });
+						marker.bindPopup(L.popup({maxHeight:200}).setContent(title));
+						markers.addLayer(marker);
+						pointsArray.push(marker);
+					}
+					mymap.addLayer(markers);
+				
+				var group = new L.featureGroup(pointsArray);
+				mymap.fitBounds(group.getBounds());
+				</script>
+			<p><b>Nagara Operational Timeline</b></p><table border='0' cellspacing='0'><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/04/21/1922' alt='See all events on 21 Apr 1922' title='See all events on 21 Apr 1922' class='noStyle'>21 Apr 1922</a>&nbsp;</td><td>Nagara was commissioned into service.</td></tr><tr bgcolor=''><td valign='top' align='right' nowrap><a href='/event/today/06/15/1942' alt='See all events on 15 Jun 1942' title='See all events on 15 Jun 1942' class='noStyle'>15 Jun 1942</a>&nbsp;</td><td>Nagara transferred 500 wounded survivors of the Battle of Midway to hospital ship Hikawa Maru.</td></tr></table><br /><p><b>Photographs</b></p><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href="/image.php?image_id=7833"><img src="/images/imagemagick/tmb_ship_nagara2.jpg" border='0' alt='Light cruiser Nagara, date unknown'></a></td></tr></table><br /><p><b>Maps</b></p><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href="/image.php?image_id=23505"><img src="/images/imagemagick/tmb_54e443b30cda3.jpg" border='0' alt='Map depicting Japanese and US Naval movements during the Second Naval Battle of Guadalcanal the night of Nov 14, 1942.'></a></td></tr></table><br /><br /><br /><br />
 				<center><table border='0' cellpadding='0' cellspacing='0' width='100%'>
 				<tr><td valign='top' width='382'><p>Did you enjoy this article?  Please consider supporting us on <a href='https://www.patreon.com/ww2db' rel='nofollow' target='_patreon' onclick='javascript: ga("send","pageview","/outgoing/www.patreon.com/ww2db/");'>Patreon</a>.  Even $1 per month will go a long way!  Thank you.</p>
 		<table border='0' cellpadding='0' cellspacing='0'>
@@ -118,19 +169,19 @@ table.dataTable tbody td, table.dataTable thead td {
 			<td colspan='9'>Share this article with your friends:<br /><br /></td>
 		</tr>
 		<tr>
-			<td><a title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=A273' target='_facebook' rel='nofollow'><img src='/images/icon_facebook.gif' border='0'></a></td><td>&nbsp;</td><td><a id='facebook' title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=A273' target='_facebook'>Facebook</a></td>
-			<td><a title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A273&title=Escort Carrier Shinyo' target='_reddit' rel='nofollow'><img src='/images/icon_reddit.gif' border='0'></a></td><td>&nbsp;</td><td><a id='reddit' title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A273&title=Escort Carrier Shinyo' target='_reddit'>Reddit</a></td>
+			<td><a title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=C62' target='_facebook' rel='nofollow'><img src='/images/icon_facebook.gif' border='0'></a></td><td>&nbsp;</td><td><a id='facebook' title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=C62' target='_facebook'>Facebook</a></td>
+			<td><a title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C62&title=Light Cruiser Nagara' target='_reddit' rel='nofollow'><img src='/images/icon_reddit.gif' border='0'></a></td><td>&nbsp;</td><td><a id='reddit' title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C62&title=Light Cruiser Nagara' target='_reddit'>Reddit</a></td>
 		</tr>
 		<tr>
-			<td><a title='Tweet this page' href='http://twitter.com/home/?status=Escort+Carrier+Shinyo+https://ww2db.com:443/ship_spec.php?ship_id=A273' target='_twitter' rel='nofollow'><img src='/images/icon_twitter.gif' border='0'></a></td><td>&nbsp;</td><td><a id='twitter' title='Tweet this page' href='http://twitter.com/home/?status=Escort+Carrier+Shinyo+https://ww2db.com:443/ship_spec.php?ship_id=A273' target='_twitter'>Twitter</a></td>
-			<td><a title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A273&title=Escort Carrier Shinyo' target='_digg' rel='nofollow'><img src='/images/icon_digg.gif' border='0'></a></td><td>&nbsp;</td><td><a id='digg' title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A273&title=Escort Carrier Shinyo' target='_digg'>Digg</a></td>
+			<td><a title='Tweet this page' href='http://twitter.com/home/?status=Light+Cruiser+Nagara+https://ww2db.com:443/ship_spec.php?ship_id=C62' target='_twitter' rel='nofollow'><img src='/images/icon_twitter.gif' border='0'></a></td><td>&nbsp;</td><td><a id='twitter' title='Tweet this page' href='http://twitter.com/home/?status=Light+Cruiser+Nagara+https://ww2db.com:443/ship_spec.php?ship_id=C62' target='_twitter'>Twitter</a></td>
+			<td><a title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C62&title=Light Cruiser Nagara' target='_digg' rel='nofollow'><img src='/images/icon_digg.gif' border='0'></a></td><td>&nbsp;</td><td><a id='digg' title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C62&title=Light Cruiser Nagara' target='_digg'>Digg</a></td>
 		</tr>
 		<tr>
-			<td><a title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=A273' target='_googleplus' rel='nofollow'><img src='/images/icon_googleplus2.png' border='0'></a></td><td>&nbsp;</td><td><a id='googleplus' title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=A273' target='_googleplus'>Google+</a></td>
-			<td><a title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=A273&title=Escort Carrier Shinyo' target='_delicious' rel='nofollow'><img src='/images/icon_delicious.gif' border='0'></a></td><td>&nbsp;</td><td><a id='delicious' title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=A273&title=Escort Carrier Shinyo' target='_delicious'>Delicious</a></td>
+			<td><a title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=C62' target='_googleplus' rel='nofollow'><img src='/images/icon_googleplus2.png' border='0'></a></td><td>&nbsp;</td><td><a id='googleplus' title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=C62' target='_googleplus'>Google+</a></td>
+			<td><a title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=C62&title=Light Cruiser Nagara' target='_delicious' rel='nofollow'><img src='/images/icon_delicious.gif' border='0'></a></td><td>&nbsp;</td><td><a id='delicious' title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=C62&title=Light Cruiser Nagara' target='_delicious'>Delicious</a></td>
 		</tr>
 		<tr>
-			<td><a title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A273&title=Escort Carrier Shinyo' target='_stumbleupon' rel='nofollow'><img src='/images/icon_stumbleupon.gif' border='0'></a></td><td>&nbsp;</td><td><a id='stumbleupon' title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A273&title=Escort Carrier Shinyo' target='_stumbleupon'>StumbleUpon</a></td>
+			<td><a title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C62&title=Light Cruiser Nagara' target='_stumbleupon' rel='nofollow'><img src='/images/icon_stumbleupon.gif' border='0'></a></td><td>&nbsp;</td><td><a id='stumbleupon' title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C62&title=Light Cruiser Nagara' target='_stumbleupon'>StumbleUpon</a></td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -148,15 +199,6 @@ table.dataTable tbody td, table.dataTable thead td {
 		</script>
 	</td></tr></table></center><br /><br /><br />
 
-<style>.commentItem { display: none; border: 1px solid #b0b0b0; padding: 10px; margin-bottom: 10px; }</style><p><b>Visitor Submitted Comments</b></p><p id='showAllCommand' style='display: none;'><a href='javascript:showAllComments();'>Show older comments</a></p><div id='commentItem1' class='commentItem' style='background-color: #f0f0f0'>1. <span style='font-style: italic;'>shamsher</span> says:<br /><small>25 Nov 2012 01:09:04 AM</small><br /><br />i love it</div><small><p>All visitor submitted comments are opinions of those making the submissions and do not reflect views of WW2DB.</p></small>	<script>
-			$("#commentItem1").show();
-				$("#commentItem0").show();
-				$("#commentItem-1").show();
-			function showAllComments() {
-		$(".commentItem").show();
-		$("#showAllCommand").remove();
-	}
-	</script>
 	<form method="post" action="/comments_action.php">
 	<div style="background-color: #f0f0f0; border: 1px solid #b0b0b0; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
 	<p><b>Posting Your Comments on this Topic</b></p>
@@ -176,16 +218,16 @@ table.dataTable tbody td, table.dataTable thead td {
 	<tr><td valign="top">Your Comments</td><td><textarea name="comment" cols="30" rows="6"></textarea></td></tr>
 	<tr><td valign="top">Security Code</td>
 		<td valign="top">
-			<div style="background-image:url('/images/captcha/captcha6.jpg'); height: 40px; min-height: 40px; width: 100px; min-width: 100px;">&nbsp;</div>			<br />
+			<div style="background-image:url('/images/captcha/captcha5.jpg'); height: 40px; min-height: 40px; width: 100px; min-width: 100px;">&nbsp;</div>			<br />
 			<input type="text" name="captcha" style="margin-bottom: 2px;">
 		</td>
 	</tr>
 	<tr>
 		<td>&nbsp;</td>
 		<td valign="top"><input type="hidden" name="foreigntype" value="S">
-		<input type="hidden" name="foreigntype_id" value="273">
-		<input type="hidden" name="url" value="/ship_spec.php?ship_id=A273">
-		<input type="hidden" name="c" value="83"> 		<input type="submit" value="Submit"></td>
+		<input type="hidden" name="foreigntype_id" value="62">
+		<input type="hidden" name="url" value="/ship_spec.php?ship_id=C62">
+		<input type="hidden" name="c" value="82"> 		<input type="submit" value="Submit"></td>
 	</tr>
 	</table>
 	</center>
@@ -206,7 +248,7 @@ table.dataTable tbody td, table.dataTable thead td {
 </form>
 <script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=searchbox_004186240537787039759%3Aptfrvampo3a"></script>
 </ul>
-<div class="sidetop">More on Shinyo</div><i>Partner Sites Content:</i><br />&raquo;&nbsp;<a href='http://www.combinedfleet.com/Shinyo.htm' target='_combinedfleet' onclick="javascript: pageTracker._trackPageview('/outgoing/www.combinedfleet.com/Shinyo.htm');">Shinyo Tabular Record of Movement</a><br /><div class='sidehidden_m'><div class='sidetop'>Escort Carrier Shinyo Photo Gallery</div><center><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href="/image.php?image_id=7574"><img src="/images/imagemagick/tmb_ship_shinyo2.jpg" border='0' alt='Carrier Shinyo, Nov 1943'></a></td></tr></table></center></div><br /><br />		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<div class="sidetop">More on Nagara</div><i>Personnel:</i><br>&raquo;&nbsp;<a href=person_bio.php?person_id=330>Horiuchi, Shigetada</a><br>&raquo;&nbsp;<a href=person_bio.php?person_id=672>Takagi, Takeo</a><br><br><i>Event(s) Participated:</i><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=85>Second Battle of Shanghai</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=205>Guangdong Operation</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=177>Battle of Hainan</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=44>Indochina Campaign</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=46>Invasion of the Philippine Islands</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=64>Dutch East Indies Campaign, Celebes and Moluccas</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=23>Dutch East Indies Campaign, Java</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=6>Battle of Midway and the Aleutian Islands</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=9>Guadalcanal Campaign</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=8>Solomon Islands Campaign</a><br><br /><i>Partner Sites Content:</i><br />&raquo;&nbsp;<a href='http://www.combinedfleet.com/nagara_t.htm' target='_combinedfleet' onclick="javascript: pageTracker._trackPageview('/outgoing/www.combinedfleet.com/nagara_t.htm');">Nagara Tabular Record of Movement</a><br /><div class='sidehidden_m'><div class='sidetop'>Light Cruiser Nagara Photo Gallery</div><center><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href="/image.php?image_id=7833"><img src="/images/imagemagick/tmb_ship_nagara2.jpg" border='0' alt='Light cruiser Nagara, date unknown'></a></td></tr></table></center></div><br /><br />		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		<!-- WW2DB Xcol Links 160x90 -->
 		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:90px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="5126713011"></ins>
 		<script>
@@ -215,10 +257,10 @@ table.dataTable tbody td, table.dataTable thead td {
 		<br /><br />
 	<div class="sidehidden_m">
 	<div class="sidetop">Current Site Statistics</div>
-	<ul><li> &#187; <a class='noStyle' href='/person.php'>1,039 biographies</a></li><li> &#187; <a class='noStyle' href='/event/'>326 events</a></li><li> &#187; <a class='noStyle' href='/event/timeline/'>35,502 timeline entries</a></li><li> &#187; <a class='noStyle' href='/ship.php'>726 ships</a></li><li> &#187; <a class='noStyle' href='/aircraft.php'>329 aircraft models</a></li><li> &#187; <a class='noStyle' href='/vehicle.php'>184 vehicle models</a></li><li> &#187; <a class='noStyle' href='/weapon.php'>339 weapon models</a></li><li> &#187; <a class='noStyle' href='/doc.php'>102 historical documents</a></li><li> &#187; <a class='noStyle' href='/facility/'>175 facilities</a></li><li> &#187; <a class='noStyle' href='/book/'>457 book reviews</a></li><li> &#187; <a class='noStyle' href='/photo.php'>24,916 photos</a></li><li> &#187; <a class='noStyle' href='/reference/map/'>287 maps</a></li></ul>	<br />
+	<ul><li> &#187; <a class='noStyle' href='/person.php'>1,040 biographies</a></li><li> &#187; <a class='noStyle' href='/event/'>326 events</a></li><li> &#187; <a class='noStyle' href='/event/timeline/'>35,554 timeline entries</a></li><li> &#187; <a class='noStyle' href='/ship.php'>726 ships</a></li><li> &#187; <a class='noStyle' href='/aircraft.php'>329 aircraft models</a></li><li> &#187; <a class='noStyle' href='/vehicle.php'>184 vehicle models</a></li><li> &#187; <a class='noStyle' href='/weapon.php'>340 weapon models</a></li><li> &#187; <a class='noStyle' href='/doc.php'>102 historical documents</a></li><li> &#187; <a class='noStyle' href='/facility/'>175 facilities</a></li><li> &#187; <a class='noStyle' href='/book/'>457 book reviews</a></li><li> &#187; <a class='noStyle' href='/photo.php'>24,934 photos</a></li><li> &#187; <a class='noStyle' href='/reference/map/'>287 maps</a></li></ul>	<br />
 </div>
 
-<div class='sidehidden_m'><div class='sidetop'>Famous WW2 Quote</div>"Goddam it, you'll never get the Purple Heart hiding in a foxhole! Follow me!"<br><br>Captain Henry P. Jim Crowe, Guadalcanal, 13 Jan 1943</div><br /><br />				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<div class='sidehidden_m'><div class='sidetop'>Famous WW2 Quote</div>"The raising of that flag on Suribachi means a Marine Corps for the next 500 years."<br><br>James Forrestal, Secretary of the Navy, 23 Feb 1945</div><br /><br />				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		<!-- WW2DB Xcol Vertical Banner 160x600 -->
 		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="6471754899"></ins>
 		<script>
@@ -242,7 +284,7 @@ table.dataTable tbody td, table.dataTable thead td {
 		<li> &#187; <a href="/feed.php">Syndication</a></li>
 		<li> &#187; <a href="/termsofuse.php" rel="nofollow">Terms of Use & Disclosures</a></li>
 		<li> &#187; <a href="/">World War II Database Home</a></li>
-		<li> &#187; <a href='http://m.ww2db.com/ship_spec.php?ship_id=A273'>Mobile View</a></li>
+		<li> &#187; <a href='http://m.ww2db.com/ship_spec.php?ship_id=C62'>Mobile View</a></li>
 		</ul>		
 	</div>
 	<div style="float: left; padding: 0 5 0 5px; width: 282px; text-align: left;">

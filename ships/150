@@ -1,10 +1,10 @@
 <html>
 
 <head>
-<title>Escort Carrier USS Nehenta Bay | World War II Database</title>
+<title>Light Cruiser Kiso | World War II Database</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="description" content="Escort Carrier USS Nehenta Bay | World War II Database">
-<meta name="keywords" content="ww2db, world war, ww2, military, history, Escort Carrier USS Nehenta Bay | World War II Database">
+<meta name="description" content="Light Cruiser Kiso | World War II Database">
+<meta name="keywords" content="ww2db, world war, ww2, military, history, Light Cruiser Kiso | World War II Database">
 <meta name="ROBOTS" content="INDEX, FOLLOW">
 <meta name="REVISIT-AFTER" CONTENT="15 days">
 <META NAME="COPYRIGHT" CONTENT="Copyright © 2004-2018 Lava Development, LLC., all rights reserved">
@@ -23,23 +23,25 @@
 
 <link rel="alternate" type="application/rss+xml" title="WW2DB RSS Feed" href="https://ww2db.com/feedgen.php?feed=articles&f=RSS2.0" />
 
-<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=A175' />
-<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=175' />
+<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=C72' />
+<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=72' />
 
 <meta property="fb:app_id" content="103484127961" />
 <meta name="p:domain_verify" content="794c2d433a01b5d35554ba972a179eff"/>
 
+	<link rel="image_src" type="image/jpeg" href="http://ww2db.com/images/ship_kiso1.jpg" />
 	<meta property="og:site_name" content="WW2DB" />
-	<meta property="og:title" content="Escort Carrier USS Nehenta Bay" />
-	<meta property="og:description" content="Escort Carrier USS Nehenta Bay" />
+	<meta property="og:title" content="Light Cruiser Kiso" />
+	<meta property="og:description" content="Light Cruiser Kiso" />
 	<meta property="og:type" content="article" />
-	<meta property="og:url" content="https://ww2db.com/ship_spec.php?ship_id=A175" />
-	
+	<meta property="og:url" content="https://ww2db.com/ship_spec.php?ship_id=C72" />
+		<meta property="og:image" content="http://ww2db.com/images/ship_kiso1.jpg" />
+
 	<meta name='twitter:card' content='summary'>
 	<meta name='twitter:site' content='@ww2db'>
-	<meta name='twitter:title' content='Escort Carrier USS Nehenta Bay'>
-	<meta name='twitter:description' content='Escort Carrier USS Nehenta Bay'>
-	<meta name='twitter:image' content=''>
+	<meta name='twitter:title' content='Light Cruiser Kiso'>
+	<meta name='twitter:description' content='Light Cruiser Kiso'>
+	<meta name='twitter:image' content='http://ww2db.com/images/ship_kiso1.jpg'>
 				
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.5/css/jquery.dataTables.css">
 <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
@@ -75,7 +77,7 @@ table.dataTable tbody td, table.dataTable thead td {
 		</td></tr>
 		</table>
 		<div class="bannerflash">
-		<div style="background-image:url('/images/banner915_3.jpg'); height: 120px; min-height: 120px; width: 915px; min-width: 915px;">&nbsp;</div>		</div>
+		<div style="background-image:url('/images/banner915_2.jpg'); height: 120px; min-height: 120px; width: 915px; min-width: 915px;">&nbsp;</div>		</div>
 	</div>
 	<div id='nav' align='right'>
 		<ul id='navlist'>
@@ -84,20 +86,15 @@ table.dataTable tbody td, table.dataTable thead td {
 
 <div id="content">
 	<div itemscope itemtype="http://schema.org/Article" class="maincol">
-		<meta itemprop="url" content="<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=A175' />
-<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=175' />
+		<meta itemprop="url" content="<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=C72' />
+<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=72' />
 " />
-		<meta itemprop="description" content="Escort Carrier USS Nehenta Bay" />
+		<meta itemprop="description" content="Light Cruiser Kiso" />
 		<div id="breadcrumb"><ul class="horizontalList">
 				<li class="horizontalList"> <a href="index.php">Home</a></li>
 				<li class="horizontalList"> &#187; <a href="equip.php">Equipment</a></li>
-				<li class="horizontalList"> &#187; <a href="ship.php">Ships</a></li><li class="horizontalList"> &#187; <a href="ship.php?list=A">Carriers</a></li><li class="horizontalList"> &#187; Nehenta Bay</li></ul></div>
-<div style='display: inline; float: right;'><script async src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
-			<!-- WW2DB Top of Content 250x250 -->
-			<ins class='adsbygoogle' style='display:inline-block;width:250px;height:250px' data-ad-client='ca-pub-8359788307919731' data-ad-slot='1430818127'></ins>
-			<script>
-			(adsbygoogle = window.adsbygoogle || []).push({});
-			</script><script>
+				<li class="horizontalList"> &#187; <a href="ship.php">Ships</a></li><li class="horizontalList"> &#187; <a href="ship.php?list=C">Cruisers</a></li><li class="horizontalList"> &#187; Kiso</li></ul></div>
+<div style='display: inline; float: right;'><image itemprop='image' class='filephoto' alt='Kiso file photo [7758]' title='Kiso file photo [7758]' src='/images/ship_kiso1.jpg' /><script>
 		function resizeText(className, percent) {
 			var elements = document.getElementsByClassName(className);
 			for (var i = 0; i < elements.length; ++i) {
@@ -110,7 +107,65 @@ table.dataTable tbody td, table.dataTable thead td {
 				}
 			}
 		}
-		</script><br /><img src="/images/icon_font_small.jpg" onclick="resizeText('maincol', -10)" title="Decrease font size" /><img src="/images/icon_font_medium.jpg" onclick="resizeText('maincol', null)" title="Reset font size" /><img src="/images/icon_font_large.jpg" onclick="resizeText('maincol', 10)" title="Increase font size" /></div><div style='margin: 8px 0px 8px 0px;'><h2 itemprop='name' class='articleHeader'>USS Nehenta Bay</h2></div><table class="table_noborder"><tr><td class="table_noborder">Country</td><td class="table_noborder"><a href='/country/united%20states'>United States</a></td></tr><tr><td class="table_noborder">Ship Class</td><td class="table_noborder">Casablanca-class Escort Carrier</td></tr><tr><td class="table_noborder">Displacement</td><td class="table_noborder">7800 tons standard</td></tr><tr><td class="table_noborder">Length</td><td class="table_noborder">512 feet</td></tr><tr><td class="table_noborder">Beam</td><td class="table_noborder">65 feet</td></tr><tr><td class="table_noborder">Draft</td><td class="table_noborder">22 feet</td></tr><tr><td class="table_noborder">Machinery</td><td class="table_noborder">2 Skinner uniflow engines with two screws</td></tr><tr><td class="table_noborder">Power Output</td><td class="table_noborder">9000 SHP</td></tr><tr><td class="table_noborder">Speed</td><td class="table_noborder">19 knots</td></tr><tr><td class="table_noborder">Crew</td><td class="table_noborder">860</td></tr><tr><td class="table_noborder">Armament</td><td class="table_noborder">1x5-in Anti-aircraft, 8x40mm, 12x20mm</td></tr><tr><td class="table_noborder">Aircraft</td><td class="table_noborder">27</td></tr></table><p><small>Contributor: <a href='/person_bio.php?person_id=183'><span itemprop='author' itemscope itemtype='http://schema.org/Person'><span itemprop='name'></span></span></a></small></p><p>This article has been removed for review and updates, please check back again soon!</p><p><b>USS Nehenta Bay Operational Timeline</b></p><table border='0' cellspacing='0'><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/07/20/1943' alt='See all events on 20 Jul 1943' title='See all events on 20 Jul 1943' class='noStyle'>20 Jul 1943</a>&nbsp;</td><td>The keel of US escort carrier Nehenta Bay was laid down.</td></tr></table><br /><br /><br /><br />
+		</script><br /><img src="/images/icon_font_small.jpg" onclick="resizeText('maincol', -10)" title="Decrease font size" /><img src="/images/icon_font_medium.jpg" onclick="resizeText('maincol', null)" title="Reset font size" /><img src="/images/icon_font_large.jpg" onclick="resizeText('maincol', 10)" title="Increase font size" /></div><div style='margin: 8px 0px 8px 0px;'><h2 itemprop='name' class='articleHeader'>Kiso</h2></div><table class="table_noborder"><tr><td class="table_noborder">Country</td><td class="table_noborder"><a href='/country/japan'>Japan</a></td></tr><tr><td class="table_noborder">Ship Class</td><td class="table_noborder"><a href='ship_spec.php?ship_id=484'>Kuma-class Light Cruiser</a></td></tr><tr><td class="table_noborder">Builder</td><td class="table_noborder"><a href='/facility/Mitsubishi_Heavy_Industries/'>Mitsubishi Heavy Industries</a></td></tr><tr><td class="table_noborder">Laid Down</td><td class="table_noborder">10 Aug 1918</td></tr><tr><td class="table_noborder">Launched</td><td class="table_noborder">10 Feb 1920</td></tr><tr><td class="table_noborder">Commissioned</td><td class="table_noborder">29 Jan 1921</td></tr><tr><td class="table_noborder">Sunk</td><td class="table_noborder">13 Nov 1944</td></tr><tr><td class="table_noborder">Displacement</td><td class="table_noborder">5100 tons standard; 5832 tons full</td></tr><tr><td class="table_noborder">Length</td><td class="table_noborder">532 feet</td></tr><tr><td class="table_noborder">Beam</td><td class="table_noborder">46 feet</td></tr><tr><td class="table_noborder">Draft</td><td class="table_noborder">15 feet</td></tr><tr><td class="table_noborder">Machinery</td><td class="table_noborder">12 Kampon boilers, Gihon geared turbines, 4 shafts</td></tr><tr><td class="table_noborder">Power Output</td><td class="table_noborder">90000 SHP</td></tr><tr><td class="table_noborder">Speed</td><td class="table_noborder">36 knots</td></tr><tr><td class="table_noborder">Range</td><td class="table_noborder">5,000nm at 14 knots</td></tr><tr><td class="table_noborder">Crew</td><td class="table_noborder">439</td></tr><tr><td class="table_noborder">Armament</td><td class="table_noborder">1x127mm HA gun, 2x80mm guns, 3x3x25mm Type 96 AA guns, 2x2x25mm Type 96 AA guns, 6x1x25mm Type 96 AA guns, 4x2x533mm torpedo tubes, 48 mines</td></tr><tr><td class="table_noborder">Armor</td><td class="table_noborder">29mm deck</td></tr><tr><td class="table_noborder">Aircraft</td><td class="table_noborder">1 floatplane</td></tr><tr><td class="table_noborder">Catapult</td><td class="table_noborder">1</td></tr></table><p><small>Contributor: <a href='/person_bio.php?person_id=183'><span itemprop='author' itemscope itemtype='http://schema.org/Person'><span itemprop='name'></span></span></a></small></p><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Kiso was the final Kuma-class light cruiser, and was built with both a foward and an aft flat superstructure, with a rotating aft floatplane take-off platform for testing purposes.  Upon completion, she was sent to the Siberian coast of Russia during the Japanese Siberian Intervention against the Red Army.  During the late-1920s and mid-1930s, she was based at Port Arthur and patrolled the Chinese coast.  On 17 Apr 1939, she fired a 21-gun salute as USS Astoria arrived at Yokohama, Japan with the remains of ambassador Hiroshi Saito.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>On 10 Nov 1941, as a member of Cruiser Division 21 of the Japanese 5th Fleet, Kiso was sent to the Kurile Islands for patrols.  She received repairs at Yokosuka at the end of 1941, and returned to the Kurile Islands between Jan and Apr 1942.  In Apr 1942, she unsuccessfully searched for the American task force that launched the Doolittle Raiders, and she scuttled guard boats No. 26 Nanshin Maru and No. 1 Iwate Maru after those vessels had been damaged by USS Enterprise's aircraft during the raid.  In May 1942, she escorted converted seaplane tender Kimikawa Maru to scout Kiska and Adak in the Aleutian Islands, and on 28 May 1942 she sailed with the invasion force.  On 10 Jun 1942, she was attacked by six B-24 Liberator bombers, and on 14 Jun by PBY Catalina aircraft; she was damaged by near misses during the latter attack and returned to Japan for repairs, arriving on 24 Jun.  On 28 Jun, she sailed for Kiska with reinforcements and patrolled the region until she returned to Yokosuka on 16 Jul.  Returning to the Aleutian Islands, she participated in the evacuation of Attu on 20 Aug.  Between Oct 1942 and Mar 1943, she served in the Kurile and Aleutian Islands.  On 4 Apr 1943, she began a major refit, during which its 900-millimeter searchlights were replaced by three Type 96 1,100-millimeter search lights and received two Type 96 twin 25-millimeter anti-aircraft guns and a No. 21 air search radar.  On 21 May 1943, she was sent to Kiska, and on 29 Jul she evacuated 1,189 troops.  She remained in the Aleutian Islands until Aug 1943.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>On 15 Sep 1943, Kiso was re-assigned for operations in the South Pacific.  She ferried troops from Ponape to Truk, both of the Caroline Islands, in Sep 1943, and returned to Kure, Japan on 4 Oct.  On 12 Oct, she embarked troops in Shanghai, China and disembarked them at Truk on 18 Oct, narrowly escaping submarine USS Grayback en route in the East China Sea.  On 21 Oct, 53 miles from Cape St. George, she was attacked by Australian Beaufort bombers from Guadalcanal, Solomon Islands; she was hit by a 250-pound bomb and forced her to return to Maizuru, Japan for repairs, arriving on 10 Nov.  During the repairs, she had her two 140-millimeter gun mounts removed in exchange for a dual 127-millimeter high angle gun mount, three triple Type 96 25-millimeter anti-aircraft gun mounts, and a single Type 96 25-millimeter anti-aircraft gun mount.  The repair and modifications completed on 3 Mar 1944.  Until Jun, she patrolled the Kurile Islands.  On 30 Jun, she transported troops to the Bonin Islands, returning to Japan on 3 Jul, and remained in the Inland Sea region until Oct 1944 for training and guard duties.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Kiso and other destroyers departed Sasebo, Japan for the Philippine Islands in late Oct 1944 with carrier Junyo.  She was spotted 160 miles west of Cape Bolinao, Luzon, Philippine Islands by submarine USS Pintado, a member of a wolfpack of submarines; Pintado fired all six of her bow torpedoes, but one of the Japanese destroyers sacrificed herself to protect the carrier by moving into the torpedoes' path.  In Nov, she sailed with a task force including battleship Yamato, escorting the force part of the way on their journey back to Japan; en route, she was ordered to Manila, Luzon, Philippine Islands, where she became the flagship of the 5th Fleet.  On 13 Nov, Kiso and other ships were attacked by more than 350 carrier aircraft of US Navy Task Force 38 at Manila; she sustained a bomb hit in the bow, another near her boiler rooms, and a third near her aft gun mounts.  She sank in shallow water 8 miles north-northwest of Cavite.  Most of her crew, including Captain Ryonosuke Imamura, survived the sinking.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>After the war, Kiso's wreck was salvaged on 15 Dec 1955 by the Nippon Salvage Company.</p>
+<small><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span><i>Source: Wikipedia.</i></p></small>
+				<link rel='stylesheet' href='https://unpkg.com/leaflet@1.3.1/dist/leaflet.css'
+				   integrity='sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=='
+				   crossorigin=''/>
+				<script src='https://unpkg.com/leaflet@1.3.1/dist/leaflet.js'
+				   integrity='sha512-/Nsx9X4HebavoBvEBuyp3I7od5tA0UzAxs+j83KgC8PU0kgB4XiK4Lfe4y4cgBtaRJQEIFCW+oC506aPT2L1zw=='
+				   crossorigin=''></script>
+					<script src='https://unpkg.com/leaflet.markercluster@1.3.0/dist/leaflet.markercluster.js'></script>
+					<link href='https://unpkg.com/leaflet.markercluster@1.3.0/dist/MarkerCluster.css' rel='stylesheet' />
+					<link href='https://unpkg.com/leaflet.markercluster@1.3.0/dist/MarkerCluster.Default.css' rel='stylesheet' />
+				
+				<style>
+				.mapClass {
+					height: 400px; 
+				}
+				.infowindowSubTitle {
+					font-weight: bold;
+					margin-top: 10px;
+					margin-bottom: 10px;
+				}
+				</style>
+				
+				<p id='interactiveMapLabel'><b>Light Cruiser Kiso Interactive Map</b></p>
+				<div id='mapid' class='mapClass'></div>
+				<script>
+				var mymap = L.map('mapid').setView([35.649380000, 139.763726000], 13);
+			
+					L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.{ext}', {
+						attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+						subdomains: 'abcd',
+						minZoom: 0,
+						maxZoom: 18,
+						ext: 'png'
+					}).addTo(mymap);
+				
+				var rawDataArray = [  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Tokyo, Tokyo, Japan</h2><div class='infowindowSubTitle'>1937</div><a href='/image.php?image_id=7983'><img src='/images/imagemagick/tmb_ship_kiso4.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 35.649380000, 139.763726000, 1]];
+				var pointsArray = [];
+			
+					var markers = L.markerClusterGroup({ maxClusterRadius: 50 });
+					for (var i = 0; i < rawDataArray.length; i++) {
+						var a = rawDataArray[i];
+						var title = a[0];
+						var fill_color = '#FF0033';
+						var marker = L.marker(new L.LatLng(a[1], a[2]), { title: title, color: fill_color });
+						marker.bindPopup(L.popup({maxHeight:200}).setContent(title));
+						markers.addLayer(marker);
+						pointsArray.push(marker);
+					}
+					mymap.addLayer(markers);
+				
+				var group = new L.featureGroup(pointsArray);
+				mymap.fitBounds(group.getBounds());
+				</script>
+			<p><b>Kiso Operational Timeline</b></p><table border='0' cellspacing='0'><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/01/29/1921' alt='See all events on 29 Jan 1921' title='See all events on 29 Jan 1921' class='noStyle'>29 Jan 1921</a>&nbsp;</td><td>Kiso was commissioned into service.</td></tr></table><br /><p><b>Photographs</b></p><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href="/image.php?image_id=7983"><img src="/images/imagemagick/tmb_ship_kiso4.jpg" border='0' alt='Light cruiser Kiso at a pier at Shibaura, Tokyo, Japan, 1937'></a></td><td><a href="/image.php?image_id=7759"><img src="/images/imagemagick/tmb_ship_kiso2.jpg" border='0' alt='Light cruiser Kiso in the Aleutian Islands, 1942; note Arctic camouflage'></a></td><td><a href="/image.php?image_id=7974"><img src="/images/imagemagick/tmb_ship_kiso3.jpg" border='0' alt='Kiso sunken in Manila Bay, Philippine Islands, post-war'></a></td></tr></table><br /><br /><br /><br />
 				<center><table border='0' cellpadding='0' cellspacing='0' width='100%'>
 				<tr><td valign='top' width='382'><p>Did you enjoy this article?  Please consider supporting us on <a href='https://www.patreon.com/ww2db' rel='nofollow' target='_patreon' onclick='javascript: ga("send","pageview","/outgoing/www.patreon.com/ww2db/");'>Patreon</a>.  Even $1 per month will go a long way!  Thank you.</p>
 		<table border='0' cellpadding='0' cellspacing='0'>
@@ -118,19 +173,19 @@ table.dataTable tbody td, table.dataTable thead td {
 			<td colspan='9'>Share this article with your friends:<br /><br /></td>
 		</tr>
 		<tr>
-			<td><a title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=A175' target='_facebook' rel='nofollow'><img src='/images/icon_facebook.gif' border='0'></a></td><td>&nbsp;</td><td><a id='facebook' title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=A175' target='_facebook'>Facebook</a></td>
-			<td><a title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A175&title=Escort Carrier USS Nehenta Bay' target='_reddit' rel='nofollow'><img src='/images/icon_reddit.gif' border='0'></a></td><td>&nbsp;</td><td><a id='reddit' title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A175&title=Escort Carrier USS Nehenta Bay' target='_reddit'>Reddit</a></td>
+			<td><a title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=C72' target='_facebook' rel='nofollow'><img src='/images/icon_facebook.gif' border='0'></a></td><td>&nbsp;</td><td><a id='facebook' title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=C72' target='_facebook'>Facebook</a></td>
+			<td><a title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C72&title=Light Cruiser Kiso' target='_reddit' rel='nofollow'><img src='/images/icon_reddit.gif' border='0'></a></td><td>&nbsp;</td><td><a id='reddit' title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C72&title=Light Cruiser Kiso' target='_reddit'>Reddit</a></td>
 		</tr>
 		<tr>
-			<td><a title='Tweet this page' href='http://twitter.com/home/?status=Escort+Carrier+USS+Nehenta+Bay+https://ww2db.com:443/ship_spec.php?ship_id=A175' target='_twitter' rel='nofollow'><img src='/images/icon_twitter.gif' border='0'></a></td><td>&nbsp;</td><td><a id='twitter' title='Tweet this page' href='http://twitter.com/home/?status=Escort+Carrier+USS+Nehenta+Bay+https://ww2db.com:443/ship_spec.php?ship_id=A175' target='_twitter'>Twitter</a></td>
-			<td><a title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A175&title=Escort Carrier USS Nehenta Bay' target='_digg' rel='nofollow'><img src='/images/icon_digg.gif' border='0'></a></td><td>&nbsp;</td><td><a id='digg' title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A175&title=Escort Carrier USS Nehenta Bay' target='_digg'>Digg</a></td>
+			<td><a title='Tweet this page' href='http://twitter.com/home/?status=Light+Cruiser+Kiso+https://ww2db.com:443/ship_spec.php?ship_id=C72' target='_twitter' rel='nofollow'><img src='/images/icon_twitter.gif' border='0'></a></td><td>&nbsp;</td><td><a id='twitter' title='Tweet this page' href='http://twitter.com/home/?status=Light+Cruiser+Kiso+https://ww2db.com:443/ship_spec.php?ship_id=C72' target='_twitter'>Twitter</a></td>
+			<td><a title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C72&title=Light Cruiser Kiso' target='_digg' rel='nofollow'><img src='/images/icon_digg.gif' border='0'></a></td><td>&nbsp;</td><td><a id='digg' title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C72&title=Light Cruiser Kiso' target='_digg'>Digg</a></td>
 		</tr>
 		<tr>
-			<td><a title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=A175' target='_googleplus' rel='nofollow'><img src='/images/icon_googleplus2.png' border='0'></a></td><td>&nbsp;</td><td><a id='googleplus' title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=A175' target='_googleplus'>Google+</a></td>
-			<td><a title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=A175&title=Escort Carrier USS Nehenta Bay' target='_delicious' rel='nofollow'><img src='/images/icon_delicious.gif' border='0'></a></td><td>&nbsp;</td><td><a id='delicious' title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=A175&title=Escort Carrier USS Nehenta Bay' target='_delicious'>Delicious</a></td>
+			<td><a title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=C72' target='_googleplus' rel='nofollow'><img src='/images/icon_googleplus2.png' border='0'></a></td><td>&nbsp;</td><td><a id='googleplus' title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=C72' target='_googleplus'>Google+</a></td>
+			<td><a title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=C72&title=Light Cruiser Kiso' target='_delicious' rel='nofollow'><img src='/images/icon_delicious.gif' border='0'></a></td><td>&nbsp;</td><td><a id='delicious' title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=C72&title=Light Cruiser Kiso' target='_delicious'>Delicious</a></td>
 		</tr>
 		<tr>
-			<td><a title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A175&title=Escort Carrier USS Nehenta Bay' target='_stumbleupon' rel='nofollow'><img src='/images/icon_stumbleupon.gif' border='0'></a></td><td>&nbsp;</td><td><a id='stumbleupon' title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A175&title=Escort Carrier USS Nehenta Bay' target='_stumbleupon'>StumbleUpon</a></td>
+			<td><a title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C72&title=Light Cruiser Kiso' target='_stumbleupon' rel='nofollow'><img src='/images/icon_stumbleupon.gif' border='0'></a></td><td>&nbsp;</td><td><a id='stumbleupon' title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C72&title=Light Cruiser Kiso' target='_stumbleupon'>StumbleUpon</a></td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -167,16 +222,16 @@ table.dataTable tbody td, table.dataTable thead td {
 	<tr><td valign="top">Your Comments</td><td><textarea name="comment" cols="30" rows="6"></textarea></td></tr>
 	<tr><td valign="top">Security Code</td>
 		<td valign="top">
-			<div style="background-image:url('/images/captcha/captcha10.jpg'); height: 40px; min-height: 40px; width: 100px; min-width: 100px;">&nbsp;</div>			<br />
+			<div style="background-image:url('/images/captcha/captcha2.jpg'); height: 40px; min-height: 40px; width: 100px; min-width: 100px;">&nbsp;</div>			<br />
 			<input type="text" name="captcha" style="margin-bottom: 2px;">
 		</td>
 	</tr>
 	<tr>
 		<td>&nbsp;</td>
 		<td valign="top"><input type="hidden" name="foreigntype" value="S">
-		<input type="hidden" name="foreigntype_id" value="175">
-		<input type="hidden" name="url" value="/ship_spec.php?ship_id=A175">
-		<input type="hidden" name="c" value="87"> 		<input type="submit" value="Submit"></td>
+		<input type="hidden" name="foreigntype_id" value="72">
+		<input type="hidden" name="url" value="/ship_spec.php?ship_id=C72">
+		<input type="hidden" name="c" value="79"> 		<input type="submit" value="Submit"></td>
 	</tr>
 	</table>
 	</center>
@@ -197,14 +252,7 @@ table.dataTable tbody td, table.dataTable thead td {
 </form>
 <script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=searchbox_004186240537787039759%3Aptfrvampo3a"></script>
 </ul>
-<div class="sidetop">More on USS Nehenta Bay</div><i>Event(s) Participated:</i><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=323>Raid into the South China Sea</a><br><br />	<div class="sidehidden_m">
-		<div class="sidetop">Random Photograph</div>
-		<center>
-			<div style="background-image: url('/images/imagemagick/tmb_50f900aaec934.jpg'); background-repeat: no-repeat; width: 150px; min-width: 150px;"><a href='/image.php?image_id=17903'><img src='/images/icon_transparent.gif' border='0' width='150' height='100' /><br /></a></div>
-			<a href='/image.php?image_id=17903'>A P-47D Thunderbolt of the 318th Fighter Group is loaded into an Escort Carrier hangar bay by way of the aircraft elevator, Pearl Harbor, Hawaii, June 1944. The Fighter Group was on its way to Saipan, Marianas.</a><br />
-			</center>		<br /><br />
-	</div>
-		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<div class="sidetop">More on Kiso</div><i>Personnel:</i><br>&raquo;&nbsp;<a href=person_bio.php?person_id=341>Matsuda, Chiaki</a><br><br><i>Event(s) Participated:</i><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=6>Battle of Midway and the Aleutian Islands</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=20>Aleutian Islands Campaign</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=27>Philippines Campaign, Phase 2</a><br><br /><i>Partner Sites Content:</i><br />&raquo;&nbsp;<a href='http://www.combinedfleet.com/kiso_t.htm' target='_combinedfleet' onclick="javascript: pageTracker._trackPageview('/outgoing/www.combinedfleet.com/kiso_t.htm');">Kiso Tabular Record of Movement</a><br /><div class='sidehidden_m'><div class='sidetop'>Light Cruiser Kiso Photo Gallery</div><center><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=72'><img src="/images/imagemagick/tmb_ship_kiso4.jpg" border='0' alt='Light cruiser Kiso at a pier at Shibaura, Tokyo, Japan, 1937'></a></td></tr></table></center><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=72'>See all 3 photographs of Light Cruiser Kiso</a></div><br /><br />		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		<!-- WW2DB Xcol Links 160x90 -->
 		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:90px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="5126713011"></ins>
 		<script>
@@ -213,10 +261,10 @@ table.dataTable tbody td, table.dataTable thead td {
 		<br /><br />
 	<div class="sidehidden_m">
 	<div class="sidetop">Current Site Statistics</div>
-	<ul><li> &#187; <a class='noStyle' href='/person.php'>1,039 biographies</a></li><li> &#187; <a class='noStyle' href='/event/'>326 events</a></li><li> &#187; <a class='noStyle' href='/event/timeline/'>35,502 timeline entries</a></li><li> &#187; <a class='noStyle' href='/ship.php'>726 ships</a></li><li> &#187; <a class='noStyle' href='/aircraft.php'>329 aircraft models</a></li><li> &#187; <a class='noStyle' href='/vehicle.php'>184 vehicle models</a></li><li> &#187; <a class='noStyle' href='/weapon.php'>339 weapon models</a></li><li> &#187; <a class='noStyle' href='/doc.php'>102 historical documents</a></li><li> &#187; <a class='noStyle' href='/facility/'>175 facilities</a></li><li> &#187; <a class='noStyle' href='/book/'>457 book reviews</a></li><li> &#187; <a class='noStyle' href='/photo.php'>24,916 photos</a></li><li> &#187; <a class='noStyle' href='/reference/map/'>287 maps</a></li></ul>	<br />
+	<ul><li> &#187; <a class='noStyle' href='/person.php'>1,040 biographies</a></li><li> &#187; <a class='noStyle' href='/event/'>326 events</a></li><li> &#187; <a class='noStyle' href='/event/timeline/'>35,554 timeline entries</a></li><li> &#187; <a class='noStyle' href='/ship.php'>726 ships</a></li><li> &#187; <a class='noStyle' href='/aircraft.php'>329 aircraft models</a></li><li> &#187; <a class='noStyle' href='/vehicle.php'>184 vehicle models</a></li><li> &#187; <a class='noStyle' href='/weapon.php'>340 weapon models</a></li><li> &#187; <a class='noStyle' href='/doc.php'>102 historical documents</a></li><li> &#187; <a class='noStyle' href='/facility/'>175 facilities</a></li><li> &#187; <a class='noStyle' href='/book/'>457 book reviews</a></li><li> &#187; <a class='noStyle' href='/photo.php'>24,934 photos</a></li><li> &#187; <a class='noStyle' href='/reference/map/'>287 maps</a></li></ul>	<br />
 </div>
 
-<div class='sidehidden_m'><div class='sidetop'>Famous WW2 Quote</div>"All right, they're on our left, they're on our right, they're in front of us, they're behind us... they can't get away this time."<br><br>Lt. Gen. Lewis B. "Chesty" Puller, at Guadalcanal</div><br /><br />				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<div class='sidehidden_m'><div class='sidetop'>Famous WW2 Quote</div>"Goddam it, you'll never get the Purple Heart hiding in a foxhole! Follow me!"<br><br>Captain Henry P. Jim Crowe, Guadalcanal, 13 Jan 1943</div><br /><br />				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		<!-- WW2DB Xcol Vertical Banner 160x600 -->
 		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="6471754899"></ins>
 		<script>
@@ -240,7 +288,7 @@ table.dataTable tbody td, table.dataTable thead td {
 		<li> &#187; <a href="/feed.php">Syndication</a></li>
 		<li> &#187; <a href="/termsofuse.php" rel="nofollow">Terms of Use & Disclosures</a></li>
 		<li> &#187; <a href="/">World War II Database Home</a></li>
-		<li> &#187; <a href='http://m.ww2db.com/ship_spec.php?ship_id=A175'>Mobile View</a></li>
+		<li> &#187; <a href='http://m.ww2db.com/ship_spec.php?ship_id=C72'>Mobile View</a></li>
 		</ul>		
 	</div>
 	<div style="float: left; padding: 0 5 0 5px; width: 282px; text-align: left;">
@@ -273,7 +321,7 @@ table.dataTable tbody td, table.dataTable thead td {
 		<script>
 		(adsbygoogle = window.adsbygoogle || []).push({});
 		</script>
-	<br /><center>		<a href="http://amzn.to/2jfeSrN" target="_amazon" rel="nofollow" onclick="javascript: ga('send','pageview','/outgoing/amzn.to/2jfeSrN');"><img src="/images/ad_frontlines_of_television_war_728.jpg" /></a><br /><br />
+	<br /><center>		<a href="http://amzn.to/2he65an" target="_amazon" rel="nofollow" onclick="javascript: ga('send','pageview','/outgoing/amzn.to/2he65an');"><img src="/images/ad_shattered_sword_728.jpg" /></a><br /><br />
 		</center>
 <br /><br />
 

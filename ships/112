@@ -1,10 +1,10 @@
 <html>
 
 <head>
-<title>Aircraft Carrier Amagi | World War II Database</title>
+<title>Light Cruiser Agano | World War II Database</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="description" content="Aircraft Carrier Amagi | World War II Database">
-<meta name="keywords" content="ww2db, world war, ww2, military, history, Aircraft Carrier Amagi | World War II Database">
+<meta name="description" content="Light Cruiser Agano | World War II Database">
+<meta name="keywords" content="ww2db, world war, ww2, military, history, Light Cruiser Agano | World War II Database">
 <meta name="ROBOTS" content="INDEX, FOLLOW">
 <meta name="REVISIT-AFTER" CONTENT="15 days">
 <META NAME="COPYRIGHT" CONTENT="Copyright © 2004-2018 Lava Development, LLC., all rights reserved">
@@ -23,25 +23,25 @@
 
 <link rel="alternate" type="application/rss+xml" title="WW2DB RSS Feed" href="https://ww2db.com/feedgen.php?feed=articles&f=RSS2.0" />
 
-<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=A14' />
-<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=14' />
+<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=C51' />
+<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=51' />
 
 <meta property="fb:app_id" content="103484127961" />
 <meta name="p:domain_verify" content="794c2d433a01b5d35554ba972a179eff"/>
 
-	<link rel="image_src" type="image/jpeg" href="http://ww2db.com/images/ship_amagi2.jpg" />
+	<link rel="image_src" type="image/jpeg" href="http://ww2db.com/images/ship_agano1.jpg" />
 	<meta property="og:site_name" content="WW2DB" />
-	<meta property="og:title" content="Aircraft Carrier Amagi" />
-	<meta property="og:description" content="Aircraft Carrier Amagi" />
+	<meta property="og:title" content="Light Cruiser Agano" />
+	<meta property="og:description" content="Light Cruiser Agano" />
 	<meta property="og:type" content="article" />
-	<meta property="og:url" content="https://ww2db.com/ship_spec.php?ship_id=A14" />
-		<meta property="og:image" content="http://ww2db.com/images/ship_amagi2.jpg" />
+	<meta property="og:url" content="https://ww2db.com/ship_spec.php?ship_id=C51" />
+		<meta property="og:image" content="http://ww2db.com/images/ship_agano1.jpg" />
 
 	<meta name='twitter:card' content='summary'>
 	<meta name='twitter:site' content='@ww2db'>
-	<meta name='twitter:title' content='Aircraft Carrier Amagi'>
-	<meta name='twitter:description' content='Aircraft Carrier Amagi'>
-	<meta name='twitter:image' content='http://ww2db.com/images/ship_amagi2.jpg'>
+	<meta name='twitter:title' content='Light Cruiser Agano'>
+	<meta name='twitter:description' content='Light Cruiser Agano'>
+	<meta name='twitter:image' content='http://ww2db.com/images/ship_agano1.jpg'>
 				
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.5/css/jquery.dataTables.css">
 <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
@@ -77,7 +77,7 @@ table.dataTable tbody td, table.dataTable thead td {
 		</td></tr>
 		</table>
 		<div class="bannerflash">
-		<div style="background-image:url('/images/banner915_1.jpg'); height: 120px; min-height: 120px; width: 915px; min-width: 915px;">&nbsp;</div>		</div>
+		<div style="background-image:url('/images/banner915_2.jpg'); height: 120px; min-height: 120px; width: 915px; min-width: 915px;">&nbsp;</div>		</div>
 	</div>
 	<div id='nav' align='right'>
 		<ul id='navlist'>
@@ -86,15 +86,15 @@ table.dataTable tbody td, table.dataTable thead td {
 
 <div id="content">
 	<div itemscope itemtype="http://schema.org/Article" class="maincol">
-		<meta itemprop="url" content="<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=A14' />
-<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=14' />
+		<meta itemprop="url" content="<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=C51' />
+<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=51' />
 " />
-		<meta itemprop="description" content="Aircraft Carrier Amagi" />
+		<meta itemprop="description" content="Light Cruiser Agano" />
 		<div id="breadcrumb"><ul class="horizontalList">
 				<li class="horizontalList"> <a href="index.php">Home</a></li>
 				<li class="horizontalList"> &#187; <a href="equip.php">Equipment</a></li>
-				<li class="horizontalList"> &#187; <a href="ship.php">Ships</a></li><li class="horizontalList"> &#187; <a href="ship.php?list=A">Carriers</a></li><li class="horizontalList"> &#187; Amagi</li></ul></div>
-<div style='display: inline; float: right;'><image itemprop='image' class='filephoto' alt='Amagi file photo [7556]' title='Amagi file photo [7556]' src='/images/ship_amagi2.jpg' /><script>
+				<li class="horizontalList"> &#187; <a href="ship.php">Ships</a></li><li class="horizontalList"> &#187; <a href="ship.php?list=C">Cruisers</a></li><li class="horizontalList"> &#187; Agano</li></ul></div>
+<div style='display: inline; float: right;'><image itemprop='image' class='filephoto' alt='Agano file photo [1086]' title='Agano file photo [1086]' src='/images/ship_agano1.jpg' /><script>
 		function resizeText(className, percent) {
 			var elements = document.getElementsByClassName(className);
 			for (var i = 0; i < elements.length; ++i) {
@@ -107,66 +107,9 @@ table.dataTable tbody td, table.dataTable thead td {
 				}
 			}
 		}
-		</script><br /><img src="/images/icon_font_small.jpg" onclick="resizeText('maincol', -10)" title="Decrease font size" /><img src="/images/icon_font_medium.jpg" onclick="resizeText('maincol', null)" title="Reset font size" /><img src="/images/icon_font_large.jpg" onclick="resizeText('maincol', 10)" title="Increase font size" /></div><div style='margin: 8px 0px 8px 0px;'><h2 itemprop='name' class='articleHeader'>Amagi</h2></div><table class="table_noborder"><tr><td class="table_noborder">Country</td><td class="table_noborder"><a href='/country/japan'>Japan</a></td></tr><tr><td class="table_noborder">Ship Class</td><td class="table_noborder"><a href='ship_spec.php?ship_id=462'>Unryu-class Aircraft Carrier</a></td></tr><tr><td class="table_noborder">Builder</td><td class="table_noborder"><a href='/facility/Mitsubishi_Heavy_Industries/'>Mitsubishi Heavy Industries</a></td></tr><tr><td class="table_noborder">Laid Down</td><td class="table_noborder">1 Oct 1942</td></tr><tr><td class="table_noborder">Launched</td><td class="table_noborder">15 Oct 1943</td></tr><tr><td class="table_noborder">Commissioned</td><td class="table_noborder">10 Aug 1944</td></tr><tr><td class="table_noborder">Sunk</td><td class="table_noborder">29 Jul 1945</td></tr><tr><td class="table_noborder">Displacement</td><td class="table_noborder">22534 tons standard; 22800 tons full</td></tr><tr><td class="table_noborder">Length</td><td class="table_noborder">745 feet</td></tr><tr><td class="table_noborder">Beam</td><td class="table_noborder">72 feet</td></tr><tr><td class="table_noborder">Draft</td><td class="table_noborder">25 feet</td></tr><tr><td class="table_noborder">Machinery</td><td class="table_noborder">Steam turbines, 8 boilers, 4 shafts</td></tr><tr><td class="table_noborder">Power Output</td><td class="table_noborder">152000 SHP</td></tr><tr><td class="table_noborder">Speed</td><td class="table_noborder">34 knots</td></tr><tr><td class="table_noborder">Range</td><td class="table_noborder">9,700nm at 18 knots</td></tr><tr><td class="table_noborder">Crew</td><td class="table_noborder">1595</td></tr><tr><td class="table_noborder">Armament</td><td class="table_noborder">6x127mm, 51x25mm anti-aircraft</td></tr><tr><td class="table_noborder">Aircraft</td><td class="table_noborder">65</td></tr></table><p><small>Contributor: <a href='/person_bio.php?person_id=179'><span itemprop='author' itemscope itemtype='http://schema.org/Person'><span itemprop='name'>C. Peter Chen</span></span></a></small></p><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Amagi was named after the town of Amagi, Fukuoka, Japan and was built by Mitsubishi at Nagasaki.  Under the command of Captain Kamenosuke Yamamori, she joined Carrier Division 1 of the Third Fleet in August 1944, immediately following completion.  She carried 23 A6M Zero fighters, 21 D3A dive bombers, and 21 B6N torpedo bombers.  Between Aug and Oct 1944, she was the flagship of Vice Admiral Jisaburo Ozawa's Mobile Fleet.  On 23 Oct 1944, Captain Toshio Miyazaki was named the commanding officer of the ship.  On 20 Dec 1944, Rear Admiral Sueo Obayashi of Carrier Division 1 made Amagi his flagship, 10 days after he took over the division.  After torpedo attack exercises, she arrived at Kure, Japan on 10 Feb 1945, where she was relieved of flagship duty.  On 15 Mar, she joined the 2nd Fleet.</p>
-<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>On 19 Mar 1945, while at anchor, Amagi was attacked by American aircraft.  One bomb hit on the flight deck at starboard aft jammed the aft elevator in the down position.  Her gunners claimed 12 kills, though the number was likely inflated.</p>
-<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>By Apr, due to the lack of aircraft and escorts, Amagi was deemed ineffective for the war effort, and entered semi-permanent mooring status.  On 13 Apr, camouflaging work on her began, which included fake trees, houses, and streets.  On 20 Apr, Captain Shiro Hiratsuka took over command of Amagi as Captain Miyazaki became the commanding officer of both Amagi and Katsuragi at Kure.  Crews of both ships were reduced to minimum.</p>
-<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>In the morning of 24 Jul 1945, Amagi was attacked by American carrier-based aircraft from Task Force 38.  She was damaged by near-misses on both sides at the onset of the attack, including a port side near-miss that blasted a hole 15 feet below the water line and flooded the forward bomb magazine.  At about 1000, she was struck by two bombs.  The first, a 500-pound bomb, detonated, in the starboard passageway, damaging the No. 2 stack and opened a hole in the starboard hull.  The second bomb, the larger bomb, detonated on the centerline amidships, penetrating 25 feet and exploded close to the upper hangar deck, causing serious structural damage.  At about 1200, the order to abandon ship was given as bombs continued to fall, causing near-misses that further damaged the ship.  The evacuation was completed at 1530.  By the end of the attack, her flight deck was completely destroyed, and she suffered a slight list to port due to flooding, but she did not sink, largely thanks to the lack of widespread fire.  Over the next few days, flooding became progressively worse, but she remained upright.</p>
-<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>On 28 Jul, aircraft from Task Force 38 returned for another raid.  Amagi received one or two direct bomb hits and many near-misses.  The exact details of the damage were unclear due to the ship's status as already abandoned (only a small firefighting team from Kure Navy Yard was aboard), but it was apparent that flooding was now uncontrollable.  Her list to port grew worse, and by the morning of 29 Jul, her bow was dipping below the water surface.  At 1000 on 29 Jul 1945, she capsized to port and ran aground, dumping her damaged flight deck into the water and exposing her starboard screws.</p>
-<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>After the sinking, only one officer and four petty officers were assigned to Amagi as her caretaker crew.  After the war, she was inspected by Americans on 13 Oct 1945, then was refloated in Dec 1946 for scrapping, which completed on 12 Dec 1947.</p>
-<small><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span><i>Source: Imperial Japanese Navy Page.</i></p></small>
-				<link rel='stylesheet' href='https://unpkg.com/leaflet@1.3.1/dist/leaflet.css'
-				   integrity='sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=='
-				   crossorigin=''/>
-				<script src='https://unpkg.com/leaflet@1.3.1/dist/leaflet.js'
-				   integrity='sha512-/Nsx9X4HebavoBvEBuyp3I7od5tA0UzAxs+j83KgC8PU0kgB4XiK4Lfe4y4cgBtaRJQEIFCW+oC506aPT2L1zw=='
-				   crossorigin=''></script>
-					<script src='https://unpkg.com/leaflet.markercluster@1.3.0/dist/leaflet.markercluster.js'></script>
-					<link href='https://unpkg.com/leaflet.markercluster@1.3.0/dist/MarkerCluster.css' rel='stylesheet' />
-					<link href='https://unpkg.com/leaflet.markercluster@1.3.0/dist/MarkerCluster.Default.css' rel='stylesheet' />
-				
-				<style>
-				.mapClass {
-					height: 400px; 
-				}
-				.infowindowSubTitle {
-					font-weight: bold;
-					margin-top: 10px;
-					margin-bottom: 10px;
-				}
-				</style>
-				
-				<p id='interactiveMapLabel'><b>Aircraft Carrier Amagi Interactive Map</b></p>
-				<div id='mapid' class='mapClass'></div>
-				<script>
-				var mymap = L.map('mapid').setView([34.196383000, 132.514351000], 13);
-			
-					L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.{ext}', {
-						attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-						subdomains: 'abcd',
-						minZoom: 0,
-						maxZoom: 18,
-						ext: 'png'
-					}).addTo(mymap);
-				
-				var rawDataArray = [  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Kure, Hiroshima, Japan</h2><div class='infowindowSubTitle'>24 Jul 1945</div><a href='/image.php?image_id=19443'><img src='/images/imagemagick/tmb_ship_amagi4.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 34.196383000, 132.514351000, 1]];
-				var pointsArray = [];
-			
-					var markers = L.markerClusterGroup({ maxClusterRadius: 50 });
-					for (var i = 0; i < rawDataArray.length; i++) {
-						var a = rawDataArray[i];
-						var title = a[0];
-						var fill_color = '#FF0033';
-						var marker = L.marker(new L.LatLng(a[1], a[2]), { title: title, color: fill_color });
-						marker.bindPopup(L.popup({maxHeight:200}).setContent(title));
-						markers.addLayer(marker);
-						pointsArray.push(marker);
-					}
-					mymap.addLayer(markers);
-				
-				var group = new L.featureGroup(pointsArray);
-				mymap.fitBounds(group.getBounds());
-				</script>
-			<p><b>Amagi Operational Timeline</b></p><table border='0' cellspacing='0'><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/08/10/1944' alt='See all events on 10 Aug 1944' title='See all events on 10 Aug 1944' class='noStyle'>10 Aug 1944</a>&nbsp;</td><td>Amagi was commissioned into service.</td></tr></table><br /><p><b>Photographs</b></p><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href="/image.php?image_id=7557"><img src="/images/imagemagick/tmb_ship_amagi3.jpg" border='0' alt='Carrier Amagi around the time of her commissioning, Aug 1944'></a></td><td><a href="/image.php?image_id=1512"><img src="/images/imagemagick/tmb_ship_kaiyo2.jpg" border='0' alt='Kaiyo (center) under attack by SB2C Helldiver bombers from USS Essex, Kure, Japan, 19 Mar 1945; the carrier at bottom was either Amagi or Katsuragi'></a></td><td><a href="/image.php?image_id=19443"><img src="/images/imagemagick/tmb_ship_amagi4.jpg" border='0' alt='Carriers Amagi (near bomb splashes) and Katsuragi (center-right, heavily camouflaged) under attack, Kure, Japan, 24 Jul 1945'></a></td><td><a href="/image.php?image_id=5049"><img src="/images/imagemagick/tmb_ship_amagi1.jpg" border='0' alt='Amagi capsized at Kure, Japan, Aug 1946'></a></td></tr></table><br /><br /><br /><br />
+		</script><br /><img src="/images/icon_font_small.jpg" onclick="resizeText('maincol', -10)" title="Decrease font size" /><img src="/images/icon_font_medium.jpg" onclick="resizeText('maincol', null)" title="Reset font size" /><img src="/images/icon_font_large.jpg" onclick="resizeText('maincol', 10)" title="Increase font size" /></div><div style='margin: 8px 0px 8px 0px;'><h2 itemprop='name' class='articleHeader'>Agano</h2></div><table class="table_noborder"><tr><td class="table_noborder">Country</td><td class="table_noborder"><a href='/country/japan'>Japan</a></td></tr><tr><td class="table_noborder">Ship Class</td><td class="table_noborder"><a href='ship_spec.php?ship_id=474'>Agano-class Light Cruiser</a></td></tr><tr><td class="table_noborder">Builder</td><td class="table_noborder"><a href='/facility/Sasebo_Naval_Arsenal/'>Sasebo Naval Arsenal</a></td></tr><tr><td class="table_noborder">Launched</td><td class="table_noborder">22 Oct 1941</td></tr><tr><td class="table_noborder">Sunk</td><td class="table_noborder">17 Feb 1944</td></tr><tr><td class="table_noborder">Displacement</td><td class="table_noborder">6650 tons standard; 8534 tons full</td></tr><tr><td class="table_noborder">Length</td><td class="table_noborder">571 feet</td></tr><tr><td class="table_noborder">Beam</td><td class="table_noborder">49 feet</td></tr><tr><td class="table_noborder">Draft</td><td class="table_noborder">18 feet</td></tr><tr><td class="table_noborder">Bunkerage</td><td class="table_noborder">1,405 tons oil</td></tr><tr><td class="table_noborder">Power Output</td><td class="table_noborder">100000 SHP</td></tr><tr><td class="table_noborder">Speed</td><td class="table_noborder">35 knots</td></tr><tr><td class="table_noborder">Range</td><td class="table_noborder">6,300nm at 18 knots</td></tr><tr><td class="table_noborder">Armament</td><td class="table_noborder">6x6-in, 4x3-in, 16x25mm anti-aircraft, 8x24-in torpedo tubes, 16 depth charges</td></tr><tr><td class="table_noborder">Aircraft</td><td class="table_noborder">2</td></tr><tr><td class="table_noborder">Catapult</td><td class="table_noborder">1</td></tr></table><p><small>Contributor: <a href='/person_bio.php?person_id=183'><span itemprop='author' itemscope itemtype='http://schema.org/Person'><span itemprop='name'></span></span></a></small></p><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>The light cruiser Agano's first assignments were escort missions, first as escort to troop transports off Wewak and Medang, then she participated in safeguarding the evacuation of Japanese troops from Guadalcanal.  In Jun 1943, she was fitted with Type 21 search radar, making her one of the only handful of ships equipped with this modern equipment.  As a part of a larger task force, she patrolled off Truk and Eniwetok of the Caroline Islands in search of American submarines and the suspected oncoming invasion force, but failed to make contact.  On 2 Nov 1943, she engaged American forces off Rabaul and then suffered minor damage from a near-miss from aircrafts of USS Saratoga and USS Princeton while Agano was in port.  However, she was struck by a torpedo in the subsequent strike at Rabaul.  While en route for Truk, she was hit again by a torpedo, this time from the submarine USS Scamp.  She was towed the rest of the way and arrived at Truk on 16 Nov.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>After three months of hasty makeshift repairs, Agano was partially repaired, and was ordered to return to the Japanese home islands for a complete repair.  She was detected by USS Skate only 160 miles out of Truk, and the American submarine promptly sank her.  Kamikaze-class destroyer Oite picked up 523 survivors.  However, Oite proved to be as vulnerable off Truk as Agano was: she was spotted by Avengers while returning to port.  She was sunk by the Avengers, and only twenty crew members survived the sinking.  All of the rescued Agano crew members were lost in the sinking of Oite.</p>
+<small><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span><i>Source: Wikipedia.</i></p></small><p><b>Agano Operational Timeline</b></p><table border='0' cellspacing='0'><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/11/05/1943' alt='See all events on 5 Nov 1943' title='See all events on 5 Nov 1943' class='noStyle'>5 Nov 1943</a>&nbsp;</td><td>During the US raid on Rabaul, New Britain, Agano was damaged by a near miss, killing one.</td></tr></table><br /><p><b>Photographs</b></p><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href="/image.php?image_id=1087"><img src="/images/imagemagick/tmb_ship_agano2.jpg" border='0' alt='Agano underway off Sasebo, Japan, Oct 1942'></a></td><td><a href="/image.php?image_id=1088"><img src="/images/imagemagick/tmb_ship_agano3.jpg" border='0' alt='Agano off Truk, Jan 1943'></a></td></tr></table><br /><br /><br /><br />
 				<center><table border='0' cellpadding='0' cellspacing='0' width='100%'>
 				<tr><td valign='top' width='382'><p>Did you enjoy this article?  Please consider supporting us on <a href='https://www.patreon.com/ww2db' rel='nofollow' target='_patreon' onclick='javascript: ga("send","pageview","/outgoing/www.patreon.com/ww2db/");'>Patreon</a>.  Even $1 per month will go a long way!  Thank you.</p>
 		<table border='0' cellpadding='0' cellspacing='0'>
@@ -174,19 +117,19 @@ table.dataTable tbody td, table.dataTable thead td {
 			<td colspan='9'>Share this article with your friends:<br /><br /></td>
 		</tr>
 		<tr>
-			<td><a title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=A14' target='_facebook' rel='nofollow'><img src='/images/icon_facebook.gif' border='0'></a></td><td>&nbsp;</td><td><a id='facebook' title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=A14' target='_facebook'>Facebook</a></td>
-			<td><a title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A14&title=Aircraft Carrier Amagi' target='_reddit' rel='nofollow'><img src='/images/icon_reddit.gif' border='0'></a></td><td>&nbsp;</td><td><a id='reddit' title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A14&title=Aircraft Carrier Amagi' target='_reddit'>Reddit</a></td>
+			<td><a title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=C51' target='_facebook' rel='nofollow'><img src='/images/icon_facebook.gif' border='0'></a></td><td>&nbsp;</td><td><a id='facebook' title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=C51' target='_facebook'>Facebook</a></td>
+			<td><a title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C51&title=Light Cruiser Agano' target='_reddit' rel='nofollow'><img src='/images/icon_reddit.gif' border='0'></a></td><td>&nbsp;</td><td><a id='reddit' title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C51&title=Light Cruiser Agano' target='_reddit'>Reddit</a></td>
 		</tr>
 		<tr>
-			<td><a title='Tweet this page' href='http://twitter.com/home/?status=Aircraft+Carrier+Amagi+https://ww2db.com:443/ship_spec.php?ship_id=A14' target='_twitter' rel='nofollow'><img src='/images/icon_twitter.gif' border='0'></a></td><td>&nbsp;</td><td><a id='twitter' title='Tweet this page' href='http://twitter.com/home/?status=Aircraft+Carrier+Amagi+https://ww2db.com:443/ship_spec.php?ship_id=A14' target='_twitter'>Twitter</a></td>
-			<td><a title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A14&title=Aircraft Carrier Amagi' target='_digg' rel='nofollow'><img src='/images/icon_digg.gif' border='0'></a></td><td>&nbsp;</td><td><a id='digg' title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A14&title=Aircraft Carrier Amagi' target='_digg'>Digg</a></td>
+			<td><a title='Tweet this page' href='http://twitter.com/home/?status=Light+Cruiser+Agano+https://ww2db.com:443/ship_spec.php?ship_id=C51' target='_twitter' rel='nofollow'><img src='/images/icon_twitter.gif' border='0'></a></td><td>&nbsp;</td><td><a id='twitter' title='Tweet this page' href='http://twitter.com/home/?status=Light+Cruiser+Agano+https://ww2db.com:443/ship_spec.php?ship_id=C51' target='_twitter'>Twitter</a></td>
+			<td><a title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C51&title=Light Cruiser Agano' target='_digg' rel='nofollow'><img src='/images/icon_digg.gif' border='0'></a></td><td>&nbsp;</td><td><a id='digg' title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C51&title=Light Cruiser Agano' target='_digg'>Digg</a></td>
 		</tr>
 		<tr>
-			<td><a title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=A14' target='_googleplus' rel='nofollow'><img src='/images/icon_googleplus2.png' border='0'></a></td><td>&nbsp;</td><td><a id='googleplus' title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=A14' target='_googleplus'>Google+</a></td>
-			<td><a title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=A14&title=Aircraft Carrier Amagi' target='_delicious' rel='nofollow'><img src='/images/icon_delicious.gif' border='0'></a></td><td>&nbsp;</td><td><a id='delicious' title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=A14&title=Aircraft Carrier Amagi' target='_delicious'>Delicious</a></td>
+			<td><a title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=C51' target='_googleplus' rel='nofollow'><img src='/images/icon_googleplus2.png' border='0'></a></td><td>&nbsp;</td><td><a id='googleplus' title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=C51' target='_googleplus'>Google+</a></td>
+			<td><a title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=C51&title=Light Cruiser Agano' target='_delicious' rel='nofollow'><img src='/images/icon_delicious.gif' border='0'></a></td><td>&nbsp;</td><td><a id='delicious' title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=C51&title=Light Cruiser Agano' target='_delicious'>Delicious</a></td>
 		</tr>
 		<tr>
-			<td><a title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A14&title=Aircraft Carrier Amagi' target='_stumbleupon' rel='nofollow'><img src='/images/icon_stumbleupon.gif' border='0'></a></td><td>&nbsp;</td><td><a id='stumbleupon' title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A14&title=Aircraft Carrier Amagi' target='_stumbleupon'>StumbleUpon</a></td>
+			<td><a title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C51&title=Light Cruiser Agano' target='_stumbleupon' rel='nofollow'><img src='/images/icon_stumbleupon.gif' border='0'></a></td><td>&nbsp;</td><td><a id='stumbleupon' title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C51&title=Light Cruiser Agano' target='_stumbleupon'>StumbleUpon</a></td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -223,16 +166,16 @@ table.dataTable tbody td, table.dataTable thead td {
 	<tr><td valign="top">Your Comments</td><td><textarea name="comment" cols="30" rows="6"></textarea></td></tr>
 	<tr><td valign="top">Security Code</td>
 		<td valign="top">
-			<div style="background-image:url('/images/captcha/captcha14.jpg'); height: 40px; min-height: 40px; width: 100px; min-width: 100px;">&nbsp;</div>			<br />
+			<div style="background-image:url('/images/captcha/captcha11.jpg'); height: 40px; min-height: 40px; width: 100px; min-width: 100px;">&nbsp;</div>			<br />
 			<input type="text" name="captcha" style="margin-bottom: 2px;">
 		</td>
 	</tr>
 	<tr>
 		<td>&nbsp;</td>
 		<td valign="top"><input type="hidden" name="foreigntype" value="S">
-		<input type="hidden" name="foreigntype_id" value="14">
-		<input type="hidden" name="url" value="/ship_spec.php?ship_id=A14">
-		<input type="hidden" name="c" value="91"> 		<input type="submit" value="Submit"></td>
+		<input type="hidden" name="foreigntype_id" value="51">
+		<input type="hidden" name="url" value="/ship_spec.php?ship_id=C51">
+		<input type="hidden" name="c" value="88"> 		<input type="submit" value="Submit"></td>
 	</tr>
 	</table>
 	</center>
@@ -253,7 +196,7 @@ table.dataTable tbody td, table.dataTable thead td {
 </form>
 <script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=searchbox_004186240537787039759%3Aptfrvampo3a"></script>
 </ul>
-<div class="sidetop">More on Amagi</div><i>Event(s) Participated:</i><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=54>Preparations for Invasion of Japan</a><br><br /><i>Partner Sites Content:</i><br />&raquo;&nbsp;<a href='http://www.combinedfleet.com/amagi.htm' target='_combinedfleet' onclick="javascript: pageTracker._trackPageview('/outgoing/www.combinedfleet.com/amagi.htm');">Amagi Tabular Record of Movement</a><br /><div class='sidehidden_m'><div class='sidetop'>Aircraft Carrier Amagi Photo Gallery</div><center><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=14'><img src="/images/imagemagick/tmb_ship_amagi3.jpg" border='0' alt='Carrier Amagi around the time of her commissioning, Aug 1944'></a></td></tr></table></center><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=14'>See all 4 photographs of Aircraft Carrier Amagi</a></div><br /><br />		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<div class="sidetop">More on Agano</div><i>Event(s) Participated:</i><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=8>Solomon Islands Campaign</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=14>Attack on Truk</a><br><br /><i>Partner Sites Content:</i><br />&raquo;&nbsp;<a href='http://www.combinedfleet.com/agano_t.htm' target='_combinedfleet' onclick="javascript: pageTracker._trackPageview('/outgoing/www.combinedfleet.com/agano_t.htm');">Agano Tabular Record of Movement</a><br /><div class='sidehidden_m'><div class='sidetop'>Light Cruiser Agano Photo Gallery</div><center><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=51'><img src="/images/imagemagick/tmb_ship_agano2.jpg" border='0' alt='Agano underway off Sasebo, Japan, Oct 1942'></a></td></tr></table></center><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=51'>See all 2 photographs of Light Cruiser Agano</a></div><br /><br />		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		<!-- WW2DB Xcol Links 160x90 -->
 		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:90px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="5126713011"></ins>
 		<script>
@@ -262,10 +205,10 @@ table.dataTable tbody td, table.dataTable thead td {
 		<br /><br />
 	<div class="sidehidden_m">
 	<div class="sidetop">Current Site Statistics</div>
-	<ul><li> &#187; <a class='noStyle' href='/person.php'>1,039 biographies</a></li><li> &#187; <a class='noStyle' href='/event/'>326 events</a></li><li> &#187; <a class='noStyle' href='/event/timeline/'>35,502 timeline entries</a></li><li> &#187; <a class='noStyle' href='/ship.php'>726 ships</a></li><li> &#187; <a class='noStyle' href='/aircraft.php'>329 aircraft models</a></li><li> &#187; <a class='noStyle' href='/vehicle.php'>184 vehicle models</a></li><li> &#187; <a class='noStyle' href='/weapon.php'>339 weapon models</a></li><li> &#187; <a class='noStyle' href='/doc.php'>102 historical documents</a></li><li> &#187; <a class='noStyle' href='/facility/'>175 facilities</a></li><li> &#187; <a class='noStyle' href='/book/'>457 book reviews</a></li><li> &#187; <a class='noStyle' href='/photo.php'>24,916 photos</a></li><li> &#187; <a class='noStyle' href='/reference/map/'>287 maps</a></li></ul>	<br />
+	<ul><li> &#187; <a class='noStyle' href='/person.php'>1,040 biographies</a></li><li> &#187; <a class='noStyle' href='/event/'>326 events</a></li><li> &#187; <a class='noStyle' href='/event/timeline/'>35,554 timeline entries</a></li><li> &#187; <a class='noStyle' href='/ship.php'>726 ships</a></li><li> &#187; <a class='noStyle' href='/aircraft.php'>329 aircraft models</a></li><li> &#187; <a class='noStyle' href='/vehicle.php'>184 vehicle models</a></li><li> &#187; <a class='noStyle' href='/weapon.php'>340 weapon models</a></li><li> &#187; <a class='noStyle' href='/doc.php'>102 historical documents</a></li><li> &#187; <a class='noStyle' href='/facility/'>175 facilities</a></li><li> &#187; <a class='noStyle' href='/book/'>457 book reviews</a></li><li> &#187; <a class='noStyle' href='/photo.php'>24,934 photos</a></li><li> &#187; <a class='noStyle' href='/reference/map/'>287 maps</a></li></ul>	<br />
 </div>
 
-<div class='sidehidden_m'><div class='sidetop'>Famous WW2 Quote</div>"All right, they're on our left, they're on our right, they're in front of us, they're behind us... they can't get away this time."<br><br>Lt. Gen. Lewis B. "Chesty" Puller, at Guadalcanal</div><br /><br />				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<div class='sidehidden_m'><div class='sidetop'>Famous WW2 Quote</div>"All that silly talk about the advance of science and such leaves me cold.  Give me peace and a retarded science."<br><br>Thomas Dodd, late 1945</div><br /><br />				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		<!-- WW2DB Xcol Vertical Banner 160x600 -->
 		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="6471754899"></ins>
 		<script>
@@ -289,7 +232,7 @@ table.dataTable tbody td, table.dataTable thead td {
 		<li> &#187; <a href="/feed.php">Syndication</a></li>
 		<li> &#187; <a href="/termsofuse.php" rel="nofollow">Terms of Use & Disclosures</a></li>
 		<li> &#187; <a href="/">World War II Database Home</a></li>
-		<li> &#187; <a href='http://m.ww2db.com/ship_spec.php?ship_id=A14'>Mobile View</a></li>
+		<li> &#187; <a href='http://m.ww2db.com/ship_spec.php?ship_id=C51'>Mobile View</a></li>
 		</ul>		
 	</div>
 	<div style="float: left; padding: 0 5 0 5px; width: 282px; text-align: left;">
@@ -322,7 +265,7 @@ table.dataTable tbody td, table.dataTable thead td {
 		<script>
 		(adsbygoogle = window.adsbygoogle || []).push({});
 		</script>
-	<br /><center>		<a href="http://amzn.to/2he65an" target="_amazon" rel="nofollow" onclick="javascript: ga('send','pageview','/outgoing/amzn.to/2he65an');"><img src="/images/ad_shattered_sword_728.jpg" /></a><br /><br />
+	<br /><center>		<a href="http://amzn.to/2jfeSrN" target="_amazon" rel="nofollow" onclick="javascript: ga('send','pageview','/outgoing/amzn.to/2jfeSrN');"><img src="/images/ad_frontlines_of_television_war_728.jpg" /></a><br /><br />
 		</center>
 <br /><br />
 

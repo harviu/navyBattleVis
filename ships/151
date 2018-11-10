@@ -1,10 +1,10 @@
 <html>
 
 <head>
-<title>Seaplane Carrier Nisshin | World War II Database</title>
+<title>Light Cruiser Kitakami | World War II Database</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="description" content="Seaplane Carrier Nisshin | World War II Database">
-<meta name="keywords" content="ww2db, world war, ww2, military, history, Seaplane Carrier Nisshin | World War II Database">
+<meta name="description" content="Light Cruiser Kitakami | World War II Database">
+<meta name="keywords" content="ww2db, world war, ww2, military, history, Light Cruiser Kitakami | World War II Database">
 <meta name="ROBOTS" content="INDEX, FOLLOW">
 <meta name="REVISIT-AFTER" CONTENT="15 days">
 <META NAME="COPYRIGHT" CONTENT="Copyright © 2004-2018 Lava Development, LLC., all rights reserved">
@@ -23,25 +23,25 @@
 
 <link rel="alternate" type="application/rss+xml" title="WW2DB RSS Feed" href="https://ww2db.com/feedgen.php?feed=articles&f=RSS2.0" />
 
-<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=A127' />
-<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=127' />
+<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=C70' />
+<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=70' />
 
 <meta property="fb:app_id" content="103484127961" />
 <meta name="p:domain_verify" content="794c2d433a01b5d35554ba972a179eff"/>
 
-	<link rel="image_src" type="image/jpeg" href="http://ww2db.com/images/ship_nisshin1.jpg" />
+	<link rel="image_src" type="image/jpeg" href="http://ww2db.com/images/ship_kitakami1.jpg" />
 	<meta property="og:site_name" content="WW2DB" />
-	<meta property="og:title" content="Seaplane Carrier Nisshin" />
-	<meta property="og:description" content="Seaplane Carrier Nisshin" />
+	<meta property="og:title" content="Light Cruiser Kitakami" />
+	<meta property="og:description" content="Light Cruiser Kitakami" />
 	<meta property="og:type" content="article" />
-	<meta property="og:url" content="https://ww2db.com/ship_spec.php?ship_id=A127" />
-		<meta property="og:image" content="http://ww2db.com/images/ship_nisshin1.jpg" />
+	<meta property="og:url" content="https://ww2db.com/ship_spec.php?ship_id=C70" />
+		<meta property="og:image" content="http://ww2db.com/images/ship_kitakami1.jpg" />
 
 	<meta name='twitter:card' content='summary'>
 	<meta name='twitter:site' content='@ww2db'>
-	<meta name='twitter:title' content='Seaplane Carrier Nisshin'>
-	<meta name='twitter:description' content='Seaplane Carrier Nisshin'>
-	<meta name='twitter:image' content='http://ww2db.com/images/ship_nisshin1.jpg'>
+	<meta name='twitter:title' content='Light Cruiser Kitakami'>
+	<meta name='twitter:description' content='Light Cruiser Kitakami'>
+	<meta name='twitter:image' content='http://ww2db.com/images/ship_kitakami1.jpg'>
 				
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.5/css/jquery.dataTables.css">
 <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
@@ -77,7 +77,7 @@ table.dataTable tbody td, table.dataTable thead td {
 		</td></tr>
 		</table>
 		<div class="bannerflash">
-		<div style="background-image:url('/images/banner915_4.jpg'); height: 120px; min-height: 120px; width: 915px; min-width: 915px;">&nbsp;</div>		</div>
+		<div style="background-image:url('/images/banner915_5.jpg'); height: 120px; min-height: 120px; width: 915px; min-width: 915px;">&nbsp;</div>		</div>
 	</div>
 	<div id='nav' align='right'>
 		<ul id='navlist'>
@@ -86,15 +86,15 @@ table.dataTable tbody td, table.dataTable thead td {
 
 <div id="content">
 	<div itemscope itemtype="http://schema.org/Article" class="maincol">
-		<meta itemprop="url" content="<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=A127' />
-<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=127' />
+		<meta itemprop="url" content="<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=C70' />
+<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=70' />
 " />
-		<meta itemprop="description" content="Seaplane Carrier Nisshin" />
+		<meta itemprop="description" content="Light Cruiser Kitakami" />
 		<div id="breadcrumb"><ul class="horizontalList">
 				<li class="horizontalList"> <a href="index.php">Home</a></li>
 				<li class="horizontalList"> &#187; <a href="equip.php">Equipment</a></li>
-				<li class="horizontalList"> &#187; <a href="ship.php">Ships</a></li><li class="horizontalList"> &#187; <a href="ship.php?list=A">Carriers</a></li><li class="horizontalList"> &#187; Nisshin</li></ul></div>
-<div style='display: inline; float: right;'><image itemprop='image' class='filephoto' alt='Nisshin file photo [1623]' title='Nisshin file photo [1623]' src='/images/ship_nisshin1.jpg' /><script>
+				<li class="horizontalList"> &#187; <a href="ship.php">Ships</a></li><li class="horizontalList"> &#187; <a href="ship.php?list=C">Cruisers</a></li><li class="horizontalList"> &#187; Kitakami</li></ul></div>
+<div style='display: inline; float: right;'><image itemprop='image' class='filephoto' alt='Kitakami file photo [7655]' title='Kitakami file photo [7655]' src='/images/ship_kitakami1.jpg' /><script>
 		function resizeText(className, percent) {
 			var elements = document.getElementsByClassName(className);
 			for (var i = 0; i < elements.length; ++i) {
@@ -107,9 +107,11 @@ table.dataTable tbody td, table.dataTable thead td {
 				}
 			}
 		}
-		</script><br /><img src="/images/icon_font_small.jpg" onclick="resizeText('maincol', -10)" title="Decrease font size" /><img src="/images/icon_font_medium.jpg" onclick="resizeText('maincol', null)" title="Reset font size" /><img src="/images/icon_font_large.jpg" onclick="resizeText('maincol', 10)" title="Increase font size" /></div><div style='margin: 8px 0px 8px 0px;'><h2 itemprop='name' class='articleHeader'>Nisshin</h2></div><table class="table_noborder"><tr><td class="table_noborder">Country</td><td class="table_noborder"><a href='/country/japan'>Japan</a></td></tr><tr><td class="table_noborder">Ship Class</td><td class="table_noborder">Nisshin-class Seaplane Carrier</td></tr><tr><td class="table_noborder">Builder</td><td class="table_noborder"><a href='/facility/Kure_Naval_Arsenal/'>Kure Naval Arsenal</a></td></tr><tr><td class="table_noborder">Laid Down</td><td class="table_noborder">1 Nov 1938</td></tr><tr><td class="table_noborder">Launched</td><td class="table_noborder">30 Nov 1939</td></tr><tr><td class="table_noborder">Commissioned</td><td class="table_noborder">27 Feb 1942</td></tr><tr><td class="table_noborder">Sunk</td><td class="table_noborder">22 Jul 1943</td></tr><tr><td class="table_noborder">Displacement</td><td class="table_noborder">11317 tons standard; 12300 tons full</td></tr><tr><td class="table_noborder">Length</td><td class="table_noborder">617 feet</td></tr><tr><td class="table_noborder">Beam</td><td class="table_noborder">65 feet</td></tr><tr><td class="table_noborder">Draft</td><td class="table_noborder">23 feet</td></tr><tr><td class="table_noborder">Machinery</td><td class="table_noborder">2 diesel engines</td></tr><tr><td class="table_noborder">Power Output</td><td class="table_noborder">47000 SHP</td></tr><tr><td class="table_noborder">Speed</td><td class="table_noborder">28 knots</td></tr><tr><td class="table_noborder">Range</td><td class="table_noborder">11,000nm at ? knots</td></tr><tr><td class="table_noborder">Crew</td><td class="table_noborder">948</td></tr><tr><td class="table_noborder">Armament</td><td class="table_noborder">6x0.50 cal, 18x25mm anti-aircraft, can carry up to 700 mines or 12 midget submarines instead of airc</td></tr><tr><td class="table_noborder">Aircraft</td><td class="table_noborder">20</td></tr></table><p><small>Contributor: <a href='/person_bio.php?person_id=179'><span itemprop='author' itemscope itemtype='http://schema.org/Person'><span itemprop='name'>C. Peter Chen</span></span></a></small></p><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Nisshin was a relatively large and fast ship intended to carry both combat seaplanes and mines.  In early 1942 she was modified to be able to carry midget submarines instead of aircraft or mines.  She sailed with the Main Body with motor torpedo boats and midget submarines at Battle of Midway, intending to supply these boats to the eventual Midway garrison, but the occupation of that island never took place.  During the Guadalcanal campaign she made at least four "Tokyo Express" runs to supply the ground groops on the island of Guadalcalanl, including supplying the troops with their first artillery pieces during the Battle of Cape Esperance on the night of 11 Oct 1942; some of these artillery pieces can still be found on the island today.</p>
-<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Nisshin was sunk off Bougainville on 22 Jul 1943 during a transport mission.</p>
-<small><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span><i>Source: Naval Historical Center</i></p></small><p><b>Nisshin Operational Timeline</b></p><table border='0' cellspacing='0'><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/02/27/1942' alt='See all events on 27 Feb 1942' title='See all events on 27 Feb 1942' class='noStyle'>27 Feb 1942</a>&nbsp;</td><td>Nisshin was commissioned into service.</td></tr><tr bgcolor=''><td valign='top' align='right' nowrap><a href='/event/today/10/03/1942' alt='See all events on 3 Oct 1942' title='See all events on 3 Oct 1942' class='noStyle'>3 Oct 1942</a>&nbsp;</td><td>American SBD and TBF aircraft from Henderson Field, Guadalcanal, Solomon Islands attacked and damaged seaplane carrier Nisshin.</td></tr></table><br /><p><b>Photographs</b></p><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href="/image.php?image_id=1625"><img src="/images/imagemagick/tmb_ship_nisshin3.jpg" border='0' alt='Seaplane carrier Nisshin, date unknown'></a></td><td><a href="/image.php?image_id=1624"><img src="/images/imagemagick/tmb_ship_nisshin2.jpg" border='0' alt='Nisshin at Bougainville, 13 Oct 1942'></a></td></tr></table><br /><br /><br /><br />
+		</script><br /><img src="/images/icon_font_small.jpg" onclick="resizeText('maincol', -10)" title="Decrease font size" /><img src="/images/icon_font_medium.jpg" onclick="resizeText('maincol', null)" title="Reset font size" /><img src="/images/icon_font_large.jpg" onclick="resizeText('maincol', 10)" title="Increase font size" /></div><div style='margin: 8px 0px 8px 0px;'><h2 itemprop='name' class='articleHeader'>Kitakami</h2></div><table class="table_noborder"><tr><td class="table_noborder">Country</td><td class="table_noborder"><a href='/country/japan'>Japan</a></td></tr><tr><td class="table_noborder">Ship Class</td><td class="table_noborder"><a href='ship_spec.php?ship_id=484'>Kuma-class Light Cruiser</a></td></tr><tr><td class="table_noborder">Builder</td><td class="table_noborder"><a href='/facility/Sasebo_Naval_Arsenal/'>Sasebo Naval Arsenal</a></td></tr><tr><td class="table_noborder">Laid Down</td><td class="table_noborder">1 Sep 1919</td></tr><tr><td class="table_noborder">Launched</td><td class="table_noborder">3 Jul 1920</td></tr><tr><td class="table_noborder">Commissioned</td><td class="table_noborder">15 Apr 1921</td></tr><tr><td class="table_noborder">Decommissioned</td><td class="table_noborder">30 Nov 1945</td></tr><tr><td class="table_noborder">Displacement</td><td class="table_noborder">5100 tons standard; 5832 tons full</td></tr><tr><td class="table_noborder">Length</td><td class="table_noborder">532 feet</td></tr><tr><td class="table_noborder">Beam</td><td class="table_noborder">46 feet</td></tr><tr><td class="table_noborder">Draft</td><td class="table_noborder">15 feet</td></tr><tr><td class="table_noborder">Machinery</td><td class="table_noborder">12 Kampon boilers, Gihon geared turbines, 4 shafts</td></tr><tr><td class="table_noborder">Power Output</td><td class="table_noborder">90000 SHP</td></tr><tr><td class="table_noborder">Speed</td><td class="table_noborder">36 knots</td></tr><tr><td class="table_noborder">Range</td><td class="table_noborder">5,000nm at 14 knots</td></tr><tr><td class="table_noborder">Crew</td><td class="table_noborder">439</td></tr><tr><td class="table_noborder">Armament</td><td class="table_noborder">7x140mm guns, 2x80mm guns, 10x4x533mm torpedo tubes, 48 mines</td></tr><tr><td class="table_noborder">Armor</td><td class="table_noborder">64mm belt, 29mm deck</td></tr><tr><td class="table_noborder">Aircraft</td><td class="table_noborder">1 floatplane</td></tr><tr><td class="table_noborder">Catapult</td><td class="table_noborder">1</td></tr></table><p><small>Contributor: <a href='/person_bio.php?person_id=179'><span itemprop='author' itemscope itemtype='http://schema.org/Person'><span itemprop='name'>C. Peter Chen</span></span></a></small></p><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Light cruiser Kitakami was commissioned in 1920, and was stationed at Mako, Pescadores Islands in the early 1920s.  At the start of the Second Sino-Japanese War in 1937, she covered the landings on the Chinese coast.  On 25 Aug 1941, she returned to Sasebo, Japan, where she was originally built, to be converted into a torpedo cruiser.  She received ten Type 92 quadruple torpedo tube mounts for the 61-centimeter long range oxygen-propelled Type 93 "Long Lance" torpedoes.  The modification was completed on 30 Sep 1941, and she was assigned to Cruiser Division 9.  When the Pacific War began, she was escorting battleships from Hashirajima, Hiroshima Bay, Japan to the Bonin Islands, and back.  Between Jan and May 1942, she mainly performed training duties in Japan.  On 29 May 1942, she departed as a part of the Aleutian Screen Force during the invasion of the American Aleutian Islands; she returned to Japan from that mission on 17 Jun 1942.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Between Aug and Sep 1942, Kitakami was converted to a fast transport; her torpedo tubes were reduced from ten to six quadruple launchers, and in exchange was equipped with two triple-mount anti-aircraft guns, two depth charge launchers, and two Daihatsu landing barges.  With part of the No. 4 Maizuru Special Naval Landing Force, she departed on her first transport mission to Truk in the Caroline Islands in the Central Pacific in late Sep 1942.  On 21 Nov 1942, Cruiser Division 9 was disbanded, and Kitakami was reassigned to the Combined Fleet.  Late that month, she transported troops from Manila in the Philippine Islands to Rabaul, New Britain in the Solomon Islands.  In Jan 1943, she made several transport and convoy escort missions to New Guinea.  On 15 Mar 1943, she was reassigned to Cruiser Division 16 of the Southwest Area Fleet based out of Surabaya, Java.  Between Apr and May, she escorted three troop convoys from Surabaya to Kaimana, New Guinea.  On 23 Jun, she was bombed by B-24 Liberator bombers of 319th Bomb Squadron, US 5th Air Force and sustained slight damage from near misses.  In Sep and Oct 1943, and then again in late Jan 1944, she escorted convoys to Andaman and Nicobar Islands in the Indian Ocean.  On 27 Jan, during the final trip to the Andaman Islands, she was intercepted by British submarine HMS Templar in the Malacca Strait, sustaining two torpedo hits, which forced her to remain in Singapore for repairs until 21 Jun 1944.  Between 12 and 26 Jul, she was docked again in the Cavite Navy Yard in the Philippine Islands for additional repairs.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>On 14 Aug 1944, Kitakami docked at Sasebo, Japan.  While receiving final repairs as result of the Templar torpedo attack, she was also converted to become a <i>Kaiten</i> midget submarine carrier.  She took on a 20-ton crane (originally of seaplane carrier Chitose) for raising and lowering midget submarines, her aft turbines were removed (sacrificing speed for additional storage spaces, and all her armament were removed in exchange for anti-aircraft guns and radars.  Her conversion was completed on 20 Jan 1945, and she was assigned to the Combined Fleet.  On 19 Mar, while at Kure, Japan, she was attacked by American carrier aircraft along with other Japanese warships, but she sustained no damage.  On 24 Jul 1945, another carrier raid struck Kure, and Kitakami was damaged by strafing, which also killed 32 men.  She remained in Kure for the remainder of the war.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>After the Japanese surrender, Kitakami was moved to Kagoshima, Kyushu, Japan.  She served as a repair tender for ships on repatriation duties.  She was decommissioned on 30 Nov 1945 and scrapped at Nanao, Ishikawa, Japan between 10 Aug 1946 and 31 Mar 1947.</p>
+<small><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span><i>Source: Wikipedia.</i></p></small><p><b>Kitakami Operational Timeline</b></p><table border='0' cellspacing='0'><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/04/15/1921' alt='See all events on 15 Apr 1921' title='See all events on 15 Apr 1921' class='noStyle'>15 Apr 1921</a>&nbsp;</td><td>Kitakami was commissioned into service.</td></tr><tr bgcolor=''><td valign='top' align='right' nowrap><a href='/event/today/11/30/1945' alt='See all events on 30 Nov 1945' title='See all events on 30 Nov 1945' class='noStyle'>30 Nov 1945</a>&nbsp;</td><td>Kitakami was decommissioned from service.</td></tr></table><br /><p><b>Photographs</b></p><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href="/image.php?image_id=7656"><img src="/images/imagemagick/tmb_ship_kitakami2.jpg" border='0' alt='Kitakami off Sasebo, Japan, 1935'></a></td></tr></table><br /><br /><br /><br />
 				<center><table border='0' cellpadding='0' cellspacing='0' width='100%'>
 				<tr><td valign='top' width='382'><p>Did you enjoy this article?  Please consider supporting us on <a href='https://www.patreon.com/ww2db' rel='nofollow' target='_patreon' onclick='javascript: ga("send","pageview","/outgoing/www.patreon.com/ww2db/");'>Patreon</a>.  Even $1 per month will go a long way!  Thank you.</p>
 		<table border='0' cellpadding='0' cellspacing='0'>
@@ -117,19 +119,19 @@ table.dataTable tbody td, table.dataTable thead td {
 			<td colspan='9'>Share this article with your friends:<br /><br /></td>
 		</tr>
 		<tr>
-			<td><a title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=A127' target='_facebook' rel='nofollow'><img src='/images/icon_facebook.gif' border='0'></a></td><td>&nbsp;</td><td><a id='facebook' title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=A127' target='_facebook'>Facebook</a></td>
-			<td><a title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A127&title=Seaplane Carrier Nisshin' target='_reddit' rel='nofollow'><img src='/images/icon_reddit.gif' border='0'></a></td><td>&nbsp;</td><td><a id='reddit' title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A127&title=Seaplane Carrier Nisshin' target='_reddit'>Reddit</a></td>
+			<td><a title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=C70' target='_facebook' rel='nofollow'><img src='/images/icon_facebook.gif' border='0'></a></td><td>&nbsp;</td><td><a id='facebook' title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=C70' target='_facebook'>Facebook</a></td>
+			<td><a title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C70&title=Light Cruiser Kitakami' target='_reddit' rel='nofollow'><img src='/images/icon_reddit.gif' border='0'></a></td><td>&nbsp;</td><td><a id='reddit' title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C70&title=Light Cruiser Kitakami' target='_reddit'>Reddit</a></td>
 		</tr>
 		<tr>
-			<td><a title='Tweet this page' href='http://twitter.com/home/?status=Seaplane+Carrier+Nisshin+https://ww2db.com:443/ship_spec.php?ship_id=A127' target='_twitter' rel='nofollow'><img src='/images/icon_twitter.gif' border='0'></a></td><td>&nbsp;</td><td><a id='twitter' title='Tweet this page' href='http://twitter.com/home/?status=Seaplane+Carrier+Nisshin+https://ww2db.com:443/ship_spec.php?ship_id=A127' target='_twitter'>Twitter</a></td>
-			<td><a title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A127&title=Seaplane Carrier Nisshin' target='_digg' rel='nofollow'><img src='/images/icon_digg.gif' border='0'></a></td><td>&nbsp;</td><td><a id='digg' title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A127&title=Seaplane Carrier Nisshin' target='_digg'>Digg</a></td>
+			<td><a title='Tweet this page' href='http://twitter.com/home/?status=Light+Cruiser+Kitakami+https://ww2db.com:443/ship_spec.php?ship_id=C70' target='_twitter' rel='nofollow'><img src='/images/icon_twitter.gif' border='0'></a></td><td>&nbsp;</td><td><a id='twitter' title='Tweet this page' href='http://twitter.com/home/?status=Light+Cruiser+Kitakami+https://ww2db.com:443/ship_spec.php?ship_id=C70' target='_twitter'>Twitter</a></td>
+			<td><a title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C70&title=Light Cruiser Kitakami' target='_digg' rel='nofollow'><img src='/images/icon_digg.gif' border='0'></a></td><td>&nbsp;</td><td><a id='digg' title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C70&title=Light Cruiser Kitakami' target='_digg'>Digg</a></td>
 		</tr>
 		<tr>
-			<td><a title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=A127' target='_googleplus' rel='nofollow'><img src='/images/icon_googleplus2.png' border='0'></a></td><td>&nbsp;</td><td><a id='googleplus' title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=A127' target='_googleplus'>Google+</a></td>
-			<td><a title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=A127&title=Seaplane Carrier Nisshin' target='_delicious' rel='nofollow'><img src='/images/icon_delicious.gif' border='0'></a></td><td>&nbsp;</td><td><a id='delicious' title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=A127&title=Seaplane Carrier Nisshin' target='_delicious'>Delicious</a></td>
+			<td><a title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=C70' target='_googleplus' rel='nofollow'><img src='/images/icon_googleplus2.png' border='0'></a></td><td>&nbsp;</td><td><a id='googleplus' title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=C70' target='_googleplus'>Google+</a></td>
+			<td><a title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=C70&title=Light Cruiser Kitakami' target='_delicious' rel='nofollow'><img src='/images/icon_delicious.gif' border='0'></a></td><td>&nbsp;</td><td><a id='delicious' title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=C70&title=Light Cruiser Kitakami' target='_delicious'>Delicious</a></td>
 		</tr>
 		<tr>
-			<td><a title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A127&title=Seaplane Carrier Nisshin' target='_stumbleupon' rel='nofollow'><img src='/images/icon_stumbleupon.gif' border='0'></a></td><td>&nbsp;</td><td><a id='stumbleupon' title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A127&title=Seaplane Carrier Nisshin' target='_stumbleupon'>StumbleUpon</a></td>
+			<td><a title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C70&title=Light Cruiser Kitakami' target='_stumbleupon' rel='nofollow'><img src='/images/icon_stumbleupon.gif' border='0'></a></td><td>&nbsp;</td><td><a id='stumbleupon' title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C70&title=Light Cruiser Kitakami' target='_stumbleupon'>StumbleUpon</a></td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -147,6 +149,15 @@ table.dataTable tbody td, table.dataTable thead td {
 		</script>
 	</td></tr></table></center><br /><br /><br />
 
+<style>.commentItem { display: none; border: 1px solid #b0b0b0; padding: 10px; margin-bottom: 10px; }</style><p><b>Visitor Submitted Comments</b></p><p id='showAllCommand' style='display: none;'><a href='javascript:showAllComments();'>Show older comments</a></p><div id='commentItem1' class='commentItem' style='background-color: #f0f0f0'>1. <span style='font-style: italic;'>george henderson</span> says:<br /><small>15 Jun 2005 03:31:26 AM</small><br /><br />kitakami was later converted to a kaiten carrier; the only ship of her class to survive WW2</div><small><p>All visitor submitted comments are opinions of those making the submissions and do not reflect views of WW2DB.</p></small>	<script>
+			$("#commentItem1").show();
+				$("#commentItem0").show();
+				$("#commentItem-1").show();
+			function showAllComments() {
+		$(".commentItem").show();
+		$("#showAllCommand").remove();
+	}
+	</script>
 	<form method="post" action="/comments_action.php">
 	<div style="background-color: #f0f0f0; border: 1px solid #b0b0b0; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
 	<p><b>Posting Your Comments on this Topic</b></p>
@@ -166,16 +177,16 @@ table.dataTable tbody td, table.dataTable thead td {
 	<tr><td valign="top">Your Comments</td><td><textarea name="comment" cols="30" rows="6"></textarea></td></tr>
 	<tr><td valign="top">Security Code</td>
 		<td valign="top">
-			<div style="background-image:url('/images/captcha/captcha20.jpg'); height: 40px; min-height: 40px; width: 100px; min-width: 100px;">&nbsp;</div>			<br />
+			<div style="background-image:url('/images/captcha/captcha8.jpg'); height: 40px; min-height: 40px; width: 100px; min-width: 100px;">&nbsp;</div>			<br />
 			<input type="text" name="captcha" style="margin-bottom: 2px;">
 		</td>
 	</tr>
 	<tr>
 		<td>&nbsp;</td>
 		<td valign="top"><input type="hidden" name="foreigntype" value="S">
-		<input type="hidden" name="foreigntype_id" value="127">
-		<input type="hidden" name="url" value="/ship_spec.php?ship_id=A127">
-		<input type="hidden" name="c" value="97"> 		<input type="submit" value="Submit"></td>
+		<input type="hidden" name="foreigntype_id" value="70">
+		<input type="hidden" name="url" value="/ship_spec.php?ship_id=C70">
+		<input type="hidden" name="c" value="85"> 		<input type="submit" value="Submit"></td>
 	</tr>
 	</table>
 	</center>
@@ -196,7 +207,7 @@ table.dataTable tbody td, table.dataTable thead td {
 </form>
 <script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=searchbox_004186240537787039759%3Aptfrvampo3a"></script>
 </ul>
-<div class="sidetop">More on Nisshin</div><i>Event(s) Participated:</i><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=6>Battle of Midway and the Aleutian Islands</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=9>Guadalcanal Campaign</a><br><br /><i>Partner Sites Content:</i><br />&raquo;&nbsp;<a href='http://www.combinedfleet.com/Nisshin.htm' target='_combinedfleet' onclick="javascript: pageTracker._trackPageview('/outgoing/www.combinedfleet.com/Nisshin.htm');">Nisshin Tabular Record of Movement</a><br /><div class='sidehidden_m'><div class='sidetop'>Seaplane Carrier Nisshin Photo Gallery</div><center><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=127'><img src="/images/imagemagick/tmb_ship_nisshin3.jpg" border='0' alt='Seaplane carrier Nisshin, date unknown'></a></td></tr></table></center><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=127'>See all 2 photographs of Seaplane Carrier Nisshin</a></div><br /><br />		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<div class="sidetop">More on Kitakami</div><i>Personnel:</i><br>&raquo;&nbsp;<a href=person_bio.php?person_id=445>Kusaka, Jinichi</a><br><br><i>Event(s) Participated:</i><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=6>Battle of Midway and the Aleutian Islands</a><br><br /><i>Partner Sites Content:</i><br />&raquo;&nbsp;<a href='http://www.combinedfleet.com/kitakami_t.htm' target='_combinedfleet' onclick="javascript: pageTracker._trackPageview('/outgoing/www.combinedfleet.com/kitakami_t.htm');">Kitakami Tabular Record of Movement</a><br /><div class='sidehidden_m'><div class='sidetop'>Light Cruiser Kitakami Photo Gallery</div><center><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href="/image.php?image_id=7656"><img src="/images/imagemagick/tmb_ship_kitakami2.jpg" border='0' alt='Kitakami off Sasebo, Japan, 1935'></a></td></tr></table></center></div><br /><br />		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		<!-- WW2DB Xcol Links 160x90 -->
 		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:90px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="5126713011"></ins>
 		<script>
@@ -205,10 +216,10 @@ table.dataTable tbody td, table.dataTable thead td {
 		<br /><br />
 	<div class="sidehidden_m">
 	<div class="sidetop">Current Site Statistics</div>
-	<ul><li> &#187; <a class='noStyle' href='/person.php'>1,039 biographies</a></li><li> &#187; <a class='noStyle' href='/event/'>326 events</a></li><li> &#187; <a class='noStyle' href='/event/timeline/'>35,502 timeline entries</a></li><li> &#187; <a class='noStyle' href='/ship.php'>726 ships</a></li><li> &#187; <a class='noStyle' href='/aircraft.php'>329 aircraft models</a></li><li> &#187; <a class='noStyle' href='/vehicle.php'>184 vehicle models</a></li><li> &#187; <a class='noStyle' href='/weapon.php'>339 weapon models</a></li><li> &#187; <a class='noStyle' href='/doc.php'>102 historical documents</a></li><li> &#187; <a class='noStyle' href='/facility/'>175 facilities</a></li><li> &#187; <a class='noStyle' href='/book/'>457 book reviews</a></li><li> &#187; <a class='noStyle' href='/photo.php'>24,916 photos</a></li><li> &#187; <a class='noStyle' href='/reference/map/'>287 maps</a></li></ul>	<br />
+	<ul><li> &#187; <a class='noStyle' href='/person.php'>1,040 biographies</a></li><li> &#187; <a class='noStyle' href='/event/'>326 events</a></li><li> &#187; <a class='noStyle' href='/event/timeline/'>35,554 timeline entries</a></li><li> &#187; <a class='noStyle' href='/ship.php'>726 ships</a></li><li> &#187; <a class='noStyle' href='/aircraft.php'>329 aircraft models</a></li><li> &#187; <a class='noStyle' href='/vehicle.php'>184 vehicle models</a></li><li> &#187; <a class='noStyle' href='/weapon.php'>340 weapon models</a></li><li> &#187; <a class='noStyle' href='/doc.php'>102 historical documents</a></li><li> &#187; <a class='noStyle' href='/facility/'>175 facilities</a></li><li> &#187; <a class='noStyle' href='/book/'>457 book reviews</a></li><li> &#187; <a class='noStyle' href='/photo.php'>24,934 photos</a></li><li> &#187; <a class='noStyle' href='/reference/map/'>287 maps</a></li></ul>	<br />
 </div>
 
-<div class='sidehidden_m'><div class='sidetop'>Famous WW2 Quote</div>"I have returned. By the grace of Almighty God, our forces stand again on Philippine soil."<br /><br />General Douglas MacArthur at Leyte, 17 Oct 1944</div><br /><br />				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<div class='sidehidden_m'><div class='sidetop'>Famous WW2 Quote</div>"No bastard ever won a war by dying for his country. You win the war by making the other poor dumb bastard die for his country!"<br><br>George Patton, 31 May 1944</div><br /><br />				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		<!-- WW2DB Xcol Vertical Banner 160x600 -->
 		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="6471754899"></ins>
 		<script>
@@ -232,7 +243,7 @@ table.dataTable tbody td, table.dataTable thead td {
 		<li> &#187; <a href="/feed.php">Syndication</a></li>
 		<li> &#187; <a href="/termsofuse.php" rel="nofollow">Terms of Use & Disclosures</a></li>
 		<li> &#187; <a href="/">World War II Database Home</a></li>
-		<li> &#187; <a href='http://m.ww2db.com/ship_spec.php?ship_id=A127'>Mobile View</a></li>
+		<li> &#187; <a href='http://m.ww2db.com/ship_spec.php?ship_id=C70'>Mobile View</a></li>
 		</ul>		
 	</div>
 	<div style="float: left; padding: 0 5 0 5px; width: 282px; text-align: left;">
@@ -265,7 +276,7 @@ table.dataTable tbody td, table.dataTable thead td {
 		<script>
 		(adsbygoogle = window.adsbygoogle || []).push({});
 		</script>
-	<br /><center>		<a href="http://amzn.to/2he65an" target="_amazon" rel="nofollow" onclick="javascript: ga('send','pageview','/outgoing/amzn.to/2he65an');"><img src="/images/ad_shattered_sword_728.jpg" /></a><br /><br />
+	<br /><center>		<a href="http://amzn.to/2jfeSrN" target="_amazon" rel="nofollow" onclick="javascript: ga('send','pageview','/outgoing/amzn.to/2jfeSrN');"><img src="/images/ad_frontlines_of_television_war_728.jpg" /></a><br /><br />
 		</center>
 <br /><br />
 

@@ -1,10 +1,10 @@
 <html>
 
 <head>
-<title>Aircraft Carrier Hiryu | World War II Database</title>
+<title>Light Cruiser USS Concord | World War II Database</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="description" content="Aircraft Carrier Hiryu | World War II Database">
-<meta name="keywords" content="ww2db, world war, ww2, military, history, Aircraft Carrier Hiryu | World War II Database">
+<meta name="description" content="Light Cruiser USS Concord | World War II Database">
+<meta name="keywords" content="ww2db, world war, ww2, military, history, Light Cruiser USS Concord | World War II Database">
 <meta name="ROBOTS" content="INDEX, FOLLOW">
 <meta name="REVISIT-AFTER" CONTENT="15 days">
 <META NAME="COPYRIGHT" CONTENT="Copyright © 2004-2018 Lava Development, LLC., all rights reserved">
@@ -23,25 +23,25 @@
 
 <link rel="alternate" type="application/rss+xml" title="WW2DB RSS Feed" href="https://ww2db.com/feedgen.php?feed=articles&f=RSS2.0" />
 
-<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=A12' />
-<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=12' />
+<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=C205' />
+<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=205' />
 
 <meta property="fb:app_id" content="103484127961" />
 <meta name="p:domain_verify" content="794c2d433a01b5d35554ba972a179eff"/>
 
-	<link rel="image_src" type="image/jpeg" href="http://ww2db.com/images/ship_hiryu1.jpg" />
+	<link rel="image_src" type="image/jpeg" href="http://ww2db.com/images/ship_concord1.jpg" />
 	<meta property="og:site_name" content="WW2DB" />
-	<meta property="og:title" content="Aircraft Carrier Hiryu" />
-	<meta property="og:description" content="Aircraft Carrier Hiryu" />
+	<meta property="og:title" content="Light Cruiser USS Concord" />
+	<meta property="og:description" content="Light Cruiser USS Concord" />
 	<meta property="og:type" content="article" />
-	<meta property="og:url" content="https://ww2db.com/ship_spec.php?ship_id=A12" />
-		<meta property="og:image" content="http://ww2db.com/images/ship_hiryu1.jpg" />
+	<meta property="og:url" content="https://ww2db.com/ship_spec.php?ship_id=C205" />
+		<meta property="og:image" content="http://ww2db.com/images/ship_concord1.jpg" />
 
 	<meta name='twitter:card' content='summary'>
 	<meta name='twitter:site' content='@ww2db'>
-	<meta name='twitter:title' content='Aircraft Carrier Hiryu'>
-	<meta name='twitter:description' content='Aircraft Carrier Hiryu'>
-	<meta name='twitter:image' content='http://ww2db.com/images/ship_hiryu1.jpg'>
+	<meta name='twitter:title' content='Light Cruiser USS Concord'>
+	<meta name='twitter:description' content='Light Cruiser USS Concord'>
+	<meta name='twitter:image' content='http://ww2db.com/images/ship_concord1.jpg'>
 				
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.5/css/jquery.dataTables.css">
 <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
@@ -77,7 +77,7 @@ table.dataTable tbody td, table.dataTable thead td {
 		</td></tr>
 		</table>
 		<div class="bannerflash">
-		<div style="background-image:url('/images/banner915_2.jpg'); height: 120px; min-height: 120px; width: 915px; min-width: 915px;">&nbsp;</div>		</div>
+		<div style="background-image:url('/images/banner915_5.jpg'); height: 120px; min-height: 120px; width: 915px; min-width: 915px;">&nbsp;</div>		</div>
 	</div>
 	<div id='nav' align='right'>
 		<ul id='navlist'>
@@ -86,15 +86,15 @@ table.dataTable tbody td, table.dataTable thead td {
 
 <div id="content">
 	<div itemscope itemtype="http://schema.org/Article" class="maincol">
-		<meta itemprop="url" content="<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=A12' />
-<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=12' />
+		<meta itemprop="url" content="<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=C205' />
+<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=205' />
 " />
-		<meta itemprop="description" content="Aircraft Carrier Hiryu" />
+		<meta itemprop="description" content="Light Cruiser USS Concord" />
 		<div id="breadcrumb"><ul class="horizontalList">
 				<li class="horizontalList"> <a href="index.php">Home</a></li>
 				<li class="horizontalList"> &#187; <a href="equip.php">Equipment</a></li>
-				<li class="horizontalList"> &#187; <a href="ship.php">Ships</a></li><li class="horizontalList"> &#187; <a href="ship.php?list=A">Carriers</a></li><li class="horizontalList"> &#187; Hiryu</li></ul></div>
-<div style='display: inline; float: right;'><image itemprop='image' class='filephoto' alt='Hiryu file photo [1356]' title='Hiryu file photo [1356]' src='/images/ship_hiryu1.jpg' /><script>
+				<li class="horizontalList"> &#187; <a href="ship.php">Ships</a></li><li class="horizontalList"> &#187; <a href="ship.php?list=C">Cruisers</a></li><li class="horizontalList"> &#187; Concord</li></ul></div>
+<div style='display: inline; float: right;'><image itemprop='image' class='filephoto' alt='Concord file photo [1219]' title='Concord file photo [1219]' src='/images/ship_concord1.jpg' /><script>
 		function resizeText(className, percent) {
 			var elements = document.getElementsByClassName(className);
 			for (var i = 0; i < elements.length; ++i) {
@@ -107,20 +107,63 @@ table.dataTable tbody td, table.dataTable thead td {
 				}
 			}
 		}
-		</script><br /><img src="/images/icon_font_small.jpg" onclick="resizeText('maincol', -10)" title="Decrease font size" /><img src="/images/icon_font_medium.jpg" onclick="resizeText('maincol', null)" title="Reset font size" /><img src="/images/icon_font_large.jpg" onclick="resizeText('maincol', 10)" title="Increase font size" /></div><div style='margin: 8px 0px 8px 0px;'><h2 itemprop='name' class='articleHeader'>Hiryu</h2></div><table class="table_noborder"><tr><td class="table_noborder">Country</td><td class="table_noborder"><a href='/country/japan'>Japan</a></td></tr><tr><td class="table_noborder">Ship Class</td><td class="table_noborder"><a href='ship_spec.php?ship_id=465'>Soryu-class Aircraft Carrier</a></td></tr><tr><td class="table_noborder">Builder</td><td class="table_noborder"><a href='/facility/Yokosuka_Naval_Arsenal/'>Yokosuka Naval Arsenal</a></td></tr><tr><td class="table_noborder">Laid Down</td><td class="table_noborder">8 Jul 1936</td></tr><tr><td class="table_noborder">Launched</td><td class="table_noborder">16 Nov 1937</td></tr><tr><td class="table_noborder">Commissioned</td><td class="table_noborder">5 Jul 1939</td></tr><tr><td class="table_noborder">Sunk</td><td class="table_noborder">5 Jun 1942</td></tr><tr><td class="table_noborder">Displacement</td><td class="table_noborder">17300 tons standard; 20250 tons full</td></tr><tr><td class="table_noborder">Length</td><td class="table_noborder">746 feet</td></tr><tr><td class="table_noborder">Beam</td><td class="table_noborder">73 feet</td></tr><tr><td class="table_noborder">Draft</td><td class="table_noborder">26 feet</td></tr><tr><td class="table_noborder">Machinery</td><td class="table_noborder">8 Kampon boilers, 4 sets geared turbines, 4 shafts</td></tr><tr><td class="table_noborder">Bunkerage</td><td class="table_noborder">4,400t oil, 150,000gal aviation fuel</td></tr><tr><td class="table_noborder">Power Output</td><td class="table_noborder">153000 SHP</td></tr><tr><td class="table_noborder">Speed</td><td class="table_noborder">34 knots</td></tr><tr><td class="table_noborder">Range</td><td class="table_noborder">10,330nm at 18 knots</td></tr><tr><td class="table_noborder">Crew</td><td class="table_noborder">1103</td></tr><tr><td class="table_noborder">Armament</td><td class="table_noborder">12x5-in, 31x25mm anti-aircraft</td></tr><tr><td class="table_noborder">Armor</td><td class="table_noborder">3.5-in belt, 1-in deck, 2.2-in magazines</td></tr><tr><td class="table_noborder">Flight Deck</td><td class="table_noborder">711.5 ft x 88.5 ft</td></tr><tr><td class="table_noborder">Arrester Wires</td><td class="table_noborder">6 aft, 3 forward, all hydraulic</td></tr><tr><td class="table_noborder">Elevators</td><td class="table_noborder">3</td></tr><tr><td class="table_noborder">Hangar Decks</td><td class="table_noborder">2</td></tr><tr><td class="table_noborder">Aircraft</td><td class="table_noborder">73</td></tr></table><p><small>Contributor: <a href='/person_bio.php?person_id=179'><span itemprop='author' itemscope itemtype='http://schema.org/Person'><span itemprop='name'>C. Peter Chen</span></span></a></small></p><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Hiryu was completed at Yokosuka, Japan in 1939.  She was a member of Chuichi Nagumo's dreaded Mobile Force, and was one of the fleet carriers that launched the deadly attack on Pearl Harbor in Dec 1941.  She participated in the Battle of Midway and launched the aircraft that disabled the American carrier Yorktown.  Hiryu then came under attack by Yorktown's SBD aircraft, which fought through Hiryu's combat air patrol fighters and a flak barrage.  Captain Susumu Kawaguchi, air officer aboard Hiryu, recalled that Hiryu was hit six times during the fourth and final attack on her.  One of the bombs struck the forward elevator, two just aft of the forward elevator, three just forward of the after elevator.  All bombs were aimed at her <i>hinomaru</i> painted on her flight deck, a proud symbol of the rising sun that ironically doubled as the bull's-eye to the American pilots.</p>
-<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>When he determined that Hiryu was unsaveable, her captain Tamon Yamaguchi gathered the 800 men who were still aboard the ship, including the wounded, on the flight deck near the bridge, and led them in yelling <i>banzai</i> three times toward Tokyo, followed by the playing of the national anthem.  After the ceremony, the order to abandon ship was issued.  It was recorded that Yamaguchi and Tomeo Kaku (Hiryu's captain) had this exchange as they shared naval biscuits and water while the ship being abandoned, the exchange signifying how much the two officers had in common.</p>
-<dir>
-<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>"Let us enjoy the beauty of the moon", Yamaguchi said to Kaku.</p>
-<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>"How bright it shines," Kaku responds.</p>
-<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>"It must be in its 21st day."</p>
-</dir>
-<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Admiral Kusaka was aboard the Hiryu that day, and recalled Hiryu's commanders Rear Admiral Tamon Yamaguchi and Captain Tomeo Kaku.</p>
-<dir>
-When it was ascertained that the ship was in a sinking condition, Admiral Yamaguchi and Captain Kaku decided that they would go down with the ship.  They all shared some naval biscuits and rank a glass of water in a last ceremony.  Admiral Yamaguchi gave his hat to one of his staff officers and asked him to give it to his family; then there was some joking among them, the captain and the admiral, that their duties were finished when the ship sank.
-</dir>
-<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>After the survivors were evacuated (without Yamaguchi, who remained on board to go down with the ship), destroyer Makigumo fired two torpedoes to scuttle her some time between 0905 and 0915 in the morning of 5 Jun 1942.  The first torpedo passed under her, but the second hit her squarely in the hull.</p>
-<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Ensign Mandai, who floated in the water nearby when Hiryu sank, saw the giant propellers rose above the waves as the bow of the ship dipped into the ocean.  He swam vigorously to escape the suction created when a ship sank; when he dared to look again, Hiryu was gone.</p>
-<small><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span><i>Sources: Imperial Japanese Navy Page, Midway Dauntless Victory, the Pacific War, Shattered Sword, US Navy Naval Historical Center.</i></p></small><p><b>Hiryu Operational Timeline</b></p><table border='0' cellspacing='0'><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/07/05/1939' alt='See all events on 5 Jul 1939' title='See all events on 5 Jul 1939' class='noStyle'>5 Jul 1939</a>&nbsp;</td><td>Carrier Hiryu was commissioned into service.</td></tr><tr bgcolor=''><td valign='top' align='right' nowrap><a href='/event/today/06/19/1942' alt='See all events on 19 Jun 1942' title='See all events on 19 Jun 1942' class='noStyle'>19 Jun 1942</a>&nbsp;</td><td>US PBY Catalina aircraft discovered 35 survivors from the sunken Japanese carrier Hiryu; USS Ballard was dispatched to rescue them.</td></tr></table><br /><p><b>Photographs</b></p><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=12'><img src="/images/imagemagick/tmb_ship_hiryu2.jpg" border='0' alt='Carrier Hiryu running speed trials off Tateyama, Chiba, Japan, 28 Apr 1939'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=12'><img src="/images/imagemagick/tmb_ship_hiryu7.jpg" border='0' alt='Carrier Hiryu shortly after commissioning at Yokosuka, Japan, 5 Jul 1939'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=12'><img src="/images/imagemagick/tmb_ship_akagi7.jpg" border='0' alt='Aircraft carrier Akagi shortly after leaving Port Stirling, Celebes for the Indian Ocean, 26 Mar 1942; note B5N torpedo bombers on flight deck'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=12'><img src="/images/imagemagick/tmb_ship_hiryu6.jpg" border='0' alt='Hiryu maneuvering to avoid three sticks of bombs dropped by B-17 bombers, off Midway Atoll, shortly after 0800 hours, 4 Jun 1942, photo 1 of 2'></a></td></tr></table><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=12'>See all 9 photographs of Aircraft Carrier Hiryu</a><br /><br /><br /><br />
+		</script><br /><img src="/images/icon_font_small.jpg" onclick="resizeText('maincol', -10)" title="Decrease font size" /><img src="/images/icon_font_medium.jpg" onclick="resizeText('maincol', null)" title="Reset font size" /><img src="/images/icon_font_large.jpg" onclick="resizeText('maincol', 10)" title="Increase font size" /></div><div style='margin: 8px 0px 8px 0px;'><h2 itemprop='name' class='articleHeader'>USS Concord</h2></div><table class="table_noborder"><tr><td class="table_noborder">Country</td><td class="table_noborder"><a href='/country/united%20states'>United States</a></td></tr><tr><td class="table_noborder">Ship Class</td><td class="table_noborder">Omaha-class Light Cruiser</td></tr><tr><td class="table_noborder">Builder</td><td class="table_noborder">William Cramp and Sons, Philadelphia, PA</td></tr><tr><td class="table_noborder">Launched</td><td class="table_noborder">15 Dec 1921</td></tr><tr><td class="table_noborder">Commissioned</td><td class="table_noborder">3 Nov 1923</td></tr><tr><td class="table_noborder">Decommissioned</td><td class="table_noborder">12 Dec 1945</td></tr><tr><td class="table_noborder">Displacement</td><td class="table_noborder">7050 tons standard</td></tr><tr><td class="table_noborder">Length</td><td class="table_noborder">555 feet</td></tr><tr><td class="table_noborder">Beam</td><td class="table_noborder">55 feet</td></tr><tr><td class="table_noborder">Draft</td><td class="table_noborder">20 feet</td></tr><tr><td class="table_noborder">Machinery</td><td class="table_noborder">Geared turbines with 4 screws</td></tr><tr><td class="table_noborder">Speed</td><td class="table_noborder">35 knots</td></tr><tr><td class="table_noborder">Crew</td><td class="table_noborder">458</td></tr><tr><td class="table_noborder">Armament</td><td class="table_noborder">12x6in, 2x3in anti-aircraft, 10x21in torpedo tubes</td></tr><tr><td class="table_noborder">Armor</td><td class="table_noborder">3</td></tr><tr><td class="table_noborder">Sold for Scrap</td><td class="table_noborder">Jan 1947</td></tr></table><p><small>Contributor: <a href='/person_bio.php?person_id=183'><span itemprop='author' itemscope itemtype='http://schema.org/Person'><span itemprop='name'></span></span></a></small></p><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Concord's shakedown cruise took her through the Mediterranean, through the Suez Canal, around the African continent, and then she returned to North American; the trip lasted between 23 Nov 1923 and 9 Apr 1924.  During the remainder of the years before WW2, she acted as the flagship of destroyer squadrons, participated in exercises on both American coasts, and cruised the Pacific.  She was based in Pearl Harbor when the Pacific War loomed close.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>When the Japanese attacked Pearl Harbor in Dec 1941, Concord was at San Diego undergoing an overhaul.  The overhaul completed in Feb 1942, and sailed to Bora Bora in the Society Islands with the rest of her fleet mates of the Southeast Pacific Force.  During a trip to survey islands of the Southeast Pacific in late 1943, she suffered a gasoline explosion which killed 22 men; she sailed for Panama for repairs.  The repairs were completed in Mar 1944, at which time she joined the Northern Pacific Force, with which fleet she bombarded Japanese bases in the Kurile Islands and interfered with Japanese shipping in that region.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>After the war, Concord covered occupation landings at Ominato, Japan, before returning to Philadelphia via the Panama Canal.  She was decommissioned before the end of the year.</p>
+<small><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span><i>Source: Wikipedia.</i></p></small>
+				<link rel='stylesheet' href='https://unpkg.com/leaflet@1.3.1/dist/leaflet.css'
+				   integrity='sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=='
+				   crossorigin=''/>
+				<script src='https://unpkg.com/leaflet@1.3.1/dist/leaflet.js'
+				   integrity='sha512-/Nsx9X4HebavoBvEBuyp3I7od5tA0UzAxs+j83KgC8PU0kgB4XiK4Lfe4y4cgBtaRJQEIFCW+oC506aPT2L1zw=='
+				   crossorigin=''></script>
+					<script src='https://unpkg.com/leaflet.markercluster@1.3.0/dist/leaflet.markercluster.js'></script>
+					<link href='https://unpkg.com/leaflet.markercluster@1.3.0/dist/MarkerCluster.css' rel='stylesheet' />
+					<link href='https://unpkg.com/leaflet.markercluster@1.3.0/dist/MarkerCluster.Default.css' rel='stylesheet' />
+				
+				<style>
+				.mapClass {
+					height: 400px; 
+				}
+				.infowindowSubTitle {
+					font-weight: bold;
+					margin-top: 10px;
+					margin-bottom: 10px;
+				}
+				</style>
+				
+				<p id='interactiveMapLabel'><b>Light Cruiser USS Concord Interactive Map</b></p>
+				<div id='mapid' class='mapClass'></div>
+				<script>
+				var mymap = L.map('mapid').setView([38.090000000, -122.263333000], 13);
+			
+					L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.{ext}', {
+						attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+						subdomains: 'abcd',
+						minZoom: 0,
+						maxZoom: 18,
+						ext: 'png'
+					}).addTo(mymap);
+				
+				var rawDataArray = [  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Vallejo, California, United States</h2><div class='infowindowSubTitle'>09 Feb 1942</div><a href='/image.php?image_id=1225'><img src='/images/imagemagick/tmb_ship_concord5.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 38.090000000, -122.263333000, 1]];
+				var pointsArray = [];
+			
+					var markers = L.markerClusterGroup({ maxClusterRadius: 50 });
+					for (var i = 0; i < rawDataArray.length; i++) {
+						var a = rawDataArray[i];
+						var title = a[0];
+						var fill_color = '#FF0033';
+						var marker = L.marker(new L.LatLng(a[1], a[2]), { title: title, color: fill_color });
+						marker.bindPopup(L.popup({maxHeight:200}).setContent(title));
+						markers.addLayer(marker);
+						pointsArray.push(marker);
+					}
+					mymap.addLayer(markers);
+				
+				var group = new L.featureGroup(pointsArray);
+				mymap.fitBounds(group.getBounds());
+				</script>
+			<p><b>USS Concord Operational Timeline</b></p><table border='0' cellspacing='0'><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/11/03/1923' alt='See all events on 3 Nov 1923' title='See all events on 3 Nov 1923' class='noStyle'>3 Nov 1923</a>&nbsp;</td><td>Concord was commissioned into service.</td></tr><tr bgcolor=''><td valign='top' align='right' nowrap><a href='/event/today/12/12/1945' alt='See all events on 12 Dec 1945' title='See all events on 12 Dec 1945' class='noStyle'>12 Dec 1945</a>&nbsp;</td><td>Concord was decommissioned from service.</td></tr></table><br /><p><b>Photographs</b></p><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=205'><img src="/images/imagemagick/tmb_ship_concord2.jpg" border='0' alt='Concord off Algiers, Algeria, circa late 1923'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=205'><img src="/images/imagemagick/tmb_ship_concord3.jpg" border='0' alt='Concord off North African desert, circa late 1923 or early 1924'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=205'><img src="/images/imagemagick/tmb_ship_concord11.jpg" border='0' alt='Concord firing a torpedo from port side, circa mid-1920s'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=205'><img src="/images/imagemagick/tmb_ship_concord4.jpg" border='0' alt='Concord in harbor, circa 1935'></a></td></tr></table><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=205'>See all 10 photographs of Light Cruiser USS Concord</a><br /><br /><br /><br />
 				<center><table border='0' cellpadding='0' cellspacing='0' width='100%'>
 				<tr><td valign='top' width='382'><p>Did you enjoy this article?  Please consider supporting us on <a href='https://www.patreon.com/ww2db' rel='nofollow' target='_patreon' onclick='javascript: ga("send","pageview","/outgoing/www.patreon.com/ww2db/");'>Patreon</a>.  Even $1 per month will go a long way!  Thank you.</p>
 		<table border='0' cellpadding='0' cellspacing='0'>
@@ -128,19 +171,19 @@ When it was ascertained that the ship was in a sinking condition, Admiral Yamagu
 			<td colspan='9'>Share this article with your friends:<br /><br /></td>
 		</tr>
 		<tr>
-			<td><a title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=A12' target='_facebook' rel='nofollow'><img src='/images/icon_facebook.gif' border='0'></a></td><td>&nbsp;</td><td><a id='facebook' title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=A12' target='_facebook'>Facebook</a></td>
-			<td><a title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A12&title=Aircraft Carrier Hiryu' target='_reddit' rel='nofollow'><img src='/images/icon_reddit.gif' border='0'></a></td><td>&nbsp;</td><td><a id='reddit' title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A12&title=Aircraft Carrier Hiryu' target='_reddit'>Reddit</a></td>
+			<td><a title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=C205' target='_facebook' rel='nofollow'><img src='/images/icon_facebook.gif' border='0'></a></td><td>&nbsp;</td><td><a id='facebook' title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=C205' target='_facebook'>Facebook</a></td>
+			<td><a title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C205&title=Light Cruiser USS Concord' target='_reddit' rel='nofollow'><img src='/images/icon_reddit.gif' border='0'></a></td><td>&nbsp;</td><td><a id='reddit' title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C205&title=Light Cruiser USS Concord' target='_reddit'>Reddit</a></td>
 		</tr>
 		<tr>
-			<td><a title='Tweet this page' href='http://twitter.com/home/?status=Aircraft+Carrier+Hiryu+https://ww2db.com:443/ship_spec.php?ship_id=A12' target='_twitter' rel='nofollow'><img src='/images/icon_twitter.gif' border='0'></a></td><td>&nbsp;</td><td><a id='twitter' title='Tweet this page' href='http://twitter.com/home/?status=Aircraft+Carrier+Hiryu+https://ww2db.com:443/ship_spec.php?ship_id=A12' target='_twitter'>Twitter</a></td>
-			<td><a title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A12&title=Aircraft Carrier Hiryu' target='_digg' rel='nofollow'><img src='/images/icon_digg.gif' border='0'></a></td><td>&nbsp;</td><td><a id='digg' title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A12&title=Aircraft Carrier Hiryu' target='_digg'>Digg</a></td>
+			<td><a title='Tweet this page' href='http://twitter.com/home/?status=Light+Cruiser+USS+Concord+https://ww2db.com:443/ship_spec.php?ship_id=C205' target='_twitter' rel='nofollow'><img src='/images/icon_twitter.gif' border='0'></a></td><td>&nbsp;</td><td><a id='twitter' title='Tweet this page' href='http://twitter.com/home/?status=Light+Cruiser+USS+Concord+https://ww2db.com:443/ship_spec.php?ship_id=C205' target='_twitter'>Twitter</a></td>
+			<td><a title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C205&title=Light Cruiser USS Concord' target='_digg' rel='nofollow'><img src='/images/icon_digg.gif' border='0'></a></td><td>&nbsp;</td><td><a id='digg' title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C205&title=Light Cruiser USS Concord' target='_digg'>Digg</a></td>
 		</tr>
 		<tr>
-			<td><a title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=A12' target='_googleplus' rel='nofollow'><img src='/images/icon_googleplus2.png' border='0'></a></td><td>&nbsp;</td><td><a id='googleplus' title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=A12' target='_googleplus'>Google+</a></td>
-			<td><a title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=A12&title=Aircraft Carrier Hiryu' target='_delicious' rel='nofollow'><img src='/images/icon_delicious.gif' border='0'></a></td><td>&nbsp;</td><td><a id='delicious' title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=A12&title=Aircraft Carrier Hiryu' target='_delicious'>Delicious</a></td>
+			<td><a title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=C205' target='_googleplus' rel='nofollow'><img src='/images/icon_googleplus2.png' border='0'></a></td><td>&nbsp;</td><td><a id='googleplus' title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=C205' target='_googleplus'>Google+</a></td>
+			<td><a title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=C205&title=Light Cruiser USS Concord' target='_delicious' rel='nofollow'><img src='/images/icon_delicious.gif' border='0'></a></td><td>&nbsp;</td><td><a id='delicious' title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=C205&title=Light Cruiser USS Concord' target='_delicious'>Delicious</a></td>
 		</tr>
 		<tr>
-			<td><a title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A12&title=Aircraft Carrier Hiryu' target='_stumbleupon' rel='nofollow'><img src='/images/icon_stumbleupon.gif' border='0'></a></td><td>&nbsp;</td><td><a id='stumbleupon' title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A12&title=Aircraft Carrier Hiryu' target='_stumbleupon'>StumbleUpon</a></td>
+			<td><a title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C205&title=Light Cruiser USS Concord' target='_stumbleupon' rel='nofollow'><img src='/images/icon_stumbleupon.gif' border='0'></a></td><td>&nbsp;</td><td><a id='stumbleupon' title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C205&title=Light Cruiser USS Concord' target='_stumbleupon'>StumbleUpon</a></td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -158,10 +201,15 @@ When it was ascertained that the ship was in a sinking condition, Admiral Yamagu
 		</script>
 	</td></tr></table></center><br /><br /><br />
 
-<style>.commentItem { display: none; border: 1px solid #b0b0b0; padding: 10px; margin-bottom: 10px; }</style><p><b>Visitor Submitted Comments</b></p><p id='showAllCommand' style='display: none;'><a href='javascript:showAllComments();'>Show older comments</a></p><div id='commentItem1' class='commentItem' style='background-color: #f0f0f0'>1. <span style='font-style: italic;'>Mike Dunne</span> says:<br /><small>28 Jan 2007 12:44:39 AM</small><br /><br />Soryu and Hiryu were truly first class carriers, probably the best in the world in their day. Pity the dangfool IJN wasted them at Midway...</div><div id='commentItem2' class='commentItem' style='background-color: '>2. <span style='font-style: italic;'>DENNIS</span> says:<br /><small>28 Feb 2007 02:54:48 AM</small><br /><br />NO WERE THE IJN WAS FOOLISH IS EXSPECTING THE US NAVY WOULD REACT AS THEY THOUGHT THEY WOULD AND TAKEING TO LONG WITH CRUCIAL DESIONS!</div><div id='commentItem3' class='commentItem' style='background-color: #f0f0f0'>3. <span style='font-style: italic;'>John S. Halbert</span> says:<br /><small>17 Sep 2013 09:22:57 PM</small><br /><br />The Americans always considered Soryu and Hiryu as being small carriers; actually, they were comparable in size  to the USN Yorktown Class and were faster by about three knots (35Kn/hr) due to more powerful propulsion plants. Hiryu 153,000 HP; Yorktown 120,000 HP. Hiryu HP only exceeded by the two Shokakus (Shokaku, Zuikaku) that had 160,000 HP and were probably the best IJN carriers overall.  </div><small><p>All visitor submitted comments are opinions of those making the submissions and do not reflect views of WW2DB.</p></small>	<script>
-			$("#commentItem3").show();
-				$("#commentItem2").show();
-				$("#commentItem1").show();
+<style>.commentItem { display: none; border: 1px solid #b0b0b0; padding: 10px; margin-bottom: 10px; }</style><p><b>Visitor Submitted Comments</b></p><p id='showAllCommand' style='display: none;'><a href='javascript:showAllComments();'>Show older comments</a></p><div id='commentItem1' class='commentItem' style='background-color: #f0f0f0'>1. <span style='font-style: italic;'>John S. Parr</span> says:<br /><small>2 Aug 2011 07:46:23 AM</small><br /><br />Came across this article when checking out Ominato. Was Radioman 3/C on the Concord when we went to Ominato as Occupation Force.Very few of our Crew Members left now ut stil remember sailing into Harbor
+              2 August 2011          
+ling into Harbor Aug 28. 1945.</div><div id='commentItem2' class='commentItem' style='background-color: '>2. <span style='font-style: italic;'>Richard D Allen 2</span> says:<br /><small>24 Sep 2011 11:59:52 AM</small><br /><br />My dad Richard D Allen Seaman first class served on the Concord during WW2 I beleve he fired the AA guns and was later below deck on the 6in</div><div id='commentItem3' class='commentItem' style='background-color: #f0f0f0'>3. <span style='font-style: italic;'>Ed Miller</span> says:<br /><small>2 Oct 2011 08:11:33 PM</small><br /><br />Looking for anyone who new my father Loyd Miller who served on the Concord during WWII.</div><div id='commentItem4' class='commentItem' style='background-color: '>4. <span style='font-style: italic;'>Don Barkel</span> says:<br /><small>5 Nov 2011 08:55:33 PM</small><br /><br />My good friend Ed Mosher served on the Concord. He is now 93 and in failing health but would enjoy a greeting from anyone who remembers him from those days.</div><div id='commentItem5' class='commentItem' style='background-color: #f0f0f0'>5. <span style='font-style: italic;'>Lynn sherman</span> says:<br /><small>19 Jun 2012 05:09:31 PM</small><br /><br />Looking for anyone who served with my dad, Robert Sherman during WWII.</div><div id='commentItem6' class='commentItem' style='background-color: '>6. <span style='font-style: italic;'>Jason Perry</span> says:<br /><small>27 Jul 2012 12:32:43 PM</small><br /><br />Looking for anyone who served with my Grandfather Joseph B. Perry during WWII. Also looking for deployments and campaigns the ship would have served in. Thank you all and God bless our Veterans.</div><div id='commentItem7' class='commentItem' style='background-color: #f0f0f0'>7. <span style='font-style: italic;'>Jay Dufour</span> says:<br /><small>19 Aug 2012 05:14:01 PM</small><br /><br />I am hoping to hear from any WW II USS Concord who may remember my dad Lt. John Dufour.
+
+Thank you</div><div id='commentItem8' class='commentItem' style='background-color: '>8. <span style='font-style: italic;'>Kathy Radcliff Cutright</span> says:<br /><small>31 Oct 2013 07:17:08 PM</small><br /><br />Looking for anyone who may remember my dad Hugh Radcliff on the USS Concord in WW11  Thank you Veterans!!</div><div id='commentItem9' class='commentItem' style='background-color: #f0f0f0'>9. <span style='font-style: italic;'>Ryan Sayre</span> says:<br /><small>30 Sep 2016 05:06:47 PM</small><br /><br />Looking for more info, my grand father served, Ernest Roberts.  Wish to thank these brave sailors for saving the world!</div><div id='commentItem10' class='commentItem' style='background-color: '>10. <span style='font-style: italic;'>Mark Barrow</span> says:<br /><small>28 Jul 2017 01:50:17 PM</small><br /><br />Looking to see if anyone remembers my dad, Albert "Gene" Barrow. Also does anyone know if there are any tshirts or hats with the ships name available. </div><div id='commentItem11' class='commentItem' style='background-color: #f0f0f0'>11. <span style='font-style: italic;'>Anonymous</span> says:<br /><small>26 Jan 2018 08:08:51 AM</small><br /><br />my father herbert winters served on the concord from feb. 1942 upto its decommisoning in 1945. he was a shipfitter. before he passed he gave me his navy album. will share info. randy winters</div><div id='commentItem12' class='commentItem' style='background-color: '>12. <span style='font-style: italic;'>Terri</span> says:<br /><small>19 Aug 2018 11:37:02 AM</small><br /><br />My dad served on the concord 1942-1943.robert marlin Shriver. Looking for any photos of the crew so I can see my dad or information</div><small><p>All visitor submitted comments are opinions of those making the submissions and do not reflect views of WW2DB.</p></small>	<script>
+			$("#showAllCommand").show();
+			$("#commentItem12").show();
+				$("#commentItem11").show();
+				$("#commentItem10").show();
 			function showAllComments() {
 		$(".commentItem").show();
 		$("#showAllCommand").remove();
@@ -186,16 +234,16 @@ When it was ascertained that the ship was in a sinking condition, Admiral Yamagu
 	<tr><td valign="top">Your Comments</td><td><textarea name="comment" cols="30" rows="6"></textarea></td></tr>
 	<tr><td valign="top">Security Code</td>
 		<td valign="top">
-			<div style="background-image:url('/images/captcha/captcha20.jpg'); height: 40px; min-height: 40px; width: 100px; min-width: 100px;">&nbsp;</div>			<br />
+			<div style="background-image:url('/images/captcha/captcha19.jpg'); height: 40px; min-height: 40px; width: 100px; min-width: 100px;">&nbsp;</div>			<br />
 			<input type="text" name="captcha" style="margin-bottom: 2px;">
 		</td>
 	</tr>
 	<tr>
 		<td>&nbsp;</td>
 		<td valign="top"><input type="hidden" name="foreigntype" value="S">
-		<input type="hidden" name="foreigntype_id" value="12">
-		<input type="hidden" name="url" value="/ship_spec.php?ship_id=A12">
-		<input type="hidden" name="c" value="97"> 		<input type="submit" value="Submit"></td>
+		<input type="hidden" name="foreigntype_id" value="205">
+		<input type="hidden" name="url" value="/ship_spec.php?ship_id=C205">
+		<input type="hidden" name="c" value="96"> 		<input type="submit" value="Submit"></td>
 	</tr>
 	</table>
 	</center>
@@ -216,7 +264,7 @@ When it was ascertained that the ship was in a sinking condition, Admiral Yamagu
 </form>
 <script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=searchbox_004186240537787039759%3Aptfrvampo3a"></script>
 </ul>
-<div class="sidetop">More on Hiryu</div><i>Personnel:</i><br>&raquo;&nbsp;<a href=person_bio.php?person_id=329>Amagai, Takahisa</a><br>&raquo;&nbsp;<a href=person_bio.php?person_id=163>Kaku, Tomeo</a><br>&raquo;&nbsp;<a href=person_bio.php?person_id=548>Minami, Yoshimi</a><br>&raquo;&nbsp;<a href=person_bio.php?person_id=39>Yamaguchi, Tamon</a><br>&raquo;&nbsp;<a href=person_bio.php?person_id=352>Yamaoka, Mineo</a><br><br><i>Event(s) Participated:</i><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=17>Attack on Pearl Harbor</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=57>Battle of Wake Island</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=7>Raids into the Indian Ocean</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=6>Battle of Midway and the Aleutian Islands</a><br><br /><i>Partner Sites Content:</i><br />&raquo;&nbsp;<a href='http://www.combinedfleet.com/hiryu.htm' target='_combinedfleet' onclick="javascript: pageTracker._trackPageview('/outgoing/www.combinedfleet.com/hiryu.htm');">Hiryu Tabular Record of Movement</a><br /><div class='sidehidden_m'><div class='sidetop'>Aircraft Carrier Hiryu Photo Gallery</div><center><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=12'><img src="/images/imagemagick/tmb_ship_hiryu2.jpg" border='0' alt='Carrier Hiryu running speed trials off Tateyama, Chiba, Japan, 28 Apr 1939'></a></td></tr></table></center><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=12'>See all 9 photographs of Aircraft Carrier Hiryu</a></div><br /><br />		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<div class='sidehidden_m'><div class="sidetop">News</div><ul><li> &#187; <a href="/news.php?news_id=206">Finland to probe role of Waffen-SS volunteers</a> (31 May 2018)</li><li> &#187; <a href="/news.php?news_id=205">Your patronage is needed for WW2DB</a> (17 May 2018)</li><li> &#187; <a href="/news.php?news_id=204">Your help is needed to transcribe WW2 documents</a> (17 May 2018)</li><li> &#187; <a href="/news.php?news_id=203">Japanese National Archives released names of Unit 731 members</a> (17 Apr 2018)</li><li> &#187; <a href="/news.php?news_id=202">Wreck of USS Helena found</a> (12 Apr 2018)</li><li> &#187; <a href="/news.php">See all news</a></li></ul><br /></div><div class='sidehidden_m'><div class='sidetop'>Light Cruiser USS Concord Photo Gallery</div><center><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=205'><img src="/images/imagemagick/tmb_ship_concord2.jpg" border='0' alt='Concord off Algiers, Algeria, circa late 1923'></a></td></tr></table></center><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=205'>See all 10 photographs of Light Cruiser USS Concord</a></div><br /><br />		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		<!-- WW2DB Xcol Links 160x90 -->
 		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:90px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="5126713011"></ins>
 		<script>
@@ -225,10 +273,10 @@ When it was ascertained that the ship was in a sinking condition, Admiral Yamagu
 		<br /><br />
 	<div class="sidehidden_m">
 	<div class="sidetop">Current Site Statistics</div>
-	<ul><li> &#187; <a class='noStyle' href='/person.php'>1,039 biographies</a></li><li> &#187; <a class='noStyle' href='/event/'>326 events</a></li><li> &#187; <a class='noStyle' href='/event/timeline/'>35,502 timeline entries</a></li><li> &#187; <a class='noStyle' href='/ship.php'>726 ships</a></li><li> &#187; <a class='noStyle' href='/aircraft.php'>329 aircraft models</a></li><li> &#187; <a class='noStyle' href='/vehicle.php'>184 vehicle models</a></li><li> &#187; <a class='noStyle' href='/weapon.php'>339 weapon models</a></li><li> &#187; <a class='noStyle' href='/doc.php'>102 historical documents</a></li><li> &#187; <a class='noStyle' href='/facility/'>175 facilities</a></li><li> &#187; <a class='noStyle' href='/book/'>457 book reviews</a></li><li> &#187; <a class='noStyle' href='/photo.php'>24,916 photos</a></li><li> &#187; <a class='noStyle' href='/reference/map/'>287 maps</a></li></ul>	<br />
+	<ul><li> &#187; <a class='noStyle' href='/person.php'>1,040 biographies</a></li><li> &#187; <a class='noStyle' href='/event/'>326 events</a></li><li> &#187; <a class='noStyle' href='/event/timeline/'>35,554 timeline entries</a></li><li> &#187; <a class='noStyle' href='/ship.php'>726 ships</a></li><li> &#187; <a class='noStyle' href='/aircraft.php'>329 aircraft models</a></li><li> &#187; <a class='noStyle' href='/vehicle.php'>184 vehicle models</a></li><li> &#187; <a class='noStyle' href='/weapon.php'>340 weapon models</a></li><li> &#187; <a class='noStyle' href='/doc.php'>102 historical documents</a></li><li> &#187; <a class='noStyle' href='/facility/'>175 facilities</a></li><li> &#187; <a class='noStyle' href='/book/'>457 book reviews</a></li><li> &#187; <a class='noStyle' href='/photo.php'>24,934 photos</a></li><li> &#187; <a class='noStyle' href='/reference/map/'>287 maps</a></li></ul>	<br />
 </div>
 
-<div class='sidehidden_m'><div class='sidetop'>Famous WW2 Quote</div>"Among the men who fought on Iwo Jima, uncommon valor was a common virtue."<br><br>Fleet Admiral Chester W. Nimitz, 16 Mar 1945</div><br /><br />				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<div class='sidehidden_m'><div class='sidetop'>Famous WW2 Quote</div>"Never in the field of human conflict was so much owed by so many to so few."<br><br>Winston Churchill, on the RAF</div><br /><br />				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		<!-- WW2DB Xcol Vertical Banner 160x600 -->
 		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="6471754899"></ins>
 		<script>
@@ -252,7 +300,7 @@ When it was ascertained that the ship was in a sinking condition, Admiral Yamagu
 		<li> &#187; <a href="/feed.php">Syndication</a></li>
 		<li> &#187; <a href="/termsofuse.php" rel="nofollow">Terms of Use & Disclosures</a></li>
 		<li> &#187; <a href="/">World War II Database Home</a></li>
-		<li> &#187; <a href='http://m.ww2db.com/ship_spec.php?ship_id=A12'>Mobile View</a></li>
+		<li> &#187; <a href='http://m.ww2db.com/ship_spec.php?ship_id=C205'>Mobile View</a></li>
 		</ul>		
 	</div>
 	<div style="float: left; padding: 0 5 0 5px; width: 282px; text-align: left;">
@@ -285,7 +333,7 @@ When it was ascertained that the ship was in a sinking condition, Admiral Yamagu
 		<script>
 		(adsbygoogle = window.adsbygoogle || []).push({});
 		</script>
-	<br /><center>		<a href="http://amzn.to/2jfeSrN" target="_amazon" rel="nofollow" onclick="javascript: ga('send','pageview','/outgoing/amzn.to/2jfeSrN');"><img src="/images/ad_frontlines_of_television_war_728.jpg" /></a><br /><br />
+	<br /><center>		<a href="http://amzn.to/2he65an" target="_amazon" rel="nofollow" onclick="javascript: ga('send','pageview','/outgoing/amzn.to/2he65an');"><img src="/images/ad_shattered_sword_728.jpg" /></a><br /><br />
 		</center>
 <br /><br />
 

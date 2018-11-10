@@ -1,10 +1,10 @@
 <html>
 
 <head>
-<title>Escort Carrier USS Corregidor (CVE-58) | World War II Database</title>
+<title>Heavy Cruiser USS Canberra (Baltimore-class) | World War II Database</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="description" content="Escort Carrier USS Corregidor (CVE-58) | World War II Database">
-<meta name="keywords" content="ww2db, world war, ww2, military, history, Escort Carrier USS Corregidor (CVE-58) | World War II Database">
+<meta name="description" content="Heavy Cruiser USS Canberra (Baltimore-class) | World War II Database">
+<meta name="keywords" content="ww2db, world war, ww2, military, history, Heavy Cruiser USS Canberra (Baltimore-class) | World War II Database">
 <meta name="ROBOTS" content="INDEX, FOLLOW">
 <meta name="REVISIT-AFTER" CONTENT="15 days">
 <META NAME="COPYRIGHT" CONTENT="Copyright © 2004-2018 Lava Development, LLC., all rights reserved">
@@ -23,23 +23,25 @@
 
 <link rel="alternate" type="application/rss+xml" title="WW2DB RSS Feed" href="https://ww2db.com/feedgen.php?feed=articles&f=RSS2.0" />
 
-<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=A884' />
-<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=884' />
+<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=C503' />
+<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=503' />
 
 <meta property="fb:app_id" content="103484127961" />
 <meta name="p:domain_verify" content="794c2d433a01b5d35554ba972a179eff"/>
 
+	<link rel="image_src" type="image/jpeg" href="http://ww2db.com/images/ship_canberrabaltimore1.jpg" />
 	<meta property="og:site_name" content="WW2DB" />
-	<meta property="og:title" content="Escort Carrier USS Corregidor (CVE-58)" />
-	<meta property="og:description" content="Escort Carrier USS Corregidor (CVE-58)" />
+	<meta property="og:title" content="Heavy Cruiser USS Canberra (Baltimore-class)" />
+	<meta property="og:description" content="Heavy Cruiser USS Canberra (Baltimore-class)" />
 	<meta property="og:type" content="article" />
-	<meta property="og:url" content="https://ww2db.com/ship_spec.php?ship_id=A884" />
-	
+	<meta property="og:url" content="https://ww2db.com/ship_spec.php?ship_id=C503" />
+		<meta property="og:image" content="http://ww2db.com/images/ship_canberrabaltimore1.jpg" />
+
 	<meta name='twitter:card' content='summary'>
 	<meta name='twitter:site' content='@ww2db'>
-	<meta name='twitter:title' content='Escort Carrier USS Corregidor (CVE-58)'>
-	<meta name='twitter:description' content='Escort Carrier USS Corregidor (CVE-58)'>
-	<meta name='twitter:image' content=''>
+	<meta name='twitter:title' content='Heavy Cruiser USS Canberra (Baltimore-class)'>
+	<meta name='twitter:description' content='Heavy Cruiser USS Canberra (Baltimore-class)'>
+	<meta name='twitter:image' content='http://ww2db.com/images/ship_canberrabaltimore1.jpg'>
 				
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.5/css/jquery.dataTables.css">
 <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
@@ -75,7 +77,7 @@ table.dataTable tbody td, table.dataTable thead td {
 		</td></tr>
 		</table>
 		<div class="bannerflash">
-		<div style="background-image:url('/images/banner915_1.jpg'); height: 120px; min-height: 120px; width: 915px; min-width: 915px;">&nbsp;</div>		</div>
+		<div style="background-image:url('/images/banner915_3.jpg'); height: 120px; min-height: 120px; width: 915px; min-width: 915px;">&nbsp;</div>		</div>
 	</div>
 	<div id='nav' align='right'>
 		<ul id='navlist'>
@@ -84,20 +86,15 @@ table.dataTable tbody td, table.dataTable thead td {
 
 <div id="content">
 	<div itemscope itemtype="http://schema.org/Article" class="maincol">
-		<meta itemprop="url" content="<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=A884' />
-<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=884' />
+		<meta itemprop="url" content="<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=C503' />
+<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=503' />
 " />
-		<meta itemprop="description" content="Escort Carrier USS Corregidor (CVE-58)" />
+		<meta itemprop="description" content="Heavy Cruiser USS Canberra (Baltimore-class)" />
 		<div id="breadcrumb"><ul class="horizontalList">
 				<li class="horizontalList"> <a href="index.php">Home</a></li>
 				<li class="horizontalList"> &#187; <a href="equip.php">Equipment</a></li>
-				<li class="horizontalList"> &#187; <a href="ship.php">Ships</a></li><li class="horizontalList"> &#187; <a href="ship.php?list=A">Carriers</a></li><li class="horizontalList"> &#187; Corregidor</li></ul></div>
-<div style='display: inline; float: right;'><script async src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
-			<!-- WW2DB Top of Content 250x250 -->
-			<ins class='adsbygoogle' style='display:inline-block;width:250px;height:250px' data-ad-client='ca-pub-8359788307919731' data-ad-slot='1430818127'></ins>
-			<script>
-			(adsbygoogle = window.adsbygoogle || []).push({});
-			</script><script>
+				<li class="horizontalList"> &#187; <a href="ship.php">Ships</a></li><li class="horizontalList"> &#187; <a href="ship.php?list=C">Cruisers</a></li><li class="horizontalList"> &#187; Canberra (Baltimore-class)</li></ul></div>
+<div style='display: inline; float: right;'><image itemprop='image' class='filephoto' alt='Canberra (Baltimore-class) file photo [8183]' title='Canberra (Baltimore-class) file photo [8183]' src='/images/ship_canberrabaltimore1.jpg' /><script>
 		function resizeText(className, percent) {
 			var elements = document.getElementsByClassName(className);
 			for (var i = 0; i < elements.length; ++i) {
@@ -110,7 +107,65 @@ table.dataTable tbody td, table.dataTable thead td {
 				}
 			}
 		}
-		</script><br /><img src="/images/icon_font_small.jpg" onclick="resizeText('maincol', -10)" title="Decrease font size" /><img src="/images/icon_font_medium.jpg" onclick="resizeText('maincol', null)" title="Reset font size" /><img src="/images/icon_font_large.jpg" onclick="resizeText('maincol', 10)" title="Increase font size" /></div><div style='margin: 8px 0px 8px 0px;'><h2 itemprop='name' class='articleHeader'>USS Corregidor</h2></div><table class="table_noborder"><tr><td class="table_noborder">Country</td><td class="table_noborder"><a href='/country/united%20states'>United States</a></td></tr><tr><td class="table_noborder">Ship Class</td><td class="table_noborder">Casablanca-class Escort Carrier</td></tr><tr><td class='table_noborder'>Hull Number</td><td class='table_noborder'>CVE-58</td></tr><tr><td class="table_noborder">Builder</td><td class="table_noborder">Kaiser Shipbuilding Company, Vancouver, Washington, United States</td></tr><tr><td class="table_noborder">Laid Down</td><td class="table_noborder">20 Aug 1942</td></tr><tr><td class="table_noborder">Launched</td><td class="table_noborder">12 May 1943</td></tr><tr><td class="table_noborder">Commissioned</td><td class="table_noborder">31 Aug 1943</td></tr></table><p><small>Contributor: <a href='/person_bio.php?person_id=183'><span itemprop='author' itemscope itemtype='http://schema.org/Person'><span itemprop='name'></span></span></a></small></p><p>This article has been removed for review and updates, please check back again soon!</p><p><b>Photographs</b></p><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href="/image.php?image_id=24546"><img src="/images/imagemagick/tmb_ship_anzio26.jpg" border='0' alt='Japanese aircraft exploding near the stern of USS Corregidor, off Saipan, Mariana Islands, 17 Jun 1944; seen from the flight deck of USS Coral Sea'></a></td><td><a href="/image.php?image_id=24545"><img src="/images/imagemagick/tmb_ship_anzio25.jpg" border='0' alt='USS Corregidor firing on Japanese aircraft off Saipan, Mariana Islands, 17 Jun 1944; seen from the flight deck of USS Coral Sea'></a></td><td><a href="/image.php?image_id=24547"><img src="/images/imagemagick/tmb_ship_anzio27.jpg" border='0' alt='FM-2 fighter being launched from USS Coral Sea during combat off Saipan, Mariana Islands, 18 Jun 1944; note USS Corregidor in background'></a></td></tr></table><br /><br /><br /><br />
+		</script><br /><img src="/images/icon_font_small.jpg" onclick="resizeText('maincol', -10)" title="Decrease font size" /><img src="/images/icon_font_medium.jpg" onclick="resizeText('maincol', null)" title="Reset font size" /><img src="/images/icon_font_large.jpg" onclick="resizeText('maincol', 10)" title="Increase font size" /></div><div style='margin: 8px 0px 8px 0px;'><h2 itemprop='name' class='articleHeader'>USS Canberra (Baltimore-class)</h2></div><table class="table_noborder"><tr><td class="table_noborder">Country</td><td class="table_noborder"><a href='/country/united%20states'>United States</a></td></tr><tr><td class="table_noborder">Ship Class</td><td class="table_noborder">Baltimore-class Heavy Cruiser</td></tr><tr><td class="table_noborder">Builder</td><td class="table_noborder">Bethlehem Steel Company Fore River Shipyard, Quincy, Massachusetts, United States</td></tr><tr><td class="table_noborder">Laid Down</td><td class="table_noborder">3 Sep 1941</td></tr><tr><td class="table_noborder">Launched</td><td class="table_noborder">19 Apr 1943</td></tr><tr><td class="table_noborder">Commissioned</td><td class="table_noborder">14 Oct 1943</td></tr><tr><td class="table_noborder">Decommissioned</td><td class="table_noborder">7 Mar 1947</td></tr><tr><td class="table_noborder">Displacement</td><td class="table_noborder">13600 tons standard</td></tr><tr><td class="table_noborder">Length</td><td class="table_noborder">673 feet</td></tr><tr><td class="table_noborder">Beam</td><td class="table_noborder">71 feet</td></tr><tr><td class="table_noborder">Draft</td><td class="table_noborder">26 feet</td></tr><tr><td class="table_noborder">Machinery</td><td class="table_noborder">General Electric geared turbines with four screws</td></tr><tr><td class="table_noborder">Power Output</td><td class="table_noborder">120000 SHP</td></tr><tr><td class="table_noborder">Speed</td><td class="table_noborder">33 knots</td></tr><tr><td class="table_noborder">Crew</td><td class="table_noborder">1142</td></tr><tr><td class="table_noborder">Armament</td><td class="table_noborder">9x203mm guns, 12x127mm guns, 48x40mm guns, 24x20mm guns</td></tr><tr><td class="table_noborder">Armor</td><td class="table_noborder">6in belt, 8in turrets, 2.5in deck, 6.5in conning tower</td></tr><tr><td class="table_noborder">Aircraft</td><td class="table_noborder">4</td></tr><tr><td class="table_noborder">Recommissioned as Boston-class cruiser</td><td class="table_noborder">15 Jun 1956</td></tr><tr><td class="table_noborder">Final Decommission</td><td class="table_noborder">2 Feb 1970</td></tr></table><p><small>Contributor: <a href='/person_bio.php?person_id=179'><span itemprop='author' itemscope itemtype='http://schema.org/Person'><span itemprop='name'>C. Peter Chen</span></span></a></small></p><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>USS Canberra was named after the Australian ship that sank at the Battle of Savo Island; in appreciation, the Australian government named the next Tribal-class destroyer HMAS Bataan in honor of the battle in the Philippine Islands.  USS Canberra's first major action was the Battle of the Philippine Sea in Jun 1944.  In Oct 1944, US Navy aircraft attacked Taiwan in preparation for the Philippine Islands invasion; on 13 Oct, the Japanese launched a counter-attack against American Fast Carrier Task Force, and Canberra was severely damaged by a torpedo.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>After WW2, Canberra was decommissioned on 7 Mar 1947 and placed in the reserve fleet at Puget Sound Naval Shipyard in Bremerton, Washington, United States.  On 4 Jan 1952, she was redesigned as a guided missile heavy cruiser; the conversion work took place at Camden, New Jersey, United States between 30 May 1952 and 1 Jun 1956.  Upon completion of the conversation, she was re-classified as a Boston-class cruiser.  Between 3 Mar and 24 Oct 1960, she sailed around the world to demonstrate her missile capabilities to American allies.  In 1962, she participated in the actions during the Cuban Missile Crisis.  During the Vietnam War, she was deployed five times between 1965 and 1969, lending her guns to support ground troops.  On 6 Apr 1967, Canberra's sailor Doug Hegdahl was blown overboard by one of the 127-millimeter guns and was captured by the North Vietnamese; Hegdahl survived the ordeal, and became a witness to North Vietnamese atrocities.  She returned from Vietnam on 19 Jan 1969 and was decommissioned in early 1970.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Canberra was sold to National Metal on 31 Jul 1980 and scrapped in California, United States.  Her bell was presented to Australian Prime Minister John Howard by US President George W. Bush on 10 Sep 2001 to commemorate 50 years of the ANZUS treaty; it is now located at the Australian National Maritime Museum at Darling Harbor, Sydney, New South Wales, Australia.</p>
+<small><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span><i>Source: Wikipedia.</i></p></small>
+				<link rel='stylesheet' href='https://unpkg.com/leaflet@1.3.1/dist/leaflet.css'
+				   integrity='sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=='
+				   crossorigin=''/>
+				<script src='https://unpkg.com/leaflet@1.3.1/dist/leaflet.js'
+				   integrity='sha512-/Nsx9X4HebavoBvEBuyp3I7od5tA0UzAxs+j83KgC8PU0kgB4XiK4Lfe4y4cgBtaRJQEIFCW+oC506aPT2L1zw=='
+				   crossorigin=''></script>
+					<script src='https://unpkg.com/leaflet.markercluster@1.3.0/dist/leaflet.markercluster.js'></script>
+					<link href='https://unpkg.com/leaflet.markercluster@1.3.0/dist/MarkerCluster.css' rel='stylesheet' />
+					<link href='https://unpkg.com/leaflet.markercluster@1.3.0/dist/MarkerCluster.Default.css' rel='stylesheet' />
+				
+				<style>
+				.mapClass {
+					height: 400px; 
+				}
+				.infowindowSubTitle {
+					font-weight: bold;
+					margin-top: 10px;
+					margin-bottom: 10px;
+				}
+				</style>
+				
+				<p id='interactiveMapLabel'><b>Heavy Cruiser USS Canberra (Baltimore-class) Interactive Map</b></p>
+				<div id='mapid' class='mapClass'></div>
+				<script>
+				var mymap = L.map('mapid').setView([36.966667000, -76.366667000], 13);
+			
+					L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.{ext}', {
+						attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+						subdomains: 'abcd',
+						minZoom: 0,
+						maxZoom: 18,
+						ext: 'png'
+					}).addTo(mymap);
+				
+				var rawDataArray = [  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Ulithi, Caroline Islands</h2><div class='infowindowSubTitle'>20 Oct 1944</div><a href='/image.php?image_id=8192'><img src='/images/imagemagick/tmb_ship_canberrabaltimore12.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 9.970000000, 139.670000000, 1],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Pacific Ocean</h2><div class='infowindowSubTitle'>17 Oct 1944</div><a href='/image.php?image_id=26795'><img src='/images/imagemagick/tmb_584ba0c0c5807.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 20.002917000, 126.138750000, 1],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Virginia, United States</h2><div class='infowindowSubTitle'>12 Jun 1957</div><a href='/image.php?image_id=8274'><img src='/images/imagemagick/tmb_ship_canberrabaltimore24.jpg' style='width: 50px; margin-right: 3px;' /></a><br /><a href='/image.php?image_id=8275'><img src='/images/imagemagick/tmb_ship_canberrabaltimore25.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 36.966667000, -76.366667000, 2]];
+				var pointsArray = [];
+			
+					var markers = L.markerClusterGroup({ maxClusterRadius: 50 });
+					for (var i = 0; i < rawDataArray.length; i++) {
+						var a = rawDataArray[i];
+						var title = a[0];
+						var fill_color = '#FF0033';
+						var marker = L.marker(new L.LatLng(a[1], a[2]), { title: title, color: fill_color });
+						marker.bindPopup(L.popup({maxHeight:200}).setContent(title));
+						markers.addLayer(marker);
+						pointsArray.push(marker);
+					}
+					mymap.addLayer(markers);
+				
+				var group = new L.featureGroup(pointsArray);
+				mymap.fitBounds(group.getBounds());
+				</script>
+			<p><b>USS Canberra (Baltimore-class) Operational Timeline</b></p><table border='0' cellspacing='0'><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/10/14/1943' alt='See all events on 14 Oct 1943' title='See all events on 14 Oct 1943' class='noStyle'>14 Oct 1943</a>&nbsp;</td><td>Canberra (Baltimore-class) was commissioned into service.</td></tr><tr bgcolor=''><td valign='top' align='right' nowrap><a href='/event/today/03/07/1947' alt='See all events on 7 Mar 1947' title='See all events on 7 Mar 1947' class='noStyle'>7 Mar 1947</a>&nbsp;</td><td>Canberra (Baltimore-class) was decommissioned from service.</td></tr></table><br /><p><b>Photographs</b></p><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=503'><img src="/images/imagemagick/tmb_ship_canberrabaltimore4.jpg" border='0' alt='Canberra sliding down the ways, Bethlehem Steel Company Fore River Shipyard, Quincy, Massachusetts, United States, 19 Apr 1943'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=503'><img src="/images/imagemagick/tmb_ship_canberrabaltimore5.jpg" border='0' alt='Launching of Canberra, Bethlehem Steel Company Fore River Shipyard, Quincy, Massachusetts, United States, 19 Apr 1943'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=503'><img src="/images/imagemagick/tmb_ship_canberrabaltimore2.jpg" border='0' alt='Canberra underway, Boston harbor, Massachusetts, United States, 14 Oct 1943, photo 1 of 4'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=503'><img src="/images/imagemagick/tmb_ship_canberrabaltimore7.jpg" border='0' alt='Canberra underway, Boston harbor, Massachusetts, United States, 14 Oct 1943, photo 2 of 4'></a></td></tr></table><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=503'>See all 41 photographs of Heavy Cruiser USS Canberra (Baltimore-class)</a><br /><br /><br /><br />
 				<center><table border='0' cellpadding='0' cellspacing='0' width='100%'>
 				<tr><td valign='top' width='382'><p>Did you enjoy this article?  Please consider supporting us on <a href='https://www.patreon.com/ww2db' rel='nofollow' target='_patreon' onclick='javascript: ga("send","pageview","/outgoing/www.patreon.com/ww2db/");'>Patreon</a>.  Even $1 per month will go a long way!  Thank you.</p>
 		<table border='0' cellpadding='0' cellspacing='0'>
@@ -118,19 +173,19 @@ table.dataTable tbody td, table.dataTable thead td {
 			<td colspan='9'>Share this article with your friends:<br /><br /></td>
 		</tr>
 		<tr>
-			<td><a title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=A884' target='_facebook' rel='nofollow'><img src='/images/icon_facebook.gif' border='0'></a></td><td>&nbsp;</td><td><a id='facebook' title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=A884' target='_facebook'>Facebook</a></td>
-			<td><a title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A884&title=Escort Carrier USS Corregidor (CVE-58)' target='_reddit' rel='nofollow'><img src='/images/icon_reddit.gif' border='0'></a></td><td>&nbsp;</td><td><a id='reddit' title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A884&title=Escort Carrier USS Corregidor (CVE-58)' target='_reddit'>Reddit</a></td>
+			<td><a title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=C503' target='_facebook' rel='nofollow'><img src='/images/icon_facebook.gif' border='0'></a></td><td>&nbsp;</td><td><a id='facebook' title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=C503' target='_facebook'>Facebook</a></td>
+			<td><a title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C503&title=Heavy Cruiser USS Canberra (Baltimore-class)' target='_reddit' rel='nofollow'><img src='/images/icon_reddit.gif' border='0'></a></td><td>&nbsp;</td><td><a id='reddit' title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C503&title=Heavy Cruiser USS Canberra (Baltimore-class)' target='_reddit'>Reddit</a></td>
 		</tr>
 		<tr>
-			<td><a title='Tweet this page' href='http://twitter.com/home/?status=Escort+Carrier+USS+Corregidor+(CVE-58)+https://ww2db.com:443/ship_spec.php?ship_id=A884' target='_twitter' rel='nofollow'><img src='/images/icon_twitter.gif' border='0'></a></td><td>&nbsp;</td><td><a id='twitter' title='Tweet this page' href='http://twitter.com/home/?status=Escort+Carrier+USS+Corregidor+(CVE-58)+https://ww2db.com:443/ship_spec.php?ship_id=A884' target='_twitter'>Twitter</a></td>
-			<td><a title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A884&title=Escort Carrier USS Corregidor (CVE-58)' target='_digg' rel='nofollow'><img src='/images/icon_digg.gif' border='0'></a></td><td>&nbsp;</td><td><a id='digg' title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A884&title=Escort Carrier USS Corregidor (CVE-58)' target='_digg'>Digg</a></td>
+			<td><a title='Tweet this page' href='http://twitter.com/home/?status=Heavy+Cruiser+USS+Canberra+(Baltimore-class)+https://ww2db.com:443/ship_spec.php?ship_id=C503' target='_twitter' rel='nofollow'><img src='/images/icon_twitter.gif' border='0'></a></td><td>&nbsp;</td><td><a id='twitter' title='Tweet this page' href='http://twitter.com/home/?status=Heavy+Cruiser+USS+Canberra+(Baltimore-class)+https://ww2db.com:443/ship_spec.php?ship_id=C503' target='_twitter'>Twitter</a></td>
+			<td><a title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C503&title=Heavy Cruiser USS Canberra (Baltimore-class)' target='_digg' rel='nofollow'><img src='/images/icon_digg.gif' border='0'></a></td><td>&nbsp;</td><td><a id='digg' title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C503&title=Heavy Cruiser USS Canberra (Baltimore-class)' target='_digg'>Digg</a></td>
 		</tr>
 		<tr>
-			<td><a title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=A884' target='_googleplus' rel='nofollow'><img src='/images/icon_googleplus2.png' border='0'></a></td><td>&nbsp;</td><td><a id='googleplus' title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=A884' target='_googleplus'>Google+</a></td>
-			<td><a title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=A884&title=Escort Carrier USS Corregidor (CVE-58)' target='_delicious' rel='nofollow'><img src='/images/icon_delicious.gif' border='0'></a></td><td>&nbsp;</td><td><a id='delicious' title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=A884&title=Escort Carrier USS Corregidor (CVE-58)' target='_delicious'>Delicious</a></td>
+			<td><a title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=C503' target='_googleplus' rel='nofollow'><img src='/images/icon_googleplus2.png' border='0'></a></td><td>&nbsp;</td><td><a id='googleplus' title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=C503' target='_googleplus'>Google+</a></td>
+			<td><a title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=C503&title=Heavy Cruiser USS Canberra (Baltimore-class)' target='_delicious' rel='nofollow'><img src='/images/icon_delicious.gif' border='0'></a></td><td>&nbsp;</td><td><a id='delicious' title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=C503&title=Heavy Cruiser USS Canberra (Baltimore-class)' target='_delicious'>Delicious</a></td>
 		</tr>
 		<tr>
-			<td><a title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A884&title=Escort Carrier USS Corregidor (CVE-58)' target='_stumbleupon' rel='nofollow'><img src='/images/icon_stumbleupon.gif' border='0'></a></td><td>&nbsp;</td><td><a id='stumbleupon' title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A884&title=Escort Carrier USS Corregidor (CVE-58)' target='_stumbleupon'>StumbleUpon</a></td>
+			<td><a title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C503&title=Heavy Cruiser USS Canberra (Baltimore-class)' target='_stumbleupon' rel='nofollow'><img src='/images/icon_stumbleupon.gif' border='0'></a></td><td>&nbsp;</td><td><a id='stumbleupon' title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C503&title=Heavy Cruiser USS Canberra (Baltimore-class)' target='_stumbleupon'>StumbleUpon</a></td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -167,16 +222,16 @@ table.dataTable tbody td, table.dataTable thead td {
 	<tr><td valign="top">Your Comments</td><td><textarea name="comment" cols="30" rows="6"></textarea></td></tr>
 	<tr><td valign="top">Security Code</td>
 		<td valign="top">
-			<div style="background-image:url('/images/captcha/captcha16.jpg'); height: 40px; min-height: 40px; width: 100px; min-width: 100px;">&nbsp;</div>			<br />
+			<div style="background-image:url('/images/captcha/captcha1.jpg'); height: 40px; min-height: 40px; width: 100px; min-width: 100px;">&nbsp;</div>			<br />
 			<input type="text" name="captcha" style="margin-bottom: 2px;">
 		</td>
 	</tr>
 	<tr>
 		<td>&nbsp;</td>
 		<td valign="top"><input type="hidden" name="foreigntype" value="S">
-		<input type="hidden" name="foreigntype_id" value="884">
-		<input type="hidden" name="url" value="/ship_spec.php?ship_id=A884">
-		<input type="hidden" name="c" value="93"> 		<input type="submit" value="Submit"></td>
+		<input type="hidden" name="foreigntype_id" value="503">
+		<input type="hidden" name="url" value="/ship_spec.php?ship_id=C503">
+		<input type="hidden" name="c" value="78"> 		<input type="submit" value="Submit"></td>
 	</tr>
 	</table>
 	</center>
@@ -197,7 +252,7 @@ table.dataTable tbody td, table.dataTable thead td {
 </form>
 <script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=searchbox_004186240537787039759%3Aptfrvampo3a"></script>
 </ul>
-<div class='sidehidden_m'><div class="sidetop">News</div><ul><li> &#187; <a href="/news.php?news_id=206">Finland to probe role of Waffen-SS volunteers</a> (31 May 2018)</li><li> &#187; <a href="/news.php?news_id=205">Your patronage is needed for WW2DB</a> (17 May 2018)</li><li> &#187; <a href="/news.php?news_id=204">Your help is needed to transcribe WW2 documents</a> (17 May 2018)</li><li> &#187; <a href="/news.php?news_id=203">Japanese National Archives released names of Unit 731 members</a> (17 Apr 2018)</li><li> &#187; <a href="/news.php?news_id=202">Wreck of USS Helena found</a> (12 Apr 2018)</li><li> &#187; <a href="/news.php">See all news</a></li></ul><br /></div><div class='sidehidden_m'><div class='sidetop'>Escort Carrier USS Corregidor (CVE-58) Photo Gallery</div><center><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=884'><img src="/images/imagemagick/tmb_ship_anzio26.jpg" border='0' alt='Japanese aircraft exploding near the stern of USS Corregidor, off Saipan, Mariana Islands, 17 Jun 1944; seen from the flight deck of USS Coral Sea'></a></td></tr></table></center><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=884'>See all 3 photographs of Escort Carrier USS Corregidor (CVE-58)</a></div><br /><br />		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<div class="sidetop">More on USS Canberra (Baltimore-class)</div><i>Event(s) Participated:</i><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=10>Mariana Islands Campaign and the Great Turkey Shoot</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=5>Philippines Campaign, Phase 1, the Leyte Campaign</a><br><br /><div class='sidehidden_m'><div class='sidetop'>Heavy Cruiser USS Canberra (Baltimore-class) Photo Gallery</div><center><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=503'><img src="/images/imagemagick/tmb_ship_canberrabaltimore4.jpg" border='0' alt='Canberra sliding down the ways, Bethlehem Steel Company Fore River Shipyard, Quincy, Massachusetts, United States, 19 Apr 1943'></a></td></tr></table></center><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=503'>See all 41 photographs of Heavy Cruiser USS Canberra (Baltimore-class)</a></div><br /><br />		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		<!-- WW2DB Xcol Links 160x90 -->
 		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:90px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="5126713011"></ins>
 		<script>
@@ -206,10 +261,10 @@ table.dataTable tbody td, table.dataTable thead td {
 		<br /><br />
 	<div class="sidehidden_m">
 	<div class="sidetop">Current Site Statistics</div>
-	<ul><li> &#187; <a class='noStyle' href='/person.php'>1,039 biographies</a></li><li> &#187; <a class='noStyle' href='/event/'>326 events</a></li><li> &#187; <a class='noStyle' href='/event/timeline/'>35,502 timeline entries</a></li><li> &#187; <a class='noStyle' href='/ship.php'>726 ships</a></li><li> &#187; <a class='noStyle' href='/aircraft.php'>329 aircraft models</a></li><li> &#187; <a class='noStyle' href='/vehicle.php'>184 vehicle models</a></li><li> &#187; <a class='noStyle' href='/weapon.php'>339 weapon models</a></li><li> &#187; <a class='noStyle' href='/doc.php'>102 historical documents</a></li><li> &#187; <a class='noStyle' href='/facility/'>175 facilities</a></li><li> &#187; <a class='noStyle' href='/book/'>457 book reviews</a></li><li> &#187; <a class='noStyle' href='/photo.php'>24,916 photos</a></li><li> &#187; <a class='noStyle' href='/reference/map/'>287 maps</a></li></ul>	<br />
+	<ul><li> &#187; <a class='noStyle' href='/person.php'>1,040 biographies</a></li><li> &#187; <a class='noStyle' href='/event/'>326 events</a></li><li> &#187; <a class='noStyle' href='/event/timeline/'>35,554 timeline entries</a></li><li> &#187; <a class='noStyle' href='/ship.php'>726 ships</a></li><li> &#187; <a class='noStyle' href='/aircraft.php'>329 aircraft models</a></li><li> &#187; <a class='noStyle' href='/vehicle.php'>184 vehicle models</a></li><li> &#187; <a class='noStyle' href='/weapon.php'>340 weapon models</a></li><li> &#187; <a class='noStyle' href='/doc.php'>102 historical documents</a></li><li> &#187; <a class='noStyle' href='/facility/'>175 facilities</a></li><li> &#187; <a class='noStyle' href='/book/'>457 book reviews</a></li><li> &#187; <a class='noStyle' href='/photo.php'>24,934 photos</a></li><li> &#187; <a class='noStyle' href='/reference/map/'>287 maps</a></li></ul>	<br />
 </div>
 
-<div class='sidehidden_m'><div class='sidetop'>Famous WW2 Quote</div>"We no longer demand anything, we want war."<br><br>Joachim von Ribbentrop, German Foreign Minister, Aug 1939</div><br /><br />				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<div class='sidehidden_m'><div class='sidetop'>Famous WW2 Quote</div>"With Germany arming at breakneck speed, England lost in a pacifist dream, France corrupt and torn by dissension, America remote and indifferent... do you not tremble for your children?"<br><br>Winston Churchill, 1935</div><br /><br />				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		<!-- WW2DB Xcol Vertical Banner 160x600 -->
 		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="6471754899"></ins>
 		<script>
@@ -233,7 +288,7 @@ table.dataTable tbody td, table.dataTable thead td {
 		<li> &#187; <a href="/feed.php">Syndication</a></li>
 		<li> &#187; <a href="/termsofuse.php" rel="nofollow">Terms of Use & Disclosures</a></li>
 		<li> &#187; <a href="/">World War II Database Home</a></li>
-		<li> &#187; <a href='http://m.ww2db.com/ship_spec.php?ship_id=A884'>Mobile View</a></li>
+		<li> &#187; <a href='http://m.ww2db.com/ship_spec.php?ship_id=C503'>Mobile View</a></li>
 		</ul>		
 	</div>
 	<div style="float: left; padding: 0 5 0 5px; width: 282px; text-align: left;">
@@ -266,7 +321,7 @@ table.dataTable tbody td, table.dataTable thead td {
 		<script>
 		(adsbygoogle = window.adsbygoogle || []).push({});
 		</script>
-	<br /><center>		<a href="http://amzn.to/2grNvNh" target="_amazon" rel="nofollow" onclick="javascript: ga('send','pageview','/outgoing/amzn.to/2grNvNh');"><img src="/images/ad_auto_after_ausch_728.jpg" /></a><br /><br />
+	<br /><center>		<a href="http://amzn.to/2jfeSrN" target="_amazon" rel="nofollow" onclick="javascript: ga('send','pageview','/outgoing/amzn.to/2jfeSrN');"><img src="/images/ad_frontlines_of_television_war_728.jpg" /></a><br /><br />
 		</center>
 <br /><br />
 

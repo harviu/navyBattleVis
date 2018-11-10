@@ -1,10 +1,10 @@
 <html>
 
 <head>
-<title>Escort Carrier Chuyo | World War II Database</title>
+<title>Light Cruiser USS Boise | World War II Database</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="description" content="Escort Carrier Chuyo | World War II Database">
-<meta name="keywords" content="ww2db, world war, ww2, military, history, Escort Carrier Chuyo | World War II Database">
+<meta name="description" content="Light Cruiser USS Boise | World War II Database">
+<meta name="keywords" content="ww2db, world war, ww2, military, history, Light Cruiser USS Boise | World War II Database">
 <meta name="ROBOTS" content="INDEX, FOLLOW">
 <meta name="REVISIT-AFTER" CONTENT="15 days">
 <META NAME="COPYRIGHT" CONTENT="Copyright © 2004-2018 Lava Development, LLC., all rights reserved">
@@ -23,25 +23,23 @@
 
 <link rel="alternate" type="application/rss+xml" title="WW2DB RSS Feed" href="https://ww2db.com/feedgen.php?feed=articles&f=RSS2.0" />
 
-<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=A18' />
-<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=18' />
+<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=C548' />
+<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=548' />
 
 <meta property="fb:app_id" content="103484127961" />
 <meta name="p:domain_verify" content="794c2d433a01b5d35554ba972a179eff"/>
 
-	<link rel="image_src" type="image/jpeg" href="http://ww2db.com/images/ship_chuyo1.jpg" />
 	<meta property="og:site_name" content="WW2DB" />
-	<meta property="og:title" content="Escort Carrier Chuyo" />
-	<meta property="og:description" content="Escort Carrier Chuyo" />
+	<meta property="og:title" content="Light Cruiser USS Boise" />
+	<meta property="og:description" content="Light Cruiser USS Boise" />
 	<meta property="og:type" content="article" />
-	<meta property="og:url" content="https://ww2db.com/ship_spec.php?ship_id=A18" />
-		<meta property="og:image" content="http://ww2db.com/images/ship_chuyo1.jpg" />
-
+	<meta property="og:url" content="https://ww2db.com/ship_spec.php?ship_id=C548" />
+	
 	<meta name='twitter:card' content='summary'>
 	<meta name='twitter:site' content='@ww2db'>
-	<meta name='twitter:title' content='Escort Carrier Chuyo'>
-	<meta name='twitter:description' content='Escort Carrier Chuyo'>
-	<meta name='twitter:image' content='http://ww2db.com/images/ship_chuyo1.jpg'>
+	<meta name='twitter:title' content='Light Cruiser USS Boise'>
+	<meta name='twitter:description' content='Light Cruiser USS Boise'>
+	<meta name='twitter:image' content=''>
 				
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.5/css/jquery.dataTables.css">
 <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
@@ -77,7 +75,7 @@ table.dataTable tbody td, table.dataTable thead td {
 		</td></tr>
 		</table>
 		<div class="bannerflash">
-		<div style="background-image:url('/images/banner915_4.jpg'); height: 120px; min-height: 120px; width: 915px; min-width: 915px;">&nbsp;</div>		</div>
+		<div style="background-image:url('/images/banner915_1.jpg'); height: 120px; min-height: 120px; width: 915px; min-width: 915px;">&nbsp;</div>		</div>
 	</div>
 	<div id='nav' align='right'>
 		<ul id='navlist'>
@@ -86,15 +84,20 @@ table.dataTable tbody td, table.dataTable thead td {
 
 <div id="content">
 	<div itemscope itemtype="http://schema.org/Article" class="maincol">
-		<meta itemprop="url" content="<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=A18' />
-<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=18' />
+		<meta itemprop="url" content="<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=C548' />
+<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=548' />
 " />
-		<meta itemprop="description" content="Escort Carrier Chuyo" />
+		<meta itemprop="description" content="Light Cruiser USS Boise" />
 		<div id="breadcrumb"><ul class="horizontalList">
 				<li class="horizontalList"> <a href="index.php">Home</a></li>
 				<li class="horizontalList"> &#187; <a href="equip.php">Equipment</a></li>
-				<li class="horizontalList"> &#187; <a href="ship.php">Ships</a></li><li class="horizontalList"> &#187; <a href="ship.php?list=A">Carriers</a></li><li class="horizontalList"> &#187; Chuyo</li></ul></div>
-<div style='display: inline; float: right;'><image itemprop='image' class='filephoto' alt='Chuyo file photo [5178]' title='Chuyo file photo [5178]' src='/images/ship_chuyo1.jpg' /><script>
+				<li class="horizontalList"> &#187; <a href="ship.php">Ships</a></li><li class="horizontalList"> &#187; <a href="ship.php?list=C">Cruisers</a></li><li class="horizontalList"> &#187; Boise</li></ul></div>
+<div style='display: inline; float: right;'><script async src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
+			<!-- WW2DB Top of Content 250x250 -->
+			<ins class='adsbygoogle' style='display:inline-block;width:250px;height:250px' data-ad-client='ca-pub-8359788307919731' data-ad-slot='1430818127'></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script><script>
 		function resizeText(className, percent) {
 			var elements = document.getElementsByClassName(className);
 			for (var i = 0; i < elements.length; ++i) {
@@ -107,11 +110,7 @@ table.dataTable tbody td, table.dataTable thead td {
 				}
 			}
 		}
-		</script><br /><img src="/images/icon_font_small.jpg" onclick="resizeText('maincol', -10)" title="Decrease font size" /><img src="/images/icon_font_medium.jpg" onclick="resizeText('maincol', null)" title="Reset font size" /><img src="/images/icon_font_large.jpg" onclick="resizeText('maincol', 10)" title="Increase font size" /></div><div style='margin: 8px 0px 8px 0px;'><h2 itemprop='name' class='articleHeader'>Chuyo</h2></div><table class="table_noborder"><tr><td class="table_noborder">Country</td><td class="table_noborder"><a href='/country/japan'>Japan</a></td></tr><tr><td class="table_noborder">Ship Class</td><td class="table_noborder"><a href='ship_spec.php?ship_id=395'>Taiyo-class Escort Carrier</a></td></tr><tr><td class="table_noborder">Builder</td><td class="table_noborder"><a href='/facility/Kure_Naval_Arsenal/'>Kure Naval Arsenal</a></td></tr><tr><td class="table_noborder">Laid Down</td><td class="table_noborder">9 May 1938</td></tr><tr><td class="table_noborder">Launched</td><td class="table_noborder">20 May 1939</td></tr><tr><td class="table_noborder">Commissioned</td><td class="table_noborder">25 Nov 1942</td></tr><tr><td class="table_noborder">Sunk</td><td class="table_noborder">4 Dec 1943</td></tr><tr><td class="table_noborder">Displacement</td><td class="table_noborder">17830 tons standard; 19500 tons full</td></tr><tr><td class="table_noborder">Length</td><td class="table_noborder">591 feet</td></tr><tr><td class="table_noborder">Beam</td><td class="table_noborder">73 feet</td></tr><tr><td class="table_noborder">Draft</td><td class="table_noborder">26 feet</td></tr><tr><td class="table_noborder">Machinery</td><td class="table_noborder">4 Kampon water-tube boilers, 2 Kampon geared steam turbines, 2 shafts, 1 rudder</td></tr><tr><td class="table_noborder">Power Output</td><td class="table_noborder">25200 SHP</td></tr><tr><td class="table_noborder">Speed</td><td class="table_noborder">21 knots</td></tr><tr><td class="table_noborder">Range</td><td class="table_noborder">6,500nm at 18 knots</td></tr><tr><td class="table_noborder">Crew</td><td class="table_noborder">850</td></tr><tr><td class="table_noborder">Armament</td><td class="table_noborder">4x2x127mm L/40 Type 89 AA guns, 22x25mm L/60 Type 96 AA guns, 5x13.2mm L/76 Type 93 AA machine guns</td></tr><tr><td class="table_noborder">Armor</td><td class="table_noborder">25mm side belt over machinery spaces and magazines</td></tr><tr><td class="table_noborder">Flight Deck</td><td class="table_noborder">150x23m</td></tr><tr><td class="table_noborder">Elevators</td><td class="table_noborder">2</td></tr><tr><td class="table_noborder">Aircraft</td><td class="table_noborder">26</td></tr></table><p><small>Contributor: <a href='/person_bio.php?person_id=179'><span itemprop='author' itemscope itemtype='http://schema.org/Person'><span itemprop='name'>C. Peter Chen</span></span></a></small></p><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Originally built as the Nippon Yusen Kaisha passenger liner Nitta Maru, she was designed to rival European luxury liners that carried passengers from Europe to the Far East.  Her passenger capacity was 283.  Her first and second class passenger cabins had air conditioning.  To top it all off, she featured common spaces such as bridge rooms, smoking rooms, swimming pool, etc., all specially designed by expert engineers and interior decorators.  She was never fully used as intended, however.  When she was completed, Europe had already been engulfed in war, and the only alternate route suitable for a luxury liner, the United States, was also limited due to rising political tensions.  Because her construction was partially subsidized by the Japanese government, when the Japanese Navy needed military transports, she was among the first to be drafted in Feb 1941.  As a military transport, one of her missions included the transfer of American prisoners of war from Wake Island to Japan.  After Japan loss four fleet carriers at the Battle of Midway, it was decided that Nitta Maru, along with her two sister ships, were to be converted into escort carriers.  She entered the drydocks at Kure, Japan on 10 Aug 1942 with Captain Okura Tomasaborou assigned as the fitting-out officer.  The conversion completed on 25 Nov 1942, on which date she was renamed Chuyo.  Tomasaborou remained onboard as the commanding officer.  Because she was the last of the three sister ships to be converted, additional war time experience demanded her to carry heavier anti-aircraft armaments than the other two ships.  Her initial armament consisted of four dual 127-mm L/40 Type 90 and four dual 25-mm L/60 Type 96 anti-aircraft guns.  She also carried three more aircraft than the other two ships.  She had no island, no capapult, nor arresting gear, reflecting her intended role in flight training and aircraft ferrying.</p>
-<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>On 12 Dec 1942, Chuyo departed Yokosuka, Japan for Truk, the first of thirteen voyages ferrying aircraft, supplies, and passengers to the Caroline Islands.  On 24 Sep 1943, her task force was attacked by American submarine Cabrilla, which damaged sister ship Taiyo with a torpedo; Chuyo took her in tow and brought her back to Yokosuka two days later.</p>
-<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>On 30 Nov 1943, Chuyo departed Truk for Yokosuka after successfully delivering aircraft.  She sailed in a sizable task force consisted of sister ship Unyo, cruiser Maya, and several destroyers.  Among the cargo aboard Chuyo were 21 American prisoners of war taken from submarine Sculpin, which was sunk 11 days prior by destroyer Yamagumo.  En route, at 0010 on 4 Dec 1943, she was targeted by American submarine Sailfish.  The torpedo struck her at the bow, collapsing the forward part of the flight deck, but she avoided major fire.  At 0555, Sailfish returned for a second strike, this time hitting her with two torpedoes, both hit her at the port engine room.  Dead in the water, cruiser Maya, destroyer Urakaze, and land-based aircraft (after dawn) from Japan attempted to guard Chuyo as her crew raced to get her moving.  At 0942, Sailfish returned for a third strike.  One or two torpedoes struck her port side.  She took in water at a very fast rate, sinking her by 0948.  Captain Tomasaborou, 513 officers and men, and 737 passengers perished, including 20 of 21 American POWs aboard; only 160 survived.</p>
-<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Chuyo was the first of four escort carriers sunk by American submarines in the Pacific War.</p>
-<small><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span><i>Sources: Imperial Japanese Navy Page, Wikipedia.</i></p></small><p><b>Chuyo Operational Timeline</b></p><table border='0' cellspacing='0'><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/11/25/1942' alt='See all events on 25 Nov 1942' title='See all events on 25 Nov 1942' class='noStyle'>25 Nov 1942</a>&nbsp;</td><td>Chuyo was commissioned into service.</td></tr></table><br /><p><b>Photographs</b></p><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href="/image.php?image_id=5180"><img src="/images/imagemagick/tmb_ship_chuyo3.jpg" border='0' alt='Luxury liner Nitta Maru, off Nagasaki, Japan, Mar 1940; she was converted to escort carrier Chuyo during the war'></a></td><td><a href="/image.php?image_id=5179"><img src="/images/imagemagick/tmb_ship_chuyo2.jpg" border='0' alt='Chuyo at Truk, Caroline Islands, May 1943; note sister ship Unyo on left'></a></td><td><a href="/image.php?image_id=5184"><img src="/images/imagemagick/tmb_ship_chuyo4.jpg" border='0' alt='Aerial photo of Chuyo while dead in the water after torpedo hit, morning of 4 Dec 1943; note collapsed forward flight deck'></a></td></tr></table><br /><br /><br /><br />
+		</script><br /><img src="/images/icon_font_small.jpg" onclick="resizeText('maincol', -10)" title="Decrease font size" /><img src="/images/icon_font_medium.jpg" onclick="resizeText('maincol', null)" title="Reset font size" /><img src="/images/icon_font_large.jpg" onclick="resizeText('maincol', 10)" title="Increase font size" /></div><div style='margin: 8px 0px 8px 0px;'><h2 itemprop='name' class='articleHeader'>USS Boise</h2></div><table class="table_noborder"><tr><td class="table_noborder">Country</td><td class="table_noborder"><a href='/country/united%20states'>United States</a></td></tr><tr><td class="table_noborder">Ship Class</td><td class="table_noborder">Brooklyn-class Light Cruiser</td></tr></table><p><small>Contributor: <a href='/person_bio.php?person_id=183'><span itemprop='author' itemscope itemtype='http://schema.org/Person'><span itemprop='name'></span></span></a></small></p><p>This article has been removed for review and updates, please check back again soon!</p><p><b>USS Boise Operational Timeline</b></p><table border='0' cellspacing='0'><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/07/27/1942' alt='See all events on 27 Jul 1942' title='See all events on 27 Jul 1942' class='noStyle'>27 Jul 1942</a>&nbsp;</td><td>USS Boise departed Pearl Harbor for Japan; it was to generate radio traffic to deceive the Japanese of a large invasion force.</td></tr></table><br /><p><b>Photographs</b></p><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href="/image.php?image_id=3318"><img src="/images/imagemagick/tmb_battle_sicily5.jpg" border='0' alt='USS Boise firing on armor forces near Gela, Sicily, Italy as LST-325, full of US Army trucks, approached the landing beaches, 11 Jul 1943'></a></td></tr></table><br /><br /><br /><br />
 				<center><table border='0' cellpadding='0' cellspacing='0' width='100%'>
 				<tr><td valign='top' width='382'><p>Did you enjoy this article?  Please consider supporting us on <a href='https://www.patreon.com/ww2db' rel='nofollow' target='_patreon' onclick='javascript: ga("send","pageview","/outgoing/www.patreon.com/ww2db/");'>Patreon</a>.  Even $1 per month will go a long way!  Thank you.</p>
 		<table border='0' cellpadding='0' cellspacing='0'>
@@ -119,19 +118,19 @@ table.dataTable tbody td, table.dataTable thead td {
 			<td colspan='9'>Share this article with your friends:<br /><br /></td>
 		</tr>
 		<tr>
-			<td><a title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=A18' target='_facebook' rel='nofollow'><img src='/images/icon_facebook.gif' border='0'></a></td><td>&nbsp;</td><td><a id='facebook' title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=A18' target='_facebook'>Facebook</a></td>
-			<td><a title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A18&title=Escort Carrier Chuyo' target='_reddit' rel='nofollow'><img src='/images/icon_reddit.gif' border='0'></a></td><td>&nbsp;</td><td><a id='reddit' title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A18&title=Escort Carrier Chuyo' target='_reddit'>Reddit</a></td>
+			<td><a title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=C548' target='_facebook' rel='nofollow'><img src='/images/icon_facebook.gif' border='0'></a></td><td>&nbsp;</td><td><a id='facebook' title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=C548' target='_facebook'>Facebook</a></td>
+			<td><a title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C548&title=Light Cruiser USS Boise' target='_reddit' rel='nofollow'><img src='/images/icon_reddit.gif' border='0'></a></td><td>&nbsp;</td><td><a id='reddit' title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C548&title=Light Cruiser USS Boise' target='_reddit'>Reddit</a></td>
 		</tr>
 		<tr>
-			<td><a title='Tweet this page' href='http://twitter.com/home/?status=Escort+Carrier+Chuyo+https://ww2db.com:443/ship_spec.php?ship_id=A18' target='_twitter' rel='nofollow'><img src='/images/icon_twitter.gif' border='0'></a></td><td>&nbsp;</td><td><a id='twitter' title='Tweet this page' href='http://twitter.com/home/?status=Escort+Carrier+Chuyo+https://ww2db.com:443/ship_spec.php?ship_id=A18' target='_twitter'>Twitter</a></td>
-			<td><a title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A18&title=Escort Carrier Chuyo' target='_digg' rel='nofollow'><img src='/images/icon_digg.gif' border='0'></a></td><td>&nbsp;</td><td><a id='digg' title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A18&title=Escort Carrier Chuyo' target='_digg'>Digg</a></td>
+			<td><a title='Tweet this page' href='http://twitter.com/home/?status=Light+Cruiser+USS+Boise+https://ww2db.com:443/ship_spec.php?ship_id=C548' target='_twitter' rel='nofollow'><img src='/images/icon_twitter.gif' border='0'></a></td><td>&nbsp;</td><td><a id='twitter' title='Tweet this page' href='http://twitter.com/home/?status=Light+Cruiser+USS+Boise+https://ww2db.com:443/ship_spec.php?ship_id=C548' target='_twitter'>Twitter</a></td>
+			<td><a title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C548&title=Light Cruiser USS Boise' target='_digg' rel='nofollow'><img src='/images/icon_digg.gif' border='0'></a></td><td>&nbsp;</td><td><a id='digg' title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C548&title=Light Cruiser USS Boise' target='_digg'>Digg</a></td>
 		</tr>
 		<tr>
-			<td><a title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=A18' target='_googleplus' rel='nofollow'><img src='/images/icon_googleplus2.png' border='0'></a></td><td>&nbsp;</td><td><a id='googleplus' title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=A18' target='_googleplus'>Google+</a></td>
-			<td><a title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=A18&title=Escort Carrier Chuyo' target='_delicious' rel='nofollow'><img src='/images/icon_delicious.gif' border='0'></a></td><td>&nbsp;</td><td><a id='delicious' title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=A18&title=Escort Carrier Chuyo' target='_delicious'>Delicious</a></td>
+			<td><a title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=C548' target='_googleplus' rel='nofollow'><img src='/images/icon_googleplus2.png' border='0'></a></td><td>&nbsp;</td><td><a id='googleplus' title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=C548' target='_googleplus'>Google+</a></td>
+			<td><a title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=C548&title=Light Cruiser USS Boise' target='_delicious' rel='nofollow'><img src='/images/icon_delicious.gif' border='0'></a></td><td>&nbsp;</td><td><a id='delicious' title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=C548&title=Light Cruiser USS Boise' target='_delicious'>Delicious</a></td>
 		</tr>
 		<tr>
-			<td><a title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A18&title=Escort Carrier Chuyo' target='_stumbleupon' rel='nofollow'><img src='/images/icon_stumbleupon.gif' border='0'></a></td><td>&nbsp;</td><td><a id='stumbleupon' title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A18&title=Escort Carrier Chuyo' target='_stumbleupon'>StumbleUpon</a></td>
+			<td><a title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C548&title=Light Cruiser USS Boise' target='_stumbleupon' rel='nofollow'><img src='/images/icon_stumbleupon.gif' border='0'></a></td><td>&nbsp;</td><td><a id='stumbleupon' title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C548&title=Light Cruiser USS Boise' target='_stumbleupon'>StumbleUpon</a></td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -175,8 +174,8 @@ table.dataTable tbody td, table.dataTable thead td {
 	<tr>
 		<td>&nbsp;</td>
 		<td valign="top"><input type="hidden" name="foreigntype" value="S">
-		<input type="hidden" name="foreigntype_id" value="18">
-		<input type="hidden" name="url" value="/ship_spec.php?ship_id=A18">
+		<input type="hidden" name="foreigntype_id" value="548">
+		<input type="hidden" name="url" value="/ship_spec.php?ship_id=C548">
 		<input type="hidden" name="c" value="83"> 		<input type="submit" value="Submit"></td>
 	</tr>
 	</table>
@@ -198,7 +197,7 @@ table.dataTable tbody td, table.dataTable thead td {
 </form>
 <script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=searchbox_004186240537787039759%3Aptfrvampo3a"></script>
 </ul>
-<div class="sidetop">More on Chuyo</div><i>Personnel:</i><br>&raquo;&nbsp;<a href=person_bio.php?person_id=340>Kuwahara, Tadao</a><br><br><i>Partner Sites Content:</i><br />&raquo;&nbsp;<a href='http://www.combinedfleet.com/chuyo.htm' target='_combinedfleet' onclick="javascript: pageTracker._trackPageview('/outgoing/www.combinedfleet.com/chuyo.htm');">Chuyo Tabular Record of Movement</a><br /><div class='sidehidden_m'><div class='sidetop'>Escort Carrier Chuyo Photo Gallery</div><center><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=18'><img src="/images/imagemagick/tmb_ship_chuyo3.jpg" border='0' alt='Luxury liner Nitta Maru, off Nagasaki, Japan, Mar 1940; she was converted to escort carrier Chuyo during the war'></a></td></tr></table></center><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=18'>See all 3 photographs of Escort Carrier Chuyo</a></div><br /><br />		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<div class='sidehidden_m'><div class="sidetop">News</div><ul><li> &#187; <a href="/news.php?news_id=206">Finland to probe role of Waffen-SS volunteers</a> (31 May 2018)</li><li> &#187; <a href="/news.php?news_id=205">Your patronage is needed for WW2DB</a> (17 May 2018)</li><li> &#187; <a href="/news.php?news_id=204">Your help is needed to transcribe WW2 documents</a> (17 May 2018)</li><li> &#187; <a href="/news.php?news_id=203">Japanese National Archives released names of Unit 731 members</a> (17 Apr 2018)</li><li> &#187; <a href="/news.php?news_id=202">Wreck of USS Helena found</a> (12 Apr 2018)</li><li> &#187; <a href="/news.php">See all news</a></li></ul><br /></div><div class='sidehidden_m'><div class='sidetop'>Light Cruiser USS Boise Photo Gallery</div><center><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href="/image.php?image_id=3318"><img src="/images/imagemagick/tmb_battle_sicily5.jpg" border='0' alt='USS Boise firing on armor forces near Gela, Sicily, Italy as LST-325, full of US Army trucks, approached the landing beaches, 11 Jul 1943'></a></td></tr></table></center></div><br /><br />		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		<!-- WW2DB Xcol Links 160x90 -->
 		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:90px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="5126713011"></ins>
 		<script>
@@ -207,10 +206,10 @@ table.dataTable tbody td, table.dataTable thead td {
 		<br /><br />
 	<div class="sidehidden_m">
 	<div class="sidetop">Current Site Statistics</div>
-	<ul><li> &#187; <a class='noStyle' href='/person.php'>1,039 biographies</a></li><li> &#187; <a class='noStyle' href='/event/'>326 events</a></li><li> &#187; <a class='noStyle' href='/event/timeline/'>35,502 timeline entries</a></li><li> &#187; <a class='noStyle' href='/ship.php'>726 ships</a></li><li> &#187; <a class='noStyle' href='/aircraft.php'>329 aircraft models</a></li><li> &#187; <a class='noStyle' href='/vehicle.php'>184 vehicle models</a></li><li> &#187; <a class='noStyle' href='/weapon.php'>339 weapon models</a></li><li> &#187; <a class='noStyle' href='/doc.php'>102 historical documents</a></li><li> &#187; <a class='noStyle' href='/facility/'>175 facilities</a></li><li> &#187; <a class='noStyle' href='/book/'>457 book reviews</a></li><li> &#187; <a class='noStyle' href='/photo.php'>24,916 photos</a></li><li> &#187; <a class='noStyle' href='/reference/map/'>287 maps</a></li></ul>	<br />
+	<ul><li> &#187; <a class='noStyle' href='/person.php'>1,040 biographies</a></li><li> &#187; <a class='noStyle' href='/event/'>326 events</a></li><li> &#187; <a class='noStyle' href='/event/timeline/'>35,554 timeline entries</a></li><li> &#187; <a class='noStyle' href='/ship.php'>726 ships</a></li><li> &#187; <a class='noStyle' href='/aircraft.php'>329 aircraft models</a></li><li> &#187; <a class='noStyle' href='/vehicle.php'>184 vehicle models</a></li><li> &#187; <a class='noStyle' href='/weapon.php'>340 weapon models</a></li><li> &#187; <a class='noStyle' href='/doc.php'>102 historical documents</a></li><li> &#187; <a class='noStyle' href='/facility/'>175 facilities</a></li><li> &#187; <a class='noStyle' href='/book/'>457 book reviews</a></li><li> &#187; <a class='noStyle' href='/photo.php'>24,934 photos</a></li><li> &#187; <a class='noStyle' href='/reference/map/'>287 maps</a></li></ul>	<br />
 </div>
 
-<div class='sidehidden_m'><div class='sidetop'>Famous WW2 Quote</div>"With Germany arming at breakneck speed, England lost in a pacifist dream, France corrupt and torn by dissension, America remote and indifferent... do you not tremble for your children?"<br><br>Winston Churchill, 1935</div><br /><br />				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<div class='sidehidden_m'><div class='sidetop'>Famous WW2 Quote</div>"Among the men who fought on Iwo Jima, uncommon valor was a common virtue."<br><br>Fleet Admiral Chester W. Nimitz, 16 Mar 1945</div><br /><br />				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		<!-- WW2DB Xcol Vertical Banner 160x600 -->
 		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="6471754899"></ins>
 		<script>
@@ -234,7 +233,7 @@ table.dataTable tbody td, table.dataTable thead td {
 		<li> &#187; <a href="/feed.php">Syndication</a></li>
 		<li> &#187; <a href="/termsofuse.php" rel="nofollow">Terms of Use & Disclosures</a></li>
 		<li> &#187; <a href="/">World War II Database Home</a></li>
-		<li> &#187; <a href='http://m.ww2db.com/ship_spec.php?ship_id=A18'>Mobile View</a></li>
+		<li> &#187; <a href='http://m.ww2db.com/ship_spec.php?ship_id=C548'>Mobile View</a></li>
 		</ul>		
 	</div>
 	<div style="float: left; padding: 0 5 0 5px; width: 282px; text-align: left;">
@@ -267,7 +266,7 @@ table.dataTable tbody td, table.dataTable thead td {
 		<script>
 		(adsbygoogle = window.adsbygoogle || []).push({});
 		</script>
-	<br /><center>		<a href="http://amzn.to/2jfeSrN" target="_amazon" rel="nofollow" onclick="javascript: ga('send','pageview','/outgoing/amzn.to/2jfeSrN');"><img src="/images/ad_frontlines_of_television_war_728.jpg" /></a><br /><br />
+	<br /><center>		<a href="http://amzn.to/2grNvNh" target="_amazon" rel="nofollow" onclick="javascript: ga('send','pageview','/outgoing/amzn.to/2grNvNh');"><img src="/images/ad_auto_after_ausch_728.jpg" /></a><br /><br />
 		</center>
 <br /><br />
 
