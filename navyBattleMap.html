@@ -126,7 +126,13 @@ path {
 width = 800;
 height = 500;
 
+var checkbox_list=[];
+
+for(var i=0; i<199; i++)
+   checkbox_list.push(i);
+
 var expanded = false;
+var initial = false;
 
 function showCheckboxes_BS() {
   var checkboxes = document.getElementById("checkboxes_BS");
@@ -137,6 +143,9 @@ function showCheckboxes_BS() {
     checkboxes.style.display = "none";
     expanded = false;
   }
+  if(initial==false)
+     checkbox_list.splice(0,checkbox_list.length);
+  initial=true;
 }
 
 function showCheckboxes_CAR() {
@@ -148,6 +157,9 @@ function showCheckboxes_CAR() {
     checkboxes.style.display = "none";
     expanded = false;
   }
+  if(initial==false)
+     checkbox_list.splice(0,checkbox_list.length);
+  initial=true;
 }
 
 function showCheckboxes_CRU() {
@@ -159,6 +171,9 @@ function showCheckboxes_CRU() {
     checkboxes.style.display = "none";
     expanded = false;
   }
+  if(initial==false)
+     checkbox_list.splice(0,checkbox_list.length);
+  initial=true;
 }
 
 var projection = d3.geoMercator()
@@ -220,24 +235,52 @@ function shipsData(error, data){
                      .data(battleships)
                      .enter().append("label")
                      .attr("for", function (d) { return d.key;})
-		             .text(function(d) {return d.value+" "; })
-                     .append("input").attr("type","checkbox").attr("id", function (d) { return d.key;});
+		                 .text(function(d) {return d.value+" "; })
+                     .append("input").attr("type","checkbox").attr("id", function (d) { return d.key;})
+                     .on("change", function(d){
+                                            if(d3.select(this).property('checked')==true)
+                                               checkbox_list.push(d.key);
+                                            else{
+                                              var idx = checkbox_list.indexOf(d.key);
+                                              if(idx!==-1) checkbox_list.splice(idx,1);
+                                            }
+                                            console.log(checkbox_list);
+                                              });
 
  var selector_car = d3.select("#checkboxes_CAR")
                      .selectAll("label")
                      .data(carriers)
                      .enter().append("label")
                      .attr("for", function (d) { return d.key;})
-		             .text(function(d) {return d.value+" "; })
-                     .append("input").attr("type","checkbox").attr("id", function (d) { return d.key;});
+		                 .text(function(d) {return d.value+" "; })
+                     .append("input").attr("type","checkbox").attr("id", function (d) { return d.key;})
+                     .on("change", function(d){
+                                            if(d3.select(this).property('checked')==true)
+                                               checkbox_list.push(d.key);
+                                            else{
+                                              var idx = checkbox_list.indexOf(d.key);
+                                              if(idx!==-1) checkbox_list.splice(idx,1);
+                                            }
+                                            console.log(checkbox_list);
+                                              });
 
  var selector_cru = d3.select("#checkboxes_CRU")
                      .selectAll("label")
                      .data(cruisers)
                      .enter().append("label")
                      .attr("for", function (d) { return d.key;})
-		             .text(function(d) {return d.value+" "; })
-                     .append("input").attr("type","checkbox").attr("id", function (d) { return d.key;});
+		                 .text(function(d) {return d.value+" "; })
+                     .append("input").attr("type","checkbox").attr("id", function (d) { return d.key;})
+                     .on("change", function(d){
+                                            if(d3.select(this).property('checked')==true)
+                                               checkbox_list.push(d.key);
+                                            else{
+                                              var idx = checkbox_list.indexOf(d.key);
+                                              if(idx!==-1) checkbox_list.splice(idx,1);
+                                            }
+                                            console.log(checkbox_list);
+                                              });
+
 }
 
 </script>
