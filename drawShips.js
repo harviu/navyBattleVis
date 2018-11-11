@@ -387,6 +387,12 @@ function advance(){
       }
     if (timeSlider.value<timeRange)
         ani = window.requestAnimationFrame(advance);
+    else{
+        step =0.5;
+        start=undefined;
+        window.cancelAnimationFrame(ani);
+        autoButton.innerHTML="Auto"
+    }
 }
 
 function selectionUpdate(){
