@@ -1,4 +1,5 @@
 const TIME_WIDTH=1200;
+let selectedBattle=-1;
 let bbsvg,casvg,cvsvg,data;
 let geo=[];
 let battleTags = [
@@ -69,6 +70,10 @@ let battleTags = [
     },
 ];
 
+
+
+svg.attr('id','mainSVG')
+
 let mapTags = g.append('g');
 mapTags.attr('id','mapTags')
 mapTags.selectAll("*")
@@ -77,23 +82,25 @@ mapTags.selectAll("*")
     .append('circle')
     .attr('cx',(d)=>{return projection(d.position)[0]})
     .attr('cy',(d)=>{return projection(d.position)[1]})
-    .attr('r',7)
-    .style('fill','#f44268')
+    .attr('r',10)
+    .style('fill','#f8ffbf')
     .on('mouseenter',function(d,i,nodes){
         toolTip = document.createElementNS("http://www.w3.org/2000/svg", "text");
         // console.log(d.event);
-        document.getElementById('mapTags').appendChild(toolTip);
+        document.getElementById('mainSVG').appendChild(toolTip);
         toolTip.setAttribute("x" ,d3.event.offsetX);
         toolTip.setAttribute("y" ,d3.event.offsetX);
         toolTip.setAttribute("stroke" ,"black");
         toolTip.innerHTML = d.name;
+        selectedBattle = i;
+        selectionUpdate();
     })
     .on('mousemove',function(d,_,nodes){
         toolTip.setAttribute("x" ,d3.event.offsetX+10);
         toolTip.setAttribute("y" ,d3.event.offsetY+10);
     })
     .on('mouseout',function(d,_,nodes){
-        document.getElementById('mapTags').removeChild(toolTip)
+        document.getElementById('mainSVG').removeChild(toolTip)
     })
 
 latestTime = new Date(1945,8,1);
@@ -111,20 +118,25 @@ let timeScaler = d3.scaleTime()
 let timeSliderAxis= d3.axisBottom(timeScaler);
 
 tickArray = [];
+let iii =0;
 for (const battle of battleTags){
     if(battle.date.length==2){
         let date1 = battle.date[0];
         date1.event = battle.name+" start"
+        date1.index = iii;
         let date2 = battle.date[1];
         date2.event = battle.name +" end"
+        date2.index = iii;
         tickArray.push(date1);
         tickArray.push(date2);
     }
     else{
         let tempDate = battle.date;
         tempDate.event= battle.name;
+        tempDate.index = iii;
         tickArray.push(tempDate);
     }
+    iii++;
 }
 // timeSliderAxis
 //     .ticks(tickArray.length)
@@ -138,6 +150,7 @@ axisSvg.call(timeSliderAxis.tickFormat(d3.timeFormat("%Y-%m")))
 axisSvg.selectAll(".battleTicks")
     .data(tickArray).enter()
     .append('path')
+    .attr('class','battleTicks')
     .attr('d',d3.symbol().type(d3.symbolTriangle))
     .attr('transform',(d)=>{
         tx = timeScaler(d);
@@ -151,6 +164,8 @@ axisSvg.selectAll(".battleTicks")
         toolTip.setAttribute("y" ,d3.event.offsetX);
         toolTip.setAttribute("stroke" ,"black");
         toolTip.innerHTML = d.event;
+        selectedBattle = d.index;
+        selectionUpdate();
     })
     .on('mousemove',function(d,_,nodes){
         toolTip.setAttribute("x" ,d3.event.offsetX);
@@ -372,4 +387,24 @@ function advance(){
       }
     if (timeSlider.value<timeRange)
         ani = window.requestAnimationFrame(advance);
+}
+
+function selectionUpdate(){
+    mapTags.selectAll("*")
+    .style('fill',(d,i)=>{
+        if (i==selectedBattle){
+            return '#f44268';
+        }else{
+            return '#f8ffbf';
+        }
+    })
+
+    axisSvg.selectAll(".battleTicks")
+    .style('fill',(d,i)=>{
+        if (d.index==selectedBattle){
+            return '#f44268';
+        }else{
+            return 'gray';
+        }
+    })
 }
