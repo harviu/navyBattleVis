@@ -23,6 +23,9 @@ def readRawListFile(fileName):
     return shipList
 
 def fetchShips():
+    '''
+    read the ship list and download individual webpage.
+    '''
     domain = 'https://ww2db.com'
     urlList = []
     urlList = urlList + readRawListFile('CVList')+readRawListFile('BBList')+readRawListFile('CAList')
@@ -32,10 +35,13 @@ def fetchShips():
         i= i+1
 
 def main():
-    # file_name,_ = urllib.request.urlretrieve('https://ww2db.com/ship.php?list=B',"BBList")
-    # file_name,_ = urllib.request.urlretrieve('https://ww2db.com/ship.php?list=A',"CVList")
-    # file_name,_ = urllib.request.urlretrieve('https://ww2db.com/ship.php?list=C',"CAList")
-    ships = []
+    if False:
+        # change to true if want to refetch all webpages
+        file_name,_ = urllib.request.urlretrieve('https://ww2db.com/ship.php?list=B',"BBList")
+        file_name,_ = urllib.request.urlretrieve('https://ww2db.com/ship.php?list=A',"CVList")
+        file_name,_ = urllib.request.urlretrieve('https://ww2db.com/ship.php?list=C',"CAList")
+        fetchShips()
+    ships=[]
     for i in range(199):
         with open("ships\\"+str(i), 'r',encoding='iso-8859-1') as shipFile:
             p = re.compile(r"<h2 itemprop='name' class='articleHeader'>.*?(?=Contributor)")
