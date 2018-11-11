@@ -53,18 +53,18 @@ def main():
         info['events'] = []
         p3 = re.compile(r'''\["<div style='min-width: 180px; min-height: 50px;'>.*?\]''')
         p4 = re.compile(r', -?\d+(\.\d+)?, -?\d+(\.\d+)?(?=, -?\d*])')
+        p5 = re.compile(r"Title'>[^<>]+?(?=<)")
         for location in p3.finditer(text):
-            temp = p2.findall(location[0])
+            temp = p5.findall(location[0])
             geo = p4.search(location[0])[0][2:]
-            for j in range(0,len(temp)-1,2):
+            for j in range(0,len(temp)):
                 event = {}
-                event['description'] = temp[j][1:-1]
-                event['date'] = temp[j+1][1:-1]
+                event['date'] = temp[j][7:]
                 event['geometry']= geo
                 info['events'].append(event)
         ships.append(info)
 
-    with open('ships_new.json', 'w',encoding='utf-8') as f:
+    with open('ships.json', 'w',encoding='utf-8') as f:
         json.dump(ships, f,ensure_ascii=False)
 
     
