@@ -32,6 +32,7 @@ path {
 }
 .selectBox_BS, .selectBox_CAR, .selectBox_CRU {
   position: relative;
+  top: 4px;
 }
 .selectBox_BS select {
   width: 100%;
@@ -108,6 +109,8 @@ tr:nth-child(even) {background-color: #cbc9e2;}
 </div>
 <div class="ShipOptions" width="1500" height="100">
     <div class="BattleSelect">
+        <button id="checkAllBtn_BS" class="button_BS" onclick="selectAllBattleships()">CheckAll</button>
+        <button id="uncheckAllBtn_BS" class="button_BS" onclick="unselectAllBattleships()">UncheckAll</button>
         <div class="selectBox_BS" onclick="showCheckboxes_BS()">
             <select>
                 <option>Select any Battle Ships</option>
@@ -118,6 +121,8 @@ tr:nth-child(even) {background-color: #cbc9e2;}
         </div>
     </div>
     <div class="CarrierSelect" style="margin-left: 40px;">
+        <button id="checkAllBtn_CAR" class="button_CAR" onclick="selectAllCarriers()">CheckAll</button>
+        <button id="uncheckAllBtn_CAR" class="button_CAR" onclick="unselectAllCarriers()">UncheckAll</button>
         <div class="selectBox_CAR" onclick="showCheckboxes_CAR()">
             <select>
                 <option>Select any Carriers</option>
@@ -128,6 +133,8 @@ tr:nth-child(even) {background-color: #cbc9e2;}
         </div>
     </div>
     <div class="CruiserSelect" style="margin-left: 40px;">
+        <button id="checkAllBtn_CRU" class="button_CRU" onclick="selectAllCruisers()">CheckAll</button>
+        <button id="uncheckAllBtn_CRU" class="button_CRU" onclick="unselectAllCruisers()">UncheckAll</button>
         <div class="selectBox_CRU" onclick="showCheckboxes_CRU()">
             <select>
                 <option>Select any Cruisers</option>
@@ -231,6 +238,93 @@ function zoomed() {
   g.attr("transform", d3.event.transform);
 }
 
+function selectAllBattleships(){
+  for(var i=72; i<111; i++){
+     if(checkbox_list.indexOf(i)==-1)
+       checkbox_list.push(i)
+  }
+    divElement = document.getElementById('checkboxes_BS');
+    inputElements = divElement.getElementsByTagName('input');
+    for (i = 0; i < inputElements.length; i++) {
+        if (inputElements[i].type != 'checkbox')
+            continue;
+        inputElements[i].checked = true;
+    }
+}
+
+function unselectAllBattleships(){
+  for(var i=72; i<111; i++){
+    var idx = checkbox_list.indexOf(i);
+     if(idx!=-1)
+       checkbox_list.splice(idx,1);
+  }
+    divElement = document.getElementById('checkboxes_BS');
+    inputElements = divElement.getElementsByTagName('input');
+    for (i = 0; i < inputElements.length; i++) {
+        if (inputElements[i].type != 'checkbox')
+            continue;
+        inputElements[i].checked = false;
+    }
+}
+
+function selectAllCarriers(){
+  for(var i=0; i<72; i++){
+     if(checkbox_list.indexOf(i)==-1)
+       checkbox_list.push(i)
+  }
+    divElement = document.getElementById('checkboxes_CAR');
+    inputElements = divElement.getElementsByTagName('input');
+    for (i = 0; i < inputElements.length; i++) {
+        if (inputElements[i].type != 'checkbox')
+            continue;
+        inputElements[i].checked = true;
+    }
+}
+
+function unselectAllCarriers(){
+  for(var i=0; i<72; i++){
+    var idx = checkbox_list.indexOf(i);
+     if(idx!=-1)
+       checkbox_list.splice(idx,1);
+  }
+    divElement = document.getElementById('checkboxes_CAR');
+    inputElements = divElement.getElementsByTagName('input');
+    for (i = 0; i < inputElements.length; i++) {
+        if (inputElements[i].type != 'checkbox')
+            continue;
+        inputElements[i].checked = false;
+    }
+}
+
+function selectAllCruisers(){
+  for(var i=111; i<199; i++){
+     if(checkbox_list.indexOf(i)==-1)
+       checkbox_list.push(i)
+  }
+    divElement = document.getElementById('checkboxes_CRU');
+    inputElements = divElement.getElementsByTagName('input');
+    for (i = 0; i < inputElements.length; i++) {
+        if (inputElements[i].type != 'checkbox')
+            continue;
+        inputElements[i].checked = true;
+    }
+}
+
+function unselectAllCruisers(){
+  for(var i=111; i<199; i++){
+    var idx = checkbox_list.indexOf(i);
+     if(idx!=-1)
+       checkbox_list.splice(idx,1);
+  }
+    divElement = document.getElementById('checkboxes_CRU');
+    inputElements = divElement.getElementsByTagName('input');
+    for (i = 0; i < inputElements.length; i++) {
+        if (inputElements[i].type != 'checkbox')
+            continue;
+        inputElements[i].checked = false;
+    }
+}
+
 d3.json("ships.json",shipsData);
 
 function shipsData(error, data){
@@ -279,7 +373,7 @@ function shipsData(error, data){
                                             }
                                             tabulate_view();
                                             d3.selectAll(".svgFile").remove();
-    drawIcon();
+                                            drawIcon();
                                               });
 
  var selector_cru = d3.select("#checkboxes_CRU")
@@ -298,7 +392,7 @@ function shipsData(error, data){
                                             }
                                             tabulate_view();
                                             d3.selectAll(".svgFile").remove();
-    drawIcon();
+                                            drawIcon();
                                               });
 
  function tabulate_view(){
