@@ -4,74 +4,100 @@ let geo=[];
 let battleTags = [
     {
         name: "Attack on Pearl Harbor",
-        position: [],
+        position: [-157.943970,21.349270],
         date: new Date("December 7, 1941"),
     },
     {
         name: "Sinking of the Prince of Wales and Repulse",
-        position: [],
+        position: [104.4333316,3.5666644],
         date: new Date("December 10, 1941"),
     },
     {
         name: "Raids into the Indian Ocean",
-        position: [],
+        position: [81.372246,6.786172],
         date: new Date("March 31, 1942"),
     },
     {
         name: "Battle of the Coral Sea",
-        position: [],
+        position: [155.983941,-19.407246],
         date: new Date("May 7, 1942"),
     },
     {
         name: "Battle of Midway",
-        position: [],
+        position: [-177.397658,28.217971],
         date: new Date("June 4, 1942"),
     },
     {
         name: "Battle of the Komandorski Islands",
-        position: [],
+        position: [165.983333,55.2],
         date: new Date("March 26, 1943"),
     },
     {
         name: "Destruction of Truk",
-        position: [],
+        position: [151.740095,7.420763],
         date: new Date("February 17, 1944"),
     },
     {
         name: "Battle of the Phillipine Sea",
-        position: [],
+        position: [139.516257,13.226300],
         date: new Date("June 19, 1944"),
     },
     {
         name: "Sinking of Yamato",
-        position: [],
+        position: [128+4/60,30+22/60],
         date: new Date("April 7, 1945"),
     },
     {
         name: "Java Campaign",
-        position: [],
+        position: [116.368821,-5.571533],
         date: [new Date("February 4, 1942"),new Date("March 1, 1942")],
     },
     {
         name: "Guadalcanal Campaign",
-        position: [],
+        position: [160.158592,-9.354742],
         date: [new Date("August 9, 1942"),new Date("November 30, 1942")],
     },
     {
         name: "Solomons Campaign",
-        position: [],
+        position: [155.848476,-7.748545],
         date: [new Date("August 9, 1942"),new Date("November 30, 1942")],
     },
     {
-        name: "Attack on Pearl Harbor",
-        position: [],
-        date: [new Date("August 9, 1942"),new Date("November 30, 1942")],
+        name: "Leyte Campaign",
+        position: [124.226140,9.178569],
+        date: [new Date("October 23, 1944"),new Date("November 11, 1944")],
     },
 ];
 
+let mapTags = g.append('g');
+mapTags.attr('id','mapTags')
+mapTags.selectAll("*")
+    .data(battleTags)
+    .enter()
+    .append('circle')
+    .attr('cx',(d)=>{return projection(d.position)[0]})
+    .attr('cy',(d)=>{return projection(d.position)[1]})
+    .attr('r',7)
+    .style('fill','#f44268')
+    .on('mouseenter',function(d,i,nodes){
+        toolTip = document.createElementNS("http://www.w3.org/2000/svg", "text");
+        // console.log(d.event);
+        document.getElementById('mapTags').appendChild(toolTip);
+        toolTip.setAttribute("x" ,d3.event.offsetX);
+        toolTip.setAttribute("y" ,d3.event.offsetX);
+        toolTip.setAttribute("stroke" ,"black");
+        toolTip.innerHTML = d.name;
+    })
+    .on('mousemove',function(d,_,nodes){
+        toolTip.setAttribute("x" ,d3.event.offsetX+10);
+        toolTip.setAttribute("y" ,d3.event.offsetY+10);
+    })
+    .on('mouseout',function(d,_,nodes){
+        document.getElementById('mapTags').removeChild(toolTip)
+    })
 
-latestTime = new Date(1945,9,1);
-earliestTime = new Date(1941,6,1);
+latestTime = new Date(1945,8,1);
+earliestTime = new Date(1941,8,1);
 timeRange = Math.round((latestTime-earliestTime)/60/60/1000/24);
 timeSlider = document.getElementById("timeSlider");
 timeSlider.max = timeRange;
@@ -83,14 +109,56 @@ let timeScaler = d3.scaleTime()
     .domain([earliestTime,latestTime])
     .range([0, TIME_WIDTH]);
 let timeSliderAxis= d3.axisBottom(timeScaler);
+
+tickArray = [];
+for (const battle of battleTags){
+    if(battle.date.length==2){
+        let date1 = battle.date[0];
+        date1.event = battle.name+" start"
+        let date2 = battle.date[1];
+        date2.event = battle.name +" end"
+        tickArray.push(date1);
+        tickArray.push(date2);
+    }
+    else{
+        let tempDate = battle.date;
+        tempDate.event= battle.name;
+        tickArray.push(tempDate);
+    }
+}
 // timeSliderAxis
-//     .ticks(num, "2s")
-//     .tickValues(dd);
+//     .ticks(tickArray.length)
+//     .tickValues(tickArray);
 axis = d3.select("#Axis");
-axis.append("svg")
-    .call(timeSliderAxis.tickFormat(d3.timeFormat("%Y-%m")))
+axisSvg = axis.append("svg");
+axisSvg.call(timeSliderAxis.tickFormat(d3.timeFormat("%Y-%m")))
     .style('width',TIME_WIDTH)
-    .style('height',20)
+    .style('height',60)
+    .attr('id','axisSvg')
+axisSvg.selectAll(".battleTicks")
+    .data(tickArray).enter()
+    .append('path')
+    .attr('d',d3.symbol().type(d3.symbolTriangle))
+    .attr('transform',(d)=>{
+        tx = timeScaler(d);
+        return 'translate('+tx+',23),scale(0.6,2)';
+    })
+    .on('mouseenter',function(d,i,nodes){
+        toolTip = document.createElementNS("http://www.w3.org/2000/svg", "text");
+        // console.log(d.event);
+        document.getElementById('axisSvg').appendChild(toolTip);
+        toolTip.setAttribute("x" ,d3.event.offsetX);
+        toolTip.setAttribute("y" ,d3.event.offsetX);
+        toolTip.setAttribute("stroke" ,"black");
+        toolTip.innerHTML = d.event;
+    })
+    .on('mousemove',function(d,_,nodes){
+        toolTip.setAttribute("x" ,d3.event.offsetX);
+        toolTip.setAttribute("y" ,d3.event.offsetY+30);
+    })
+    .on('mouseout',function(d,_,nodes){
+        document.getElementById('axisSvg').removeChild(toolTip)
+    })
 
 d3.queue()
     .defer(d3.json,'ships.json')
