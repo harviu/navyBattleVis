@@ -64,7 +64,7 @@ let battleTags = [
     {
         name: "Solomons Campaign",
         position: [155.848476,-7.748545],
-        date: [new Date("August 9, 1942"),new Date("November 30, 1942")],
+        date: [new Date("August 23, 1942"),new Date("November 26, 1943")],
     },
     {
         name: "Leyte Campaign",
