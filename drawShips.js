@@ -1,6 +1,75 @@
-const TIME_WIDTH=1400;
+const TIME_WIDTH=1200;
 let bbsvg,casvg,cvsvg,data;
 let geo=[];
+let battleTags = [
+    {
+        name: "Attack on Pearl Harbor",
+        position: [],
+        date: new Date("December 7, 1941"),
+    },
+    {
+        name: "Sinking of the Prince of Wales and Repulse",
+        position: [],
+        date: new Date("December 10, 1941"),
+    },
+    {
+        name: "Raids into the Indian Ocean",
+        position: [],
+        date: new Date("March 31, 1942"),
+    },
+    {
+        name: "Battle of the Coral Sea",
+        position: [],
+        date: new Date("May 7, 1942"),
+    },
+    {
+        name: "Battle of Midway",
+        position: [],
+        date: new Date("June 4, 1942"),
+    },
+    {
+        name: "Battle of the Komandorski Islands",
+        position: [],
+        date: new Date("March 26, 1943"),
+    },
+    {
+        name: "Destruction of Truk",
+        position: [],
+        date: new Date("February 17, 1944"),
+    },
+    {
+        name: "Battle of the Phillipine Sea",
+        position: [],
+        date: new Date("June 19, 1944"),
+    },
+    {
+        name: "Sinking of Yamato",
+        position: [],
+        date: new Date("April 7, 1945"),
+    },
+    {
+        name: "Java Campaign",
+        position: [],
+        date: [new Date("February 4, 1942"),new Date("March 1, 1942")],
+    },
+    {
+        name: "Guadalcanal Campaign",
+        position: [],
+        date: [new Date("August 9, 1942"),new Date("November 30, 1942")],
+    },
+    {
+        name: "Solomons Campaign",
+        position: [],
+        date: [new Date("August 9, 1942"),new Date("November 30, 1942")],
+    },
+    {
+        name: "Attack on Pearl Harbor",
+        position: [],
+        date: [new Date("August 9, 1942"),new Date("November 30, 1942")],
+    },
+];
+
+
 latestTime = new Date(1945,9,1);
 earliestTime = new Date(1941,6,1);
 timeRange = Math.round((latestTime-earliestTime)/60/60/1000/24);
@@ -14,6 +83,9 @@ let timeScaler = d3.scaleTime()
     .domain([earliestTime,latestTime])
     .range([0, TIME_WIDTH]);
 let timeSliderAxis= d3.axisBottom(timeScaler);
+// timeSliderAxis
+//     .ticks(num, "2s")
+//     .tickValues(dd);
 axis = d3.select("#Axis");
 axis.append("svg")
     .call(timeSliderAxis.tickFormat(d3.timeFormat("%Y-%m")))
@@ -36,6 +108,7 @@ function draw(){
      .y(function(d) { return d[1]; })
 
     let resGeo = [];
+
 
     for (const ship of data){
         coordinates =[];
@@ -100,19 +173,8 @@ function draw(){
         })
         .style("stroke-width", "0.3px")
         .style("fill", "none")
-        .style("opacity", "0.4")
+        .style("opacity", "0.2")
     
-    // bbNode = document.importNode(bbsvg.documentElement,true).lastElementChild;
-    // cvNode = document.importNode(cvsvg.documentElement,true).lastElementChild;
-    // caNode = document.importNode(casvg.documentElement,true).lastElementChild.astElementChild;
-
-    // bbNode.id = 'bbsvg';
-    // caNode.id ='casvg';
-    // cvNode.id = 'cvsvg';
-    // caNode.lastElementChild.classList.add('svgFile');
-    // bbNode.classList.add('svgFile');
-    // cvNode.classList.add('svgFile');
-
     drawIcon();
 }
 
@@ -171,8 +233,10 @@ function drawIcon(){
                 
                 node.id='path'+i;
                 node.classList.add('svgFile');
-                this.appendChild(node);
-
+                for(const index of checkbox_list){
+                    if(i==index)    this.appendChild(node);
+                }
+                
                 //coordinate to translate back to (0,0)
                 bbox = node.getBBox();
                 let xxx = -bbox.x-bbox.width/2;
@@ -208,4 +272,36 @@ function setTime(time){
     currentTime = new Date(earliestTime.getTime() + time * 60*60*1000*24);
     d3.selectAll(".svgFile").remove();
     drawIcon();
+}
+
+let start;
+let step=0.5;
+let autoButton = document.getElementById('autoButton');
+let ani;
+autoButton.addEventListener('click',()=>{
+    if (autoButton.innerHTML=="Auto"){
+        autoButton.innerHTML = " >> ";
+        advance();
+    }else if (step<3){
+        step *=2;
+        // console.log(step);
+    }else if(autoButton.innerHTML != "Stop"){
+        step *=2;
+        autoButton.innerHTML = "Stop";
+    }else{
+        window.cancelAnimationFrame(ani);
+        autoButton.innerHTML="Auto"
+    }
+},false);
+function advance(){
+    let timestamp = Date.now();
+    if (!start) start = timestamp;
+    var progress = timestamp - start;
+    if (progress > 50) {
+        start = timestamp;
+        timeSlider.value=parseInt(timeSlider.value)+step;
+        setTime(timeSlider.value);
+      }
+    if (timeSlider.value<timeRange)
+        ani = window.requestAnimationFrame(advance);
 }
