@@ -87,7 +87,7 @@ mapTags.selectAll("*")
     .attr('cx',(d)=>{return projection(d.position)[0]})
     .attr('cy',(d)=>{return projection(d.position)[1]})
     .attr('r',10)
-    .style('fill','#f8ffbf')
+    .style('fill','#ffcc42')
     .on('mouseenter',function(d,i,nodes){
         toolTip = document.createElementNS("http://www.w3.org/2000/svg", "text");
         // console.log(d.event);
