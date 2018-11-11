@@ -64,7 +64,7 @@ def main():
                 info['events'].append(event)
         ships.append(info)
 
-    with open('ships.json', 'w',encoding='utf-8') as f:
+    with open('ships_new.json', 'w',encoding='utf-8') as f:
         json.dump(ships, f,ensure_ascii=False)
 
     

@@ -76,6 +76,12 @@ path {
 #timeSlider{
     width: 1200px;
 }
+.line{
+    stroke: blue;
+    stroke-width: 0.3px;
+    fill: none;
+    opacity: 0.4;
+}
 </style>
 </head>
 <body>
@@ -162,8 +168,8 @@ function showCheckboxes_CRU() {
 }
 
 var projection = d3.geoMercator()
-    .center([0, 25 ])
-    .scale(250)
+    .center([30, 14])
+    .scale(200)
     .rotate([-180,0]);
 
 var path = d3.geoPath()

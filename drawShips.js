@@ -16,44 +16,114 @@ axis.append("svg")
     .style('width',1200)
     .style('height',20)
 
+d3.queue()
+    .defer(d3.json,'ships.json')
+    .defer(d3.xml,"BB.svg")
+    .defer(d3.xml,"CV.svg")
+    .defer(d3.xml,"CA.svg")
+    .await(draw);
 
-mapSvg = d3.select("#Map").select('svg');
 
-d3.json("ships.json", function(error, data) {
+
+function draw(error, data,bbsvg,cvsvg,casvg) {
+    
+    
+    var link = d3.line()
+     .x(function(d) {return d[0]; })
+     .y(function(d) { return d[1]; })
+
     let geo=[];
-    for (ship of data){
+
+    for (const ship of data){
         coordinates =[];
         
-        for (event of ship.events){
+        for (const event of ship.events){
+            
             let coord = event.geometry.split(',');
             co =[];
             co[0] = parseFloat(coord[1]);
             co[1] = parseFloat(coord[0]);
-            coordinates.push(co);
+
+            co =projection(co);
+            if (co[0]>800 || co[0]<0) continue;
+
+            co.date = new Date(event.date);
+            if (co.date<earliestTime || co.date>latestTime) continue;
+
+            co.description = event.description;
+
+            let pushed =false;
+            for (let i in coordinates){
+                if(co.date<=coordinates[i].date){
+                    coordinates.splice(i,0,co);
+                    pushed =true;
+                    break;
+                }
+            }
+            if (! pushed)
+                coordinates.push(co);
         }
         geo.push(coordinates);
     }
     console.log(geo);
-    
-    let shipsGroup = mapSvg.append('g');
 
-    for (let i in geo){
-        let ship = shipsGroup.append("g");
-        ship.selectAll("*")
-            .data(geo[i]).enter().append("circle")
-            .attr("cx", function (d) {
-                // if (projection(d)[0]==NaN){
-                    console.log(d);
-                    
-                // }
-                return projection(d)[0]; 
-            })
-            .attr("cy", function (d) { return projection(d)[1]; })
-            .attr("r", "2px")
-            .attr("fill", "red")
-    }
+    let shipsGroup = g.append('g');
+    shipsGroup.selectAll("*")
+        .data(geo).enter()
+        .append("path")
+        .attr("class", "line")
+        .attr("d", link);
     
-});
+    // bbNode = document.importNode(bbsvg.documentElement,true).lastElementChild;
+    // cvNode = document.importNode(cvsvg.documentElement,true).lastElementChild;
+    // caNode = document.importNode(casvg.documentElement,true).lastElementChild.astElementChild;
+
+    // bbNode.id = 'bbsvg';
+    // caNode.id ='casvg';
+    // cvNode.id = 'cvsvg';
+    // caNode.lastElementChild.classList.add('svgFile');
+    // bbNode.classList.add('svgFile');
+    // cvNode.classList.add('svgFile');
+
+    let shipsIcon = g.append('g');
+    shipsIcon.selectAll("*")
+        .data(geo).enter()
+        .each(function(d,i){
+            let x,y;
+            if(d.length!=0){
+                
+                if(currentTime<=d[0].date){
+                    x = d[0][0];
+                    y = d[0][1];
+                }
+                else if (currentTime>=d[d.length-1].date){
+                    x = d[d.length-1][0];
+                    y = d[d.length-1][1];
+                }else{
+                    for(let j in d){
+                        if( currentTime>d[j].date && currentTime<d[j+1].date){
+                            x = d[j][0];
+                            y = d[j][1];
+                            break;
+                        }
+                    }
+                }
+                // if(isNaN(x)) console.log(d)
+                bbNode = document.importNode(bbsvg.documentElement,true).lastElementChild;
+                bbNode.id='path'+i;
+                bbNode.classList.add('svgFile');
+                this.appendChild(bbNode);
+                bbox = bbNode.getBBox();
+                let xxx = -bbox.x-bbox.width/2;
+                let yyy = -bbox.y-bbox.height/2;
+
+                    
+                d3.select('#path'+i)
+                    .style('fill','bisque')
+                    .attr("transform", "translate("+x+","+y+"),scale(0.05),translate("+xxx+","+yyy+")");
+            }
+        })
+}
 
 function setTime(time){
     currentTime = new Date(earliestTime.getTime() + time * 60*60*1000*24);
