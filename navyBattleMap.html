@@ -81,6 +81,7 @@ table {
 td, th {
         padding: 1px 4px;
         border: 1px black solid;
+        font-size: 0.9em;
 			}
 th {
 			  background-color: #54278f;
@@ -109,8 +110,8 @@ tr:nth-child(even) {background-color: #cbc9e2;}
 </div>
 <div class="ShipOptions" width="1500" height="100">
     <div class="BattleSelect">
-        <button id="checkAllBtn_BS" class="button_BS" onclick="selectAllBattleships()">CheckAll</button>
-        <button id="uncheckAllBtn_BS" class="button_BS" onclick="unselectAllBattleships()">UncheckAll</button>
+        <button id="checkAllBtn_BS" class="button_BS" onclick="selectAllBattleships()">Select All</button>
+        <button id="uncheckAllBtn_BS" class="button_BS" onclick="unselectAllBattleships()">Unselect All</button>
         <div class="selectBox_BS" onclick="showCheckboxes_BS()">
             <select>
                 <option>Select any Battle Ships</option>
@@ -121,8 +122,8 @@ tr:nth-child(even) {background-color: #cbc9e2;}
         </div>
     </div>
     <div class="CarrierSelect" style="margin-left: 40px;">
-        <button id="checkAllBtn_CAR" class="button_CAR" onclick="selectAllCarriers()">CheckAll</button>
-        <button id="uncheckAllBtn_CAR" class="button_CAR" onclick="unselectAllCarriers()">UncheckAll</button>
+        <button id="checkAllBtn_CAR" class="button_CAR" onclick="selectAllCarriers()">Select All</button>
+        <button id="uncheckAllBtn_CAR" class="button_CAR" onclick="unselectAllCarriers()">Unselect All</button>
         <div class="selectBox_CAR" onclick="showCheckboxes_CAR()">
             <select>
                 <option>Select any Carriers</option>
@@ -133,8 +134,8 @@ tr:nth-child(even) {background-color: #cbc9e2;}
         </div>
     </div>
     <div class="CruiserSelect" style="margin-left: 40px;">
-        <button id="checkAllBtn_CRU" class="button_CRU" onclick="selectAllCruisers()">CheckAll</button>
-        <button id="uncheckAllBtn_CRU" class="button_CRU" onclick="unselectAllCruisers()">UncheckAll</button>
+        <button id="checkAllBtn_CRU" class="button_CRU" onclick="selectAllCruisers()">Select All</button>
+        <button id="uncheckAllBtn_CRU" class="button_CRU" onclick="unselectAllCruisers()">Unselect All</button>
         <div class="selectBox_CRU" onclick="showCheckboxes_CRU()">
             <select>
                 <option>Select any Cruisers</option>
@@ -149,11 +150,12 @@ tr:nth-child(even) {background-color: #cbc9e2;}
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="http://d3js.org/topojson.v0.min.js"></script>
 <script>
-
+/*---------------------------------d3 code for ship selection and ship info visualization---------------------*/
 width = 800;
 height = 500;
 
 var checkbox_list=[];
+var json_data=[];
 
 for(var i=0; i<199; i++)
    checkbox_list.push(i);
@@ -161,6 +163,7 @@ for(var i=0; i<199; i++)
 var expanded = false;
 var initial = false;
 
+/*---------------------------------Event handler for checkboxes of Battle Ships---------------------*/
 function showCheckboxes_BS() {
   var checkboxes = document.getElementById("checkboxes_BS");
   if (!expanded) {
@@ -175,6 +178,7 @@ function showCheckboxes_BS() {
   initial=true;
 }
 
+/*---------------------------------Event handler for checkboxes of Carriers---------------------*/
 function showCheckboxes_CAR() {
   var checkboxes = document.getElementById("checkboxes_CAR");
   if (!expanded) {
@@ -189,6 +193,7 @@ function showCheckboxes_CAR() {
   initial=true;
 }
 
+/*---------------------------------Event handler for checkboxes of Cruisers---------------------*/
 function showCheckboxes_CRU() {
   var checkboxes = document.getElementById("checkboxes_CRU");
   if (!expanded) {
@@ -203,6 +208,7 @@ function showCheckboxes_CRU() {
   initial=true;
 }
 
+/*--------------------------------Drawing the Map of Pacific Theatre with Zoom in an Zoom out features-----------------*/
 var projection = d3.geoMercator()
     .center([30, 14])
     .scale(200)
@@ -238,6 +244,7 @@ function zoomed() {
   g.attr("transform", d3.event.transform);
 }
 
+/*---------------------------------Event handlers for select all and unselect all buttons related to Battleships---------------------*/
 function selectAllBattleships(){
   for(var i=72; i<111; i++){
      if(checkbox_list.indexOf(i)==-1)
@@ -250,7 +257,10 @@ function selectAllBattleships(){
             continue;
         inputElements[i].checked = true;
     }
-}
+    tabulate_view(json_data);
+    d3.selectAll(".svgFile").remove();
+    drawIcon();
+     }
 
 function unselectAllBattleships(){
   for(var i=72; i<111; i++){
@@ -265,8 +275,12 @@ function unselectAllBattleships(){
             continue;
         inputElements[i].checked = false;
     }
+    tabulate_view(json_data);
+    d3.selectAll(".svgFile").remove();
+    drawIcon();
 }
 
+/*---------------------------------Event handlers for select all and unselect all buttons related to Carriers---------------------*/
 function selectAllCarriers(){
   for(var i=0; i<72; i++){
      if(checkbox_list.indexOf(i)==-1)
@@ -279,6 +293,9 @@ function selectAllCarriers(){
             continue;
         inputElements[i].checked = true;
     }
+    tabulate_view(json_data);
+    d3.selectAll(".svgFile").remove();
+    drawIcon();
 }
 
 function unselectAllCarriers(){
@@ -294,8 +311,12 @@ function unselectAllCarriers(){
             continue;
         inputElements[i].checked = false;
     }
+    tabulate_view(json_data);
+    d3.selectAll(".svgFile").remove();
+    drawIcon();
 }
 
+/*---------------------------------Event handlers for select all and unselect all buttons related to Cruisers---------------------*/
 function selectAllCruisers(){
   for(var i=111; i<199; i++){
      if(checkbox_list.indexOf(i)==-1)
@@ -308,6 +329,9 @@ function selectAllCruisers(){
             continue;
         inputElements[i].checked = true;
     }
+    tabulate_view(json_data);
+    d3.selectAll(".svgFile").remove();
+    drawIcon();
 }
 
 function unselectAllCruisers(){
@@ -323,11 +347,17 @@ function unselectAllCruisers(){
             continue;
         inputElements[i].checked = false;
     }
+    tabulate_view(json_data);
+    d3.selectAll(".svgFile").remove();
+    drawIcon();
 }
 
+/*---------------------------------Load the JSON file containing the ship information---------------------*/
 d3.json("ships.json",shipsData);
 
 function shipsData(error, data){
+
+/*---------------Create Three different arrays for storing information related to three ship classes-----------*/
  battleships = []
  data.forEach(function(d,i){if(d["Ship Class"].search("Battleship") != -1 || d["Ship Class"].search("Large Cruiser") != -1)
                            battleships.push({ key: i, value: d.name});});
@@ -338,6 +368,7 @@ function shipsData(error, data){
  data.forEach(function(d,i){if(d["Ship Class"].search("Cruiser") != -1 && d["Ship Class"].search("Large Cruiser") == -1)
                            cruisers.push({ key: i, value: d.name})});
 
+/*---------------Create data driven checkboxes related to Battle Ships-----------*/
  var selector_bs = d3.select("#checkboxes_BS")
                      .selectAll("label")
                      .data(battleships)
@@ -352,11 +383,12 @@ function shipsData(error, data){
                                               var idx = checkbox_list.indexOf(d.key);
                                               if(idx!==-1) checkbox_list.splice(idx,1);
                                             }
-                                            tabulate_view();
+                                            tabulate_view(data);
                                             d3.selectAll(".svgFile").remove();
                                             drawIcon();
                                               });
 
+/*---------------Create data driven checkboxes related to Carriers-----------*/
  var selector_car = d3.select("#checkboxes_CAR")
                      .selectAll("label")
                      .data(carriers)
@@ -371,11 +403,12 @@ function shipsData(error, data){
                                               var idx = checkbox_list.indexOf(d.key);
                                               if(idx!==-1) checkbox_list.splice(idx,1);
                                             }
-                                            tabulate_view();
+                                            tabulate_view(data);
                                             d3.selectAll(".svgFile").remove();
                                             drawIcon();
                                               });
 
+/*---------------Create data driven checkboxes related to Cruisers-----------*/
  var selector_cru = d3.select("#checkboxes_CRU")
                      .selectAll("label")
                      .data(cruisers)
@@ -390,17 +423,28 @@ function shipsData(error, data){
                                               var idx = checkbox_list.indexOf(d.key);
                                               if(idx!==-1) checkbox_list.splice(idx,1);
                                             }
-                                            tabulate_view();
+                                            tabulate_view(data);
                                             d3.selectAll(".svgFile").remove();
                                             drawIcon();
                                               });
 
- function tabulate_view(){
-  tabulate(["Name", "Country", "Class", "Length", "Speed"], data);
- }
+/*---------------Display the user selected ship information in tabular format-----------*/
+  json_data = data.slice();
+  tabulate_view(json_data);
+}
 
- function tabulate(columnNames, data) {
-           ship_info = []
+/*---------------Display the Ship Information Table if at least one checkbox selected-----------*/
+function tabulate_view(data){
+   if (checkbox_list.length > 0)
+      tabulate(["Name", "Country", "Class", "Length", "Speed"], data);
+   else 
+      d3.select('.ShipInfo').selectAll("*").remove();
+   }
+
+/*---------------Display the user selected last 25 ship information in a tabular format-----------*/
+   function tabulate(columnNames, data) {
+           var ship_info = [];
+           var records_to_display = 25;
            data.forEach(function(d,i){
                        for(var j=0; j<checkbox_list.length; j++){
                          if(checkbox_list[j]==i){
@@ -408,6 +452,7 @@ function shipsData(error, data){
                          }
                        }
                     });
+          var table_info = ship_info.slice(ship_info.length-records_to_display);
           d3.select('.ShipInfo').selectAll("*").remove();
 					var table = d3.select('.ShipInfo').append('table')
                         .style("border-collapse", "collapse");
@@ -424,7 +469,7 @@ function shipsData(error, data){
 					  });
 
 					var rows = tbody.selectAll('tr')
-					  .data(ship_info)
+					  .data(table_info)
 					  .enter()
 					  .append('tr');
 
@@ -445,8 +490,6 @@ function shipsData(error, data){
 
 				  return table;
 				}
-
-}
 
 </script>
 <script src ="drawShips.js"></script>
