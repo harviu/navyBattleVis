@@ -1,4 +1,4 @@
-const TIME_WIDTH=1200;
+const TIME_WIDTH=1300;
 let selectedBattle=-1;
 let bbsvg,casvg,cvsvg,data;
 let geo=[];
