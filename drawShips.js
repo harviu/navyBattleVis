@@ -2,6 +2,9 @@ const TIME_WIDTH=1200;
 let selectedBattle=-1;
 let bbsvg,casvg,cvsvg,data;
 let geo=[];
+let legend = svg.append('g')
+.attr('id','legend')
+let legendDoc = document.getElementById('legend');
 let battleTags = [
     {
         name: "Attack on Pearl Harbor",
@@ -69,6 +72,7 @@ let battleTags = [
         date: [new Date("October 23, 1944"),new Date("November 11, 1944")],
     },
 ];
+
 
 
 
@@ -258,7 +262,112 @@ function draw(){
         .style("fill", "none")
         .style("opacity", "0.2")
     
+        
+    //add legend
+
+    let legendData = [
+        [0,1],[1,1],[0,2],[1,2],[0,3],[1,3]
+    ]
+
+    legend.selectAll("*")
+        .data(legendData)
+        .enter()
+        .each(function(d,i,nodes){
+            
+            let base = 410;
+            let step = 15;
+            let y=base + step*i;
+                
+            if(d[1]==1) {
+                node = document.importNode(cvsvg.documentElement,true).lastElementChild;
+                scaleFactor = 0.035;
+                if (d[0]==0) iconColor = 'indianred'
+                else iconColor = 'dodgerblue'
+            }else if(d[1]==2){
+                node = document.importNode(bbsvg.documentElement,true).lastElementChild;
+                scaleFactor = 0.07;
+                if (d[0]==0) iconColor = 'firebrick'
+                else iconColor = 'darkblue'
+            }else if(d[1]==3){
+                node = document.importNode(casvg.documentElement,true).lastElementChild;
+                // console.log(node);
+                scaleFactor = -0.005;
+                if (d[0]==0) iconColor = 'salmon'
+                else iconColor = 'lightskyblue'
+            }
+            
+            // node.id='path'+i;
+            // node.classList.add('svgFile');    
+            this.appendChild(node);
+            
+            //coordinate to translate back to (0,0)
+            bbox = node.getBBox();
+            let xxx = -bbox.x-bbox.width/2;
+            let yyy = -bbox.y-bbox.height/2;
+
+            node.setAttribute("transform", "translate(30,"+y+"),scale("+scaleFactor+"),translate("+xxx+","+yyy+")");
+            node.setAttribute("style",'fill:'+iconColor)
+            for (const ch of node.children){
+                ch.setAttribute("style",'fill:'+iconColor);
+            }
+        })
+        .append('text')
+        .attr('x',(d)=>{
+
+            return 70;
+        })
+        .attr('y',(d,i)=>{
+            let base = 413;
+            let step = 15;
+            let y=base + step*i;
+            return y;
+        })
+        .text((d)=>{
+            let country;
+            let type;
+            if(d[1]==1) {
+                type = "Carrier";
+            }else if(d[1]==2){
+                type = "Battleship";
+            }else if(d[1]==3){
+                type = "Cruiser";
+            }
+            
+            if (d[0]==0) country = "Japan";
+            else country = "USA";
+            return country+" "+type; })
+        .style('font-size','9px')
+        .attr("alignment-baseline","middle")
+
+    
+    
+    // let l = document.importNode(cvsvg.documentElement,true).lastElementChild;
+    // oneLegend(l,0.035,'indianred',base)
+    // l = document.importNode(cvsvg.documentElement,true).lastElementChild;
+    // oneLegend(l,0.035,'dodgerblue',base+step*1)
+    // l = document.importNode(bbsvg.documentElement,true).lastElementChild;
+    // oneLegend(l,0.07,'firebrick',base+step*2)
+    // l = document.importNode(bbsvg.documentElement,true).lastElementChild;
+    // oneLegend(l,0.07,'darkblue',base+step*3)
+    // l = document.importNode(casvg.documentElement,true).lastElementChild;
+    // oneLegend(l,-0.005,'salmon',base+step*4)
+    // l = document.importNode(casvg.documentElement,true).lastElementChild;
+    // oneLegend(l,-0.005,'lightskyblue',base+step*5)
+
     drawIcon();
+}
+
+
+function oneLegend(l,scaleFactor,color,y){
+    legendDoc.appendChild(l);
+    bbox = l.getBBox();
+    let xxx = -bbox.x-bbox.width/2;
+    let yyy = -bbox.y-bbox.height/2;
+    l.setAttribute("transform", "translate(30,"+y+"),scale("+scaleFactor+"),translate("+xxx+","+yyy+")");
+    l.setAttribute("style",'fill:'+color)
+    for (const ch of l.children){
+        ch.setAttribute("style",'fill:'+color);
+    }
 }
 
 function drawIcon(){
@@ -401,7 +510,7 @@ function selectionUpdate(){
         if (i==selectedBattle){
             return '#f44268';
         }else{
-            return '#f8ffbf';
+            return '#ffcc42';
         }
     })
 
